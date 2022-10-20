@@ -1976,3 +1976,9 @@ Would you like to open the Output Log to see more details?
 [2022.10.20-01.09.04:396][ 39]LogContentValidation: Display: Validating Blueprint /Game/Assets/AI/NPC/FindRandomLocation.FindRandomLocation
 [2022.10.20-01.09.04:396][ 39]LogContentValidation: Display: Validating BehaviorTree /Game/Assets/AI/NPC/NPC_BT.NPC_BT
 [2022.10.20-01.10.07:976][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2022.10.20-01.12.20:484][ 36]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.10.20-01.12.20:554][ 36]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.20-01.12.31:117][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/AI/NPC/NPC_BB" FILE="../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/AI/NPC/NPC_BB.uasset" SILENT=true
+[2022.10.20-01.12.31:118][282]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/NPC_BB7E89DBB8422F9041F10695A5E3894A0C.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/AI/NPC/NPC_BB.uasset'
+[2022.10.20-01.12.31:137][282]AssetCheck: New page: Asset Save: NPC_BB
+[2022.10.20-01.12.31:137][282]LogContentValidation: Display: Validating BlackboardData /Game/Assets/AI/NPC/NPC_BB.NPC_BB
