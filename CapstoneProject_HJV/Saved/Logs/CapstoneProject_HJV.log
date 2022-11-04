@@ -1106,3 +1106,506 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.10.25-19.00.57:016][755]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
 [2022.10.25-19.01.07:692][524]LogSlate: Window 'Project Settings' being destroyed
 [2022.10.25-19.01.07:697][524]LogSlate: Window 'Project Settings' being destroyed
+[2022.10.25-19.09.24:575][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.10.25-19.09.24:578][119]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/AI_Test' took 0.045
+[2022.10.25-19.09.24:580][119]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Inventory/Inventory_UI/InventorySlot] ([2] browsable assets)...
+[2022.10.25-19.09.24:580][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Inventory/Inventory_UI/InventorySlot]
+[2022.10.25-19.09.24:585][119]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/InventorySlot_Auto263BC6BB942533213BB9742B0FA01EE12.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/Autosaves/Game/Assets/Inventory/Inventory_UI/InventorySlot_Auto2.uasset'
+[2022.10.25-19.09.24:587][119]LogFileHelpers: Auto-saving content packages took 0.009
+[2022.10.26-01.47.41:903][791]LogAudioMixer: Resetting audio stream to device id 
+[2022.10.26-01.47.42:311][791]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.26-01.47.42:311][791]LogAudioMixer: Display: 1: FrontRight
+[2022.10.26-01.49.03:290][810]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.10.26-01.49.03:748][810]LogAudioMixer: Resetting audio stream to device id 
+[2022.10.26-01.49.05:004][810]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.26-01.49.05:004][810]LogAudioMixer: Display: 1: FrontRight
+[2022.10.26-01.49.05:125][811]LogAudioMixer: Resetting audio stream to device id 
+[2022.10.26-01.49.06:604][811]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.26-01.49.06:604][811]LogAudioMixer: Display: 1: FrontRight
+[2022.10.26-01.49.06:625][812]LogHttp: Warning: 000001C34B606B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBAA4CB08-45C5-A1CE-511E-678938366313%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=dffbe9a149879994bdd344b8457e9942%7C044152d583a444fbb8b43b9a22a4efa2%7C7a74643f-52b7-4df9-b1d9-f8ae896744e9&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.26-01.49.06:930][812]LogHttp: Warning: 000001C34B606B00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.10.26-01.49.06:930][812]LogHttp: Warning: 000001C34B606B00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1c2d7697eb0 [can pipeline])
+[2022.10.26-01.49.06:930][812]LogHttp: Warning: 000001C34B606B00: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2022.10.26-01.49.06:930][812]LogHttp: Warning: 000001C34B606B00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.205.14.231) port 443 (#0))
+[2022.10.26-01.49.06:930][812]LogHttp: Warning: 000001C34B606B00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.10.26-01.49.06:930][812]LogHttp: Warning: 000001C34B606B00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.10.26-01.49.06:930][812]LogHttp: Warning: 000001C34B606B00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.10.26-01.49.06:930][812]LogHttp: Warning: 000001C34B606B00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.10.26-01.49.06:930][812]LogHttp: Warning: 000001C34B606B00: libcurl info message cache 7 (Closing connection 0)
+[2022.10.26-01.49.07:287][812]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBAA4CB08-45C5-A1CE-511E-678938366313%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=dffbe9a149879994bdd344b8457e9942%7C044152d583a444fbb8b43b9a22a4efa2%7C7a74643f-52b7-4df9-b1d9-f8ae896744e9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.10.26-01.49.07:294][812]LogAudioMixer: Resetting audio stream to device id 
+[2022.10.26-01.49.07:630][812]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.26-01.49.07:631][812]LogAudioMixer: Display: 1: FrontRight
+[2022.10.27-01.59.18:679][293]LogAudioMixer: Resetting audio stream to device id 
+[2022.10.27-01.59.18:689][293]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.27-01.59.18:689][293]LogAudioMixer: Display: 1: FrontRight
+[2022.10.27-01.59.25:687][314]LogAudioMixer: Resetting audio stream to device id 
+[2022.10.27-01.59.25:700][314]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.27-01.59.25:701][314]LogAudioMixer: Display: 1: FrontRight
+[2022.10.27-02.00.41:723][315]LogAudioMixer: Resetting audio stream to device id 
+[2022.10.27-02.00.41:735][315]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.27-02.00.41:736][315]LogAudioMixer: Display: 1: FrontRight
+[2022.10.27-02.00.42:004][317]LogHttp: Warning: 000001C3459FDD00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBAA4CB08-45C5-A1CE-511E-678938366313%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=dffbe9a149879994bdd344b8457e9942%7C044152d583a444fbb8b43b9a22a4efa2%7C7a74643f-52b7-4df9-b1d9-f8ae896744e9&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.27-02.00.42:004][317]LogHttp: Warning: 000001C3459FDD00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.10.27-02.00.42:004][317]LogHttp: Warning: 000001C3459FDD00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1c2d7695d80 [can pipeline])
+[2022.10.27-02.00.42:004][317]LogHttp: Warning: 000001C3459FDD00: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2022.10.27-02.00.42:004][317]LogHttp: Warning: 000001C3459FDD00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.231.77.84) port 443 (#1))
+[2022.10.27-02.00.42:004][317]LogHttp: Warning: 000001C3459FDD00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.10.27-02.00.42:004][317]LogHttp: Warning: 000001C3459FDD00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.10.27-02.00.42:004][317]LogHttp: Warning: 000001C3459FDD00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.10.27-02.00.42:004][317]LogHttp: Warning: 000001C3459FDD00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.10.27-02.00.42:004][317]LogHttp: Warning: 000001C3459FDD00: libcurl info message cache 7 (Closing connection 1)
+[2022.10.27-02.00.42:336][318]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBAA4CB08-45C5-A1CE-511E-678938366313%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=dffbe9a149879994bdd344b8457e9942%7C044152d583a444fbb8b43b9a22a4efa2%7C7a74643f-52b7-4df9-b1d9-f8ae896744e9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.10.27-19.18.39:659][351]LogHttp: Warning: 000001C3459FDD00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBAA4CB08-45C5-A1CE-511E-678938366313%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=dffbe9a149879994bdd344b8457e9942%7C044152d583a444fbb8b43b9a22a4efa2%7C7a74643f-52b7-4df9-b1d9-f8ae896744e9&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.27-19.18.39:659][351]LogHttp: Warning: 000001C3459FDD00: request failed, libcurl error: 0 (No error)
+[2022.10.27-19.18.39:659][351]LogHttp: Warning: 000001C3459FDD00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1c2d7696830 [can pipeline])
+[2022.10.27-19.18.39:659][351]LogHttp: Warning: 000001C3459FDD00: libcurl info message cache 1 (Re-using existing connection! (#2) with host datarouter.ol.epicgames.com)
+[2022.10.27-19.18.39:659][351]LogHttp: Warning: 000001C3459FDD00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (23.20.213.4) port 443 (#2))
+[2022.10.27-19.18.39:659][351]LogHttp: Warning: 000001C3459FDD00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.10.27-19.18.39:659][351]LogHttp: Warning: 000001C3459FDD00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2022.10.27-19.18.39:659][351]LogHttp: Warning: 000001C3459FDD00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.10.27-19.18.39:659][351]LogHttp: Warning: 000001C3459FDD00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.10.27-19.18.39:659][351]LogHttp: Warning: 000001C3459FDD00: libcurl info message cache 7 (Closing connection 2)
+[2022.10.27-19.18.39:659][351]LogHttp: Warning: 000001C3459FDD00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.10.27-19.18.39:997][352]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBAA4CB08-45C5-A1CE-511E-678938366313%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=dffbe9a149879994bdd344b8457e9942%7C044152d583a444fbb8b43b9a22a4efa2%7C7a74643f-52b7-4df9-b1d9-f8ae896744e9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.10.28-02.34.35:560][605]LogAudioMixer: Resetting audio stream to device id 
+[2022.10.28-02.34.35:573][605]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.28-02.34.35:573][605]LogAudioMixer: Display: 1: FrontRight
+[2022.10.28-02.34.41:245][622]LogAudioMixer: Resetting audio stream to device id 
+[2022.10.28-02.34.41:262][622]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.28-02.34.41:262][622]LogAudioMixer: Display: 1: FrontRight
+[2022.10.28-02.35.37:636][623]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.10.28-02.35.37:711][623]LogAudioMixer: Resetting audio stream to device id 
+[2022.10.28-02.35.41:427][623]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.28-02.35.41:427][623]LogAudioMixer: Display: 1: FrontRight
+[2022.10.28-02.35.41:474][624]LogAudioMixer: Resetting audio stream to device id 
+[2022.10.28-02.35.41:484][624]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.28-02.35.41:484][624]LogAudioMixer: Display: 1: FrontRight
+[2022.10.29-08.25.57:343][588]LogAudioMixer: Resetting audio stream to device id 
+[2022.10.29-08.25.57:352][588]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.29-08.25.57:352][588]LogAudioMixer: Display: 1: FrontRight
+[2022.10.29-08.26.03:719][607]LogAudioMixer: Resetting audio stream to device id 
+[2022.10.29-08.26.03:730][607]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.29-08.26.03:730][607]LogAudioMixer: Display: 1: FrontRight
+[2022.10.29-08.27.15:984][608]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.10.29-08.27.18:136][608]LogAudioMixer: Resetting audio stream to device id 
+[2022.10.29-08.27.19:078][608]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.29-08.27.19:078][608]LogAudioMixer: Display: 1: FrontRight
+[2022.10.29-08.27.19:439][611]LogHttp: Warning: 000001C3459FDD00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBAA4CB08-45C5-A1CE-511E-678938366313%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=dffbe9a149879994bdd344b8457e9942%7C044152d583a444fbb8b43b9a22a4efa2%7C7a74643f-52b7-4df9-b1d9-f8ae896744e9&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.29-08.27.19:440][611]LogHttp: Warning: 000001C3459FDD00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.10.29-08.27.19:440][611]LogHttp: Warning: 000001C3459FDD00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1c2d7696500 [can pipeline])
+[2022.10.29-08.27.19:440][611]LogHttp: Warning: 000001C3459FDD00: libcurl info message cache 1 (Re-using existing connection! (#4) with host datarouter.ol.epicgames.com)
+[2022.10.29-08.27.19:440][611]LogHttp: Warning: 000001C3459FDD00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.198.140.219) port 443 (#4))
+[2022.10.29-08.27.19:440][611]LogHttp: Warning: 000001C3459FDD00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.10.29-08.27.19:440][611]LogHttp: Warning: 000001C3459FDD00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.10.29-08.27.19:440][611]LogHttp: Warning: 000001C3459FDD00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.10.29-08.27.19:440][611]LogHttp: Warning: 000001C3459FDD00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.10.29-08.27.19:440][611]LogHttp: Warning: 000001C3459FDD00: libcurl info message cache 7 (Closing connection 4)
+[2022.10.29-08.27.19:778][612]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBAA4CB08-45C5-A1CE-511E-678938366313%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=dffbe9a149879994bdd344b8457e9942%7C044152d583a444fbb8b43b9a22a4efa2%7C7a74643f-52b7-4df9-b1d9-f8ae896744e9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.10.29-17.41.18:640][925]LogAudioMixer: Resetting audio stream to device id 
+[2022.10.29-17.41.18:649][925]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.29-17.41.18:649][925]LogAudioMixer: Display: 1: FrontRight
+[2022.10.29-17.41.23:999][941]LogAudioMixer: Resetting audio stream to device id 
+[2022.10.29-17.41.24:009][941]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.29-17.41.24:009][941]LogAudioMixer: Display: 1: FrontRight
+[2022.10.30-03.16.50:052][944]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.10.30-03.16.50:758][944]LogAudioMixer: Resetting audio stream to device id 
+[2022.10.30-03.16.50:771][944]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.30-03.16.50:771][944]LogAudioMixer: Display: 1: FrontRight
+[2022.10.30-03.16.52:407][950]LogHttp: Warning: 000001C3459FF900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBAA4CB08-45C5-A1CE-511E-678938366313%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=dffbe9a149879994bdd344b8457e9942%7C044152d583a444fbb8b43b9a22a4efa2%7C7a74643f-52b7-4df9-b1d9-f8ae896744e9&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.30-03.16.52:407][950]LogHttp: Warning: 000001C3459FF900: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.10.30-03.16.52:407][950]LogHttp: Warning: 000001C3459FF900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1c2d7697310 [can pipeline])
+[2022.10.30-03.16.52:407][950]LogHttp: Warning: 000001C3459FF900: libcurl info message cache 1 (Re-using existing connection! (#5) with host datarouter.ol.epicgames.com)
+[2022.10.30-03.16.52:407][950]LogHttp: Warning: 000001C3459FF900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.192.202.247) port 443 (#5))
+[2022.10.30-03.16.52:407][950]LogHttp: Warning: 000001C3459FF900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.10.30-03.16.52:407][950]LogHttp: Warning: 000001C3459FF900: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.10.30-03.16.52:407][950]LogHttp: Warning: 000001C3459FF900: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.10.30-03.16.52:407][950]LogHttp: Warning: 000001C3459FF900: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.10.30-03.16.52:407][950]LogHttp: Warning: 000001C3459FF900: libcurl info message cache 7 (Closing connection 5)
+[2022.10.30-03.16.52:408][950]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBAA4CB08-45C5-A1CE-511E-678938366313%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=dffbe9a149879994bdd344b8457e9942%7C044152d583a444fbb8b43b9a22a4efa2%7C7a74643f-52b7-4df9-b1d9-f8ae896744e9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.10.30-08.28.49:080][625]LogAudioMixer: Resetting audio stream to device id 
+[2022.10.30-08.28.49:337][625]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.30-08.28.49:337][625]LogAudioMixer: Display: 1: FrontRight
+[2022.10.30-08.28.58:473][653]LogAudioMixer: Resetting audio stream to device id 
+[2022.10.30-08.28.58:484][653]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.30-08.28.58:484][653]LogAudioMixer: Display: 1: FrontRight
+[2022.10.30-08.30.23:022][655]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.10.30-08.30.23:809][655]LogAudioMixer: Resetting audio stream to device id 
+[2022.10.30-08.30.23:830][655]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.30-08.30.23:830][655]LogAudioMixer: Display: 1: FrontRight
+[2022.10.30-08.30.25:540][662]LogHttp: Warning: 000001C3459FF900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBAA4CB08-45C5-A1CE-511E-678938366313%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=dffbe9a149879994bdd344b8457e9942%7C044152d583a444fbb8b43b9a22a4efa2%7C7a74643f-52b7-4df9-b1d9-f8ae896744e9&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.30-08.30.25:540][662]LogHttp: Warning: 000001C3459FF900: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.10.30-08.30.25:540][662]LogHttp: Warning: 000001C3459FF900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1c2d7696740 [can pipeline])
+[2022.10.30-08.30.25:540][662]LogHttp: Warning: 000001C3459FF900: libcurl info message cache 1 (Re-using existing connection! (#6) with host datarouter.ol.epicgames.com)
+[2022.10.30-08.30.25:540][662]LogHttp: Warning: 000001C3459FF900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.173.131.87) port 443 (#6))
+[2022.10.30-08.30.25:541][662]LogHttp: Warning: 000001C3459FF900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.10.30-08.30.25:541][662]LogHttp: Warning: 000001C3459FF900: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.10.30-08.30.25:541][662]LogHttp: Warning: 000001C3459FF900: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.10.30-08.30.25:541][662]LogHttp: Warning: 000001C3459FF900: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.10.30-08.30.25:541][662]LogHttp: Warning: 000001C3459FF900: libcurl info message cache 7 (Closing connection 6)
+[2022.10.30-08.30.25:541][662]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBAA4CB08-45C5-A1CE-511E-678938366313%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=dffbe9a149879994bdd344b8457e9942%7C044152d583a444fbb8b43b9a22a4efa2%7C7a74643f-52b7-4df9-b1d9-f8ae896744e9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.10.31-06.52.47:717][888]LogAudioMixer: Resetting audio stream to device id 
+[2022.10.31-06.52.48:519][888]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.31-06.52.48:519][888]LogAudioMixer: Display: 1: FrontRight
+[2022.10.31-06.52.48:845][889]LogAudioMixer: Resetting audio stream to device id 
+[2022.10.31-06.52.48:920][889]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.31-06.52.48:920][889]LogAudioMixer: Display: 1: FrontRight
+[2022.10.31-06.54.10:965][927]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.10.31-06.54.13:313][927]LogAudioMixer: Resetting audio stream to device id 
+[2022.10.31-06.54.13:537][927]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.31-06.54.13:537][927]LogAudioMixer: Display: 1: FrontRight
+[2022.10.31-06.54.16:573][928]LogAudioMixer: Resetting audio stream to device id 
+[2022.10.31-06.54.16:581][928]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.31-06.54.16:581][928]LogAudioMixer: Display: 1: FrontRight
+[2022.11.01-02.20.04:912][531]LogAudioMixer: Resetting audio stream to device id 
+[2022.11.01-02.20.04:923][531]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.01-02.20.04:923][531]LogAudioMixer: Display: 1: FrontRight
+[2022.11.01-02.20.10:934][549]LogAudioMixer: Resetting audio stream to device id 
+[2022.11.01-02.20.10:996][549]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.01-02.20.10:996][549]LogAudioMixer: Display: 1: FrontRight
+[2022.11.01-02.21.20:605][550]LogAudioMixer: Resetting audio stream to device id 
+[2022.11.01-02.21.20:630][550]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.01-02.21.20:630][550]LogAudioMixer: Display: 1: FrontRight
+[2022.11.01-02.21.21:961][553]LogHttp: Warning: 000001C34B3A6400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBAA4CB08-45C5-A1CE-511E-678938366313%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=dffbe9a149879994bdd344b8457e9942%7C044152d583a444fbb8b43b9a22a4efa2%7C7a74643f-52b7-4df9-b1d9-f8ae896744e9&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.01-02.21.23:055][553]LogHttp: Warning: 000001C34B3A6400: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.11.01-02.21.23:220][553]LogHttp: Warning: 000001C34B3A6400: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1c2d7696d70 [can pipeline])
+[2022.11.01-02.21.23:220][553]LogHttp: Warning: 000001C34B3A6400: libcurl info message cache 1 (Re-using existing connection! (#8) with host datarouter.ol.epicgames.com)
+[2022.11.01-02.21.23:220][553]LogHttp: Warning: 000001C34B3A6400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.20.182.226) port 443 (#8))
+[2022.11.01-02.21.23:220][553]LogHttp: Warning: 000001C34B3A6400: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.11.01-02.21.23:220][553]LogHttp: Warning: 000001C34B3A6400: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.11.01-02.21.23:220][553]LogHttp: Warning: 000001C34B3A6400: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.11.01-02.21.23:220][553]LogHttp: Warning: 000001C34B3A6400: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.11.01-02.21.23:220][553]LogHttp: Warning: 000001C34B3A6400: libcurl info message cache 7 (Closing connection 8)
+[2022.11.01-02.21.23:397][554]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBAA4CB08-45C5-A1CE-511E-678938366313%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=dffbe9a149879994bdd344b8457e9942%7C044152d583a444fbb8b43b9a22a4efa2%7C7a74643f-52b7-4df9-b1d9-f8ae896744e9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.02-03.58.25:857][130]LogAudioMixer: Resetting audio stream to device id 
+[2022.11.02-03.58.25:866][130]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.02-03.58.25:866][130]LogAudioMixer: Display: 1: FrontRight
+[2022.11.02-03.58.31:886][148]LogAudioMixer: Resetting audio stream to device id 
+[2022.11.02-03.58.31:903][148]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.02-03.58.31:903][148]LogAudioMixer: Display: 1: FrontRight
+[2022.11.02-15.50.01:029][151]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.11.02-15.50.03:320][151]LogAudioMixer: Resetting audio stream to device id 
+[2022.11.02-15.50.03:328][151]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.02-15.50.03:328][151]LogAudioMixer: Display: 1: FrontRight
+[2022.11.02-15.50.03:672][153]LogHttp: Warning: 000001C34B3A6400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBAA4CB08-45C5-A1CE-511E-678938366313%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=dffbe9a149879994bdd344b8457e9942%7C044152d583a444fbb8b43b9a22a4efa2%7C7a74643f-52b7-4df9-b1d9-f8ae896744e9&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.02-15.50.03:674][153]LogHttp: Warning: 000001C34B3A6400: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.11.02-15.50.03:674][153]LogHttp: Warning: 000001C34B3A6400: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1c2d7696a70 [can pipeline])
+[2022.11.02-15.50.03:674][153]LogHttp: Warning: 000001C34B3A6400: libcurl info message cache 1 (Re-using existing connection! (#9) with host datarouter.ol.epicgames.com)
+[2022.11.02-15.50.03:674][153]LogHttp: Warning: 000001C34B3A6400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.204.164.104) port 443 (#9))
+[2022.11.02-15.50.03:674][153]LogHttp: Warning: 000001C34B3A6400: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.11.02-15.50.03:674][153]LogHttp: Warning: 000001C34B3A6400: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.11.02-15.50.03:674][153]LogHttp: Warning: 000001C34B3A6400: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.11.02-15.50.03:674][153]LogHttp: Warning: 000001C34B3A6400: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.11.02-15.50.03:674][153]LogHttp: Warning: 000001C34B3A6400: libcurl info message cache 7 (Closing connection 9)
+[2022.11.02-15.50.03:968][154]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBAA4CB08-45C5-A1CE-511E-678938366313%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=dffbe9a149879994bdd344b8457e9942%7C044152d583a444fbb8b43b9a22a4efa2%7C7a74643f-52b7-4df9-b1d9-f8ae896744e9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.03-01.22.19:442][896]LogAudioMixer: Resetting audio stream to device id 
+[2022.11.03-01.22.19:459][896]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.03-01.22.19:459][896]LogAudioMixer: Display: 1: FrontRight
+[2022.11.03-01.23.55:014][919]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.11.03-01.23.55:668][919]LogAudioMixer: Resetting audio stream to device id 
+[2022.11.03-01.23.57:528][919]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.03-01.23.57:528][919]LogAudioMixer: Display: 1: FrontRight
+[2022.11.03-01.23.57:583][920]LogAudioMixer: Resetting audio stream to device id 
+[2022.11.03-01.23.57:593][920]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.03-01.23.57:593][920]LogAudioMixer: Display: 1: FrontRight
+[2022.11.03-01.23.57:912][922]LogHttp: Warning: 000001C34B3A6400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBAA4CB08-45C5-A1CE-511E-678938366313%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=dffbe9a149879994bdd344b8457e9942%7C044152d583a444fbb8b43b9a22a4efa2%7C7a74643f-52b7-4df9-b1d9-f8ae896744e9&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.03-01.23.57:913][922]LogHttp: Warning: 000001C34B3A6400: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.11.03-01.23.57:913][922]LogHttp: Warning: 000001C34B3A6400: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1c2d7696650 [can pipeline])
+[2022.11.03-01.23.57:913][922]LogHttp: Warning: 000001C34B3A6400: libcurl info message cache 1 (Re-using existing connection! (#10) with host datarouter.ol.epicgames.com)
+[2022.11.03-01.23.57:913][922]LogHttp: Warning: 000001C34B3A6400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.233.248.142) port 443 (#10))
+[2022.11.03-01.23.57:913][922]LogHttp: Warning: 000001C34B3A6400: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.11.03-01.23.57:913][922]LogHttp: Warning: 000001C34B3A6400: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.11.03-01.23.57:913][922]LogHttp: Warning: 000001C34B3A6400: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.11.03-01.23.57:913][922]LogHttp: Warning: 000001C34B3A6400: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.11.03-01.23.57:913][922]LogHttp: Warning: 000001C34B3A6400: libcurl info message cache 7 (Closing connection 10)
+[2022.11.03-01.23.57:913][922]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBAA4CB08-45C5-A1CE-511E-678938366313%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=dffbe9a149879994bdd344b8457e9942%7C044152d583a444fbb8b43b9a22a4efa2%7C7a74643f-52b7-4df9-b1d9-f8ae896744e9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.04-00.42.35:080][510]LogUObjectHash: Compacting FUObjectHashTables data took  88.28ms
+[2022.11.04-00.42.46:563][510]LogSlate: Window 'Save Content' being destroyed
+[2022.11.04-00.42.47:863][510]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/InventorySlot4C425B8F4C6F1C2E0A54C1A6EC696AF4.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/Inventory/Inventory_UI/InventorySlot.uasset'
+[2022.11.04-00.42.48:480][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.11.04-00.42.48:563][510]LogUObjectHash: Compacting FUObjectHashTables data took  28.86ms
+[2022.11.04-00.42.48:606][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.11.04-00.42.50:865][510]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-00.42.50:931][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-00.42.52:812][510]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-00.42.52:812][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-00.42.53:112][510]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.04-00.42.53:112][510]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-00.42.53:112][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-00.42.53:627][510]LogSlate: Window 'CapstoneProject_HJV - Unreal Editor' being destroyed
+[2022.11.04-00.42.59:871][510]AssetCheck: New page: Asset Save: InventorySlot
+[2022.11.04-00.42.59:879][510]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/Inventory/Inventory_UI/InventorySlot.InventorySlot
+[2022.11.04-00.43.00:580][511]Cmd: QUIT_EDITOR
+[2022.11.04-00.43.00:580][511]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.11.04-00.43.00:823][511]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.11.04-00.43.01:401][511]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.11.04-00.43.01:409][511]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.11.04-00.43.01:409][511]LogAudio: Display: Audio Device unregistered from world 'AI_Test'.
+[2022.11.04-00.43.01:559][511]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.04-00.43.01:705][511]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.04-00.43.01:784][511]LogAudio: Display: Audio Device Manager Shutdown
+[2022.11.04-00.43.01:809][511]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.11.04-00.43.02:090][511]LogExit: Preparing to exit.
+[2022.11.04-00.43.03:306][511]LogUObjectHash: Compacting FUObjectHashTables data took   5.67ms
+[2022.11.04-00.43.05:449][511]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.04-00.43.05:449][511]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.04-00.43.05:449][511]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.04-00.43.05:449][511]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.04-00.43.05:449][511]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.04-00.43.05:449][511]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.04-00.43.05:449][511]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.04-00.43.05:449][511]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-00.43.05:450][511]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.04-00.43.05:450][511]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.04-00.43.05:450][511]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.04-00.43.05:450][511]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.04-00.43.05:450][511]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.04-00.43.05:450][511]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.04-00.43.05:450][511]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.04-00.43.05:450][511]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-00.43.05:451][511]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.04-00.43.05:451][511]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.04-00.43.05:451][511]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.04-00.43.05:451][511]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.04-00.43.05:451][511]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.04-00.43.05:451][511]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.04-00.43.05:451][511]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.04-00.43.05:451][511]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-00.43.05:451][511]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.04-00.43.05:451][511]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.04-00.43.05:451][511]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.04-00.43.05:451][511]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.04-00.43.05:451][511]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.04-00.43.05:451][511]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.04-00.43.05:451][511]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.04-00.43.05:451][511]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-00.43.05:473][511]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-00.43.05:474][511]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.04-00.43.05:474][511]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.04-00.43.05:474][511]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.04-00.43.05:474][511]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.04-00.43.05:474][511]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.04-00.43.05:474][511]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.04-00.43.05:474][511]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.04-00.43.05:474][511]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-00.43.07:065][511]LogExit: Editor shut down
+[2022.11.04-00.43.07:079][511]LogExit: Transaction tracking system shut down
+[2022.11.04-00.43.07:119][511]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.11.04-00.43.11:065][511]LogExit: Object subsystem successfully closed.
+[2022.11.04-00.43.11:147][511]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.04-00.43.11:147][511]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.11.04-00.43.11:147][511]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.11.04-00.43.11:196][511]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1228.80 MB (1.20 GB) budget. Usage: 0.00%
+[2022.11.04-00.43.11:196][511]LogShaderCompilers: Display: ================================================
+[2022.11.04-00.43.11:646][511]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.11.04-00.43.17:056][511]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (876)
+[2022.11.04-00.43.17:062][511]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (874)
+[2022.11.04-00.43.17:073][511]LogModuleManager: Shutting down and abandoning module BlueprintGraph (872)
+[2022.11.04-00.43.17:073][511]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (870)
+[2022.11.04-00.43.17:073][511]LogModuleManager: Shutting down and abandoning module SceneOutliner (868)
+[2022.11.04-00.43.17:079][511]LogModuleManager: Shutting down and abandoning module AddContentDialog (866)
+[2022.11.04-00.43.17:103][511]LogModuleManager: Shutting down and abandoning module WidgetCarousel (865)
+[2022.11.04-00.43.17:103][511]LogModuleManager: Shutting down and abandoning module EditorWidgets (862)
+[2022.11.04-00.43.17:103][511]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2022.11.04-00.43.17:122][511]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2022.11.04-00.43.17:131][511]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2022.11.04-00.43.17:131][511]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2022.11.04-00.43.17:148][511]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2022.11.04-00.43.17:148][511]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2022.11.04-00.43.17:148][511]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (848)
+[2022.11.04-00.43.17:285][511]LogModuleManager: Shutting down and abandoning module TakeRecorder (847)
+[2022.11.04-00.43.17:330][511]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (844)
+[2022.11.04-00.43.17:345][511]LogModuleManager: Shutting down and abandoning module TakesCore (842)
+[2022.11.04-00.43.17:355][511]LogModuleManager: Shutting down and abandoning module OpenXRInput (840)
+[2022.11.04-00.43.17:363][511]LogModuleManager: Shutting down and abandoning module GooglePADEditor (838)
+[2022.11.04-00.43.17:363][511]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (836)
+[2022.11.04-00.43.17:363][511]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (834)
+[2022.11.04-00.43.17:396][511]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (832)
+[2022.11.04-00.43.17:422][511]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (830)
+[2022.11.04-00.43.17:439][511]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (828)
+[2022.11.04-00.43.17:450][511]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (826)
+[2022.11.04-00.43.17:450][511]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (824)
+[2022.11.04-00.43.17:450][511]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (822)
+[2022.11.04-00.43.17:450][511]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (820)
+[2022.11.04-00.43.17:450][511]LogModuleManager: Shutting down and abandoning module WebMMedia (818)
+[2022.11.04-00.43.17:480][511]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (816)
+[2022.11.04-00.43.17:494][511]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (814)
+[2022.11.04-00.43.17:514][511]LogModuleManager: Shutting down and abandoning module SequenceRecorder (813)
+[2022.11.04-00.43.17:514][511]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (810)
+[2022.11.04-00.43.17:514][511]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (808)
+[2022.11.04-00.43.17:514][511]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (806)
+[2022.11.04-00.43.17:514][511]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (804)
+[2022.11.04-00.43.17:514][511]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (802)
+[2022.11.04-00.43.17:514][511]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (800)
+[2022.11.04-00.43.17:514][511]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (798)
+[2022.11.04-00.43.17:514][511]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (796)
+[2022.11.04-00.43.17:514][511]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (794)
+[2022.11.04-00.43.17:514][511]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (792)
+[2022.11.04-00.43.17:514][511]LogModuleManager: Shutting down and abandoning module PlanarCut (790)
+[2022.11.04-00.43.17:520][511]LogModuleManager: Shutting down and abandoning module CharacterAI (788)
+[2022.11.04-00.43.17:520][511]LogModuleManager: Shutting down and abandoning module TextureAlignMode (786)
+[2022.11.04-00.43.17:520][511]LogModuleManager: Shutting down and abandoning module BspMode (784)
+[2022.11.04-00.43.17:521][511]LogModuleManager: Shutting down and abandoning module GeometryMode (782)
+[2022.11.04-00.43.17:521][511]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (780)
+[2022.11.04-00.43.17:522][511]LogModuleManager: Shutting down and abandoning module SmartSnapping (778)
+[2022.11.04-00.43.17:522][511]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2022.11.04-00.43.17:522][511]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2022.11.04-00.43.17:534][511]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2022.11.04-00.43.17:534][511]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2022.11.04-00.43.17:538][511]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2022.11.04-00.43.17:559][511]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2022.11.04-00.43.17:559][511]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2022.11.04-00.43.17:559][511]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2022.11.04-00.43.17:559][511]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2022.11.04-00.43.17:559][511]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2022.11.04-00.43.17:559][511]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2022.11.04-00.43.17:559][511]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2022.11.04-00.43.17:599][511]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2022.11.04-00.43.17:600][511]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2022.11.04-00.43.17:614][511]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2022.11.04-00.43.17:632][511]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2022.11.04-00.43.17:636][511]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2022.11.04-00.43.17:636][511]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2022.11.04-00.43.17:652][511]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2022.11.04-00.43.17:653][511]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
+[2022.11.04-00.43.18:336][511]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (736)
+[2022.11.04-00.43.18:336][511]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (734)
+[2022.11.04-00.43.18:336][511]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (732)
+[2022.11.04-00.43.18:336][511]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (730)
+[2022.11.04-00.43.18:336][511]LogModuleManager: Shutting down and abandoning module TraceInsights (728)
+[2022.11.04-00.43.18:611][511]MemoryProfiler: Shutdown
+[2022.11.04-00.43.18:611][511]NetworkingProfiler: Shutdown
+[2022.11.04-00.43.18:611][511]LoadingProfiler: Shutdown
+[2022.11.04-00.43.18:611][511]TimingProfiler: Shutdown
+[2022.11.04-00.43.18:660][511]LogModuleManager: Shutting down and abandoning module TraceServices (727)
+[2022.11.04-00.43.18:727][511]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (724)
+[2022.11.04-00.43.18:727][511]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (722)
+[2022.11.04-00.43.18:765][511]LogModuleManager: Shutting down and abandoning module InputBindingEditor (720)
+[2022.11.04-00.43.18:820][511]LogModuleManager: Shutting down and abandoning module MergeActors (718)
+[2022.11.04-00.43.18:879][511]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (716)
+[2022.11.04-00.43.18:927][511]LogModuleManager: Shutting down and abandoning module LocalizationService (715)
+[2022.11.04-00.43.18:947][511]LogModuleManager: Shutting down and abandoning module HardwareTargeting (712)
+[2022.11.04-00.43.18:948][511]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (710)
+[2022.11.04-00.43.18:953][511]LogModuleManager: Shutting down and abandoning module UndoHistory (708)
+[2022.11.04-00.43.18:965][511]LogModuleManager: Shutting down and abandoning module XmlParser (706)
+[2022.11.04-00.43.18:980][511]LogModuleManager: Shutting down and abandoning module Blutility (704)
+[2022.11.04-00.43.18:980][511]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (702)
+[2022.11.04-00.43.18:997][511]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (701)
+[2022.11.04-00.43.19:007][511]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (698)
+[2022.11.04-00.43.19:007][511]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (697)
+[2022.11.04-00.43.19:007][511]LogModuleManager: Shutting down and abandoning module SettingsEditor (694)
+[2022.11.04-00.43.19:022][511]LogModuleManager: Shutting down and abandoning module ProjectLauncher (692)
+[2022.11.04-00.43.19:060][511]LogModuleManager: Shutting down and abandoning module SessionFrontend (690)
+[2022.11.04-00.43.19:070][511]LogModuleManager: Shutting down and abandoning module ProfilerClient (688)
+[2022.11.04-00.43.19:081][511]LogModuleManager: Shutting down and abandoning module DeviceManager (686)
+[2022.11.04-00.43.19:086][511]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (685)
+[2022.11.04-00.43.19:129][511]LogModuleManager: Shutting down and abandoning module AutomationController (682)
+[2022.11.04-00.43.19:163][511]LogModuleManager: Shutting down and abandoning module AutomationWindow (680)
+[2022.11.04-00.43.19:170][511]LogModuleManager: Shutting down and abandoning module Layers (678)
+[2022.11.04-00.43.19:178][511]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (676)
+[2022.11.04-00.43.19:184][511]LogModuleManager: Shutting down and abandoning module DetailCustomizations (674)
+[2022.11.04-00.43.19:193][511]LogModuleManager: Shutting down and abandoning module PackagesDialog (672)
+[2022.11.04-00.43.19:193][511]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (670)
+[2022.11.04-00.43.19:220][511]LogModuleManager: Shutting down and abandoning module Persona (668)
+[2022.11.04-00.43.19:238][511]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (667)
+[2022.11.04-00.43.19:239][511]LogModuleManager: Shutting down and abandoning module AnimGraph (665)
+[2022.11.04-00.43.19:244][511]LogModuleManager: Shutting down and abandoning module Kismet (662)
+[2022.11.04-00.43.19:280][511]LogModuleManager: Shutting down and abandoning module KismetWidgets (661)
+[2022.11.04-00.43.19:280][511]LogModuleManager: Shutting down and abandoning module GraphEditor (658)
+[2022.11.04-00.43.19:356][511]LogModuleManager: Shutting down and abandoning module StructViewer (656)
+[2022.11.04-00.43.19:362][511]LogModuleManager: Shutting down and abandoning module ClassViewer (654)
+[2022.11.04-00.43.19:369][511]LogModuleManager: Shutting down and abandoning module Toolbox (652)
+[2022.11.04-00.43.19:379][511]LogModuleManager: Shutting down and abandoning module ModuleUI (650)
+[2022.11.04-00.43.19:384][511]LogModuleManager: Shutting down and abandoning module OutputLog (648)
+[2022.11.04-00.43.19:399][511]LogModuleManager: Shutting down and abandoning module GammaUI (646)
+[2022.11.04-00.43.19:409][511]LogModuleManager: Shutting down and abandoning module Documentation (644)
+[2022.11.04-00.43.19:411][511]LogModuleManager: Shutting down and abandoning module LiveCoding (642)
+[2022.11.04-00.43.19:439][511]LogModuleManager: Shutting down and abandoning module LevelSequence (640)
+[2022.11.04-00.43.19:439][511]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (638)
+[2022.11.04-00.43.19:450][511]LogModuleManager: Shutting down and abandoning module MovieScene (636)
+[2022.11.04-00.43.19:467][511]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (634)
+[2022.11.04-00.43.19:471][511]LogModuleManager: Shutting down and abandoning module LauncherPlatform (632)
+[2022.11.04-00.43.19:471][511]LogModuleManager: Shutting down and abandoning module AnalyticsET (630)
+[2022.11.04-00.43.19:471][511]LogModuleManager: Shutting down and abandoning module PortalServices (628)
+[2022.11.04-00.43.19:471][511]LogModuleManager: Shutting down and abandoning module PortalRpc (626)
+[2022.11.04-00.43.19:471][511]LogModuleManager: Shutting down and abandoning module MessagingRpc (624)
+[2022.11.04-00.43.19:471][511]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (622)
+[2022.11.04-00.43.19:471][511]LogModuleManager: Shutting down and abandoning module AudioMixerCore (621)
+[2022.11.04-00.43.19:471][511]LogModuleManager: Shutting down and abandoning module AIModule (618)
+[2022.11.04-00.43.19:509][511]LogModuleManager: Shutting down and abandoning module GameplayDebugger (617)
+[2022.11.04-00.43.19:510][511]LogModuleManager: Shutting down and abandoning module AITestSuite (615)
+[2022.11.04-00.43.19:514][511]LogModuleManager: Shutting down and abandoning module NavigationSystem (613)
+[2022.11.04-00.43.19:514][511]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (610)
+[2022.11.04-00.43.19:540][511]LogModuleManager: Shutting down and abandoning module ProfilerService (608)
+[2022.11.04-00.43.19:749][511]LogModuleManager: Shutting down and abandoning module TaskGraph (606)
+[2022.11.04-00.43.19:762][511]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (604)
+[2022.11.04-00.43.19:762][511]LogModuleManager: Shutting down and abandoning module OculusEditor (602)
+[2022.11.04-00.43.19:818][511]LogModuleManager: Shutting down and abandoning module OculusInput (600)
+[2022.11.04-00.43.19:818][511]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (598)
+[2022.11.04-00.43.19:818][511]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (596)
+[2022.11.04-00.43.19:818][511]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (594)
+[2022.11.04-00.43.19:818][511]LogModuleManager: Shutting down and abandoning module CollectionManager (593)
+[2022.11.04-00.43.19:826][511]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (590)
+[2022.11.04-00.43.19:826][511]LogModuleManager: Shutting down and abandoning module TakeSequencer (588)
+[2022.11.04-00.43.19:826][511]LogModuleManager: Shutting down and abandoning module TakeMovieScene (586)
+[2022.11.04-00.43.19:826][511]LogModuleManager: Shutting down and abandoning module ScreenshotTools (584)
+[2022.11.04-00.43.19:826][511]LogModuleManager: Shutting down and abandoning module SynthesisEditor (582)
+[2022.11.04-00.43.19:826][511]LogModuleManager: Shutting down and abandoning module Synthesis (580)
+[2022.11.04-00.43.19:833][511]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (578)
+[2022.11.04-00.43.19:833][511]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (576)
+[2022.11.04-00.43.19:833][511]LogModuleManager: Shutting down and abandoning module OpenXREditor (574)
+[2022.11.04-00.43.19:841][511]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (572)
+[2022.11.04-00.43.19:841][511]LogModuleManager: Shutting down and abandoning module GooglePAD (570)
+[2022.11.04-00.43.19:841][511]LogModuleManager: Shutting down and abandoning module EditableMesh (568)
+[2022.11.04-00.43.19:848][511]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (566)
+[2022.11.04-00.43.19:848][511]LogModuleManager: Shutting down and abandoning module CableComponent (564)
+[2022.11.04-00.43.19:848][511]LogModuleManager: Shutting down and abandoning module AudioCapture (562)
+[2022.11.04-00.43.19:848][511]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (561)
+[2022.11.04-00.43.19:852][511]LogModuleManager: Shutting down and abandoning module AssetTags (558)
+[2022.11.04-00.43.19:852][511]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (556)
+[2022.11.04-00.43.19:852][511]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (554)
+[2022.11.04-00.43.19:852][511]LogModuleManager: Shutting down and abandoning module AppleImageUtils (552)
+[2022.11.04-00.43.19:852][511]LogModuleManager: Shutting down and abandoning module AndroidPermission (550)
+[2022.11.04-00.43.19:852][511]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (548)
+[2022.11.04-00.43.19:861][511]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (546)
+[2022.11.04-00.43.19:861][511]LogModuleManager: Shutting down and abandoning module TemplateSequence (544)
+[2022.11.04-00.43.19:861][511]LogModuleManager: Shutting down and abandoning module MediaCompositing (542)
+[2022.11.04-00.43.19:861][511]LogModuleManager: Shutting down and abandoning module ImgMedia (540)
+[2022.11.04-00.43.19:861][511]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (538)
+[2022.11.04-00.43.19:861][511]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (536)
+[2022.11.04-00.43.19:861][511]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (534)
+[2022.11.04-00.43.19:861][511]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (532)
+[2022.11.04-00.43.19:861][511]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (530)
+[2022.11.04-00.43.19:861][511]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (528)
+[2022.11.04-00.43.19:888][511]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (526)
+[2022.11.04-00.43.19:888][511]LogOpenImageDenoise: OIDN shutting down
+[2022.11.04-00.43.19:889][511]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (524)
+[2022.11.04-00.43.19:889][511]LogModuleManager: Shutting down and abandoning module MotoSynth (522)
+[2022.11.04-00.43.19:889][511]LogModuleManager: Shutting down and abandoning module MeshConversion (520)
+[2022.11.04-00.43.19:896][511]LogModuleManager: Shutting down and abandoning module DynamicMesh (518)
+[2022.11.04-00.43.19:912][511]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (516)
+[2022.11.04-00.43.19:930][511]LogModuleManager: Shutting down and abandoning module GeometricObjects (514)
+[2022.11.04-00.43.19:943][511]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (512)
+[2022.11.04-00.43.19:943][511]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (511)
+[2022.11.04-00.43.19:943][511]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (508)
+[2022.11.04-00.43.19:949][511]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (506)
+[2022.11.04-00.43.19:949][511]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (504)
+[2022.11.04-00.43.19:949][511]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (502)
+[2022.11.04-00.43.19:949][511]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (500)
+[2022.11.04-00.43.19:949][511]LogModuleManager: Shutting down and abandoning module FractureEditor (498)
+[2022.11.04-00.43.19:964][511]LogModuleManager: Shutting down and abandoning module ChaosNiagara (496)
+[2022.11.04-00.43.19:969][511]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (495)
+[2022.11.04-00.43.19:969][511]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (492)
+[2022.11.04-00.43.19:973][511]LogModuleManager: Shutting down and abandoning module BackChannel (490)
+[2022.11.04-00.43.19:975][511]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (488)
+[2022.11.04-00.43.19:975][511]LogModuleManager: Shutting down and abandoning module AutomationUtils (486)
+[2022.11.04-00.43.19:975][511]LogModuleManager: Shutting down and abandoning module AlembicImporter (484)
+[2022.11.04-00.43.19:975][511]LogModuleManager: Shutting down and abandoning module AlembicLibrary (483)
+[2022.11.04-00.43.19:975][511]LogModuleManager: Shutting down and abandoning module GeometryCache (482)
+[2022.11.04-00.43.19:975][511]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (481)
+[2022.11.04-00.43.19:975][511]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (476)
+[2022.11.04-00.43.19:975][511]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (474)
+[2022.11.04-00.43.19:976][511]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (472)
+[2022.11.04-00.43.19:976][511]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (470)
+[2022.11.04-00.43.19:985][511]LogModuleManager: Shutting down and abandoning module PluginBrowser (468)
+[2022.11.04-00.43.19:995][511]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (466)
