@@ -1671,3 +1671,1185 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.11.09-01.44.14:249][825]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/PlayerCharacter72BB96FD47C6C0DE0254BDB6083F5A32.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset'
 [2022.11.09-01.44.14:267][825]AssetCheck: New page: Asset Save: PlayerCharacter
 [2022.11.09-01.44.14:267][825]LogContentValidation: Display: Validating Blueprint /Game/Assets/PlayerCharacter.PlayerCharacter
+[2022.11.09-01.44.44:009][526]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2022.11.09-01.44.44:010][526]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/AI_Test' took 0.035
+[2022.11.09-01.44.44:011][526]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/PlayerCharacter] ([2] browsable assets)...
+[2022.11.09-01.44.44:011][526]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/PlayerCharacter]
+[2022.11.09-01.44.44:073][526]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/PlayerCharacter_Auto30D8329124FA249525EFB2C9B9A7BB26D.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/Autosaves/Game/Assets/PlayerCharacter_Auto3.uasset'
+[2022.11.09-01.44.44:075][526]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Inventory/Item_X] ([2] browsable assets)...
+[2022.11.09-01.44.44:104][526]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Inventory/Item_X.Item_X]
+[2022.11.09-01.44.44:104][526]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Inventory/Item_X]
+[2022.11.09-01.44.44:116][526]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/Item_X_Auto33129E44149FA24981CAE3A9511CF7E0F.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/Autosaves/Game/Assets/Inventory/Item_X_Auto3.uasset'
+[2022.11.09-01.44.44:117][526]LogFileHelpers: Auto-saving content packages took 0.107
+[2022.11.09-03.22.53:145][337]LogHttp: Warning: 00000247B4011600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B09E7EF98-4CCE-562C-870D-D188F869BF55%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=dffbe9a149879994bdd344b8457e9942%7C044152d583a444fbb8b43b9a22a4efa2%7C7a74643f-52b7-4df9-b1d9-f8ae896744e9&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.09-03.22.53:145][337]LogHttp: Warning: 00000247B4011600: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.11.09-03.22.53:146][337]LogHttp: Warning: 00000247B4011600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x24769317eb0 [can pipeline])
+[2022.11.09-03.22.53:146][337]LogHttp: Warning: 00000247B4011600: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2022.11.09-03.22.53:146][337]LogHttp: Warning: 00000247B4011600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (44.196.6.117) port 443 (#0))
+[2022.11.09-03.22.53:146][337]LogHttp: Warning: 00000247B4011600: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.11.09-03.22.53:146][337]LogHttp: Warning: 00000247B4011600: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.11.09-03.22.53:146][337]LogHttp: Warning: 00000247B4011600: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.11.09-03.22.53:146][337]LogHttp: Warning: 00000247B4011600: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.11.09-03.22.53:146][337]LogHttp: Warning: 00000247B4011600: libcurl info message cache 7 (Closing connection 0)
+[2022.11.09-03.22.53:479][338]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B09E7EF98-4CCE-562C-870D-D188F869BF55%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=dffbe9a149879994bdd344b8457e9942%7C044152d583a444fbb8b43b9a22a4efa2%7C7a74643f-52b7-4df9-b1d9-f8ae896744e9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.09-03.23.31:655][452]LogHttp: Warning: 00000247B4011600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B09E7EF98-4CCE-562C-870D-D188F869BF55%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=dffbe9a149879994bdd344b8457e9942%7C044152d583a444fbb8b43b9a22a4efa2%7C7a74643f-52b7-4df9-b1d9-f8ae896744e9&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.09-03.23.31:655][452]LogHttp: Warning: 00000247B4011600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.11.09-03.23.31:655][452]LogHttp: Warning: 00000247B4011600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.11.09-03.23.31:655][452]LogHttp: Warning: 00000247B4011600: libcurl info message cache 1 (Closing connection 1)
+[2022.11.09-03.23.31:655][452]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B09E7EF98-4CCE-562C-870D-D188F869BF55%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=dffbe9a149879994bdd344b8457e9942%7C044152d583a444fbb8b43b9a22a4efa2%7C7a74643f-52b7-4df9-b1d9-f8ae896744e9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.09-03.24.42:591][663]LogHttp: Warning: 00000247B4011600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B09E7EF98-4CCE-562C-870D-D188F869BF55%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=dffbe9a149879994bdd344b8457e9942%7C044152d583a444fbb8b43b9a22a4efa2%7C7a74643f-52b7-4df9-b1d9-f8ae896744e9&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.09-03.24.42:591][663]LogHttp: Warning: 00000247B4011600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.11.09-03.24.42:591][663]LogHttp: Warning: 00000247B4011600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.11.09-03.24.42:591][663]LogHttp: Warning: 00000247B4011600: libcurl info message cache 1 (Closing connection 2)
+[2022.11.09-03.24.42:929][664]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B09E7EF98-4CCE-562C-870D-D188F869BF55%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=dffbe9a149879994bdd344b8457e9942%7C044152d583a444fbb8b43b9a22a4efa2%7C7a74643f-52b7-4df9-b1d9-f8ae896744e9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.09-03.25.42:764][842]LogHttp: Warning: 00000247B4011600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B09E7EF98-4CCE-562C-870D-D188F869BF55%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=dffbe9a149879994bdd344b8457e9942%7C044152d583a444fbb8b43b9a22a4efa2%7C7a74643f-52b7-4df9-b1d9-f8ae896744e9&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.09-03.25.42:764][842]LogHttp: Warning: 00000247B4011600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.11.09-03.25.42:764][842]LogHttp: Warning: 00000247B4011600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.11.09-03.25.42:764][842]LogHttp: Warning: 00000247B4011600: libcurl info message cache 1 (Closing connection 3)
+[2022.11.09-03.25.42:764][842]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B09E7EF98-4CCE-562C-870D-D188F869BF55%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=dffbe9a149879994bdd344b8457e9942%7C044152d583a444fbb8b43b9a22a4efa2%7C7a74643f-52b7-4df9-b1d9-f8ae896744e9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.09-03.26.31:896][988]LogHttp: Warning: 00000247B4011600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B09E7EF98-4CCE-562C-870D-D188F869BF55%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=dffbe9a149879994bdd344b8457e9942%7C044152d583a444fbb8b43b9a22a4efa2%7C7a74643f-52b7-4df9-b1d9-f8ae896744e9&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.09-03.26.31:896][988]LogHttp: Warning: 00000247B4011600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.11.09-03.26.31:896][988]LogHttp: Warning: 00000247B4011600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.11.09-03.26.31:896][988]LogHttp: Warning: 00000247B4011600: libcurl info message cache 1 (Closing connection 4)
+[2022.11.09-03.26.31:896][988]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B09E7EF98-4CCE-562C-870D-D188F869BF55%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=dffbe9a149879994bdd344b8457e9942%7C044152d583a444fbb8b43b9a22a4efa2%7C7a74643f-52b7-4df9-b1d9-f8ae896744e9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.09-03.26.32:562][989]LogAudioMixer: Resetting audio stream to device id 
+[2022.11.09-03.26.32:571][989]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.09-03.26.32:571][989]LogAudioMixer: Display: 1: FrontRight
+[2022.11.09-03.26.37:900][  5]LogAudioMixer: Resetting audio stream to device id 
+[2022.11.09-03.26.37:921][  5]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.09-03.26.37:921][  5]LogAudioMixer: Display: 1: FrontRight
+[2022.11.09-22.54.06:398][  6]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.09-22.54.06:439][  6]LogAudioMixer: Resetting audio stream to device id 
+[2022.11.09-22.54.08:259][  6]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.11.09-22.54.08:259][  6]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.09-22.54.08:259][  6]LogAudioMixer: Display: 1: FrontRight
+[2022.11.09-22.54.09:315][  7]LogHttp: Warning: 00000247B4011600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B09E7EF98-4CCE-562C-870D-D188F869BF55%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=dffbe9a149879994bdd344b8457e9942%7C044152d583a444fbb8b43b9a22a4efa2%7C7a74643f-52b7-4df9-b1d9-f8ae896744e9&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.09-22.54.09:315][  7]LogHttp: Warning: 00000247B4011600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.11.09-22.54.09:315][  7]LogHttp: Warning: 00000247B4011600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.11.09-22.54.09:315][  7]LogHttp: Warning: 00000247B4011600: libcurl info message cache 1 (Closing connection 5)
+[2022.11.09-22.54.11:435][  7]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.09-22.54.11:435][  7]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.09-22.54.11:435][  7]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.09-22.54.12:689][  7]LogAudioMixer: Resetting audio stream to device id 
+[2022.11.09-22.54.12:702][  7]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.09-22.54.12:702][  7]LogAudioMixer: Display: 1: FrontRight
+[2022.11.09-22.54.12:724][  8]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B09E7EF98-4CCE-562C-870D-D188F869BF55%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=dffbe9a149879994bdd344b8457e9942%7C044152d583a444fbb8b43b9a22a4efa2%7C7a74643f-52b7-4df9-b1d9-f8ae896744e9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.09-22.54.13:018][  8]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.09-22.54.14:822][ 13]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.09-22.54.14:822][ 13]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.09-22.54.14:822][ 13]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.09-22.56.55:512][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PlayerCharacter" FILE="../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset" SILENT=true
+[2022.11.09-22.56.55:793][895]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/PlayerCharacter4093C5874608D44F8A2CEB84A2C43CC5.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset'
+[2022.11.09-22.56.56:556][895]AssetCheck: New page: Asset Save: PlayerCharacter
+[2022.11.09-22.56.56:556][895]LogContentValidation: Display: Validating Blueprint /Game/Assets/PlayerCharacter.PlayerCharacter
+[2022.11.09-22.57.06:957][536]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Inventory/InventoryComponent.InventoryComponent
+[2022.11.09-22.57.49:486][256]BlueprintLog: New page: Compile InventoryComponent
+[2022.11.09-22.57.55:721][256]LogUObjectHash: Compacting FUObjectHashTables data took  18.94ms
+[2022.11.09-22.57.58:992][588]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/InventoryComponent5A6A8F664AB1924F777C77867BB0E2B5.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/Inventory/InventoryComponent.uasset'
+[2022.11.09-22.57.59:007][588]AssetCheck: New page: Asset Save: InventoryComponent
+[2022.11.09-22.57.59:008][588]LogContentValidation: Display: Validating Blueprint /Game/Assets/Inventory/InventoryComponent.InventoryComponent
+[2022.11.09-22.58.06:826][291]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Assets/Inventory/Inventory_UI/InventoryWindow.InventoryWindow
+[2022.11.09-22.58.15:936][931]BlueprintLog: New page: Compile InventoryWindow
+[2022.11.09-22.58.16:152][931]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2022.11.09-22.58.16:677][975]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/InventoryWindowD8ADF7454A127F3E1F4F1682DA30BF03.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/Inventory/Inventory_UI/InventoryWindow.uasset'
+[2022.11.09-22.58.16:692][975]AssetCheck: New page: Asset Save: InventoryWindow
+[2022.11.09-22.58.16:693][975]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/Inventory/Inventory_UI/InventoryWindow.InventoryWindow
+[2022.11.09-22.59.00:376][ 90]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Assets/Inventory/Inventory_UI/InventorySlot.InventorySlot
+[2022.11.09-23.04.03:745][897]BlueprintLog: New page: Compile InventorySlot
+[2022.11.09-23.04.03:854][897]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2022.11.09-23.04.04:236][931]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/InventorySlot6830327D4B73C4A03F4B98904133C61A.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/Inventory/Inventory_UI/InventorySlot.uasset'
+[2022.11.09-23.04.04:251][931]AssetCheck: New page: Asset Save: InventorySlot
+[2022.11.09-23.04.04:251][931]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/Inventory/Inventory_UI/InventorySlot.InventorySlot
+[2022.11.09-23.04.28:944][755]BlueprintLog: New page: Compile Item
+[2022.11.09-23.04.29:019][755]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2022.11.09-23.04.30:801][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Inventory/Item" FILE="../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/Inventory/Item.uasset" SILENT=true
+[2022.11.09-23.04.30:813][866]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/ItemCBB4EACE48B082D8B733BB85B2AB67C1.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/Inventory/Item.uasset'
+[2022.11.09-23.04.30:829][866]AssetCheck: New page: Asset Save: Item
+[2022.11.09-23.04.30:829][866]LogContentValidation: Display: Validating Blueprint /Game/Assets/Inventory/Item.Item
+[2022.11.09-23.07.05:051][700]BlueprintLog: New page: Compile InventorySlot
+[2022.11.09-23.07.05:057][700]LogBlueprint: Warning: [AssetLog] C:\Users\ehowl\Desktop\DAGD 498\CapstoneProject\CapstoneProject_HJV\Content\Assets\Inventory\Inventory_UI\InventorySlot.uasset: [Compiler] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2022.11.09-23.07.05:108][700]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2022.11.09-23.07.05:848][744]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/InventorySlot2554CCF94559CAD7263D91A849BEA66A.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/Inventory/Inventory_UI/InventorySlot.uasset'
+[2022.11.09-23.07.05:893][744]AssetCheck: New page: Asset Save: InventorySlot
+[2022.11.09-23.07.05:893][744]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/Inventory/Inventory_UI/InventorySlot.InventorySlot
+[2022.11.09-23.07.18:715][239]BlueprintLog: New page: Compile InventorySlot
+[2022.11.09-23.07.18:784][239]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2022.11.09-23.07.19:208][277]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/InventorySlot44626D2F43BB20B6F25CDB930BD41B0E.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/Inventory/Inventory_UI/InventorySlot.uasset'
+[2022.11.09-23.07.19:228][277]AssetCheck: New page: Asset Save: InventorySlot
+[2022.11.09-23.07.19:228][277]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/Inventory/Inventory_UI/InventorySlot.InventorySlot
+[2022.11.09-23.08.12:195][313]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2022.11.09-23.08.12:196][313]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/AI_Test' took 0.047
+[2022.11.09-23.08.12:243][313]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Inventory/Item_X] ([2] browsable assets)...
+[2022.11.09-23.08.12:243][313]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Inventory/Item_X]
+[2022.11.09-23.08.12:273][313]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/Item_X_Auto40041D6F1420B5A2D2D3465BCEAFBF22D.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/Autosaves/Game/Assets/Inventory/Item_X_Auto4.uasset'
+[2022.11.09-23.08.12:275][313]LogFileHelpers: Auto-saving content packages took 0.080
+[2022.11.09-23.08.43:408][786]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/AI/NPC/NPC.NPC
+[2022.11.09-23.08.47:323][164]LogWorld: UWorld::CleanupWorld for World_83, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-23.08.47:323][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-23.08.50:163][390]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Assets/AI/NPC/NPC_BT.NPC_BT
+[2022.11.09-23.08.57:128][ 93]LogTemp: Repeating last play command: Standalone Game
+[2022.11.09-23.08.57:220][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.11.09-23.08.59:417][ 93]LogSlate: Window 'Save Content' being destroyed
+[2022.11.09-23.08.59:443][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Inventory/Item_X" FILE="../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/Inventory/Item_X.uasset" SILENT=true
+[2022.11.09-23.08.59:449][ 93]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/Item_XF588F0614ECA2D7279F07C8B8DEAB749.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/Inventory/Item_X.uasset'
+[2022.11.09-23.08.59:455][ 93]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/ThirdPersonGameModeD0AD671E4DED1DF462A616A3B61DCAC9.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2022.11.09-23.08.59:489][ 94]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.09-23.08.59:489][ 94]LogContentValidation: Display: Validating Blueprint /Game/Assets/Inventory/Item_X.Item_X
+[2022.11.09-23.08.59:489][ 94]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2022.11.09-23.09.14:264][453]LogTemp: Repeating last play command: Standalone Game
+[2022.11.09-23.09.14:313][453]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.11.09-23.15.16:383][202]BlueprintLog: New page: Compile InventorySlot
+[2022.11.09-23.15.16:438][202]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2022.11.09-23.15.16:976][249]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/InventorySlotF2D10E19481A8BCCBEF91D998C64DB0A.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/Inventory/Inventory_UI/InventorySlot.uasset'
+[2022.11.09-23.15.17:000][249]AssetCheck: New page: Asset Save: InventorySlot
+[2022.11.09-23.15.17:000][249]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/Inventory/Inventory_UI/InventorySlot.InventorySlot
+[2022.11.09-23.15.37:184][520]BlueprintLog: New page: Compile InventorySlot
+[2022.11.09-23.15.37:255][520]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2022.11.09-23.15.37:728][561]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/InventorySlot2BF178DC41BAF131E29E52999D3B6FF1.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/Inventory/Inventory_UI/InventorySlot.uasset'
+[2022.11.09-23.15.37:746][561]AssetCheck: New page: Asset Save: InventorySlot
+[2022.11.09-23.15.37:746][561]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/Inventory/Inventory_UI/InventorySlot.InventorySlot
+[2022.11.09-23.17.05:116][828]BlueprintLog: New page: Compile InventorySlot
+[2022.11.09-23.17.05:191][828]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2022.11.09-23.17.05:782][881]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/InventorySlotBAE1160F424AD42DDD0E4F99E1426CF9.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/Inventory/Inventory_UI/InventorySlot.uasset'
+[2022.11.09-23.17.05:808][881]AssetCheck: New page: Asset Save: InventorySlot
+[2022.11.09-23.17.05:808][881]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/Inventory/Inventory_UI/InventorySlot.InventorySlot
+[2022.11.09-23.17.17:281][217]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/InventorySlotBF12730F4FC2D32D9FAE86A18522F962.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/Inventory/Inventory_UI/InventorySlot.uasset'
+[2022.11.09-23.17.17:302][217]AssetCheck: New page: Asset Save: InventorySlot
+[2022.11.09-23.17.17:302][217]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/Inventory/Inventory_UI/InventorySlot.InventorySlot
+[2022.11.09-23.17.44:166][325]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/InventorySlot1BBFD4A34AC2608BEB76A38BE48FB197.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/Inventory/Inventory_UI/InventorySlot.uasset'
+[2022.11.09-23.17.44:184][325]AssetCheck: New page: Asset Save: InventorySlot
+[2022.11.09-23.17.44:184][325]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/Inventory/Inventory_UI/InventorySlot.InventorySlot
+[2022.11.09-23.18.43:265][989]BlueprintLog: New page: Compile InventorySlot
+[2022.11.09-23.18.43:345][989]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2022.11.09-23.18.43:784][ 26]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/InventorySlot5478213F419B286432B9AB8BFD43F9E8.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/Inventory/Inventory_UI/InventorySlot.uasset'
+[2022.11.09-23.18.43:805][ 26]AssetCheck: New page: Asset Save: InventorySlot
+[2022.11.09-23.18.43:805][ 26]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/Inventory/Inventory_UI/InventorySlot.InventorySlot
+[2022.11.09-23.20.43:313][402]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2022.11.09-23.20.43:314][402]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/AI_Test' took 0.054
+[2022.11.09-23.20.43:315][402]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Inventory/Inventory_UI/InventorySlot] ([2] browsable assets)...
+[2022.11.09-23.20.43:315][402]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Inventory/Inventory_UI/InventorySlot]
+[2022.11.09-23.20.43:356][402]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/InventorySlot_Auto58E7CDF774DE0E20407EB6DA790145CE2.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/Autosaves/Game/Assets/Inventory/Inventory_UI/InventorySlot_Auto5.uasset'
+[2022.11.09-23.20.43:358][402]LogFileHelpers: Auto-saving content packages took 0.044
+[2022.11.09-23.21.18:162][440]BlueprintLog: New page: Compile InventoryComponent
+[2022.11.09-23.21.18:262][440]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2022.11.09-23.21.18:745][479]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/InventoryComponentAAB11A304A1E3DF71553B3A07A31D565.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/Inventory/InventoryComponent.uasset'
+[2022.11.09-23.21.18:765][479]AssetCheck: New page: Asset Save: InventoryComponent
+[2022.11.09-23.21.18:766][479]LogContentValidation: Display: Validating Blueprint /Game/Assets/Inventory/InventoryComponent.InventoryComponent
+[2022.11.09-23.21.45:372][931]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/InventorySlot1B65B5114BCABD528664BC996267A758.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/Inventory/Inventory_UI/InventorySlot.uasset'
+[2022.11.09-23.21.45:388][931]AssetCheck: New page: Asset Save: InventorySlot
+[2022.11.09-23.21.45:388][931]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/Inventory/Inventory_UI/InventorySlot.InventorySlot
+[2022.11.09-23.22.27:351][716]BlueprintLog: New page: Compile PlayerCharacter
+[2022.11.09-23.22.27:485][716]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2022.11.09-23.22.27:981][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PlayerCharacter" FILE="../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset" SILENT=true
+[2022.11.09-23.22.28:046][745]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/PlayerCharacter4EE0CDEC4C58978444A2F2947A2C9BE0.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset'
+[2022.11.09-23.22.28:078][745]AssetCheck: New page: Asset Save: PlayerCharacter
+[2022.11.09-23.22.28:078][745]LogContentValidation: Display: Validating Blueprint /Game/Assets/PlayerCharacter.PlayerCharacter
+[2022.11.09-23.22.54:735][525]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2022.11.09-23.22.54:767][525]LogContentBrowser: Creating deferred item: NewInterface
+[2022.11.09-23.22.59:752][582]LogContentBrowser: Attempting asset rename: NewInterface -> NewInterface
+[2022.11.09-23.22.59:756][582]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Assets/NewInterface.
+[2022.11.09-23.22.59:891][582]LogContentBrowser: End creating deferred item NewInterface
+[2022.11.09-23.23.14:084][651]LogContentBrowser: Attempting asset rename: NewInterface -> DamagePool
+[2022.11.09-23.23.14:122][651]LogMetaData: Removing '/Game/Assets/DamagePool.SKEL_DamagePool_C' ref from Metadata '/Game/Assets/NewInterface.PackageMetaData'
+[2022.11.09-23.23.14:122][651]LogMetaData: Removing '/Game/Assets/DamagePool.DamagePool_C' ref from Metadata '/Game/Assets/NewInterface.PackageMetaData'
+[2022.11.09-23.23.14:171][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/DamagePool" FILE="../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/DamagePool.uasset" SILENT=true
+[2022.11.09-23.23.14:173][651]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/DamagePool4D057108402361628EE70EB08326D721.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/DamagePool.uasset'
+[2022.11.09-23.23.14:341][651]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2022.11.09-23.23.14:388][651]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.11.09-23.23.14:424][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.11.09-23.23.14:544][651]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Assets/DamagePool.
+[2022.11.09-23.23.14:551][651]AssetCheck: New page: Asset Save: DamagePool
+[2022.11.09-23.23.14:551][651]LogContentValidation: Display: Validating Blueprint /Game/Assets/DamagePool.DamagePool
+[2022.11.09-23.23.18:805][820]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/DamagePool.DamagePool
+[2022.11.09-23.23.24:306][457]BlueprintLog: New page: Compile DamagePool
+[2022.11.09-23.23.24:349][457]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2022.11.09-23.23.24:840][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/DamagePool" FILE="../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/DamagePool.uasset" SILENT=true
+[2022.11.09-23.23.24:842][511]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/DamagePool4C09875D479F0FCDE2B45CAC4184C824.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/DamagePool.uasset'
+[2022.11.09-23.23.24:856][511]AssetCheck: New page: Asset Save: DamagePool
+[2022.11.09-23.23.24:856][511]LogContentValidation: Display: Validating Blueprint /Game/Assets/DamagePool.DamagePool
+[2022.11.09-23.23.40:375][326]BlueprintLog: New page: Compile DamagePool
+[2022.11.09-23.23.40:418][326]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2022.11.09-23.23.40:826][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/DamagePool" FILE="../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/DamagePool.uasset" SILENT=true
+[2022.11.09-23.23.40:829][366]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/DamagePool49156A7546CF3C28062671A041D6A4FD.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/DamagePool.uasset'
+[2022.11.09-23.23.40:847][366]AssetCheck: New page: Asset Save: DamagePool
+[2022.11.09-23.23.40:847][366]LogContentValidation: Display: Validating Blueprint /Game/Assets/DamagePool.DamagePool
+[2022.11.09-23.23.48:765][185]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.11.09-23.23.48:826][185]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.09-23.23.54:703][670]BlueprintLog: New page: Compile PlayerCharacter
+[2022.11.09-23.23.54:801][670]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.11.09-23.23.55:369][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PlayerCharacter" FILE="../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset" SILENT=true
+[2022.11.09-23.23.55:433][703]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/PlayerCharacter65F738DB45922931FE52F6A297AB1B96.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset'
+[2022.11.09-23.23.55:446][703]AssetCheck: New page: Asset Save: PlayerCharacter
+[2022.11.09-23.23.55:447][703]LogContentValidation: Display: Validating Blueprint /Game/Assets/PlayerCharacter.PlayerCharacter
+[2022.11.09-23.24.39:294][510]BlueprintLog: New page: Compile PlayerCharacter
+[2022.11.09-23.24.39:411][510]LogUObjectHash: Compacting FUObjectHashTables data took  19.58ms
+[2022.11.09-23.24.40:021][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PlayerCharacter" FILE="../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset" SILENT=true
+[2022.11.09-23.24.40:086][547]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/PlayerCharacter3F4FFF134F51A44834A1879D00F2FBDC.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset'
+[2022.11.09-23.24.40:103][547]AssetCheck: New page: Asset Save: PlayerCharacter
+[2022.11.09-23.24.40:103][547]LogContentValidation: Display: Validating Blueprint /Game/Assets/PlayerCharacter.PlayerCharacter
+[2022.11.09-23.24.53:409][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PlayerCharacter" FILE="../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset" SILENT=true
+[2022.11.09-23.24.53:471][ 51]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/PlayerCharacter9644CE554F1EA5AC254B669D49E51B16.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset'
+[2022.11.09-23.24.53:486][ 51]AssetCheck: New page: Asset Save: PlayerCharacter
+[2022.11.09-23.24.53:486][ 51]LogContentValidation: Display: Validating Blueprint /Game/Assets/PlayerCharacter.PlayerCharacter
+[2022.11.09-23.24.59:475][571]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/AI/NPC/NPC.NPC
+[2022.11.09-23.25.18:179][576]BlueprintLog: New page: Compile NPC
+[2022.11.09-23.25.18:297][576]LogUObjectHash: Compacting FUObjectHashTables data took  24.17ms
+[2022.11.09-23.25.18:690][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/AI/NPC/NPC" FILE="../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/AI/NPC/NPC.uasset" SILENT=true
+[2022.11.09-23.25.18:707][609]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/NPC558625DF4A768701E29BE18728E1B393.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/AI/NPC/NPC.uasset'
+[2022.11.09-23.25.18:729][609]AssetCheck: New page: Asset Save: NPC
+[2022.11.09-23.25.18:729][609]LogContentValidation: Display: Validating Blueprint /Game/Assets/AI/NPC/NPC.NPC
+[2022.11.09-23.25.42:588][ 66]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.09-23.25.42:592][ 66]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.11.09-23.25.43:412][ 66]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.11.09-23.25.43:422][ 66]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.11.09-23.25.43:441][ 66]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.11.09-23.25.46:754][363]LogContentBrowser: Attempting asset rename: NewBlueprint -> Projectile
+[2022.11.09-23.25.46:758][363]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Assets/AI/NPC/Projectile.
+[2022.11.09-23.25.46:759][363]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.11.09-23.25.48:079][480]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/AI/NPC/Projectile.Projectile
+[2022.11.09-23.26.16:919][631]BlueprintLog: New page: Compile Projectile
+[2022.11.09-23.26.17:009][631]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2022.11.09-23.26.17:440][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/AI/NPC/Projectile" FILE="../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/AI/NPC/Projectile.uasset" SILENT=true
+[2022.11.09-23.26.17:450][666]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/ProjectileDA89919543F783B640146E9FD71D6351.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/AI/NPC/Projectile.uasset'
+[2022.11.09-23.26.17:465][666]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Assets/AI/NPC/Projectile.
+[2022.11.09-23.26.17:470][666]AssetCheck: New page: Asset Save: Projectile
+[2022.11.09-23.26.17:470][666]LogContentValidation: Display: Validating Blueprint /Game/Assets/AI/NPC/Projectile.Projectile
+[2022.11.09-23.26.41:176][320]BlueprintLog: New page: Compile Projectile
+[2022.11.09-23.26.41:188][320]LogBlueprint: Error: [AssetLog] C:\Users\ehowl\Desktop\DAGD 498\CapstoneProject\CapstoneProject_HJV\Content\Assets\AI\NPC\Projectile.uasset: [Compiler] Message node  Take Damage  must have a valid target or reference to self.
+[2022.11.09-23.26.41:264][320]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2022.11.09-23.26.41:587][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/AI/NPC/Projectile" FILE="../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/AI/NPC/Projectile.uasset" SILENT=true
+[2022.11.09-23.26.41:599][345]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/Projectile66108B8E467D9650B4202286C6E7E466.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/AI/NPC/Projectile.uasset'
+[2022.11.09-23.26.41:614][345]AssetCheck: New page: Asset Save: Projectile
+[2022.11.09-23.26.41:614][345]LogContentValidation: Display: Validating Blueprint /Game/Assets/AI/NPC/Projectile.Projectile
+[2022.11.09-23.26.45:757][790]BlueprintLog: New page: Compile Projectile
+[2022.11.09-23.26.45:826][790]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2022.11.09-23.26.46:137][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/AI/NPC/Projectile" FILE="../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/AI/NPC/Projectile.uasset" SILENT=true
+[2022.11.09-23.26.46:148][815]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/Projectile92FD03114BCF9B51FD18FAAA83D98BC0.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/AI/NPC/Projectile.uasset'
+[2022.11.09-23.26.46:165][815]AssetCheck: New page: Asset Save: Projectile
+[2022.11.09-23.26.46:165][815]LogContentValidation: Display: Validating Blueprint /Game/Assets/AI/NPC/Projectile.Projectile
+[2022.11.09-23.26.49:651][205]BlueprintLog: New page: Compile Projectile
+[2022.11.09-23.26.49:720][205]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2022.11.09-23.26.50:154][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/AI/NPC/Projectile" FILE="../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/AI/NPC/Projectile.uasset" SILENT=true
+[2022.11.09-23.26.50:166][243]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/Projectile72DFA5064F85E13D3F8C528579C6CE93.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/AI/NPC/Projectile.uasset'
+[2022.11.09-23.26.50:185][243]AssetCheck: New page: Asset Save: Projectile
+[2022.11.09-23.26.50:185][243]LogContentValidation: Display: Validating Blueprint /Game/Assets/AI/NPC/Projectile.Projectile
+[2022.11.09-23.27.58:502][572]BlueprintLog: New page: Compile MyPlayerController
+[2022.11.09-23.27.58:576][572]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2022.11.09-23.27.58:925][604]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/MyPlayerControllerE435D8D74EA31E3C0AE02FAEAA700B52.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/MyPlayerController.uasset'
+[2022.11.09-23.27.58:944][604]AssetCheck: New page: Asset Save: MyPlayerController
+[2022.11.09-23.27.58:944][604]LogContentValidation: Display: Validating Blueprint /Game/Assets/MyPlayerController.MyPlayerController
+[2022.11.09-23.29.06:084][474]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/MyGame.MyGame
+[2022.11.09-23.29.24:873][131]LogSlate: Window 'Find Results' being destroyed
+[2022.11.09-23.29.24:879][131]LogSlate: Window 'Find Results' being destroyed
+[2022.11.09-23.29.30:557][757]LogSlate: Window 'My Blueprint' being destroyed
+[2022.11.09-23.29.43:466][195]LogSlate: Window 'CapstoneProject_HJV - Unreal Editor' being destroyed
+[2022.11.09-23.29.44:584][195]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-23.29.44:586][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-23.29.44:596][195]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-23.29.44:597][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-23.29.45:414][195]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-23.29.45:414][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-23.29.45:580][195]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-23.29.45:581][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-23.29.45:711][195]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.09-23.29.45:711][195]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-23.29.45:711][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-23.29.45:935][195]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.09-23.29.45:935][195]LogWorld: UWorld::CleanupWorld for World_73, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-23.29.45:935][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-23.29.46:098][195]LogWorld: UWorld::CleanupWorld for World_74, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-23.29.46:099][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-23.29.46:168][195]LogWorld: UWorld::CleanupWorld for World_76, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-23.29.46:169][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-23.29.46:177][195]LogWorld: UWorld::CleanupWorld for World_75, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-23.29.46:178][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-23.29.46:249][195]LogWorld: UWorld::CleanupWorld for World_79, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-23.29.46:249][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-23.29.46:258][195]LogWorld: UWorld::CleanupWorld for World_78, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-23.29.46:258][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-23.29.46:331][195]LogWorld: UWorld::CleanupWorld for World_91, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-23.29.46:332][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-23.29.46:351][195]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.09-23.29.46:351][195]LogWorld: UWorld::CleanupWorld for World_92, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-23.29.46:351][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-23.29.46:405][195]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.09-23.29.46:405][195]LogWorld: UWorld::CleanupWorld for World_94, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-23.29.46:406][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-23.29.46:460][195]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.09-23.29.46:460][195]LogWorld: UWorld::CleanupWorld for World_97, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-23.29.46:460][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-23.29.46:567][195]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu
+[2022.11.09-23.29.46:567][195]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.File
+[2022.11.09-23.29.46:567][195]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Window
+[2022.11.09-23.29.46:567][195]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Edit
+[2022.11.09-23.29.46:567][195]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Help
+[2022.11.09-23.29.46:567][195]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.SourceControl
+[2022.11.09-23.29.46:567][195]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.Cinematics
+[2022.11.09-23.29.46:567][195]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.BuildComboButton
+[2022.11.09-23.29.46:567][195]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.BuildComboButton.LightingQuality
+[2022.11.09-23.29.46:567][195]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.BuildComboButton.LightingInfo.LightingDensity
+[2022.11.09-23.29.46:568][195]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.BuildComboButton.LightingInfo.LightingResolution
+[2022.11.09-23.29.46:570][195]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.BuildComboButton.LightingInfo
+[2022.11.09-23.29.46:570][195]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.EditorModes
+[2022.11.09-23.29.46:570][195]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.CompileComboButton
+[2022.11.09-23.29.46:570][195]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.LevelToolbarQuickSettings
+[2022.11.09-23.29.46:570][195]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.OpenBlueprint
+[2022.11.09-23.29.46:570][195]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar
+[2022.11.09-23.29.46:701][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.09-23.29.46:708][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.09-23.29.46:716][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.09-23.29.46:723][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.09-23.29.47:101][195]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Assets/Inventory/Inventory_UI/InventoryWindow.InventoryWindow
+[2022.11.09-23.29.47:616][195]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Assets/Inventory/Inventory_UI/InventorySlot.InventorySlot
+[2022.11.09-23.29.48:034][195]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Inventory/Item.Item
+[2022.11.09-23.29.48:449][195]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Inventory/InventoryComponent.InventoryComponent
+[2022.11.09-23.29.48:850][195]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Assets/Inventory/Inventory_UI/HUD.HUD
+[2022.11.09-23.29.49:266][195]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/PlayerCharacter.PlayerCharacter
+[2022.11.09-23.29.49:683][195]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Inventory/Interact.Interact
+[2022.11.09-23.29.50:067][195]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/MyPlayerController.MyPlayerController
+[2022.11.09-23.29.50:483][195]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Assets/AI/NPC/NPC_BT.NPC_BT
+[2022.11.09-23.29.50:532][195]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/DamagePool.DamagePool
+[2022.11.09-23.29.50:900][195]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/AI/NPC/NPC.NPC
+[2022.11.09-23.29.51:383][195]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/AI/NPC/Projectile.Projectile
+[2022.11.09-23.29.51:783][195]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/MyGame.MyGame
+[2022.11.09-23.30.07:519][647]LogSlate: Window 'MyGame' being destroyed
+[2022.11.09-23.30.39:098][634]BlueprintLog: New page: Compile MyPlayerController
+[2022.11.09-23.30.39:215][634]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2022.11.09-23.30.39:730][679]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/MyPlayerControllerA889640F49AAC370CE4CE892B4C99081.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/MyPlayerController.uasset'
+[2022.11.09-23.30.39:744][679]AssetCheck: New page: Asset Save: MyPlayerController
+[2022.11.09-23.30.39:744][679]LogContentValidation: Display: Validating Blueprint /Game/Assets/MyPlayerController.MyPlayerController
+[2022.11.09-23.30.41:537][841]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2022.11.09-23.30.41:593][841]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/AI_TestFC920E5A4AFB5C8E672D1F87E8E0017A.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Levels/AI_Test.umap'
+[2022.11.09-23.30.41:649][841]AssetCheck: New page: Asset Save: AI_Test
+[2022.11.09-23.30.41:650][841]LogContentValidation: Display: Validating World /Game/Levels/AI_Test.AI_Test
+[2022.11.09-23.30.48:784][459]LogWorld: UWorld::CleanupWorld for World_103, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-23.30.48:784][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-23.30.49:802][546]LogWorld: UWorld::CleanupWorld for World_105, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-23.30.49:802][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-23.30.49:810][546]LogWorld: UWorld::CleanupWorld for World_104, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-23.30.49:810][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-23.30.51:980][743]LogWorld: UWorld::CleanupWorld for World_102, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-23.30.51:980][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-23.30.53:868][909]LogWorld: UWorld::CleanupWorld for World_99, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-23.30.53:868][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-23.30.53:876][909]LogWorld: UWorld::CleanupWorld for World_98, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-23.30.53:876][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-23.30.55:920][ 88]LogWorld: UWorld::CleanupWorld for World_107, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-23.30.55:920][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-23.30.58:713][345]LogWorld: UWorld::CleanupWorld for World_101, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-23.30.58:713][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-23.30.58:722][345]LogWorld: UWorld::CleanupWorld for World_100, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-23.30.58:722][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-23.31.02:667][791]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.11.09-23.31.02:692][791]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.09-23.31.12:225][737]LogSlate: Window 'Class Defaults' being destroyed
+[2022.11.09-23.31.12:229][737]LogSlate: Window 'Class Defaults' being destroyed
+[2022.11.09-23.31.12:236][737]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.09-23.31.12:236][737]LogWorld: UWorld::CleanupWorld for World_112, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-23.31.12:236][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-23.31.12:303][737]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/MyGame.MyGame
+[2022.11.09-23.31.32:529][721]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/Assets/MyGame.MyGame from GameModeBase to GameMode...
+[2022.11.09-23.31.32:536][721]BlueprintLog: New page: Compile MyGame
+[2022.11.09-23.31.32:615][721]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.11.09-23.31.40:296][499]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.11.09-23.31.48:652][ 51]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.11.09-23.31.48:678][ 51]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.09-23.32.19:140][224]LogSlate: Window 'Project Settings' being destroyed
+[2022.11.09-23.32.19:145][224]LogSlate: Window 'Project Settings' being destroyed
+[2022.11.09-23.32.22:369][557]BlueprintLog: New page: Compile MyGame
+[2022.11.09-23.32.22:424][557]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.11.09-23.32.22:808][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/MyGame" FILE="../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/MyGame.uasset" SILENT=true
+[2022.11.09-23.32.22:813][595]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/MyGameA86F43174F78AD1B14E1429998780AF3.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/MyGame.uasset'
+[2022.11.09-23.32.22:829][595]AssetCheck: New page: Asset Save: MyGame
+[2022.11.09-23.32.22:830][595]LogContentValidation: Display: Validating Blueprint /Game/Assets/MyGame.MyGame
+[2022.11.09-23.32.55:664][656]BlueprintLog: New page: Compile MyPlayerController
+[2022.11.09-23.32.55:667][656]LogBlueprint: Error: [AssetLog] C:\Users\ehowl\Desktop\DAGD 498\CapstoneProject\CapstoneProject_HJV\Content\Assets\MyPlayerController.uasset: [Compiler] This blueprint (self) is not a GameMode, therefore ' Target ' must have a connection.
+[2022.11.09-23.32.55:722][656]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2022.11.09-23.32.59:437][ 69]BlueprintLog: New page: Compile MyPlayerController
+[2022.11.09-23.32.59:494][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2022.11.09-23.33.00:071][128]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/MyPlayerController0041C159453EB21C1CA24991602E12E7.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/MyPlayerController.uasset'
+[2022.11.09-23.33.00:096][128]AssetCheck: New page: Asset Save: MyPlayerController
+[2022.11.09-23.33.00:096][128]LogContentValidation: Display: Validating Blueprint /Game/Assets/MyPlayerController.MyPlayerController
+[2022.11.09-23.33.41:839][522]BlueprintLog: New page: Compile PlayerCharacter
+[2022.11.09-23.33.41:926][522]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2022.11.09-23.33.42:489][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PlayerCharacter" FILE="../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset" SILENT=true
+[2022.11.09-23.33.42:557][570]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/PlayerCharacter8A846E40448BF5C715F1509ADBF2A2F3.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset'
+[2022.11.09-23.33.42:594][570]AssetCheck: New page: Asset Save: PlayerCharacter
+[2022.11.09-23.33.42:595][570]LogContentValidation: Display: Validating Blueprint /Game/Assets/PlayerCharacter.PlayerCharacter
+[2022.11.09-23.33.51:140][537]BlueprintLog: New page: Compile PlayerCharacter
+[2022.11.09-23.33.51:226][537]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2022.11.09-23.33.51:891][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PlayerCharacter" FILE="../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset" SILENT=true
+[2022.11.09-23.33.51:960][596]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/PlayerCharacter30916BE7433A2C2603F0B69A6167D2FF.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset'
+[2022.11.09-23.33.51:978][596]AssetCheck: New page: Asset Save: PlayerCharacter
+[2022.11.09-23.33.51:978][596]LogContentValidation: Display: Validating Blueprint /Game/Assets/PlayerCharacter.PlayerCharacter
+[2022.11.09-23.34.08:995][399]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.11.09-23.34.12:904][653]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.11.09-23.34.12:931][653]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.09-23.34.27:920][747]LogSlate: Window 'Project Settings' being destroyed
+[2022.11.09-23.34.27:925][747]LogSlate: Window 'Project Settings' being destroyed
+[2022.11.09-23.35.20:147][390]BlueprintLog: New page: Compile PlayerCharacter
+[2022.11.09-23.35.20:260][390]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2022.11.09-23.35.20:809][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PlayerCharacter" FILE="../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset" SILENT=true
+[2022.11.09-23.35.20:879][433]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/PlayerCharacter16B25C304A7674132A9416AF1E191343.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset'
+[2022.11.09-23.35.20:893][433]AssetCheck: New page: Asset Save: PlayerCharacter
+[2022.11.09-23.35.20:893][433]LogContentValidation: Display: Validating Blueprint /Game/Assets/PlayerCharacter.PlayerCharacter
+[2022.11.09-23.35.31:903][700]BlueprintLog: New page: Compile PlayerCharacter
+[2022.11.09-23.35.31:989][700]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2022.11.09-23.35.32:545][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PlayerCharacter" FILE="../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset" SILENT=true
+[2022.11.09-23.35.32:614][738]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/PlayerCharacterE929C01949CC1A4A73D086A6520414CD.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset'
+[2022.11.09-23.35.32:631][738]AssetCheck: New page: Asset Save: PlayerCharacter
+[2022.11.09-23.35.32:631][738]LogContentValidation: Display: Validating Blueprint /Game/Assets/PlayerCharacter.PlayerCharacter
+[2022.11.09-23.35.58:567][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PlayerCharacter" FILE="../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset" SILENT=true
+[2022.11.09-23.35.58:634][648]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/PlayerCharacter0D15E47A40DAB40E5B775EA46E33C38D.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset'
+[2022.11.09-23.35.58:650][648]AssetCheck: New page: Asset Save: PlayerCharacter
+[2022.11.09-23.35.58:650][648]LogContentValidation: Display: Validating Blueprint /Game/Assets/PlayerCharacter.PlayerCharacter
+[2022.11.09-23.37.33:014][377]BlueprintLog: New page: Compile MyGame
+[2022.11.09-23.37.33:077][377]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2022.11.09-23.37.33:469][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/MyGame" FILE="../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/MyGame.uasset" SILENT=true
+[2022.11.09-23.37.33:475][414]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/MyGame42077CA24F889DCB51BC4AA52E8393DA.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/MyGame.uasset'
+[2022.11.09-23.37.33:493][414]AssetCheck: New page: Asset Save: MyGame
+[2022.11.09-23.37.33:493][414]LogContentValidation: Display: Validating Blueprint /Game/Assets/MyGame.MyGame
+[2022.11.09-23.38.13:282][972]BlueprintLog: New page: Compile MyGame
+[2022.11.09-23.38.13:337][972]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2022.11.09-23.38.13:756][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/MyGame" FILE="../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/MyGame.uasset" SILENT=true
+[2022.11.09-23.38.13:763][ 14]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/MyGame497D507D45F52CDF7F9C889ADA404FF8.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/MyGame.uasset'
+[2022.11.09-23.38.13:783][ 14]AssetCheck: New page: Asset Save: MyGame
+[2022.11.09-23.38.13:783][ 14]LogContentValidation: Display: Validating Blueprint /Game/Assets/MyGame.MyGame
+[2022.11.09-23.38.21:875][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/MyGame" FILE="../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/MyGame.uasset" SILENT=true
+[2022.11.09-23.38.21:883][953]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/MyGameB10DECA24FB043A6DF048D80E6B20107.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/MyGame.uasset'
+[2022.11.09-23.38.21:906][953]AssetCheck: New page: Asset Save: MyGame
+[2022.11.09-23.38.21:906][953]LogContentValidation: Display: Validating Blueprint /Game/Assets/MyGame.MyGame
+[2022.11.09-23.39.26:301][163]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.09-23.39.26:305][163]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.11.09-23.39.27:080][163]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.11.09-23.39.27:089][163]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.11.09-23.39.27:106][163]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.11.09-23.39.32:246][542]LogContentBrowser: Attempting asset rename: NewBlueprint -> BaseCharacter
+[2022.11.09-23.39.32:249][542]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Assets/BaseCharacter.
+[2022.11.09-23.39.32:251][542]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.11.09-23.39.33:808][652]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/BaseCharacter.BaseCharacter
+[2022.11.09-23.39.34:277][653]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:1).
+[2022.11.09-23.40.11:016][432]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.11.09-23.40.11:043][432]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.09-23.40.18:488][301]BlueprintLog: New page: Compile BaseCharacter
+[2022.11.09-23.40.18:552][301]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2022.11.09-23.40.19:210][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/BaseCharacter" FILE="../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/BaseCharacter.uasset" SILENT=true
+[2022.11.09-23.40.19:220][372]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/BaseCharacter380875EB4D7D1D25E4180A9F0FB911B9.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/BaseCharacter.uasset'
+[2022.11.09-23.40.19:230][372]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Assets/BaseCharacter.
+[2022.11.09-23.40.19:235][372]AssetCheck: New page: Asset Save: BaseCharacter
+[2022.11.09-23.40.19:236][372]LogContentValidation: Display: Validating Blueprint /Game/Assets/BaseCharacter.BaseCharacter
+[2022.11.09-23.40.34:939][985]LogSlate: Window 'Change Variable Type' being destroyed
+[2022.11.09-23.40.38:489][371]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.11.09-23.40.38:493][371]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.11.09-23.40.39:181][448]BlueprintLog: New page: Compile BaseCharacter
+[2022.11.09-23.40.39:244][448]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2022.11.09-23.40.39:625][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/BaseCharacter" FILE="../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/BaseCharacter.uasset" SILENT=true
+[2022.11.09-23.40.39:637][484]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/BaseCharacter4D6274F5405BB4415CD84B8402325BD3.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/BaseCharacter.uasset'
+[2022.11.09-23.40.39:652][484]AssetCheck: New page: Asset Save: BaseCharacter
+[2022.11.09-23.40.39:652][484]LogContentValidation: Display: Validating Blueprint /Game/Assets/BaseCharacter.BaseCharacter
+[2022.11.09-23.40.45:918][638]BlueprintLog: New page: Compile PlayerCharacter
+[2022.11.09-23.40.46:010][638]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2022.11.09-23.40.46:504][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PlayerCharacter" FILE="../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset" SILENT=true
+[2022.11.09-23.40.46:567][674]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/PlayerCharacterC0C6ABE44A45D04AA35D028B17FAD477.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset'
+[2022.11.09-23.40.46:583][674]AssetCheck: New page: Asset Save: PlayerCharacter
+[2022.11.09-23.40.46:583][674]LogContentValidation: Display: Validating Blueprint /Game/Assets/PlayerCharacter.PlayerCharacter
+[2022.11.09-23.40.51:923][280]BlueprintLog: New page: Compile BaseCharacter
+[2022.11.09-23.40.51:989][280]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2022.11.09-23.40.52:462][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/BaseCharacter" FILE="../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/BaseCharacter.uasset" SILENT=true
+[2022.11.09-23.40.52:475][327]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/BaseCharacterD7B5E6EA44B9A8C07A68E6A044C0A318.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/BaseCharacter.uasset'
+[2022.11.09-23.40.52:490][327]AssetCheck: New page: Asset Save: BaseCharacter
+[2022.11.09-23.40.52:490][327]LogContentValidation: Display: Validating Blueprint /Game/Assets/BaseCharacter.BaseCharacter
+[2022.11.09-23.41.01:984][365]BlueprintLog: New page: Compile PlayerCharacter
+[2022.11.09-23.41.02:076][365]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2022.11.09-23.41.02:489][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PlayerCharacter" FILE="../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset" SILENT=true
+[2022.11.09-23.41.02:552][393]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/PlayerCharacter19478FCD4C05D81719936894D11C74EA.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset'
+[2022.11.09-23.41.02:566][393]AssetCheck: New page: Asset Save: PlayerCharacter
+[2022.11.09-23.41.02:566][393]LogContentValidation: Display: Validating Blueprint /Game/Assets/PlayerCharacter.PlayerCharacter
+[2022.11.09-23.41.05:770][701]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.11.09-23.41.05:796][701]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.09-23.41.11:606][191]LogSlate: Window 'Common interfaces' being destroyed
+[2022.11.09-23.41.13:989][191]LogSlate: Window 'Reparent Blueprint' being destroyed
+[2022.11.09-23.41.13:994][191]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/Assets/PlayerCharacter.PlayerCharacter from ThirdPersonCharacter_C to BaseCharacter_C...
+[2022.11.09-23.41.14:043][191]BlueprintLog: New page: Compile PlayerCharacter
+[2022.11.09-23.41.14:063][191]LogBlueprint: Warning: [AssetLog] C:\Users\ehowl\Desktop\DAGD 498\CapstoneProject\CapstoneProject_HJV\Content\Assets\PlayerCharacter.uasset: [Compiler] Could not find a variable named "BaseLookUpRate" in 'PlayerCharacter_C'.
+Make sure 'PlayerCharacter_C' has been compiled for  Get BaseLookUpRate
+[2022.11.09-23.41.14:064][191]LogBlueprint: Warning: [AssetLog] C:\Users\ehowl\Desktop\DAGD 498\CapstoneProject\CapstoneProject_HJV\Content\Assets\PlayerCharacter.uasset: [Compiler] Could not find a variable named "BaseTurnRate" in 'PlayerCharacter_C'.
+Make sure 'PlayerCharacter_C' has been compiled for  Get BaseTurnRate
+[2022.11.09-23.41.14:069][191]LogBlueprint: Error: [AssetLog] C:\Users\ehowl\Desktop\DAGD 498\CapstoneProject\CapstoneProject_HJV\Content\Assets\PlayerCharacter.uasset: [Compiler] The property associated with  Base Turn Rate  could not be found in '/Game/Assets/PlayerCharacter.PlayerCharacter_C'
+[2022.11.09-23.41.14:069][191]LogBlueprint: Error: [AssetLog] C:\Users\ehowl\Desktop\DAGD 498\CapstoneProject\CapstoneProject_HJV\Content\Assets\PlayerCharacter.uasset: [Compiler] The property associated with  Base Look Up Rate  could not be found in '/Game/Assets/PlayerCharacter.PlayerCharacter_C'
+[2022.11.09-23.41.14:144][191]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2022.11.09-23.41.17:638][553]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.11.09-23.41.17:664][553]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.09-23.41.19:699][748]BlueprintLog: New page: Compile PlayerCharacter
+[2022.11.09-23.41.19:710][748]LogBlueprint: Warning: [AssetLog] C:\Users\ehowl\Desktop\DAGD 498\CapstoneProject\CapstoneProject_HJV\Content\Assets\PlayerCharacter.uasset: [Compiler] Could not find a variable named "BaseLookUpRate" in 'PlayerCharacter_C'.
+Make sure 'PlayerCharacter_C' has been compiled for  Get BaseLookUpRate
+[2022.11.09-23.41.19:711][748]LogBlueprint: Warning: [AssetLog] C:\Users\ehowl\Desktop\DAGD 498\CapstoneProject\CapstoneProject_HJV\Content\Assets\PlayerCharacter.uasset: [Compiler] Could not find a variable named "BaseTurnRate" in 'PlayerCharacter_C'.
+Make sure 'PlayerCharacter_C' has been compiled for  Get BaseTurnRate
+[2022.11.09-23.41.19:715][748]LogBlueprint: Error: [AssetLog] C:\Users\ehowl\Desktop\DAGD 498\CapstoneProject\CapstoneProject_HJV\Content\Assets\PlayerCharacter.uasset: [Compiler] The property associated with  Base Turn Rate  could not be found in '/Game/Assets/PlayerCharacter.PlayerCharacter_C'
+[2022.11.09-23.41.19:715][748]LogBlueprint: Error: [AssetLog] C:\Users\ehowl\Desktop\DAGD 498\CapstoneProject\CapstoneProject_HJV\Content\Assets\PlayerCharacter.uasset: [Compiler] The property associated with  Base Look Up Rate  could not be found in '/Game/Assets/PlayerCharacter.PlayerCharacter_C'
+[2022.11.09-23.41.19:789][748]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2022.11.09-23.41.20:246][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PlayerCharacter" FILE="../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset" SILENT=true
+[2022.11.09-23.41.20:304][780]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/PlayerCharacterA431D0564237135FBB0077BF81396E85.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset'
+[2022.11.09-23.41.20:321][780]AssetCheck: New page: Asset Save: PlayerCharacter
+[2022.11.09-23.41.20:321][780]LogContentValidation: Display: Validating Blueprint /Game/Assets/PlayerCharacter.PlayerCharacter
+[2022.11.09-23.41.46:309][275]LogEditorTransaction: Undo Delete current selection
+[2022.11.09-23.42.09:184][692]BlueprintLog: New page: Compile PlayerCharacter
+[2022.11.09-23.42.09:196][692]LogBlueprint: Warning: [AssetLog] C:\Users\ehowl\Desktop\DAGD 498\CapstoneProject\CapstoneProject_HJV\Content\Assets\PlayerCharacter.uasset: [Compiler] Could not find a variable named "BaseLookUpRate" in 'PlayerCharacter_C'.
+Make sure 'PlayerCharacter_C' has been compiled for  Get BaseLookUpRate
+[2022.11.09-23.42.09:196][692]LogBlueprint: Warning: [AssetLog] C:\Users\ehowl\Desktop\DAGD 498\CapstoneProject\CapstoneProject_HJV\Content\Assets\PlayerCharacter.uasset: [Compiler] Could not find a variable named "BaseTurnRate" in 'PlayerCharacter_C'.
+Make sure 'PlayerCharacter_C' has been compiled for  Get BaseTurnRate
+[2022.11.09-23.42.09:200][692]LogBlueprint: Error: [AssetLog] C:\Users\ehowl\Desktop\DAGD 498\CapstoneProject\CapstoneProject_HJV\Content\Assets\PlayerCharacter.uasset: [Compiler] The property associated with  Base Turn Rate  could not be found in '/Game/Assets/PlayerCharacter.PlayerCharacter_C'
+[2022.11.09-23.42.09:200][692]LogBlueprint: Error: [AssetLog] C:\Users\ehowl\Desktop\DAGD 498\CapstoneProject\CapstoneProject_HJV\Content\Assets\PlayerCharacter.uasset: [Compiler] The property associated with  Base Look Up Rate  could not be found in '/Game/Assets/PlayerCharacter.PlayerCharacter_C'
+[2022.11.09-23.42.09:273][692]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2022.11.09-23.42.16:027][365]BlueprintLog: New page: Compile PlayerCharacter
+[2022.11.09-23.42.16:041][365]LogBlueprint: Warning: [AssetLog] C:\Users\ehowl\Desktop\DAGD 498\CapstoneProject\CapstoneProject_HJV\Content\Assets\PlayerCharacter.uasset: [Compiler] Could not find a variable named "BaseLookUpRate" in 'PlayerCharacter_C'.
+Make sure 'PlayerCharacter_C' has been compiled for  Get BaseLookUpRate
+[2022.11.09-23.42.16:042][365]LogBlueprint: Warning: [AssetLog] C:\Users\ehowl\Desktop\DAGD 498\CapstoneProject\CapstoneProject_HJV\Content\Assets\PlayerCharacter.uasset: [Compiler] Could not find a variable named "BaseTurnRate" in 'PlayerCharacter_C'.
+Make sure 'PlayerCharacter_C' has been compiled for  Get BaseTurnRate
+[2022.11.09-23.42.16:049][365]LogBlueprint: Error: [AssetLog] C:\Users\ehowl\Desktop\DAGD 498\CapstoneProject\CapstoneProject_HJV\Content\Assets\PlayerCharacter.uasset: [Compiler] The property associated with  Base Turn Rate  could not be found in '/Game/Assets/PlayerCharacter.PlayerCharacter_C'
+[2022.11.09-23.42.16:049][365]LogBlueprint: Error: [AssetLog] C:\Users\ehowl\Desktop\DAGD 498\CapstoneProject\CapstoneProject_HJV\Content\Assets\PlayerCharacter.uasset: [Compiler] The property associated with  Base Look Up Rate  could not be found in '/Game/Assets/PlayerCharacter.PlayerCharacter_C'
+[2022.11.09-23.42.16:120][365]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2022.11.09-23.42.16:931][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PlayerCharacter" FILE="../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset" SILENT=true
+[2022.11.09-23.42.16:990][432]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/PlayerCharacterDACDFC814B222CB9579F559C3A31B6AD.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset'
+[2022.11.09-23.42.17:007][432]AssetCheck: New page: Asset Save: PlayerCharacter
+[2022.11.09-23.42.17:007][432]LogContentValidation: Display: Validating Blueprint /Game/Assets/PlayerCharacter.PlayerCharacter
+[2022.11.09-23.42.28:596][629]BlueprintLog: New page: Compile PlayerCharacter
+[2022.11.09-23.42.28:685][629]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2022.11.09-23.42.29:281][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PlayerCharacter" FILE="../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset" SILENT=true
+[2022.11.09-23.42.29:339][679]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/PlayerCharacter1DFB981845B437A9269D538F149E45EB.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset'
+[2022.11.09-23.42.29:355][679]AssetCheck: New page: Asset Save: PlayerCharacter
+[2022.11.09-23.42.29:355][679]LogContentValidation: Display: Validating Blueprint /Game/Assets/PlayerCharacter.PlayerCharacter
+[2022.11.09-23.42.36:482][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PlayerCharacter" FILE="../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset" SILENT=true
+[2022.11.09-23.42.36:541][441]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/PlayerCharacter1510F41548A7588D1CDEBDAFD038DC55.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset'
+[2022.11.09-23.42.36:558][441]AssetCheck: New page: Asset Save: PlayerCharacter
+[2022.11.09-23.42.36:558][441]LogContentValidation: Display: Validating Blueprint /Game/Assets/PlayerCharacter.PlayerCharacter
+[2022.11.09-23.43.04:485][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PlayerCharacter" FILE="../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset" SILENT=true
+[2022.11.09-23.43.04:543][336]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/PlayerCharacterDDFCBE2C46FCE78C2884D08C7E824654.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset'
+[2022.11.09-23.43.04:562][336]AssetCheck: New page: Asset Save: PlayerCharacter
+[2022.11.09-23.43.04:562][336]LogContentValidation: Display: Validating Blueprint /Game/Assets/PlayerCharacter.PlayerCharacter
+[2022.11.09-23.43.14:809][477]BlueprintLog: New page: Compile Projectile
+[2022.11.09-23.43.14:872][477]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2022.11.09-23.43.15:244][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/AI/NPC/Projectile" FILE="../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/AI/NPC/Projectile.uasset" SILENT=true
+[2022.11.09-23.43.15:254][510]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/Projectile5C9CF92243CCEF215ECE48B6F36BF457.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/AI/NPC/Projectile.uasset'
+[2022.11.09-23.43.15:269][510]AssetCheck: New page: Asset Save: Projectile
+[2022.11.09-23.43.15:269][510]LogContentValidation: Display: Validating Blueprint /Game/Assets/AI/NPC/Projectile.Projectile
+[2022.11.09-23.44.03:786][277]BlueprintLog: New page: Compile Projectile
+[2022.11.09-23.44.03:851][277]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2022.11.09-23.44.04:214][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/AI/NPC/Projectile" FILE="../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/AI/NPC/Projectile.uasset" SILENT=true
+[2022.11.09-23.44.04:225][309]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/Projectile1C5BBF734C887E4589C14482EA97AA14.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/AI/NPC/Projectile.uasset'
+[2022.11.09-23.44.04:242][309]AssetCheck: New page: Asset Save: Projectile
+[2022.11.09-23.44.04:242][309]LogContentValidation: Display: Validating Blueprint /Game/Assets/AI/NPC/Projectile.Projectile
+[2022.11.09-23.44.18:818][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/AI/NPC/Projectile" FILE="../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/AI/NPC/Projectile.uasset" SILENT=true
+[2022.11.09-23.44.18:824][ 42]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/Projectile220D49C94FDF409201CF42B04DC367A3.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/AI/NPC/Projectile.uasset'
+[2022.11.09-23.44.18:838][ 42]AssetCheck: New page: Asset Save: Projectile
+[2022.11.09-23.44.18:838][ 42]LogContentValidation: Display: Validating Blueprint /Game/Assets/AI/NPC/Projectile.Projectile
+[2022.11.09-23.44.27:764][ 67]LogTemp: Repeating last play command: Standalone Game
+[2022.11.09-23.44.27:809][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2022.11.09-23.44.29:695][ 67]LogSlate: Window 'Save Content' being destroyed
+[2022.11.09-23.44.29:725][ 67]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/ThirdPersonGameModeE75FE737456807C22FFFCB900C342EFC.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2022.11.09-23.44.29:754][ 68]AssetCheck: New page: Asset Save: ThirdPersonGameMode
+[2022.11.09-23.44.29:754][ 68]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2022.11.09-23.45.12:322][574]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.11.09-23.45.12:350][574]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.09-23.45.19:716][206]LogSlate: Window 'Reparent Blueprint' being destroyed
+[2022.11.09-23.45.19:720][206]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/Assets/PlayerCharacter.PlayerCharacter from BaseCharacter_C to ThirdPersonCharacter_C...
+[2022.11.09-23.45.19:766][206]BlueprintLog: New page: Compile PlayerCharacter
+[2022.11.09-23.45.19:862][206]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2022.11.09-23.45.47:522][929]BlueprintLog: New page: Compile PlayerCharacter
+[2022.11.09-23.45.47:625][929]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2022.11.09-23.45.48:165][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PlayerCharacter" FILE="../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset" SILENT=true
+[2022.11.09-23.45.48:228][966]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/PlayerCharacterD017F0984F37CC0233BAD3AABDBAC433.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset'
+[2022.11.09-23.45.48:245][966]AssetCheck: New page: Asset Save: PlayerCharacter
+[2022.11.09-23.45.48:245][966]LogContentValidation: Display: Validating Blueprint /Game/Assets/PlayerCharacter.PlayerCharacter
+[2022.11.09-23.45.51:975][356]LogTemp: Repeating last play command: Standalone Game
+[2022.11.09-23.45.52:021][356]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2022.11.09-23.46.37:517][556]LogEditorViewport: Clicking on Actor (LMB): NPC_C (NPC)
+[2022.11.09-23.46.46:411][277]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.11.09-23.46.46:441][277]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/AI_Test04C5231942EA9B5F29E5FC87B8997641.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Levels/AI_Test.umap'
+[2022.11.09-23.46.46:493][277]AssetCheck: New page: Asset Save: AI_Test
+[2022.11.09-23.46.46:494][277]LogContentValidation: Display: Validating World /Game/Levels/AI_Test.AI_Test
+[2022.11.09-23.46.47:598][363]LogTemp: Repeating last play command: Standalone Game
+[2022.11.09-23.46.47:646][363]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2022.11.09-23.47.39:858][ 98]LogEditorViewport: Clicking on Actor (LMB): RecastNavMesh (RecastNavMesh-Default)
+[2022.11.09-23.47.40:496][164]LogEditorViewport: Clicking on Actor (LMB): RecastNavMesh (RecastNavMesh-Default)
+[2022.11.09-23.47.43:219][427]LogEditorViewport: Clicking on Actor (LMB): NavLinkProxy (NavLinkProxy1)
+[2022.11.09-23.47.56:374][736]LogEditorViewport: Clicking on Actor (LMB): NavLinkProxy (NavLinkProxy1)
+[2022.11.09-23.48.01:514][238]LogEditorViewport: Clicking on Actor (LMB): NavLinkProxy (NavLinkProxy3)
+[2022.11.09-23.48.11:436][223]LogEditorViewport: Clicking on Actor (LMB): NavLinkProxy (NavLinkProxy2)
+[2022.11.09-23.48.19:802][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2022.11.09-23.48.19:835][ 69]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/AI_Test5DEF327340BF3E22905BD4B9AD1ADDD3.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Levels/AI_Test.umap'
+[2022.11.09-23.48.19:866][ 69]AssetCheck: New page: Asset Save: AI_Test
+[2022.11.09-23.48.19:866][ 69]LogContentValidation: Display: Validating World /Game/Levels/AI_Test.AI_Test
+[2022.11.09-23.48.20:725][138]LogTemp: Repeating last play command: Standalone Game
+[2022.11.09-23.48.20:765][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.11.09-23.49.14:451][922]LogEditorViewport: Clicking on Actor (LMB): NavLinkProxy (NavLinkProxy2)
+[2022.11.09-23.49.36:898][215]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.11.09-23.49.36:926][215]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.09-23.49.50:164][623]LogEditorViewport: Clicking on Actor (LMB): RecastNavMesh (RecastNavMesh-Default)
+[2022.11.09-23.49.51:104][703]LogEditorViewport: Clicking on Actor (LMB): NavLinkProxy (NavLinkProxy3)
+[2022.11.09-23.50.13:506][948]LogEditorViewport: Clicking on Actor (LMB): NavLinkProxy (NavLinkProxy1)
+[2022.11.09-23.50.24:636][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.11.09-23.50.24:669][ 11]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/AI_TestE60CA45E4372681A21B4488190EAB11C.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Levels/AI_Test.umap'
+[2022.11.09-23.50.24:693][ 11]AssetCheck: New page: Asset Save: AI_Test
+[2022.11.09-23.50.24:694][ 11]LogContentValidation: Display: Validating World /Game/Levels/AI_Test.AI_Test
+[2022.11.09-23.50.25:627][ 89]LogTemp: Repeating last play command: Standalone Game
+[2022.11.09-23.50.25:668][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.11.09-23.51.20:573][936]LogEditorViewport: Clicking on Actor (LMB): NavLinkProxy (NavLinkProxy1)
+[2022.11.09-23.51.26:329][501]LogEditorViewport: Clicking on Actor (LMB): NavLinkProxy (NavLinkProxy3)
+[2022.11.09-23.51.33:618][239]LogEditorViewport: Clicking on Actor (LMB): NavLinkProxy (NavLinkProxy3)
+[2022.11.09-23.51.40:986][966]LogEditorViewport: Clicking on Actor (LMB): NavLinkProxy (NavLinkProxy2)
+[2022.11.09-23.51.48:520][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.11.09-23.51.48:552][753]LogSavePackage: Moving '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Saved/AI_TestE377072345C676717F93C89859BB3A8E.tmp' to '../../../../../../Users/ehowl/Desktop/DAGD 498/CapstoneProject/CapstoneProject_HJV/Content/Levels/AI_Test.umap'
+[2022.11.09-23.51.48:578][753]AssetCheck: New page: Asset Save: AI_Test
+[2022.11.09-23.51.48:578][753]LogContentValidation: Display: Validating World /Game/Levels/AI_Test.AI_Test
+[2022.11.10-00.22.15:149][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.11.10-00.22.15:185][991]LogWorld: UWorld::CleanupWorld for World_108, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-00.22.15:185][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-00.22.15:359][991]LogWorld: UWorld::CleanupWorld for World_109, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-00.22.15:359][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-00.22.15:480][991]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.10-00.22.15:480][991]LogWorld: UWorld::CleanupWorld for World_113, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-00.22.15:480][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-00.22.15:640][991]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.10-00.22.15:640][991]LogWorld: UWorld::CleanupWorld for World_110, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-00.22.15:640][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-00.22.15:794][991]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.10-00.22.15:794][991]LogWorld: UWorld::CleanupWorld for World_111, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-00.22.15:794][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-00.22.15:955][991]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.10-00.22.15:955][991]LogWorld: UWorld::CleanupWorld for World_106, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-00.22.15:955][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-00.22.16:108][991]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.10-00.22.16:108][991]LogWorld: UWorld::CleanupWorld for World_114, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-00.22.16:108][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-00.22.16:219][991]LogSlate: Window 'CapstoneProject_HJV - Unreal Editor' being destroyed
+[2022.11.10-00.22.16:388][992]Cmd: QUIT_EDITOR
+[2022.11.10-00.22.16:388][992]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.11.10-00.22.16:631][992]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.11.10-00.22.16:633][992]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.11.10-00.22.16:633][992]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.11.10-00.22.16:633][992]LogAudio: Display: Audio Device unregistered from world 'AI_Test'.
+[2022.11.10-00.22.16:656][992]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.10-00.22.16:657][992]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.10-00.22.16:685][992]LogAudio: Display: Audio Device Manager Shutdown
+[2022.11.10-00.22.16:686][992]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.11.10-00.22.16:692][992]LogExit: Preparing to exit.
+[2022.11.10-00.22.17:266][992]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2022.11.10-00.22.17:921][992]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.10-00.22.17:922][992]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.10-00.22.17:922][992]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.10-00.22.17:922][992]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.10-00.22.17:922][992]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.10-00.22.17:922][992]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.10-00.22.17:922][992]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.10-00.22.17:922][992]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-00.22.17:923][992]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.10-00.22.17:923][992]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.10-00.22.17:924][992]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.10-00.22.17:924][992]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.10-00.22.17:924][992]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.10-00.22.17:924][992]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.10-00.22.17:924][992]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.10-00.22.17:924][992]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-00.22.17:925][992]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-00.22.17:927][992]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-00.22.17:929][992]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-00.22.17:931][992]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-00.22.17:932][992]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-00.22.17:933][992]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.10-00.22.17:933][992]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.10-00.22.17:933][992]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.10-00.22.17:933][992]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.10-00.22.17:933][992]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.10-00.22.17:933][992]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.10-00.22.17:933][992]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.10-00.22.17:933][992]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-00.22.17:934][992]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.10-00.22.17:934][992]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.10-00.22.17:934][992]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.10-00.22.17:934][992]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.10-00.22.17:934][992]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.10-00.22.17:934][992]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.10-00.22.17:934][992]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.10-00.22.17:934][992]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-00.22.17:936][992]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-00.22.17:937][992]LogWorld: UWorld::CleanupWorld for World_95, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-00.22.17:938][992]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.10-00.22.17:938][992]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.10-00.22.17:938][992]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.10-00.22.17:938][992]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.10-00.22.17:938][992]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.10-00.22.17:938][992]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.10-00.22.17:938][992]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.10-00.22.17:938][992]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-00.22.17:940][992]LogWorld: UWorld::CleanupWorld for World_96, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-00.22.17:941][992]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.10-00.22.17:941][992]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.10-00.22.17:941][992]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.10-00.22.17:941][992]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.10-00.22.17:941][992]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.10-00.22.17:941][992]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.10-00.22.17:941][992]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.10-00.22.17:941][992]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-00.22.17:942][992]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-00.22.17:944][992]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-00.22.17:945][992]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-00.22.18:670][992]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.11.10-00.22.18:695][992]LogExit: Editor shut down
+[2022.11.10-00.22.18:823][992]LogExit: Transaction tracking system shut down
+[2022.11.10-00.22.23:353][992]LogExit: Object subsystem successfully closed.
+[2022.11.10-00.22.23:752][992]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.10-00.22.23:752][992]LogShaderCompilers: Display: Total job queries 32, among them cache hits 0 (0.00%)
+[2022.11.10-00.22.23:752][992]LogShaderCompilers: Display: Tracking 32 distinct input hashes that result in 23 distinct outputs (71.88%)
+[2022.11.10-00.22.23:752][992]LogShaderCompilers: Display: RAM used: 0.13 MB (0.00 GB) of 1228.80 MB (1.20 GB) budget. Usage: 0.01%
+[2022.11.10-00.22.23:752][992]LogShaderCompilers: Display: ================================================
+[2022.11.10-00.22.23:800][992]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.11.10-00.22.23:926][992]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (876)
+[2022.11.10-00.22.23:926][992]LogModuleManager: Shutting down and abandoning module SequencerWidgets (874)
+[2022.11.10-00.22.23:926][992]LogModuleManager: Shutting down and abandoning module BlueprintGraph (872)
+[2022.11.10-00.22.23:926][992]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (870)
+[2022.11.10-00.22.23:926][992]LogModuleManager: Shutting down and abandoning module SceneOutliner (868)
+[2022.11.10-00.22.23:926][992]LogModuleManager: Shutting down and abandoning module AddContentDialog (866)
+[2022.11.10-00.22.24:177][992]LogModuleManager: Shutting down and abandoning module WidgetCarousel (865)
+[2022.11.10-00.22.24:177][992]LogModuleManager: Shutting down and abandoning module EditorWidgets (862)
+[2022.11.10-00.22.24:177][992]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2022.11.10-00.22.24:177][992]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2022.11.10-00.22.24:177][992]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2022.11.10-00.22.24:177][992]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2022.11.10-00.22.24:177][992]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2022.11.10-00.22.24:177][992]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2022.11.10-00.22.24:177][992]LogModuleManager: Shutting down and abandoning module OpenXRInput (848)
+[2022.11.10-00.22.24:177][992]LogModuleManager: Shutting down and abandoning module GooglePADEditor (846)
+[2022.11.10-00.22.24:177][992]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (844)
+[2022.11.10-00.22.24:178][992]LogModuleManager: Shutting down and abandoning module TakeRecorder (843)
+[2022.11.10-00.22.24:178][992]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (840)
+[2022.11.10-00.22.24:178][992]LogModuleManager: Shutting down and abandoning module TakesCore (838)
+[2022.11.10-00.22.24:178][992]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (836)
+[2022.11.10-00.22.24:178][992]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (834)
+[2022.11.10-00.22.24:178][992]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (832)
+[2022.11.10-00.22.24:178][992]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (830)
+[2022.11.10-00.22.24:178][992]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (828)
+[2022.11.10-00.22.24:178][992]LogModuleManager: Shutting down and abandoning module PlanarCut (826)
+[2022.11.10-00.22.24:178][992]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (824)
+[2022.11.10-00.22.24:178][992]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (822)
+[2022.11.10-00.22.24:178][992]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (820)
+[2022.11.10-00.22.24:178][992]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (818)
+[2022.11.10-00.22.24:178][992]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (816)
+[2022.11.10-00.22.24:178][992]LogModuleManager: Shutting down and abandoning module WebMMedia (814)
+[2022.11.10-00.22.24:178][992]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (812)
+[2022.11.10-00.22.24:178][992]LogModuleManager: Shutting down and abandoning module SequenceRecorder (811)
+[2022.11.10-00.22.24:178][992]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (808)
+[2022.11.10-00.22.24:178][992]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (806)
+[2022.11.10-00.22.24:178][992]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (804)
+[2022.11.10-00.22.24:178][992]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (802)
+[2022.11.10-00.22.24:178][992]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (800)
+[2022.11.10-00.22.24:178][992]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (798)
+[2022.11.10-00.22.24:178][992]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (796)
+[2022.11.10-00.22.24:178][992]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (794)
+[2022.11.10-00.22.24:178][992]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (792)
+[2022.11.10-00.22.24:178][992]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (790)
+[2022.11.10-00.22.24:178][992]LogModuleManager: Shutting down and abandoning module CharacterAI (788)
+[2022.11.10-00.22.24:178][992]LogModuleManager: Shutting down and abandoning module TextureAlignMode (786)
+[2022.11.10-00.22.24:179][992]LogModuleManager: Shutting down and abandoning module BspMode (784)
+[2022.11.10-00.22.24:179][992]LogModuleManager: Shutting down and abandoning module GeometryMode (782)
+[2022.11.10-00.22.24:179][992]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (780)
+[2022.11.10-00.22.24:179][992]LogModuleManager: Shutting down and abandoning module SmartSnapping (778)
+[2022.11.10-00.22.24:179][992]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2022.11.10-00.22.24:179][992]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2022.11.10-00.22.24:179][992]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2022.11.10-00.22.24:179][992]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2022.11.10-00.22.24:179][992]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2022.11.10-00.22.24:179][992]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2022.11.10-00.22.24:179][992]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2022.11.10-00.22.24:179][992]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2022.11.10-00.22.24:179][992]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2022.11.10-00.22.24:179][992]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2022.11.10-00.22.24:179][992]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2022.11.10-00.22.24:179][992]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2022.11.10-00.22.24:179][992]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2022.11.10-00.22.24:179][992]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2022.11.10-00.22.24:179][992]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2022.11.10-00.22.24:203][992]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2022.11.10-00.22.24:203][992]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2022.11.10-00.22.24:203][992]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2022.11.10-00.22.24:203][992]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2022.11.10-00.22.24:204][992]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
+[2022.11.10-00.22.25:472][992]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (736)
+[2022.11.10-00.22.25:472][992]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (734)
+[2022.11.10-00.22.25:472][992]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (732)
+[2022.11.10-00.22.25:472][992]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (730)
+[2022.11.10-00.22.25:472][992]LogModuleManager: Shutting down and abandoning module TraceInsights (728)
+[2022.11.10-00.22.25:472][992]MemoryProfiler: Shutdown
+[2022.11.10-00.22.25:472][992]NetworkingProfiler: Shutdown
+[2022.11.10-00.22.25:472][992]LoadingProfiler: Shutdown
+[2022.11.10-00.22.25:472][992]TimingProfiler: Shutdown
+[2022.11.10-00.22.25:472][992]LogModuleManager: Shutting down and abandoning module TraceServices (727)
+[2022.11.10-00.22.25:472][992]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (724)
+[2022.11.10-00.22.25:472][992]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (722)
+[2022.11.10-00.22.25:472][992]LogModuleManager: Shutting down and abandoning module InputBindingEditor (720)
+[2022.11.10-00.22.25:472][992]LogModuleManager: Shutting down and abandoning module MergeActors (718)
+[2022.11.10-00.22.25:473][992]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (716)
+[2022.11.10-00.22.25:473][992]LogModuleManager: Shutting down and abandoning module LocalizationService (715)
+[2022.11.10-00.22.25:473][992]LogModuleManager: Shutting down and abandoning module HardwareTargeting (712)
+[2022.11.10-00.22.25:473][992]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (710)
+[2022.11.10-00.22.25:473][992]LogModuleManager: Shutting down and abandoning module UndoHistory (708)
+[2022.11.10-00.22.25:473][992]LogModuleManager: Shutting down and abandoning module XmlParser (706)
+[2022.11.10-00.22.25:473][992]LogModuleManager: Shutting down and abandoning module Blutility (704)
+[2022.11.10-00.22.25:473][992]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (702)
+[2022.11.10-00.22.25:473][992]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (701)
+[2022.11.10-00.22.25:478][992]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (698)
+[2022.11.10-00.22.25:478][992]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (697)
+[2022.11.10-00.22.25:478][992]LogModuleManager: Shutting down and abandoning module SettingsEditor (694)
+[2022.11.10-00.22.25:478][992]LogModuleManager: Shutting down and abandoning module ProjectLauncher (692)
+[2022.11.10-00.22.25:478][992]LogModuleManager: Shutting down and abandoning module SessionFrontend (690)
+[2022.11.10-00.22.25:478][992]LogModuleManager: Shutting down and abandoning module ProfilerClient (688)
+[2022.11.10-00.22.25:478][992]LogModuleManager: Shutting down and abandoning module DeviceManager (686)
+[2022.11.10-00.22.25:478][992]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (685)
+[2022.11.10-00.22.25:512][992]LogModuleManager: Shutting down and abandoning module AutomationController (682)
+[2022.11.10-00.22.25:512][992]LogModuleManager: Shutting down and abandoning module AutomationWindow (680)
+[2022.11.10-00.22.25:512][992]LogModuleManager: Shutting down and abandoning module Layers (678)
+[2022.11.10-00.22.25:512][992]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (676)
+[2022.11.10-00.22.25:512][992]LogModuleManager: Shutting down and abandoning module DetailCustomizations (674)
+[2022.11.10-00.22.25:512][992]LogModuleManager: Shutting down and abandoning module PackagesDialog (672)
+[2022.11.10-00.22.25:513][992]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (670)
+[2022.11.10-00.22.25:513][992]LogModuleManager: Shutting down and abandoning module Persona (668)
+[2022.11.10-00.22.25:513][992]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (667)
+[2022.11.10-00.22.25:513][992]LogModuleManager: Shutting down and abandoning module AnimGraph (665)
+[2022.11.10-00.22.25:513][992]LogModuleManager: Shutting down and abandoning module Kismet (662)
+[2022.11.10-00.22.26:334][992]LogModuleManager: Shutting down and abandoning module KismetWidgets (661)
+[2022.11.10-00.22.26:334][992]LogModuleManager: Shutting down and abandoning module GraphEditor (658)
+[2022.11.10-00.22.26:334][992]LogModuleManager: Shutting down and abandoning module StructViewer (656)
+[2022.11.10-00.22.26:334][992]LogModuleManager: Shutting down and abandoning module ClassViewer (654)
+[2022.11.10-00.22.26:336][992]LogModuleManager: Shutting down and abandoning module Toolbox (652)
+[2022.11.10-00.22.26:336][992]LogModuleManager: Shutting down and abandoning module ModuleUI (650)
+[2022.11.10-00.22.26:336][992]LogModuleManager: Shutting down and abandoning module OutputLog (648)
+[2022.11.10-00.22.26:581][992]LogModuleManager: Shutting down and abandoning module GammaUI (646)
+[2022.11.10-00.22.26:581][992]LogModuleManager: Shutting down and abandoning module Documentation (644)
+[2022.11.10-00.22.26:588][992]LogModuleManager: Shutting down and abandoning module LiveCoding (642)
+[2022.11.10-00.22.26:588][992]LogModuleManager: Shutting down and abandoning module LevelSequence (640)
+[2022.11.10-00.22.26:589][992]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (638)
+[2022.11.10-00.22.26:589][992]LogModuleManager: Shutting down and abandoning module MovieScene (636)
+[2022.11.10-00.22.26:589][992]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (634)
+[2022.11.10-00.22.26:589][992]LogModuleManager: Shutting down and abandoning module LauncherPlatform (632)
+[2022.11.10-00.22.26:589][992]LogModuleManager: Shutting down and abandoning module AnalyticsET (630)
+[2022.11.10-00.22.26:589][992]LogModuleManager: Shutting down and abandoning module PortalServices (628)
+[2022.11.10-00.22.26:589][992]LogModuleManager: Shutting down and abandoning module PortalRpc (626)
+[2022.11.10-00.22.26:589][992]LogModuleManager: Shutting down and abandoning module MessagingRpc (624)
+[2022.11.10-00.22.26:589][992]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (622)
+[2022.11.10-00.22.26:589][992]LogModuleManager: Shutting down and abandoning module AudioMixerCore (621)
+[2022.11.10-00.22.26:589][992]LogModuleManager: Shutting down and abandoning module AIModule (618)
+[2022.11.10-00.22.26:589][992]LogModuleManager: Shutting down and abandoning module GameplayDebugger (617)
+[2022.11.10-00.22.26:589][992]LogModuleManager: Shutting down and abandoning module AITestSuite (615)
+[2022.11.10-00.22.26:589][992]LogModuleManager: Shutting down and abandoning module NavigationSystem (613)
+[2022.11.10-00.22.26:589][992]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (610)
+[2022.11.10-00.22.26:596][992]LogModuleManager: Shutting down and abandoning module ProfilerService (608)
+[2022.11.10-00.22.26:684][992]LogModuleManager: Shutting down and abandoning module TaskGraph (606)
+[2022.11.10-00.22.26:684][992]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (604)
+[2022.11.10-00.22.26:684][992]LogModuleManager: Shutting down and abandoning module OculusEditor (602)
+[2022.11.10-00.22.26:684][992]LogModuleManager: Shutting down and abandoning module OculusInput (600)
+[2022.11.10-00.22.26:684][992]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (598)
+[2022.11.10-00.22.26:684][992]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (596)
+[2022.11.10-00.22.26:684][992]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (594)
+[2022.11.10-00.22.26:685][992]LogModuleManager: Shutting down and abandoning module CollectionManager (593)
+[2022.11.10-00.22.26:685][992]LogModuleManager: Shutting down and abandoning module SynthesisEditor (590)
+[2022.11.10-00.22.26:685][992]LogModuleManager: Shutting down and abandoning module Synthesis (588)
+[2022.11.10-00.22.26:685][992]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (586)
+[2022.11.10-00.22.26:685][992]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (584)
+[2022.11.10-00.22.26:685][992]LogModuleManager: Shutting down and abandoning module OpenXREditor (582)
+[2022.11.10-00.22.26:685][992]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (580)
+[2022.11.10-00.22.26:685][992]LogModuleManager: Shutting down and abandoning module GooglePAD (578)
+[2022.11.10-00.22.26:685][992]LogModuleManager: Shutting down and abandoning module TakeSequencer (576)
+[2022.11.10-00.22.26:685][992]LogModuleManager: Shutting down and abandoning module TakeMovieScene (574)
+[2022.11.10-00.22.26:685][992]LogModuleManager: Shutting down and abandoning module EditableMesh (572)
+[2022.11.10-00.22.26:685][992]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (570)
+[2022.11.10-00.22.26:685][992]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (568)
+[2022.11.10-00.22.26:685][992]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (566)
+[2022.11.10-00.22.26:685][992]LogModuleManager: Shutting down and abandoning module CableComponent (564)
+[2022.11.10-00.22.26:685][992]LogModuleManager: Shutting down and abandoning module AssetTags (562)
+[2022.11.10-00.22.26:685][992]LogModuleManager: Shutting down and abandoning module AudioCapture (560)
+[2022.11.10-00.22.26:685][992]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (559)
+[2022.11.10-00.22.26:685][992]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (556)
+[2022.11.10-00.22.26:685][992]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (554)
+[2022.11.10-00.22.26:685][992]LogModuleManager: Shutting down and abandoning module AppleImageUtils (552)
+[2022.11.10-00.22.26:685][992]LogModuleManager: Shutting down and abandoning module AndroidPermission (550)
+[2022.11.10-00.22.26:685][992]LogModuleManager: Shutting down and abandoning module ScreenshotTools (548)
+[2022.11.10-00.22.26:685][992]LogModuleManager: Shutting down and abandoning module TemplateSequence (546)
+[2022.11.10-00.22.26:685][992]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (544)
+[2022.11.10-00.22.26:685][992]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (542)
+[2022.11.10-00.22.26:685][992]LogOpenImageDenoise: OIDN shutting down
+[2022.11.10-00.22.26:686][992]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (540)
+[2022.11.10-00.22.26:686][992]LogModuleManager: Shutting down and abandoning module MotoSynth (538)
+[2022.11.10-00.22.26:686][992]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (536)
+[2022.11.10-00.22.26:686][992]LogModuleManager: Shutting down and abandoning module MeshConversion (534)
+[2022.11.10-00.22.26:686][992]LogModuleManager: Shutting down and abandoning module DynamicMesh (532)
+[2022.11.10-00.22.26:686][992]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (530)
+[2022.11.10-00.22.26:686][992]LogModuleManager: Shutting down and abandoning module GeometricObjects (528)
+[2022.11.10-00.22.26:686][992]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (526)
+[2022.11.10-00.22.26:686][992]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (525)
+[2022.11.10-00.22.26:686][992]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (522)
+[2022.11.10-00.22.26:686][992]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (520)
+[2022.11.10-00.22.26:686][992]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (518)
+[2022.11.10-00.22.26:686][992]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (516)
+[2022.11.10-00.22.26:686][992]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (514)
+[2022.11.10-00.22.26:686][992]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (512)
+[2022.11.10-00.22.26:686][992]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (510)
+[2022.11.10-00.22.26:686][992]LogModuleManager: Shutting down and abandoning module MediaCompositing (508)
+[2022.11.10-00.22.26:686][992]LogModuleManager: Shutting down and abandoning module ImgMedia (506)
+[2022.11.10-00.22.26:686][992]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (504)
+[2022.11.10-00.22.26:686][992]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (502)
+[2022.11.10-00.22.26:686][992]LogModuleManager: Shutting down and abandoning module FractureEditor (500)
+[2022.11.10-00.22.26:686][992]LogModuleManager: Shutting down and abandoning module ChaosNiagara (498)
+[2022.11.10-00.22.26:686][992]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (497)
+[2022.11.10-00.22.26:686][992]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (494)
+[2022.11.10-00.22.26:686][992]LogModuleManager: Shutting down and abandoning module BackChannel (492)
+[2022.11.10-00.22.26:686][992]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (490)
+[2022.11.10-00.22.26:686][992]LogModuleManager: Shutting down and abandoning module AutomationUtils (488)
+[2022.11.10-00.22.26:686][992]LogModuleManager: Shutting down and abandoning module AlembicImporter (486)
+[2022.11.10-00.22.26:686][992]LogModuleManager: Shutting down and abandoning module AlembicLibrary (485)
+[2022.11.10-00.22.26:686][992]LogModuleManager: Shutting down and abandoning module GeometryCache (484)
+[2022.11.10-00.22.26:686][992]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (483)
+[2022.11.10-00.22.26:686][992]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (478)
+[2022.11.10-00.22.26:686][992]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (476)
+[2022.11.10-00.22.26:686][992]LogModuleManager: Shutting down and abandoning module PluginBrowser (474)
+[2022.11.10-00.22.26:687][992]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (472)
+[2022.11.10-00.22.26:687][992]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (470)
+[2022.11.10-00.22.26:687][992]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (468)
+[2022.11.10-00.22.26:687][992]LogModuleManager: Shutting down and abandoning module UObjectPlugin (466)
+[2022.11.10-00.22.26:687][992]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (464)
+[2022.11.10-00.22.26:687][992]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (462)
+[2022.11.10-00.22.26:687][992]LogModuleManager: Shutting down and abandoning module PluginUtils (460)
+[2022.11.10-00.22.26:687][992]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (458)
+[2022.11.10-00.22.26:687][992]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (456)
+[2022.11.10-00.22.26:687][992]LogModuleManager: Shutting down and abandoning module GitSourceControl (454)
+[2022.11.10-00.22.26:687][992]LogModuleManager: Shutting down and abandoning module SourceControl (453)
+[2022.11.10-00.22.26:687][992]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (450)
+[2022.11.10-00.22.26:687][992]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (448)
+[2022.11.10-00.22.26:687][992]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (446)
+[2022.11.10-00.22.26:687][992]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (444)
+[2022.11.10-00.22.26:687][992]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (442)
+[2022.11.10-00.22.26:687][992]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (440)
+[2022.11.10-00.22.26:687][992]LogModuleManager: Shutting down and abandoning module CryptoKeys (438)
+[2022.11.10-00.22.26:687][992]LogModuleManager: Shutting down and abandoning module CurveEditorTools (436)
+[2022.11.10-00.22.26:688][992]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (434)
+[2022.11.10-00.22.26:688][992]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (432)
+[2022.11.10-00.22.26:688][992]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (430)
+[2022.11.10-00.22.26:688][992]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (428)
+[2022.11.10-00.22.26:688][992]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (426)
+[2022.11.10-00.22.26:688][992]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (424)
+[2022.11.10-00.22.26:688][992]LogModuleManager: Shutting down and abandoning module LiveLink (422)
+[2022.11.10-00.22.26:787][992]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (420)
+[2022.11.10-00.22.26:787][992]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (418)
+[2022.11.10-00.22.26:787][992]LogModuleManager: Shutting down and abandoning module Paper2DEditor (416)
+[2022.11.10-00.22.26:787][992]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (414)
+[2022.11.10-00.22.26:787][992]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (412)
+[2022.11.10-00.22.26:787][992]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (410)
+[2022.11.10-00.22.26:787][992]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (406)
+[2022.11.10-00.22.26:787][992]LogModuleManager: Shutting down and abandoning module SoundFields (404)
+[2022.11.10-00.22.26:787][992]LogModuleManager: Shutting down and abandoning module SignificanceManager (402)
+[2022.11.10-00.22.26:787][992]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (400)
+[2022.11.10-00.22.26:787][992]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (398)
+[2022.11.10-00.22.26:787][992]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (396)
+[2022.11.10-00.22.26:788][992]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (394)
+[2022.11.10-00.22.26:788][992]LogModuleManager: Shutting down and abandoning module UdpMessaging (392)
+[2022.11.10-00.22.26:889][992]LogModuleManager: Shutting down and abandoning module ActorSequence (390)
+[2022.11.10-00.22.26:889][992]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (388)
+[2022.11.10-00.22.26:889][992]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (386)
+[2022.11.10-00.22.26:889][992]LogModuleManager: Shutting down and abandoning module TcpMessaging (384)
+[2022.11.10-00.22.26:990][992]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (382)
+[2022.11.10-00.22.26:990][992]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (380)
+[2022.11.10-00.22.26:990][992]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (378)
+[2022.11.10-00.22.26:990][992]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (376)
+[2022.11.10-00.22.26:990][992]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.11.10-00.22.26:990][992]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (374)
+[2022.11.10-00.22.26:990][992]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (372)
+[2022.11.10-00.22.26:990][992]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (370)
+[2022.11.10-00.22.26:990][992]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (368)
+[2022.11.10-00.22.26:990][992]LogModuleManager: Shutting down and abandoning module MagicLeapController (366)
+[2022.11.10-00.22.26:990][992]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (364)
+[2022.11.10-00.22.26:990][992]LogModuleManager: Shutting down and abandoning module MagicLeapAR (362)
+[2022.11.10-00.22.26:990][992]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (360)
+[2022.11.10-00.22.26:990][992]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (358)
+[2022.11.10-00.22.26:990][992]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2022.11.10-00.22.26:990][992]LogModuleManager: Shutting down and abandoning module SignalProcessing (355)
+[2022.11.10-00.22.26:990][992]LogModuleManager: Shutting down and abandoning module NiagaraEditor (353)
+[2022.11.10-00.22.26:991][992]LogModuleManager: Shutting down and abandoning module NiagaraCore (350)
+[2022.11.10-00.22.26:991][992]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (348)
+[2022.11.10-00.22.26:991][992]LogModuleManager: Shutting down and abandoning module AnimationSharing (346)
+[2022.11.10-00.22.26:991][992]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (344)
+[2022.11.10-00.22.26:991][992]LogModuleManager: Shutting down and abandoning module DataValidation (342)
+[2022.11.10-00.22.26:991][992]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (340)
+[2022.11.10-00.22.26:991][992]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (338)
+[2022.11.10-00.22.26:991][992]LogModuleManager: Shutting down and abandoning module FacialAnimation (336)
+[2022.11.10-00.22.26:991][992]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (334)
+[2022.11.10-00.22.26:991][992]LogModuleManager: Shutting down and abandoning module LevelEditor (333)
+[2022.11.10-00.22.26:994][992]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (332)
+[2022.11.10-00.22.26:994][992]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (330)
+[2022.11.10-00.22.26:995][992]LogModuleManager: Shutting down and abandoning module MainFrame (328)
+[2022.11.10-00.22.26:995][992]LogModuleManager: Shutting down and abandoning module HotReload (327)
+[2022.11.10-00.22.26:995][992]LogModuleManager: Shutting down and abandoning module ToolMenus (323)
+[2022.11.10-00.22.26:995][992]LogModuleManager: Shutting down and abandoning module ContentBrowser (321)
+[2022.11.10-00.22.26:995][992]LogModuleManager: Shutting down and abandoning module ContentBrowserData (320)
+[2022.11.10-00.22.26:995][992]LogModuleManager: Shutting down and abandoning module TreeMap (317)
+[2022.11.10-00.22.26:995][992]LogModuleManager: Shutting down and abandoning module GameplayCameras (314)
+[2022.11.10-00.22.26:996][992]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (312)
+[2022.11.10-00.22.26:996][992]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2022.11.10-00.22.26:996][992]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2022.11.10-00.22.27:187][992]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2022.11.10-00.22.27:187][992]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2022.11.10-00.22.27:187][992]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2022.11.10-00.22.27:187][992]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2022.11.10-00.22.27:188][992]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2022.11.10-00.22.27:188][992]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2022.11.10-00.22.27:188][992]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2022.11.10-00.22.27:188][992]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2022.11.10-00.22.27:188][992]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2022.11.10-00.22.27:188][992]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2022.11.10-00.22.27:188][992]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2022.11.10-00.22.27:188][992]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2022.11.10-00.22.27:188][992]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2022.11.10-00.22.27:188][992]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2022.11.10-00.22.27:188][992]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2022.11.10-00.22.27:188][992]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2022.11.10-00.22.27:188][992]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2022.11.10-00.22.27:188][992]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2022.11.10-00.22.27:188][992]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2022.11.10-00.22.27:188][992]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2022.11.10-00.22.27:188][992]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2022.11.10-00.22.27:189][992]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2022.11.10-00.22.27:189][992]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2022.11.10-00.22.27:189][992]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2022.11.10-00.22.27:189][992]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2022.11.10-00.22.27:189][992]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2022.11.10-00.22.27:189][992]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2022.11.10-00.22.27:189][992]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2022.11.10-00.22.27:189][992]LogModuleManager: Shutting down and abandoning module Core (248)
+[2022.11.10-00.22.27:189][992]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2022.11.10-00.22.27:190][992]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2022.11.10-00.22.27:190][992]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2022.11.10-00.22.27:190][992]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2022.11.10-00.22.27:190][992]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2022.11.10-00.22.27:320][992]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2022.11.10-00.22.27:320][992]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2022.11.10-00.22.27:320][992]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2022.11.10-00.22.27:320][992]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2022.11.10-00.22.27:320][992]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2022.11.10-00.22.27:320][992]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2022.11.10-00.22.27:320][992]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2022.11.10-00.22.27:320][992]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2022.11.10-00.22.27:320][992]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2022.11.10-00.22.27:320][992]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2022.11.10-00.22.27:320][992]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2022.11.10-00.22.27:320][992]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2022.11.10-00.22.27:320][992]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2022.11.10-00.22.27:320][992]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2022.11.10-00.22.27:321][992]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2022.11.10-00.22.27:321][992]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2022.11.10-00.22.27:321][992]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2022.11.10-00.22.27:321][992]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2022.11.10-00.22.27:321][992]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2022.11.10-00.22.27:321][992]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2022.11.10-00.22.27:321][992]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2022.11.10-00.22.27:321][992]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2022.11.10-00.22.27:321][992]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2022.11.10-00.22.27:321][992]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2022.11.10-00.22.27:321][992]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2022.11.10-00.22.27:322][992]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2022.11.10-00.22.27:322][992]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2022.11.10-00.22.27:322][992]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2022.11.10-00.22.27:322][992]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2022.11.10-00.22.27:322][992]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2022.11.10-00.22.27:322][992]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2022.11.10-00.22.27:322][992]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2022.11.10-00.22.27:322][992]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2022.11.10-00.22.27:322][992]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2022.11.10-00.22.27:380][992]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2022.11.10-00.22.27:380][992]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2022.11.10-00.22.27:380][992]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2022.11.10-00.22.27:380][992]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2022.11.10-00.22.27:380][992]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2022.11.10-00.22.27:393][992]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2022.11.10-00.22.27:393][992]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2022.11.10-00.22.27:393][992]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2022.11.10-00.22.27:393][992]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2022.11.10-00.22.27:393][992]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2022.11.10-00.22.27:393][992]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2022.11.10-00.22.27:393][992]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2022.11.10-00.22.27:393][992]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2022.11.10-00.22.27:393][992]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2022.11.10-00.22.27:417][992]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2022.11.10-00.22.27:640][992]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2022.11.10-00.22.27:640][992]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2022.11.10-00.22.27:640][992]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2022.11.10-00.22.27:640][992]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2022.11.10-00.22.27:641][992]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2022.11.10-00.22.27:642][992]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2022.11.10-00.22.27:642][992]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2022.11.10-00.22.27:642][992]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2022.11.10-00.22.27:642][992]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2022.11.10-00.22.27:642][992]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2022.11.10-00.22.27:642][992]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2022.11.10-00.22.27:642][992]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2022.11.10-00.22.27:642][992]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2022.11.10-00.22.27:642][992]LogHMD: Freeing OpenVRDLLHandle.
+[2022.11.10-00.22.27:642][992]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2022.11.10-00.22.27:642][992]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (108)
+[2022.11.10-00.22.27:642][992]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.11.10-00.22.27:643][992]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (106)
+[2022.11.10-00.22.27:643][992]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2022.11.10-00.22.27:643][992]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2022.11.10-00.22.27:643][992]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2022.11.10-00.22.27:644][992]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2022.11.10-00.22.27:644][992]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2022.11.10-00.22.27:644][992]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (94)
+[2022.11.10-00.22.27:644][992]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2022.11.10-00.22.27:644][992]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2022.11.10-00.22.27:646][992]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2022.11.10-00.22.27:646][992]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2022.11.10-00.22.27:670][992]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2022.11.10-00.22.27:670][992]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.11.10-00.22.27:670][992]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B09E7EF98-4CCE-562C-870D-D188F869BF55%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=dffbe9a149879994bdd344b8457e9942%7C044152d583a444fbb8b43b9a22a4efa2%7C7a74643f-52b7-4df9-b1d9-f8ae896744e9&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.11.10-00.22.27:670][992]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.11.10-00.22.27:688][992]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2022.11.10-00.22.27:690][992]LogModuleManager: Shutting down and abandoning module MLSDK (74)
+[2022.11.10-00.22.27:690][992]LogModuleManager: Shutting down and abandoning module MagicLeap (72)
+[2022.11.10-00.22.27:690][992]LogModuleManager: Shutting down and abandoning module WmfMedia (70)
+[2022.11.10-00.22.27:692][992]LogModuleManager: Shutting down and abandoning module Media (69)
+[2022.11.10-00.22.27:693][992]LogModuleManager: Shutting down and abandoning module MediaInfo (68)
+[2022.11.10-00.22.27:693][992]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (64)
+[2022.11.10-00.22.27:693][992]LogModuleManager: Shutting down and abandoning module ChaosCloth (62)
+[2022.11.10-00.22.27:693][992]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (60)
+[2022.11.10-00.22.27:693][992]LogModuleManager: Shutting down and abandoning module NiagaraShader (58)
+[2022.11.10-00.22.27:693][992]LogModuleManager: Shutting down and abandoning module VariantManagerContent (56)
+[2022.11.10-00.22.27:693][992]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2022.11.10-00.22.27:694][992]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2022.11.10-00.22.27:694][992]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.11.10-00.22.27:694][992]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.11.10-00.22.27:694][992]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2022.11.10-00.22.27:694][992]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2022.11.10-00.22.27:694][992]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2022.11.10-00.22.27:694][992]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2022.11.10-00.22.27:694][992]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2022.11.10-00.22.27:694][992]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2022.11.10-00.22.27:694][992]LogXGEController: Cleaning working directory: C:/Users/ehowl/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.11.10-00.22.27:694][992]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2022.11.10-00.22.27:694][992]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.11.10-00.22.27:695][992]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2022.11.10-00.22.27:695][992]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.11.10-00.22.27:695][992]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.11.10-00.22.27:695][992]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.11.10-00.22.27:695][992]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.11.10-00.22.27:996][992]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.11.10-00.22.27:996][992]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.11.10-00.22.27:996][992]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.11.10-00.22.27:996][992]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.11.10-00.22.27:996][992]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.11.10-00.22.27:996][992]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.11.10-00.22.27:996][992]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.11.10-00.22.27:996][992]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.11.10-00.22.27:996][992]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.11.10-00.22.27:996][992]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.11.10-00.22.27:996][992]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.11.10-00.22.28:270][992]LogD3D11RHI: Shutdown
+[2022.11.10-00.22.28:270][992]LogD3D11RHI: CleanupD3DDevice
+[2022.11.10-00.22.28:297][992]LogExit: Exiting.
+[2022.11.10-00.22.28:365][992]Log file closed, 11/09/22 19:22:28
