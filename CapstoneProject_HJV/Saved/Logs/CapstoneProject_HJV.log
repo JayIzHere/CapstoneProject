@@ -6928,3 +6928,1180 @@ Scale3D: 1.000000 1.000000 1.000000
 [2023.03.22-21.51.32:137][689]LogContentValidation: Display: Validating Texture2D /Game/Art/Textures/FloorSplatter/Lab_FloorSplatter_normal.Lab_FloorSplatter_normal
 [2023.03.22-21.51.32:137][689]LogContentValidation: Display: Validating Texture2D /Game/Art/Textures/FloorSplatter/Lab_FloorSplatter_OcclusionRoughnessMetallic.Lab_FloorSplatter_OcclusionRoughnessMetallic
 [2023.03.22-21.51.32:137][689]LogContentValidation: Display: Validating Texture2D /Game/Art/Textures/FloorSplatter/Lab_FloorSplatter_basecolor.Lab_FloorSplatter_basecolor
+[2023.03.22-21.53.13:900][377]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Prop_Folder)
+[2023.03.22-21.53.29:623][310]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Lab_Gurney)
+[2023.03.22-21.53.39:116][840]LogContentBrowser: Deferred new asset file creation: GurneyMAt_Inst
+[2023.03.22-21.53.39:138][840]LogContentBrowser: Creating deferred item: GurneyMAt_Inst
+[2023.03.22-21.53.48:006][337]LogContentBrowser: Attempting asset rename: GurneyMAt_Inst -> NotGrindableGurneyMAt_Inst
+[2023.03.22-21.53.48:007][337]LogContentBrowser: End creating deferred item GurneyMAt_Inst
+[2023.03.22-21.53.50:012][447]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Art/Materials/LabMaterials/NotGrindableGurneyMAt_Inst.NotGrindableGurneyMAt_Inst
+[2023.03.22-21.54.06:393][420]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.03.22-21.54.06:453][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.03.22-21.54.06:469][420]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.03.22-21.54.06:469][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-21.54.10:460][653]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Art/Materials/LabMaterials/NotGrindableGurneyMAt_Inst.NotGrindableGurneyMAt_Inst
+[2023.03.22-21.54.14:579][891]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/NotGrindableGurneyMAt_Inst074ABF0E4540CC2BEB528EB1F5873298.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Art/Materials/LabMaterials/NotGrindableGurneyMAt_Inst.uasset'
+[2023.03.22-21.54.14:592][891]AssetCheck: New page: Asset Save: NotGrindableGurneyMAt_Inst
+[2023.03.22-21.54.14:592][891]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Art/Materials/LabMaterials/NotGrindableGurneyMAt_Inst.NotGrindableGurneyMAt_Inst
+[2023.03.22-21.54.24:683][482]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Art/Materials/LabMaterials/GurneyMAt.GurneyMAt
+[2023.03.22-21.54.24:684][482]LogMaterial: Display: Missing cached shadermap for GurneyMAt in PCD3D_SM5, Default, SM5 (DDC key hash: 8794268A958B261567122BAF5FB9532B4BC3D6A7), compiling. 
+[2023.03.22-21.54.24:691][482]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Normal' priority
+[2023.03.22-21.54.24:723][482]LogMaterial: Display: Missing cached shadermap for GurneyMAt in PCD3D_SM5, Default, SM5 (DDC key hash: 81183AA4493FBE27C208C9E3526887B6402D30F7), compiling. 
+[2023.03.22-21.54.24:724][482]LogMaterial: Display: Missing cached shadermap for GurneyMAt in PCD3D_SM5, Default, SM5 (DDC key hash: 23E8A59BD7F0DED2C00F1CF5D05A2FF55A8221C0), compiling. 
+[2023.03.22-21.54.24:726][482]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: EADBB67F8550BACA04A2D39B949DFA3CC69CDF41), compiling. 
+[2023.03.22-21.54.24:726][482]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: D5F256377D471ACC8BEED78BA6432992E9569E0A), compiling. 
+[2023.03.22-21.54.24:727][482]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 2DBA47B9A6A2DEB7F5A26C184409C290BF37D9B5), compiling. 
+[2023.03.22-21.54.24:728][482]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: F793B16195BCDD8C0FA11025475450A3B350BAE1), compiling. 
+[2023.03.22-21.54.24:736][482]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.54.24:736][482]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.03.22-21.54.24:736][482]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.54.24:779][483]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.03.22-21.54.24:779][483]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2023.03.22-21.54.24:779][483]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.03.22-21.54.24:779][483]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.03.22-21.54.24:779][483]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 10
+[2023.03.22-21.54.24:779][483]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 9
+[2023.03.22-21.54.24:779][483]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2023.03.22-21.54.24:779][483]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2023.03.22-21.54.24:779][483]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2023.03.22-21.54.24:779][483]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 5
+[2023.03.22-21.54.24:779][483]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2023.03.22-21.54.24:779][483]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2023.03.22-21.54.24:779][483]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2023.03.22-21.54.24:779][483]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2023.03.22-21.54.24:779][483]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.03.22-21.54.24:779][483]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.03.22-21.54.24:959][490]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.03.22-21.54.24:966][490]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.03.22-21.54.24:972][490]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.22-21.54.24:972][490]LogShaderCompilers: Display: Total job queries 1358, among them cache hits 747 (55.01%)
+[2023.03.22-21.54.24:972][490]LogShaderCompilers: Display: Tracking 500 distinct input hashes that result in 283 distinct outputs (56.60%)
+[2023.03.22-21.54.24:972][490]LogShaderCompilers: Display: RAM used: 1.77 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.22%
+[2023.03.22-21.54.24:972][490]LogShaderCompilers: Display: ================================================
+[2023.03.22-21.54.25:639][520]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2023.03.22-21.54.25:639][520]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.03.22-21.54.25:684][522]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.03.22-21.54.25:707][523]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2023.03.22-21.54.25:707][523]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.03.22-21.54.25:780][526]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2023.03.22-21.54.25:780][526]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.03.22-21.54.25:780][526]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2023.03.22-21.54.25:780][526]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.03.22-21.54.25:972][535]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.03.22-21.54.25:972][535]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.03.22-21.54.25:997][536]MaterialEditorStats: Texture samplers: 6/16
+[2023.03.22-21.54.25:997][536]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.03.22-21.54.25:997][536]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.54.26:041][538]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2023.03.22-21.54.26:041][538]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.03.22-21.54.26:252][548]MaterialEditorStats: Base pass shader: 130 instructions
+[2023.03.22-21.54.26:252][548]MaterialEditorStats: Base pass shader with Surface Lightmap: 161 instructions
+[2023.03.22-21.54.26:252][548]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 208 instructions
+[2023.03.22-21.54.26:253][548]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.54.26:253][548]MaterialEditorStats: Texture samplers: 6/16
+[2023.03.22-21.54.26:253][548]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.03.22-21.54.26:253][548]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.54.29:938][769]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 44C59EB2D8180C96F236ACE670671D930D08E246), compiling. 
+[2023.03.22-21.54.32:881][944]LogMaterial: Display: Missing cached shadermap for GurneyMAt in PCD3D_SM5, Default, SM5 (DDC key hash: D29876080C857F1EE3B58C5576F90A55B8B1CFBE), compiling. 
+[2023.03.22-21.54.32:883][944]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 6AFE09A3E736ABBDCF1A3A26383DE6B933039073), compiling. 
+[2023.03.22-21.54.32:884][944]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 72EA63082CBF1F259EA48FE1E008C2C3AF4DB1E8), compiling. 
+[2023.03.22-21.54.32:889][944]LogMaterial: Display: Missing cached shadermap for GurneyMAt in PCD3D_SM5, Default, SM5 (DDC key hash: 7EC1FA063143EC8D5336FE1BEF8CE44298CC5A1E), compiling. 
+[2023.03.22-21.54.32:890][944]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C1202B53A5CE865C2A2E2FF99DF963F646B5C560), compiling. 
+[2023.03.22-21.54.32:897][944]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.54.32:897][944]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.03.22-21.54.32:897][944]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.54.32:936][946]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.03.22-21.54.32:936][946]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.03.22-21.54.32:936][946]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.03.22-21.54.32:936][946]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.03.22-21.54.32:939][946]MaterialEditorStats: Base pass shader: 130 instructions
+[2023.03.22-21.54.32:939][946]MaterialEditorStats: Base pass shader with Surface Lightmap: 161 instructions
+[2023.03.22-21.54.32:939][946]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 208 instructions
+[2023.03.22-21.54.32:939][946]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.54.32:939][946]MaterialEditorStats: Texture samplers: 6/16
+[2023.03.22-21.54.32:939][946]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.03.22-21.54.32:939][946]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.54.49:855][958]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/NotGrindableGurneyMAt_Inst6EE05A144DC2B16FA453659AFEE688C8.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Art/Materials/LabMaterials/NotGrindableGurneyMAt_Inst.uasset'
+[2023.03.22-21.54.49:865][958]AssetCheck: New page: Asset Save: NotGrindableGurneyMAt_Inst
+[2023.03.22-21.54.49:865][958]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Art/Materials/LabMaterials/NotGrindableGurneyMAt_Inst.NotGrindableGurneyMAt_Inst
+[2023.03.22-21.54.52:443][112]LogMaterialEditor: Saving and Compiling material GurneyMAt
+[2023.03.22-21.54.52:685][112]LogMaterial: Display: Missing cached shadermap for GurneyMAt in PCD3D_SM5, Default, SM5 (DDC key hash: 06230B5DB8186E41A2E4E50720793C9A0B174859), compiling. 
+[2023.03.22-21.54.52:710][112]LogMaterial: Display: Missing cached shadermap for GurneyMAt in PCD3D_SM5, Default, SM5 (DDC key hash: 087549F49CAE35522FCF1F285309EAA01F07600C), compiling. 
+[2023.03.22-21.54.52:815][112]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2023.03.22-21.54.52:815][112]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.03.22-21.54.52:815][112]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 3
+[2023.03.22-21.54.52:815][112]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2023.03.22-21.54.52:815][112]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2023.03.22-21.54.52:815][112]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.03.22-21.54.52:815][112]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 17
+[2023.03.22-21.54.52:815][112]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 15
+[2023.03.22-21.54.52:815][112]LogShaderCompilers: Display: Submitted 17 shader compile jobs with 'Normal' priority
+[2023.03.22-21.54.52:815][112]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 13
+[2023.03.22-21.54.52:815][112]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 11
+[2023.03.22-21.54.52:815][112]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 9
+[2023.03.22-21.54.52:815][112]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 7
+[2023.03.22-21.54.52:815][112]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2023.03.22-21.54.52:815][112]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2023.03.22-21.54.52:815][112]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2023.03.22-21.54.52:815][112]LogShaderCompilers: Display: Started 17 'Local' shader compile jobs with 'Normal' priority
+[2023.03.22-21.54.52:815][112]LogShaderCompilers: Display: Submitted 18 shader compile jobs with 'Normal' priority
+[2023.03.22-21.54.52:824][112]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2023.03.22-21.54.53:559][112]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.03.22-21.54.53:559][112]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.03.22-21.54.53:559][112]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 17
+[2023.03.22-21.54.53:559][112]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.03.22-21.54.53:559][112]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 15
+[2023.03.22-21.54.53:559][112]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.03.22-21.54.53:559][112]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 13
+[2023.03.22-21.54.53:559][112]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.03.22-21.54.53:559][112]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 11
+[2023.03.22-21.54.53:559][112]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 10
+[2023.03.22-21.54.53:559][112]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.03.22-21.54.53:607][112]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 9
+[2023.03.22-21.54.53:607][112]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.22-21.54.53:614][112]LogUObjectHash: Compacting FUObjectHashTables data took   6.23ms
+[2023.03.22-21.54.53:859][112]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 8
+[2023.03.22-21.54.53:859][112]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.22-21.54.53:859][112]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2023.03.22-21.54.53:859][112]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.22-21.54.54:062][112]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2023.03.22-21.54.54:062][112]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.22-21.54.54:062][112]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2023.03.22-21.54.54:062][112]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.22-21.54.54:062][112]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2023.03.22-21.54.54:062][112]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.22-21.54.54:062][112]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2023.03.22-21.54.54:062][112]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.22-21.54.54:062][112]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2023.03.22-21.54.54:062][112]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.22-21.54.54:201][112]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2023.03.22-21.54.54:201][112]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.22-21.54.54:567][112]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/GurneyMAtEB9F33F8479BC58B0D9E2F88321C0C28.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Art/Materials/LabMaterials/GurneyMAt.uasset'
+[2023.03.22-21.54.54:584][112]AssetCheck: New page: Asset Save: GurneyMAt
+[2023.03.22-21.54.54:584][112]LogContentValidation: Display: Validating Material /Game/Art/Materials/LabMaterials/GurneyMAt.GurneyMAt
+[2023.03.22-21.54.54:585][112]MaterialEditorStats: Base pass shader: 130 instructions
+[2023.03.22-21.54.54:585][112]MaterialEditorStats: Base pass shader with Surface Lightmap: 161 instructions
+[2023.03.22-21.54.54:585][112]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 208 instructions
+[2023.03.22-21.54.54:585][112]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.54.54:585][112]MaterialEditorStats: Texture samplers: 7/16
+[2023.03.22-21.54.54:585][112]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.03.22-21.54.54:585][112]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.20:706][663]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 65E7EEC89A108C15908CC6CBF3C8BE0D1343AC65), compiling. 
+[2023.03.22-21.55.25:983][979]LogEditorTransaction: Undo Material Editor: Toggle Collapsed
+[2023.03.22-21.55.25:986][979]LogMaterial: Display: Missing cached shadermap for RailGrindMat in PCD3D_SM5, Default, SM5 (DDC key hash: F02B7A45208F7AB971F0395FCD783D0BF24F877F), compiling. 
+[2023.03.22-21.55.26:046][979]LogMaterial: Display: Missing cached shadermap for LabCeilingLights_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: D218AE385F47CCFCAC26894B0E3491FDF45549A5), compiling. 
+[2023.03.22-21.55.26:053][979]LogMaterial: Display: Missing cached shadermap for LabFloor in PCD3D_SM5, Default, SM5 (DDC key hash: DC61FE14489345B51F255ED1E97DC67ACE82D7D8), compiling. 
+[2023.03.22-21.55.26:060][979]LogMaterial: Display: Missing cached shadermap for AcidMat in PCD3D_SM5, Default, SM5 (DDC key hash: 31F8BF15CC57C69D03CACF94ED63B7E79A896CE0), compiling. 
+[2023.03.22-21.55.26:075][979]LogMaterial: Display: Missing cached shadermap for GurneyMAt in PCD3D_SM5, Default, SM5 (DDC key hash: 5B12E15EE0A9310581CCDF7497129B9386F4A5F6), compiling. 
+[2023.03.22-21.55.26:104][979]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.55.26:104][979]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.55.26:104][979]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.03.22-21.55.26:104][979]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.26:104][979]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.55.26:104][979]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.55.26:104][979]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.26:104][979]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.55.26:104][979]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.55.26:104][979]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.26:104][979]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.55.26:104][979]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.03.22-21.55.26:104][979]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.26:149][981]MaterialEditorStats: Base pass shader: 130 instructions
+[2023.03.22-21.55.26:149][981]MaterialEditorStats: Base pass shader with Surface Lightmap: 161 instructions
+[2023.03.22-21.55.26:149][981]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 208 instructions
+[2023.03.22-21.55.26:149][981]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.55.26:149][981]MaterialEditorStats: Texture samplers: 6/16
+[2023.03.22-21.55.26:149][981]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.03.22-21.55.26:149][981]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.26:185][982]MaterialEditorStats: Texture samplers: 4/16
+[2023.03.22-21.55.26:225][983]MaterialEditorStats: Base pass shader: 78 instructions
+[2023.03.22-21.55.26:225][983]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2023.03.22-21.55.26:225][983]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2023.03.22-21.55.26:225][983]MaterialEditorStats: Texture samplers: 4/16
+[2023.03.22-21.55.26:225][983]MaterialEditorStats: Texture samplers: 6/16
+[2023.03.22-21.55.26:225][983]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.03.22-21.55.26:225][983]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.26:225][983]MaterialEditorStats: Base pass shader: 129 instructions
+[2023.03.22-21.55.26:225][983]MaterialEditorStats: Base pass shader with Surface Lightmap: 158 instructions
+[2023.03.22-21.55.26:225][983]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 205 instructions
+[2023.03.22-21.55.26:225][983]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.55.26:225][983]MaterialEditorStats: Texture samplers: 5/16
+[2023.03.22-21.55.26:225][983]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.55.26:225][983]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.26:225][983]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.03.22-21.55.26:225][983]MaterialEditorStats: Base pass shader with Surface Lightmap: 159 instructions
+[2023.03.22-21.55.26:225][983]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2023.03.22-21.55.26:225][983]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.55.26:225][983]MaterialEditorStats: Texture samplers: 5/16
+[2023.03.22-21.55.26:225][983]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.55.26:225][983]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.26:256][984]MaterialEditorStats: Base pass shader: 131 instructions
+[2023.03.22-21.55.26:256][984]MaterialEditorStats: Base pass shader with Surface Lightmap: 162 instructions
+[2023.03.22-21.55.26:256][984]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2023.03.22-21.55.26:256][984]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.55.26:256][984]MaterialEditorStats: Texture samplers: 6/16
+[2023.03.22-21.55.26:256][984]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.03.22-21.55.26:256][984]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.26:516][996]LogEditorTransaction: Undo Material Editor: Toggle Collapsed
+[2023.03.22-21.55.26:517][996]LogMaterial: Display: Missing cached shadermap for RailGrindMat in PCD3D_SM5, Default, SM5 (DDC key hash: 80FBA8B09D759EEA54B62162C66472CBBCFD2B64), compiling. 
+[2023.03.22-21.55.26:565][996]LogMaterial: Display: Missing cached shadermap for LabCeilingLights_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 85B579C42F2C299DB31D636A4F1B90737555877E), compiling. 
+[2023.03.22-21.55.26:567][996]LogMaterial: Display: Missing cached shadermap for LabFloor in PCD3D_SM5, Default, SM5 (DDC key hash: E26EE73A1B1ADBA9BBB40BCCCF8408CDA7D34F94), compiling. 
+[2023.03.22-21.55.26:568][996]LogMaterial: Display: Missing cached shadermap for AcidMat in PCD3D_SM5, Default, SM5 (DDC key hash: 9E5E421163FC39328185FC1F85C4FEF13C3A21A1), compiling. 
+[2023.03.22-21.55.26:582][996]LogMaterial: Display: Missing cached shadermap for GurneyMAt in PCD3D_SM5, Default, SM5 (DDC key hash: 9C33BBBFFF4740B2EFACD703AA109033794D43DD), compiling. 
+[2023.03.22-21.55.26:584][996]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F6EF7E725F3AAD74D467333AAD64D33CBE66EBB3), compiling. 
+[2023.03.22-21.55.26:600][996]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.55.26:600][996]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.55.26:600][996]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.03.22-21.55.26:600][996]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.26:600][996]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.55.26:600][996]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.55.26:600][996]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.26:600][996]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.55.26:600][996]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.55.26:600][996]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.26:600][996]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.55.26:600][996]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.03.22-21.55.26:600][996]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.26:627][998]MaterialEditorStats: Base pass shader: 130 instructions
+[2023.03.22-21.55.26:627][998]MaterialEditorStats: Base pass shader with Surface Lightmap: 161 instructions
+[2023.03.22-21.55.26:627][998]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 208 instructions
+[2023.03.22-21.55.26:627][998]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.55.26:627][998]MaterialEditorStats: Texture samplers: 6/16
+[2023.03.22-21.55.26:627][998]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.03.22-21.55.26:627][998]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.26:658][999]MaterialEditorStats: Base pass shader: 78 instructions
+[2023.03.22-21.55.26:659][999]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2023.03.22-21.55.26:659][999]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2023.03.22-21.55.26:659][999]MaterialEditorStats: Texture samplers: 4/16
+[2023.03.22-21.55.26:679][  0]MaterialEditorStats: Base pass shader: 131 instructions
+[2023.03.22-21.55.26:679][  0]MaterialEditorStats: Base pass shader with Surface Lightmap: 162 instructions
+[2023.03.22-21.55.26:679][  0]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2023.03.22-21.55.26:679][  0]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.55.26:679][  0]MaterialEditorStats: Texture samplers: 6/16
+[2023.03.22-21.55.26:679][  0]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.03.22-21.55.26:679][  0]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.26:679][  0]MaterialEditorStats: Base pass shader: 129 instructions
+[2023.03.22-21.55.26:679][  0]MaterialEditorStats: Base pass shader with Surface Lightmap: 158 instructions
+[2023.03.22-21.55.26:679][  0]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 205 instructions
+[2023.03.22-21.55.26:679][  0]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.55.26:679][  0]MaterialEditorStats: Texture samplers: 5/16
+[2023.03.22-21.55.26:679][  0]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.55.26:679][  0]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.26:679][  0]MaterialEditorStats: Texture samplers: 5/16
+[2023.03.22-21.55.26:679][  0]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.55.26:679][  0]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.26:697][  1]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.03.22-21.55.26:697][  1]MaterialEditorStats: Base pass shader with Surface Lightmap: 159 instructions
+[2023.03.22-21.55.26:697][  1]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2023.03.22-21.55.26:697][  1]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.55.26:697][  1]MaterialEditorStats: Texture samplers: 5/16
+[2023.03.22-21.55.26:697][  1]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.55.26:697][  1]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.26:995][ 19]LogEditorTransaction: Undo Emissive Edit Condition Changed
+[2023.03.22-21.55.26:996][ 19]LogMaterial: Display: Missing cached shadermap for RailGrindMat in PCD3D_SM5, Default, SM5 (DDC key hash: 8F0D8287D936B1A9066E56D59E49DB54DDC489A7), compiling. 
+[2023.03.22-21.55.27:043][ 19]LogMaterial: Display: Missing cached shadermap for LabCeilingLights_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 16E3F9159EC7402D2EE2470683F589C7294E2531), compiling. 
+[2023.03.22-21.55.27:045][ 19]LogMaterial: Display: Missing cached shadermap for LabFloor in PCD3D_SM5, Default, SM5 (DDC key hash: 7560981387B53F8AE5AED9426068A81FF1EC4A96), compiling. 
+[2023.03.22-21.55.27:046][ 19]LogMaterial: Display: Missing cached shadermap for AcidMat in PCD3D_SM5, Default, SM5 (DDC key hash: 663F0051BC679D54A001D32FDBBB2CB699509503), compiling. 
+[2023.03.22-21.55.27:059][ 19]LogMaterial: Display: Missing cached shadermap for GurneyMAt in PCD3D_SM5, Default, SM5 (DDC key hash: 9F650EEDF9B30FD6B4A2ED8233692C6585327504), compiling. 
+[2023.03.22-21.55.27:076][ 19]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.55.27:076][ 19]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.55.27:076][ 19]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.03.22-21.55.27:076][ 19]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.27:076][ 19]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.55.27:076][ 19]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.55.27:076][ 19]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.27:076][ 19]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.55.27:076][ 19]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.55.27:076][ 19]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.27:076][ 19]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.55.27:076][ 19]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.03.22-21.55.27:076][ 19]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.27:121][ 21]MaterialEditorStats: Base pass shader: 130 instructions
+[2023.03.22-21.55.27:121][ 21]MaterialEditorStats: Base pass shader with Surface Lightmap: 161 instructions
+[2023.03.22-21.55.27:121][ 21]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 208 instructions
+[2023.03.22-21.55.27:121][ 21]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.55.27:121][ 21]MaterialEditorStats: Texture samplers: 6/16
+[2023.03.22-21.55.27:121][ 21]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.03.22-21.55.27:121][ 21]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.27:145][ 22]MaterialEditorStats: Base pass shader: 78 instructions
+[2023.03.22-21.55.27:146][ 22]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2023.03.22-21.55.27:146][ 22]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2023.03.22-21.55.27:146][ 22]MaterialEditorStats: Texture samplers: 4/16
+[2023.03.22-21.55.27:146][ 22]MaterialEditorStats: Base pass shader: 131 instructions
+[2023.03.22-21.55.27:146][ 22]MaterialEditorStats: Base pass shader with Surface Lightmap: 162 instructions
+[2023.03.22-21.55.27:146][ 22]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2023.03.22-21.55.27:146][ 22]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.55.27:146][ 22]MaterialEditorStats: Texture samplers: 6/16
+[2023.03.22-21.55.27:146][ 22]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.03.22-21.55.27:146][ 22]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.27:165][ 23]MaterialEditorStats: Base pass shader: 129 instructions
+[2023.03.22-21.55.27:165][ 23]MaterialEditorStats: Base pass shader with Surface Lightmap: 158 instructions
+[2023.03.22-21.55.27:165][ 23]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 205 instructions
+[2023.03.22-21.55.27:165][ 23]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.55.27:165][ 23]MaterialEditorStats: Texture samplers: 5/16
+[2023.03.22-21.55.27:165][ 23]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.55.27:165][ 23]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.27:165][ 23]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.03.22-21.55.27:165][ 23]MaterialEditorStats: Base pass shader with Surface Lightmap: 159 instructions
+[2023.03.22-21.55.27:165][ 23]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2023.03.22-21.55.27:165][ 23]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.55.27:165][ 23]MaterialEditorStats: Texture samplers: 5/16
+[2023.03.22-21.55.27:165][ 23]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.55.27:165][ 23]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.27:415][ 38]LogEditorTransaction: Undo Move Node
+[2023.03.22-21.55.27:416][ 38]LogMaterial: Display: Missing cached shadermap for RailGrindMat in PCD3D_SM5, Default, SM5 (DDC key hash: D412A6854631100F9F80C78DAAB4D8466C6E5B78), compiling. 
+[2023.03.22-21.55.27:464][ 38]LogMaterial: Display: Missing cached shadermap for LabCeilingLights_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 29C795C030CA343AAD8A9D4C792E67B963F2790D), compiling. 
+[2023.03.22-21.55.27:466][ 38]LogMaterial: Display: Missing cached shadermap for LabFloor in PCD3D_SM5, Default, SM5 (DDC key hash: FDF5EE0FE70A42118F13D6F148CEB73F8E8A002B), compiling. 
+[2023.03.22-21.55.27:467][ 38]LogMaterial: Display: Missing cached shadermap for AcidMat in PCD3D_SM5, Default, SM5 (DDC key hash: B532F00CAD49DB765C410BF8BA632D02B6D2CB22), compiling. 
+[2023.03.22-21.55.27:482][ 38]LogMaterial: Display: Missing cached shadermap for GurneyMAt in PCD3D_SM5, Default, SM5 (DDC key hash: F051C95F96C0EF3DB15C3DE2F253FB4ACDA0D6E3), compiling. 
+[2023.03.22-21.55.27:499][ 38]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.55.27:499][ 38]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.55.27:499][ 38]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.03.22-21.55.27:499][ 38]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.27:499][ 38]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.55.27:499][ 38]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.55.27:499][ 38]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.27:499][ 38]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.55.27:499][ 38]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.55.27:499][ 38]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.27:499][ 38]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.55.27:499][ 38]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.03.22-21.55.27:499][ 38]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.27:531][ 40]MaterialEditorStats: Base pass shader: 130 instructions
+[2023.03.22-21.55.27:531][ 40]MaterialEditorStats: Base pass shader with Surface Lightmap: 161 instructions
+[2023.03.22-21.55.27:531][ 40]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 208 instructions
+[2023.03.22-21.55.27:531][ 40]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.55.27:531][ 40]MaterialEditorStats: Texture samplers: 6/16
+[2023.03.22-21.55.27:531][ 40]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.03.22-21.55.27:531][ 40]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.27:561][ 41]MaterialEditorStats: Base pass shader: 78 instructions
+[2023.03.22-21.55.27:561][ 41]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2023.03.22-21.55.27:561][ 41]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2023.03.22-21.55.27:561][ 41]MaterialEditorStats: Texture samplers: 4/16
+[2023.03.22-21.55.27:581][ 42]MaterialEditorStats: Base pass shader: 131 instructions
+[2023.03.22-21.55.27:581][ 42]MaterialEditorStats: Base pass shader with Surface Lightmap: 162 instructions
+[2023.03.22-21.55.27:581][ 42]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2023.03.22-21.55.27:581][ 42]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.55.27:581][ 42]MaterialEditorStats: Texture samplers: 6/16
+[2023.03.22-21.55.27:581][ 42]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.03.22-21.55.27:581][ 42]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.27:581][ 42]MaterialEditorStats: Base pass shader: 129 instructions
+[2023.03.22-21.55.27:581][ 42]MaterialEditorStats: Base pass shader with Surface Lightmap: 158 instructions
+[2023.03.22-21.55.27:581][ 42]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 205 instructions
+[2023.03.22-21.55.27:581][ 42]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.55.27:581][ 42]MaterialEditorStats: Texture samplers: 5/16
+[2023.03.22-21.55.27:581][ 42]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.55.27:581][ 42]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.27:581][ 42]MaterialEditorStats: Texture samplers: 5/16
+[2023.03.22-21.55.27:581][ 42]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.55.27:581][ 42]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.27:597][ 43]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.03.22-21.55.27:597][ 43]MaterialEditorStats: Base pass shader with Surface Lightmap: 159 instructions
+[2023.03.22-21.55.27:597][ 43]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2023.03.22-21.55.27:597][ 43]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.55.27:597][ 43]MaterialEditorStats: Texture samplers: 5/16
+[2023.03.22-21.55.27:597][ 43]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.55.27:597][ 43]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.28:064][ 71]LogEditorTransaction: Undo Rename Node
+[2023.03.22-21.55.28:065][ 71]LogMaterial: Display: Missing cached shadermap for RailGrindMat in PCD3D_SM5, Default, SM5 (DDC key hash: 8E961E953B42E5CB76D85E11C09A09664E983000), compiling. 
+[2023.03.22-21.55.28:113][ 71]LogMaterial: Display: Missing cached shadermap for LabCeilingLights_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: EF701D9F812B8F83128876FF3ECE7FB875ECA915), compiling. 
+[2023.03.22-21.55.28:115][ 71]LogMaterial: Display: Missing cached shadermap for LabFloor in PCD3D_SM5, Default, SM5 (DDC key hash: 51751399EDBE0C0D55BFD577F76DE762433DBE9F), compiling. 
+[2023.03.22-21.55.28:117][ 71]LogMaterial: Display: Missing cached shadermap for AcidMat in PCD3D_SM5, Default, SM5 (DDC key hash: 2855DFDC715D7C8A69F9E967E9DD84525E0D611F), compiling. 
+[2023.03.22-21.55.28:131][ 71]LogMaterial: Display: Missing cached shadermap for GurneyMAt in PCD3D_SM5, Default, SM5 (DDC key hash: FE200D1027EDEA3FA9AA7F74224023FD9ED9DFDE), compiling. 
+[2023.03.22-21.55.28:132][ 71]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 10745F3E4DC204F3E4D01BFA9CF52D3CE453642A), compiling. 
+[2023.03.22-21.55.28:148][ 71]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.55.28:148][ 71]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.55.28:148][ 71]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.03.22-21.55.28:148][ 71]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.28:148][ 71]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.55.28:148][ 71]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.55.28:148][ 71]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.28:148][ 71]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.55.28:148][ 71]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.55.28:148][ 71]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.28:148][ 71]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.55.28:148][ 71]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.03.22-21.55.28:148][ 71]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.28:176][ 73]MaterialEditorStats: Texture samplers: 6/16
+[2023.03.22-21.55.28:176][ 73]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.03.22-21.55.28:176][ 73]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.28:216][ 74]MaterialEditorStats: Base pass shader: 130 instructions
+[2023.03.22-21.55.28:216][ 74]MaterialEditorStats: Base pass shader with Surface Lightmap: 161 instructions
+[2023.03.22-21.55.28:216][ 74]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 208 instructions
+[2023.03.22-21.55.28:216][ 74]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.55.28:216][ 74]MaterialEditorStats: Texture samplers: 6/16
+[2023.03.22-21.55.28:216][ 74]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.03.22-21.55.28:216][ 74]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.28:235][ 75]MaterialEditorStats: Texture samplers: 4/16
+[2023.03.22-21.55.28:236][ 75]MaterialEditorStats: Base pass shader: 131 instructions
+[2023.03.22-21.55.28:236][ 75]MaterialEditorStats: Base pass shader with Surface Lightmap: 162 instructions
+[2023.03.22-21.55.28:236][ 75]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2023.03.22-21.55.28:236][ 75]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.55.28:236][ 75]MaterialEditorStats: Texture samplers: 6/16
+[2023.03.22-21.55.28:236][ 75]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.03.22-21.55.28:236][ 75]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.28:236][ 75]MaterialEditorStats: Base pass shader: 129 instructions
+[2023.03.22-21.55.28:236][ 75]MaterialEditorStats: Base pass shader with Surface Lightmap: 158 instructions
+[2023.03.22-21.55.28:236][ 75]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 205 instructions
+[2023.03.22-21.55.28:236][ 75]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.55.28:236][ 75]MaterialEditorStats: Texture samplers: 5/16
+[2023.03.22-21.55.28:236][ 75]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.55.28:236][ 75]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.28:252][ 76]MaterialEditorStats: Base pass shader: 78 instructions
+[2023.03.22-21.55.28:252][ 76]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2023.03.22-21.55.28:252][ 76]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2023.03.22-21.55.28:252][ 76]MaterialEditorStats: Texture samplers: 4/16
+[2023.03.22-21.55.28:252][ 76]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.03.22-21.55.28:252][ 76]MaterialEditorStats: Base pass shader with Surface Lightmap: 159 instructions
+[2023.03.22-21.55.28:252][ 76]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2023.03.22-21.55.28:252][ 76]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.55.28:252][ 76]MaterialEditorStats: Texture samplers: 5/16
+[2023.03.22-21.55.28:252][ 76]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.55.28:252][ 76]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.28:568][ 95]LogEditorTransaction: Undo Material Editor: Convert
+[2023.03.22-21.55.28:570][ 95]LogMaterial: Display: Missing cached shadermap for GurneyMAt in PCD3D_SM5, Default, SM5 (DDC key hash: 5A2F20F684331212A30C04D48984EE2DD2133165), compiling. 
+[2023.03.22-21.55.28:572][ 95]LogMaterial: Display: Missing cached shadermap for RailGrindMat in PCD3D_SM5, Default, SM5 (DDC key hash: B4ACC7C96F3E18574E9FB6E909AA055BBF03A12F), compiling. 
+[2023.03.22-21.55.28:619][ 95]LogMaterial: Display: Missing cached shadermap for LabCeilingLights_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: AFCD8E6EBF3EF06F55DCA8C07C005BDCF681CBC0), compiling. 
+[2023.03.22-21.55.28:620][ 95]LogMaterial: Display: Missing cached shadermap for LabFloor in PCD3D_SM5, Default, SM5 (DDC key hash: 3799E3CFE0EBE21C0D9931E430C2AFDF98D74808), compiling. 
+[2023.03.22-21.55.28:623][ 95]LogMaterial: Display: Missing cached shadermap for AcidMat in PCD3D_SM5, Default, SM5 (DDC key hash: 48D7CDA2FDFF6FEF8EC78DC70BC587894564DF92), compiling. 
+[2023.03.22-21.55.28:636][ 95]LogMaterial: Display: Missing cached shadermap for GurneyMAt in PCD3D_SM5, Default, SM5 (DDC key hash: 72FB35DA7C8560DC8BDA130B1E7303A4533B2542), compiling. 
+[2023.03.22-21.55.28:638][ 95]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 4DB33D5044DE85226A1D56FB75287F2A0A25CB10), compiling. 
+[2023.03.22-21.55.28:656][ 95]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.55.28:656][ 95]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.55.28:656][ 95]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.03.22-21.55.28:656][ 95]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.28:656][ 95]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.55.28:656][ 95]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.55.28:656][ 95]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.28:656][ 95]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.55.28:656][ 95]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.55.28:656][ 95]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.28:656][ 95]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.55.28:656][ 95]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.03.22-21.55.28:656][ 95]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.28:685][ 97]MaterialEditorStats: Base pass shader: 130 instructions
+[2023.03.22-21.55.28:685][ 97]MaterialEditorStats: Base pass shader with Surface Lightmap: 161 instructions
+[2023.03.22-21.55.28:685][ 97]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 208 instructions
+[2023.03.22-21.55.28:685][ 97]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.55.28:685][ 97]MaterialEditorStats: Texture samplers: 6/16
+[2023.03.22-21.55.28:685][ 97]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.03.22-21.55.28:685][ 97]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.28:717][ 98]MaterialEditorStats: Base pass shader: 78 instructions
+[2023.03.22-21.55.28:717][ 98]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2023.03.22-21.55.28:717][ 98]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2023.03.22-21.55.28:717][ 98]MaterialEditorStats: Texture samplers: 4/16
+[2023.03.22-21.55.28:737][ 99]MaterialEditorStats: Texture samplers: 6/16
+[2023.03.22-21.55.28:737][ 99]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.03.22-21.55.28:737][ 99]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.28:737][ 99]MaterialEditorStats: Base pass shader: 129 instructions
+[2023.03.22-21.55.28:737][ 99]MaterialEditorStats: Base pass shader with Surface Lightmap: 158 instructions
+[2023.03.22-21.55.28:737][ 99]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 205 instructions
+[2023.03.22-21.55.28:737][ 99]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.55.28:737][ 99]MaterialEditorStats: Texture samplers: 5/16
+[2023.03.22-21.55.28:737][ 99]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.55.28:737][ 99]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.28:737][ 99]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.03.22-21.55.28:737][ 99]MaterialEditorStats: Base pass shader with Surface Lightmap: 159 instructions
+[2023.03.22-21.55.28:737][ 99]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2023.03.22-21.55.28:737][ 99]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.55.28:737][ 99]MaterialEditorStats: Texture samplers: 5/16
+[2023.03.22-21.55.28:737][ 99]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.55.28:737][ 99]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.28:753][100]MaterialEditorStats: Base pass shader: 131 instructions
+[2023.03.22-21.55.28:753][100]MaterialEditorStats: Base pass shader with Surface Lightmap: 162 instructions
+[2023.03.22-21.55.28:753][100]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2023.03.22-21.55.28:753][100]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.55.28:753][100]MaterialEditorStats: Texture samplers: 6/16
+[2023.03.22-21.55.28:753][100]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.03.22-21.55.28:753][100]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.32:437][321]LogMaterial: Display: Missing cached shadermap for GurneyMAt in PCD3D_SM5, Default, SM5 (DDC key hash: E7F5C65D5E48BC425279CAF444931CF09BFB196B), compiling. 
+[2023.03.22-21.55.32:440][321]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.55.32:440][321]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.55.32:440][321]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.32:460][323]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.03.22-21.55.32:460][323]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2023.03.22-21.55.32:460][323]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.03.22-21.55.32:460][323]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.03.22-21.55.32:460][323]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 10
+[2023.03.22-21.55.32:460][323]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 9
+[2023.03.22-21.55.32:460][323]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2023.03.22-21.55.32:460][323]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2023.03.22-21.55.32:461][323]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2023.03.22-21.55.32:461][323]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 5
+[2023.03.22-21.55.32:461][323]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2023.03.22-21.55.32:461][323]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2023.03.22-21.55.32:461][323]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2023.03.22-21.55.32:461][323]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2023.03.22-21.55.32:461][323]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.03.22-21.55.32:461][323]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.03.22-21.55.33:529][368]MaterialEditorStats: Texture samplers: 5/16
+[2023.03.22-21.55.33:530][368]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.55.33:530][368]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.33:745][381]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.03.22-21.55.33:745][381]MaterialEditorStats: Base pass shader with Surface Lightmap: 159 instructions
+[2023.03.22-21.55.33:745][381]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2023.03.22-21.55.33:745][381]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.55.33:745][381]MaterialEditorStats: Texture samplers: 5/16
+[2023.03.22-21.55.33:745][381]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.55.33:745][381]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.37:114][582]LogMaterial: Display: Missing cached shadermap for GurneyMAt in PCD3D_SM5, Default, SM5 (DDC key hash: 6C35827EA075E22746096F25D9808333D1923A28), compiling. 
+[2023.03.22-21.55.37:116][582]LogMaterial: Display: Missing cached shadermap for GurneyMAt in PCD3D_SM5, Default, SM5 (DDC key hash: 84F9AB3E9DF92EA17C43F8765D9217A133FB508F), compiling. 
+[2023.03.22-21.55.37:117][582]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 720DAD28B423907F694FA512D5B061A16C21BF68), compiling. 
+[2023.03.22-21.55.37:120][582]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.55.37:120][582]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.55.37:120][582]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.37:148][584]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.03.22-21.55.37:148][584]MaterialEditorStats: Base pass shader with Surface Lightmap: 159 instructions
+[2023.03.22-21.55.37:148][584]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2023.03.22-21.55.37:148][584]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.55.37:149][584]MaterialEditorStats: Texture samplers: 5/16
+[2023.03.22-21.55.37:149][584]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.55.37:149][584]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.48:980][292]LogMaterial: Display: Missing cached shadermap for GurneyMAt in PCD3D_SM5, Default, SM5 (DDC key hash: 0DACE39C0F7CCC1D5C1C08F3707D13CDCEE63C35), compiling. 
+[2023.03.22-21.55.48:982][292]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.55.48:982][292]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.55.48:982][292]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.49:016][294]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.03.22-21.55.49:016][294]MaterialEditorStats: Base pass shader with Surface Lightmap: 159 instructions
+[2023.03.22-21.55.49:016][294]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2023.03.22-21.55.49:016][294]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.55.49:016][294]MaterialEditorStats: Texture samplers: 5/16
+[2023.03.22-21.55.49:016][294]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.55.49:016][294]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.52:486][502]LogMaterial: Display: Missing cached shadermap for GurneyMAt in PCD3D_SM5, Default, SM5 (DDC key hash: FDC2EBCFE7E736A33293CD20EA8C75A2C4F93AA9), compiling. 
+[2023.03.22-21.55.52:488][502]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.55.52:488][502]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.55.52:488][502]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.52:518][504]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.03.22-21.55.52:518][504]MaterialEditorStats: Base pass shader with Surface Lightmap: 159 instructions
+[2023.03.22-21.55.52:518][504]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2023.03.22-21.55.52:518][504]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.55.52:518][504]MaterialEditorStats: Texture samplers: 5/16
+[2023.03.22-21.55.52:518][504]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.55.52:518][504]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.54:324][612]LogMaterial: Display: Missing cached shadermap for GurneyMAt in PCD3D_SM5, Default, SM5 (DDC key hash: 789501723CBA703D696BCE32629EAA8E52BF3E51), compiling. 
+[2023.03.22-21.55.54:326][612]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.55.54:326][612]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.55.54:326][612]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.54:362][614]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.03.22-21.55.54:362][614]MaterialEditorStats: Base pass shader with Surface Lightmap: 159 instructions
+[2023.03.22-21.55.54:362][614]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2023.03.22-21.55.54:362][614]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.55.54:362][614]MaterialEditorStats: Texture samplers: 5/16
+[2023.03.22-21.55.54:362][614]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.55.54:362][614]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.55:531][684]LogMaterial: Display: Missing cached shadermap for GurneyMAt in PCD3D_SM5, Default, SM5 (DDC key hash: 1D3EF7C144DF2B3772067378249CDAEA44942AAA), compiling. 
+[2023.03.22-21.55.55:534][684]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.55.55:534][684]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.55.55:534][684]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.55.55:567][686]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.03.22-21.55.55:567][686]MaterialEditorStats: Base pass shader with Surface Lightmap: 159 instructions
+[2023.03.22-21.55.55:567][686]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2023.03.22-21.55.55:567][686]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.55.55:567][686]MaterialEditorStats: Texture samplers: 5/16
+[2023.03.22-21.55.55:567][686]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.55.55:567][686]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.56.04:623][229]LogMaterial: Display: Missing cached shadermap for GurneyMAt in PCD3D_SM5, Default, SM5 (DDC key hash: A1800DD029497B4585B47DA6B2074C7B7F7BB3B8), compiling. 
+[2023.03.22-21.56.04:625][229]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.56.04:625][229]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.56.04:625][229]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.56.04:662][231]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.03.22-21.56.04:662][231]MaterialEditorStats: Base pass shader with Surface Lightmap: 159 instructions
+[2023.03.22-21.56.04:662][231]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2023.03.22-21.56.04:662][231]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.56.04:662][231]MaterialEditorStats: Texture samplers: 5/16
+[2023.03.22-21.56.04:662][231]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.56.04:662][231]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.56.06:664][351]LogMaterial: Display: Missing cached shadermap for GurneyMAt in PCD3D_SM5, Default, SM5 (DDC key hash: 09884C2840852608EADCE1AAAF63501F7EF43016), compiling. 
+[2023.03.22-21.56.06:666][351]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.56.06:666][351]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.56.06:666][351]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.56.06:701][353]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.03.22-21.56.06:701][353]MaterialEditorStats: Base pass shader with Surface Lightmap: 159 instructions
+[2023.03.22-21.56.06:701][353]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2023.03.22-21.56.06:701][353]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.56.06:701][353]MaterialEditorStats: Texture samplers: 5/16
+[2023.03.22-21.56.06:701][353]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.56.06:702][353]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.56.13:741][775]LogMaterial: Display: Missing cached shadermap for GurneyMAt in PCD3D_SM5, Default, SM5 (DDC key hash: B87FC90D31CF0BB8E6660565894073F59E00DF7F), compiling. 
+[2023.03.22-21.56.13:742][775]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.56.13:742][775]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.56.13:742][775]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.56.13:778][777]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.03.22-21.56.13:778][777]MaterialEditorStats: Base pass shader with Surface Lightmap: 159 instructions
+[2023.03.22-21.56.13:778][777]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2023.03.22-21.56.13:779][777]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.56.13:779][777]MaterialEditorStats: Texture samplers: 5/16
+[2023.03.22-21.56.13:779][777]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.56.13:779][777]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.56.18:344][ 50]LogMaterial: Display: Missing cached shadermap for GurneyMAt in PCD3D_SM5, Default, SM5 (DDC key hash: DC65355EFA8A9094FFAC2DC93749E03979AE3728), compiling. 
+[2023.03.22-21.56.18:348][ 50]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.56.18:348][ 50]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.56.18:348][ 50]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.56.18:377][ 52]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.03.22-21.56.18:377][ 52]MaterialEditorStats: Base pass shader with Surface Lightmap: 159 instructions
+[2023.03.22-21.56.18:377][ 52]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2023.03.22-21.56.18:377][ 52]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.56.18:377][ 52]MaterialEditorStats: Texture samplers: 5/16
+[2023.03.22-21.56.18:377][ 52]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.56.18:377][ 52]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.56.21:997][269]LogMaterial: Display: Missing cached shadermap for GurneyMAt in PCD3D_SM5, Default, SM5 (DDC key hash: 55734AD86B3E44490DB7AACEAC917BB2E9B377F8), compiling. 
+[2023.03.22-21.56.21:999][269]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 5A37999B5981376ED72C75F1D9B58FFE0C3586A8), compiling. 
+[2023.03.22-21.56.22:002][269]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.56.22:002][269]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.56.22:002][269]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.56.22:030][271]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.03.22-21.56.22:030][271]MaterialEditorStats: Base pass shader with Surface Lightmap: 159 instructions
+[2023.03.22-21.56.22:030][271]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2023.03.22-21.56.22:030][271]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.56.22:030][271]MaterialEditorStats: Texture samplers: 5/16
+[2023.03.22-21.56.22:030][271]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.56.22:030][271]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.56.26:637][547]LogMaterial: Display: Missing cached shadermap for GurneyMAt in PCD3D_SM5, Default, SM5 (DDC key hash: 0875DDE995B2EA3C9D3562ADC7341313CBB163AF), compiling. 
+[2023.03.22-21.56.26:639][547]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.56.26:639][547]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.56.26:639][547]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.56.26:672][549]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.03.22-21.56.26:672][549]MaterialEditorStats: Base pass shader with Surface Lightmap: 159 instructions
+[2023.03.22-21.56.26:672][549]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2023.03.22-21.56.26:672][549]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.56.26:672][549]MaterialEditorStats: Texture samplers: 5/16
+[2023.03.22-21.56.26:672][549]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.56.26:672][549]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.56.32:675][909]LogMaterial: Display: Missing cached shadermap for GurneyMAt in PCD3D_SM5, Default, SM5 (DDC key hash: 56DB3B92A06AC1078B222016112F5B3E184A1312), compiling. 
+[2023.03.22-21.56.32:678][909]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.56.32:678][909]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.56.32:678][909]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.56.32:708][911]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.03.22-21.56.32:708][911]MaterialEditorStats: Base pass shader with Surface Lightmap: 159 instructions
+[2023.03.22-21.56.32:708][911]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2023.03.22-21.56.32:708][911]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.56.32:708][911]MaterialEditorStats: Texture samplers: 5/16
+[2023.03.22-21.56.32:708][911]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.22-21.56.32:708][911]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.56.36:076][113]LogMaterial: Display: Missing cached shadermap for GurneyMAt in PCD3D_SM5, Default, SM5 (DDC key hash: E4955C32FE98F93BFE65F5DD47760916FFECD77D), compiling. 
+[2023.03.22-21.56.36:080][113]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.56.36:080][113]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.03.22-21.56.36:080][113]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.56.36:085][114]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.03.22-21.56.36:099][115]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2023.03.22-21.56.36:099][115]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.03.22-21.56.36:099][115]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.03.22-21.56.36:099][115]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 10
+[2023.03.22-21.56.36:099][115]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 9
+[2023.03.22-21.56.36:099][115]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2023.03.22-21.56.36:099][115]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2023.03.22-21.56.36:099][115]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2023.03.22-21.56.36:099][115]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 5
+[2023.03.22-21.56.36:099][115]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2023.03.22-21.56.36:099][115]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2023.03.22-21.56.36:099][115]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2023.03.22-21.56.36:099][115]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2023.03.22-21.56.36:099][115]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.03.22-21.56.36:099][115]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.03.22-21.56.37:202][163]MaterialEditorStats: Texture samplers: 6/16
+[2023.03.22-21.56.37:202][163]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.03.22-21.56.37:202][163]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.56.37:414][175]MaterialEditorStats: Base pass shader: 131 instructions
+[2023.03.22-21.56.37:414][175]MaterialEditorStats: Base pass shader with Surface Lightmap: 162 instructions
+[2023.03.22-21.56.37:414][175]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2023.03.22-21.56.37:414][175]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.56.37:414][175]MaterialEditorStats: Texture samplers: 6/16
+[2023.03.22-21.56.37:414][175]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.03.22-21.56.37:414][175]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.56.41:732][434]LogMaterial: Display: Missing cached shadermap for GurneyMAt in PCD3D_SM5, Default, SM5 (DDC key hash: 2558DAA86E7AC1F017D50F7D340559A9C7F8808F), compiling. 
+[2023.03.22-21.56.41:735][434]LogMaterial: Display: Missing cached shadermap for GurneyMAt in PCD3D_SM5, Default, SM5 (DDC key hash: 3FCC7405325901727CDA793E9A12C7F8AFA0BAA2), compiling. 
+[2023.03.22-21.56.41:737][434]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.56.41:737][434]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.03.22-21.56.41:737][434]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.56.41:764][436]MaterialEditorStats: Base pass shader: 131 instructions
+[2023.03.22-21.56.41:764][436]MaterialEditorStats: Base pass shader with Surface Lightmap: 162 instructions
+[2023.03.22-21.56.41:764][436]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2023.03.22-21.56.41:764][436]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.56.41:764][436]MaterialEditorStats: Texture samplers: 6/16
+[2023.03.22-21.56.41:764][436]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.03.22-21.56.41:764][436]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.56.44:282][587]LogMaterial: Display: Missing cached shadermap for GurneyMAt in PCD3D_SM5, Default, SM5 (DDC key hash: 492FD11C0F766740F3F56BC8A60B55784B862C6F), compiling. 
+[2023.03.22-21.56.44:284][587]LogMaterial: Display: Missing cached shadermap for GurneyMAt in PCD3D_SM5, Default, SM5 (DDC key hash: 4F2239BEB4098351646704A316A0E55A00FF3FD1), compiling. 
+[2023.03.22-21.56.44:285][587]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.22-21.56.44:285][587]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.03.22-21.56.44:285][587]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.56.44:315][589]MaterialEditorStats: Base pass shader: 131 instructions
+[2023.03.22-21.56.44:315][589]MaterialEditorStats: Base pass shader with Surface Lightmap: 162 instructions
+[2023.03.22-21.56.44:315][589]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2023.03.22-21.56.44:315][589]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.56.44:315][589]MaterialEditorStats: Texture samplers: 6/16
+[2023.03.22-21.56.44:315][589]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.03.22-21.56.44:315][589]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.56.46:545][722]LogMaterialEditor: Saving and Compiling material GurneyMAt
+[2023.03.22-21.56.46:783][722]LogMaterial: Display: Missing cached shadermap for GurneyMAt in PCD3D_SM5, Default, SM5 (DDC key hash: 29EB3622EA4DC7CE7666ECD21F2171964E71444A), compiling. 
+[2023.03.22-21.56.46:805][722]LogMaterial: Display: Missing cached shadermap for GurneyMAt in PCD3D_SM5, Default, SM5 (DDC key hash: 8E84A598B9C268AD9E72EDAC595DA8D23B735508), compiling. 
+[2023.03.22-21.56.46:908][722]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2023.03.22-21.56.46:908][722]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2023.03.22-21.56.46:908][722]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.03.22-21.56.46:908][722]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.03.22-21.56.46:908][722]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2023.03.22-21.56.46:908][722]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2023.03.22-21.56.46:908][722]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.03.22-21.56.46:908][722]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 14
+[2023.03.22-21.56.46:908][722]LogShaderCompilers: Display: Submitted 19 shader compile jobs with 'Normal' priority
+[2023.03.22-21.56.46:908][722]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+[2023.03.22-21.56.46:908][722]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 15
+[2023.03.22-21.56.46:908][722]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 13
+[2023.03.22-21.56.46:908][722]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 11
+[2023.03.22-21.56.46:908][722]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2023.03.22-21.56.46:908][722]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 7
+[2023.03.22-21.56.46:908][722]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 5
+[2023.03.22-21.56.46:908][722]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2023.03.22-21.56.46:908][722]LogShaderCompilers: Display: Started 18 'Local' shader compile jobs with 'Normal' priority
+[2023.03.22-21.56.46:908][722]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Normal' priority
+[2023.03.22-21.56.46:913][722]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2023.03.22-21.56.47:655][722]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 17
+[2023.03.22-21.56.47:655][722]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.03.22-21.56.47:655][722]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 15
+[2023.03.22-21.56.47:655][722]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.03.22-21.56.47:655][722]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 13
+[2023.03.22-21.56.47:655][722]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.03.22-21.56.47:655][722]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 11
+[2023.03.22-21.56.47:655][722]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.22-21.56.47:655][722]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2023.03.22-21.56.47:655][722]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.22-21.56.47:712][722]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2023.03.22-21.56.47:712][722]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.22-21.56.47:712][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.03.22-21.56.47:963][722]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 8
+[2023.03.22-21.56.47:963][722]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.22-21.56.47:963][722]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 7
+[2023.03.22-21.56.47:963][722]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.22-21.56.47:963][722]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 6
+[2023.03.22-21.56.47:963][722]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.22-21.56.47:963][722]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2023.03.22-21.56.47:963][722]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.22-21.56.48:166][722]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 4
+[2023.03.22-21.56.48:166][722]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.22-21.56.48:166][722]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2023.03.22-21.56.48:166][722]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.22-21.56.48:166][722]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2023.03.22-21.56.48:166][722]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.22-21.56.48:305][722]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2023.03.22-21.56.48:305][722]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.22-21.56.48:530][722]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/GurneyMAt1BDFC7D2497E0EFFF9911F9C97BC9420.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Art/Materials/LabMaterials/GurneyMAt.uasset'
+[2023.03.22-21.56.48:551][722]AssetCheck: New page: Asset Save: GurneyMAt
+[2023.03.22-21.56.48:551][722]LogContentValidation: Display: Validating Material /Game/Art/Materials/LabMaterials/GurneyMAt.GurneyMAt
+[2023.03.22-21.56.48:552][722]MaterialEditorStats: Base pass shader: 131 instructions
+[2023.03.22-21.56.48:552][722]MaterialEditorStats: Base pass shader with Surface Lightmap: 162 instructions
+[2023.03.22-21.56.48:552][722]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2023.03.22-21.56.48:552][722]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.22-21.56.48:552][722]MaterialEditorStats: Texture samplers: 7/16
+[2023.03.22-21.56.48:552][722]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.03.22-21.56.48:552][722]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.22-21.57.04:273][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.03.22-21.57.04:299][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.03.22-21.57.04:304][659]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/NotGrindableGurneyMAt_Inst7EB25C184312BA95FA21C2837D6833CB.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Art/Materials/LabMaterials/NotGrindableGurneyMAt_Inst.uasset'
+[2023.03.22-21.57.04:317][659]AssetCheck: New page: Asset Save: NotGrindableGurneyMAt_Inst
+[2023.03.22-21.57.04:317][659]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Art/Materials/LabMaterials/NotGrindableGurneyMAt_Inst.NotGrindableGurneyMAt_Inst
+[2023.03.22-21.57.06:544][792]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Lab_Gurney)
+[2023.03.22-21.57.23:853][764]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.22-21.57.23:859][764]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.22-21.57.23:859][764]PIE: New page: PIE session: Lab_Level (Mar 22, 2023, 1:57:23 PM)
+[2023.03.22-21.57.23:859][764]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lab_Level
+[2023.03.22-21.57.23:896][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037947s)
+[2023.03.22-21.57.23:898][764]LogAIModule: Creating AISystem for world Lab_Level
+[2023.03.22-21.57.23:898][764]LogPlayLevel: PIE: World Init took: (0.001264s)
+[2023.03.22-21.57.23:898][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lab_Level.Lab_Level to /Game/Levels/UEDPIE_0_Lab_Level.Lab_Level (0.039351s)
+[2023.03.22-21.57.23:921][764]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.03.22-21.57.23:923][764]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2023.03.22-21.57.23:923][764]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.22-21.57.23:923][764]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.22-21.57.23:923][764]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.22-21.57.23:923][764]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.22-21.57.23:923][764]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.22-21.57.23:923][764]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.22-21.57.23:923][764]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.22-21.57.23:923][764]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.22-21.57.23:923][764]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.22-21.57.23:923][764]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.22-21.57.23:923][764]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.22-21.57.23:923][764]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.22-21.57.23:925][764]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.22-21.57.23:925][764]LogAudioMixer: Display: 1: FrontRight
+[2023.03.22-21.57.23:990][764]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2023.03.22-21.57.23:990][764]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.22-21.57.23:990][764]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.22-21.57.23:990][764]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.22-21.57.23:990][764]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.22-21.57.23:991][764]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.22-21.57.23:991][764]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.22-21.57.23:991][764]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.22-21.57.23:991][764]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.22-21.57.23:991][764]LogInit: FAudioDevice initialized.
+[2023.03.22-21.57.23:991][764]LogAudio: Display: Audio Device (ID: 35) registered with world 'Lab_Level'.
+[2023.03.22-21.57.23:998][764]LogLoad: Game class is 'MyGame_C'
+[2023.03.22-21.57.24:002][764]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lab_Level.Lab_Level up for play (max tick rate 60) at 2023.03.22-17.57.24
+[2023.03.22-21.57.24:002][764]LogWorld: Bringing up level for play took: 0.003158
+[2023.03.22-21.57.24:002][764]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2023.03.22-21.57.24:004][764]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.22-21.57.24:004][764]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.22-21.57.24:004][764]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.03.22-21.57.24:006][764]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.03.22-21.57.24:006][764]PIE: Server logged in
+[2023.03.22-21.57.24:007][764]PIE: Play in editor total start time 0.149 seconds.
+[2023.03.22-21.57.25:634][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.22-21.57.25:634][859]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lab_Level
+[2023.03.22-21.57.25:634][859]LogWorld: UWorld::CleanupWorld for Lab_Level, bSessionEnded=true, bCleanupResources=true
+[2023.03.22-21.57.25:635][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-21.57.25:648][859]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.22-21.57.25:661][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-21.57.25:688][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.22-21.57.25:688][859]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.22-21.57.25:690][859]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.22-21.57.25:696][859]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.03.22-21.57.25:728][860]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2023.03.22-21.57.32:848][270]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.22-21.57.32:848][270]PIE: New page: PIE session: Lab_Level (Mar 22, 2023, 1:57:32 PM)
+[2023.03.22-21.57.32:848][270]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lab_Level
+[2023.03.22-21.57.32:886][270]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037379s)
+[2023.03.22-21.57.32:887][270]LogAIModule: Creating AISystem for world Lab_Level
+[2023.03.22-21.57.32:887][270]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2023.03.22-21.57.32:887][270]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lab_Level.Lab_Level to /Game/Levels/UEDPIE_0_Lab_Level.Lab_Level (0.038425s)
+[2023.03.22-21.57.32:908][270]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.03.22-21.57.32:910][270]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2023.03.22-21.57.32:910][270]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.22-21.57.32:910][270]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.22-21.57.32:910][270]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.22-21.57.32:910][270]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.22-21.57.32:910][270]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.22-21.57.32:910][270]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.22-21.57.32:910][270]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.22-21.57.32:910][270]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.22-21.57.32:910][270]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.22-21.57.32:910][270]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.22-21.57.32:910][270]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.22-21.57.32:910][270]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.22-21.57.32:913][270]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.22-21.57.32:913][270]LogAudioMixer: Display: 1: FrontRight
+[2023.03.22-21.57.32:973][270]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2023.03.22-21.57.32:973][270]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.22-21.57.32:974][270]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.22-21.57.32:974][270]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.22-21.57.32:974][270]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.22-21.57.32:974][270]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.22-21.57.32:974][270]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.22-21.57.32:975][270]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.22-21.57.32:975][270]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.22-21.57.32:975][270]LogInit: FAudioDevice initialized.
+[2023.03.22-21.57.32:975][270]LogAudio: Display: Audio Device (ID: 36) registered with world 'Lab_Level'.
+[2023.03.22-21.57.32:983][270]LogLoad: Game class is 'MyGame_C'
+[2023.03.22-21.57.32:987][270]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lab_Level.Lab_Level up for play (max tick rate 60) at 2023.03.22-17.57.32
+[2023.03.22-21.57.32:987][270]LogWorld: Bringing up level for play took: 0.003375
+[2023.03.22-21.57.32:987][270]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2023.03.22-21.57.32:989][270]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.22-21.57.32:989][270]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.22-21.57.32:989][270]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.03.22-21.57.32:991][270]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.03.22-21.57.32:991][270]PIE: Server logged in
+[2023.03.22-21.57.32:992][270]PIE: Play in editor total start time 0.144 seconds.
+[2023.03.22-21.57.36:524][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.22-21.57.36:524][476]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lab_Level
+[2023.03.22-21.57.36:524][476]LogWorld: UWorld::CleanupWorld for Lab_Level, bSessionEnded=true, bCleanupResources=true
+[2023.03.22-21.57.36:525][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-21.57.36:534][476]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.22-21.57.36:546][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-21.57.36:567][476]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.22-21.57.36:568][476]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.22-21.57.36:569][476]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.22-21.57.36:572][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.22-21.57.36:576][476]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.03.22-21.57.36:599][477]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2023.03.22-21.57.37:574][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Lab_Gurney)
+[2023.03.22-21.59.03:189][593]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.03.22-21.59.03:220][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.03.22-21.59.03:225][593]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/NotGrindableGurneyMAt_Inst67D4891F428D6F44AECE03994F455ABD.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Art/Materials/LabMaterials/NotGrindableGurneyMAt_Inst.uasset'
+[2023.03.22-21.59.03:237][593]AssetCheck: New page: Asset Save: NotGrindableGurneyMAt_Inst
+[2023.03.22-21.59.03:237][593]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Art/Materials/LabMaterials/NotGrindableGurneyMAt_Inst.NotGrindableGurneyMAt_Inst
+[2023.03.22-21.59.06:173][761]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.22-21.59.06:173][761]PIE: New page: PIE session: Lab_Level (Mar 22, 2023, 1:59:06 PM)
+[2023.03.22-21.59.06:173][761]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lab_Level
+[2023.03.22-21.59.06:210][761]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037274s)
+[2023.03.22-21.59.06:211][761]LogAIModule: Creating AISystem for world Lab_Level
+[2023.03.22-21.59.06:211][761]LogPlayLevel: PIE: World Init took: (0.001042s)
+[2023.03.22-21.59.06:211][761]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lab_Level.Lab_Level to /Game/Levels/UEDPIE_0_Lab_Level.Lab_Level (0.038435s)
+[2023.03.22-21.59.06:232][761]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.03.22-21.59.06:233][761]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2023.03.22-21.59.06:233][761]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.22-21.59.06:233][761]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.22-21.59.06:233][761]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.22-21.59.06:233][761]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.22-21.59.06:233][761]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.22-21.59.06:233][761]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.22-21.59.06:233][761]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.22-21.59.06:233][761]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.22-21.59.06:233][761]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.22-21.59.06:233][761]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.22-21.59.06:233][761]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.22-21.59.06:233][761]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.22-21.59.06:235][761]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.22-21.59.06:235][761]LogAudioMixer: Display: 1: FrontRight
+[2023.03.22-21.59.06:297][761]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2023.03.22-21.59.06:297][761]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.22-21.59.06:297][761]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.22-21.59.06:297][761]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.22-21.59.06:297][761]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.22-21.59.06:298][761]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.22-21.59.06:298][761]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.22-21.59.06:298][761]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.22-21.59.06:298][761]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.22-21.59.06:298][761]LogInit: FAudioDevice initialized.
+[2023.03.22-21.59.06:298][761]LogAudio: Display: Audio Device (ID: 37) registered with world 'Lab_Level'.
+[2023.03.22-21.59.06:310][761]LogLoad: Game class is 'MyGame_C'
+[2023.03.22-21.59.06:315][761]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lab_Level.Lab_Level up for play (max tick rate 60) at 2023.03.22-17.59.06
+[2023.03.22-21.59.06:315][761]LogWorld: Bringing up level for play took: 0.003399
+[2023.03.22-21.59.06:315][761]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2023.03.22-21.59.06:317][761]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.22-21.59.06:317][761]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.22-21.59.06:317][761]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.03.22-21.59.06:319][761]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.03.22-21.59.06:319][761]PIE: Server logged in
+[2023.03.22-21.59.06:319][761]PIE: Play in editor total start time 0.147 seconds.
+[2023.03.22-21.59.15:943][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.22-21.59.15:944][334]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lab_Level
+[2023.03.22-21.59.15:944][334]LogWorld: UWorld::CleanupWorld for Lab_Level, bSessionEnded=true, bCleanupResources=true
+[2023.03.22-21.59.15:945][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-21.59.15:958][334]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.22-21.59.15:969][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-21.59.15:995][334]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.22-21.59.15:995][334]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.22-21.59.15:996][334]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.22-21.59.15:999][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.22-21.59.16:003][334]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2023.03.22-21.59.16:029][335]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2023.03.22-21.59.22:260][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.03.22-21.59.22:286][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.03.22-21.59.22:291][702]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/NotGrindableGurneyMAt_Inst0CC4B62C4887CEA9097F5A976A302F8D.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Art/Materials/LabMaterials/NotGrindableGurneyMAt_Inst.uasset'
+[2023.03.22-21.59.22:303][702]AssetCheck: New page: Asset Save: NotGrindableGurneyMAt_Inst
+[2023.03.22-21.59.22:303][702]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Art/Materials/LabMaterials/NotGrindableGurneyMAt_Inst.NotGrindableGurneyMAt_Inst
+[2023.03.22-21.59.25:404][875]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.22-21.59.25:404][875]PIE: New page: PIE session: Lab_Level (Mar 22, 2023, 1:59:25 PM)
+[2023.03.22-21.59.25:404][875]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lab_Level
+[2023.03.22-21.59.25:442][875]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038073s)
+[2023.03.22-21.59.25:443][875]LogAIModule: Creating AISystem for world Lab_Level
+[2023.03.22-21.59.25:443][875]LogPlayLevel: PIE: World Init took: (0.001078s)
+[2023.03.22-21.59.25:443][875]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lab_Level.Lab_Level to /Game/Levels/UEDPIE_0_Lab_Level.Lab_Level (0.039272s)
+[2023.03.22-21.59.25:467][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.03.22-21.59.25:468][875]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2023.03.22-21.59.25:468][875]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.22-21.59.25:468][875]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.22-21.59.25:468][875]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.22-21.59.25:468][875]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.22-21.59.25:468][875]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.22-21.59.25:468][875]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.22-21.59.25:468][875]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.22-21.59.25:468][875]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.22-21.59.25:469][875]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.22-21.59.25:469][875]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.22-21.59.25:469][875]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.22-21.59.25:469][875]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.22-21.59.25:470][875]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.22-21.59.25:470][875]LogAudioMixer: Display: 1: FrontRight
+[2023.03.22-21.59.25:530][875]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2023.03.22-21.59.25:530][875]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.22-21.59.25:530][875]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.22-21.59.25:530][875]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.22-21.59.25:530][875]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.22-21.59.25:531][875]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.22-21.59.25:531][875]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.22-21.59.25:531][875]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.22-21.59.25:532][875]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.22-21.59.25:532][875]LogInit: FAudioDevice initialized.
+[2023.03.22-21.59.25:532][875]LogAudio: Display: Audio Device (ID: 38) registered with world 'Lab_Level'.
+[2023.03.22-21.59.25:543][875]LogLoad: Game class is 'MyGame_C'
+[2023.03.22-21.59.25:546][875]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lab_Level.Lab_Level up for play (max tick rate 60) at 2023.03.22-17.59.25
+[2023.03.22-21.59.25:546][875]LogWorld: Bringing up level for play took: 0.003090
+[2023.03.22-21.59.25:546][875]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2023.03.22-21.59.25:548][875]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.22-21.59.25:548][875]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.22-21.59.25:548][875]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.03.22-21.59.25:549][875]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5749.626 Y=2188.362 Z=92.703] for [PlayerCharacter_C]
+[2023.03.22-21.59.25:549][875]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type PlayerCharacter_C at Rotation: Pitch 0.000000 Yaw -148.747910 Roll 0.000000
+Translation: 5749.625977 2188.361572 92.703186
+Scale3D: 1.000000 1.000000 1.000000
+
+[2023.03.22-21.59.25:550][875]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	MyGame_C /Game/Levels/UEDPIE_0_Lab_Level.Lab_Level:PersistentLevel.MyGame_C_0
+	Function /Game/Assets/MyGame.MyGame_C:ExecuteUbergraph_MyGame:00E0
+[2023.03.22-21.59.25:550][875]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  MyGame Function:  Execute Ubergraph My Game Graph:  EventGraph Node:  Assign On Destroyed
+[2023.03.22-21.59.25:550][875]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.03.22-21.59.25:550][875]PIE: Server logged in
+[2023.03.22-21.59.25:551][875]PIE: Play in editor total start time 0.147 seconds.
+[2023.03.22-21.59.26:805][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.22-21.59.26:805][948]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lab_Level
+[2023.03.22-21.59.26:805][948]LogWorld: UWorld::CleanupWorld for Lab_Level, bSessionEnded=true, bCleanupResources=true
+[2023.03.22-21.59.26:806][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-21.59.26:819][948]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.22-21.59.26:833][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-21.59.26:854][948]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.22-21.59.26:854][948]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.22-21.59.26:856][948]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.22-21.59.26:859][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.22-21.59.26:863][948]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.03.22-21.59.26:960][949]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2023.03.22-21.59.29:014][ 64]LogSlate: Window 'Message Log' being destroyed
+[2023.03.22-21.59.29:018][ 64]LogSlate: Window 'Message Log' being destroyed
+[2023.03.22-21.59.35:219][409]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.22-21.59.35:219][409]PIE: New page: PIE session: Lab_Level (Mar 22, 2023, 1:59:35 PM)
+[2023.03.22-21.59.35:219][409]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lab_Level
+[2023.03.22-21.59.35:257][409]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038188s)
+[2023.03.22-21.59.35:257][409]LogAIModule: Creating AISystem for world Lab_Level
+[2023.03.22-21.59.35:258][409]LogPlayLevel: PIE: World Init took: (0.001080s)
+[2023.03.22-21.59.35:258][409]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lab_Level.Lab_Level to /Game/Levels/UEDPIE_0_Lab_Level.Lab_Level (0.039392s)
+[2023.03.22-21.59.35:282][409]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.03.22-21.59.35:283][409]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2023.03.22-21.59.35:283][409]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.22-21.59.35:283][409]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.22-21.59.35:283][409]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.22-21.59.35:283][409]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.22-21.59.35:283][409]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.22-21.59.35:283][409]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.22-21.59.35:283][409]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.22-21.59.35:283][409]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.22-21.59.35:284][409]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.22-21.59.35:284][409]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.22-21.59.35:284][409]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.22-21.59.35:284][409]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.22-21.59.35:285][409]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.22-21.59.35:285][409]LogAudioMixer: Display: 1: FrontRight
+[2023.03.22-21.59.35:345][409]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2023.03.22-21.59.35:345][409]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.22-21.59.35:346][409]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.22-21.59.35:346][409]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.22-21.59.35:346][409]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.22-21.59.35:346][409]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.22-21.59.35:346][409]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.22-21.59.35:347][409]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.22-21.59.35:347][409]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.22-21.59.35:347][409]LogInit: FAudioDevice initialized.
+[2023.03.22-21.59.35:347][409]LogAudio: Display: Audio Device (ID: 39) registered with world 'Lab_Level'.
+[2023.03.22-21.59.35:358][409]LogLoad: Game class is 'MyGame_C'
+[2023.03.22-21.59.35:361][409]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lab_Level.Lab_Level up for play (max tick rate 60) at 2023.03.22-17.59.35
+[2023.03.22-21.59.35:361][409]LogWorld: Bringing up level for play took: 0.003256
+[2023.03.22-21.59.35:362][409]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2023.03.22-21.59.35:364][409]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.22-21.59.35:364][409]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.22-21.59.35:364][409]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.03.22-21.59.35:366][409]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.03.22-21.59.35:366][409]PIE: Server logged in
+[2023.03.22-21.59.35:366][409]PIE: Play in editor total start time 0.149 seconds.
+[2023.03.22-21.59.45:658][ 24]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.0
+[2023.03.22-21.59.45:659][ 24]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.016667
+[2023.03.22-21.59.45:674][ 25]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.033333
+[2023.03.22-21.59.45:691][ 26]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.05
+[2023.03.22-21.59.45:708][ 27]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.066667
+[2023.03.22-21.59.45:724][ 28]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.083334
+[2023.03.22-21.59.45:742][ 29]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.1
+[2023.03.22-21.59.45:757][ 30]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.116667
+[2023.03.22-21.59.45:774][ 31]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.133334
+[2023.03.22-21.59.45:790][ 32]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.150001
+[2023.03.22-21.59.45:808][ 33]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.166667
+[2023.03.22-21.59.45:824][ 34]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.183334
+[2023.03.22-21.59.45:840][ 35]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.200001
+[2023.03.22-21.59.45:859][ 36]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.216668
+[2023.03.22-21.59.45:875][ 37]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.233334
+[2023.03.22-21.59.45:893][ 38]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.250001
+[2023.03.22-21.59.45:908][ 39]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.266668
+[2023.03.22-21.59.45:924][ 40]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.283335
+[2023.03.22-21.59.45:940][ 41]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.300001
+[2023.03.22-21.59.45:957][ 42]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.316668
+[2023.03.22-21.59.45:976][ 43]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.333335
+[2023.03.22-21.59.45:993][ 44]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.350001
+[2023.03.22-21.59.46:008][ 45]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.366668
+[2023.03.22-21.59.46:025][ 46]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.383335
+[2023.03.22-21.59.46:042][ 47]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.400002
+[2023.03.22-21.59.46:058][ 48]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.416668
+[2023.03.22-21.59.46:074][ 49]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.433335
+[2023.03.22-21.59.46:091][ 50]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.450002
+[2023.03.22-21.59.46:108][ 51]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.466669
+[2023.03.22-21.59.46:124][ 52]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.483336
+[2023.03.22-21.59.46:140][ 53]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.500002
+[2023.03.22-21.59.46:157][ 54]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.516669
+[2023.03.22-21.59.46:174][ 55]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.533336
+[2023.03.22-21.59.46:190][ 56]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.550003
+[2023.03.22-21.59.46:207][ 57]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.566669
+[2023.03.22-21.59.46:225][ 58]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.583336
+[2023.03.22-21.59.46:242][ 59]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.600003
+[2023.03.22-21.59.46:257][ 60]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.61667
+[2023.03.22-21.59.46:275][ 61]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.633336
+[2023.03.22-21.59.46:290][ 62]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.650003
+[2023.03.22-21.59.46:307][ 63]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.66667
+[2023.03.22-21.59.46:324][ 64]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.683336
+[2023.03.22-21.59.46:341][ 65]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.700003
+[2023.03.22-21.59.46:357][ 66]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.71667
+[2023.03.22-21.59.46:374][ 67]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.733337
+[2023.03.22-21.59.46:390][ 68]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.750003
+[2023.03.22-21.59.46:407][ 69]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.76667
+[2023.03.22-21.59.46:424][ 70]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.783337
+[2023.03.22-21.59.46:441][ 71]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.800004
+[2023.03.22-21.59.46:458][ 72]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.81667
+[2023.03.22-21.59.46:474][ 73]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.833337
+[2023.03.22-21.59.46:491][ 74]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.850004
+[2023.03.22-21.59.46:508][ 75]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.86667
+[2023.03.22-21.59.46:524][ 76]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.883337
+[2023.03.22-21.59.46:541][ 77]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.900004
+[2023.03.22-21.59.46:557][ 78]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.916671
+[2023.03.22-21.59.46:574][ 79]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.933338
+[2023.03.22-21.59.46:591][ 80]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.950004
+[2023.03.22-21.59.46:608][ 81]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.966671
+[2023.03.22-21.59.46:625][ 82]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.983338
+[2023.03.22-21.59.46:640][ 83]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1.0
+[2023.03.22-21.59.46:657][ 84]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1.0
+[2023.03.22-21.59.46:674][ 85]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1.0
+[2023.03.22-21.59.46:691][ 86]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1.0
+[2023.03.22-21.59.46:708][ 87]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1.0
+[2023.03.22-21.59.46:724][ 88]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1.0
+[2023.03.22-21.59.46:742][ 89]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1.0
+[2023.03.22-21.59.46:758][ 90]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1.0
+[2023.03.22-21.59.46:774][ 91]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1.0
+[2023.03.22-21.59.46:790][ 92]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1.0
+[2023.03.22-21.59.46:809][ 93]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1.0
+[2023.03.22-21.59.46:824][ 94]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1.0
+[2023.03.22-21.59.46:842][ 95]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1.0
+[2023.03.22-21.59.46:858][ 96]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1.0
+[2023.03.22-21.59.46:874][ 97]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1.0
+[2023.03.22-21.59.46:892][ 98]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1.0
+[2023.03.22-21.59.46:908][ 99]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1.0
+[2023.03.22-21.59.46:926][100]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1.0
+[2023.03.22-21.59.46:941][101]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1.0
+[2023.03.22-21.59.46:958][102]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1.0
+[2023.03.22-21.59.46:974][103]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1.0
+[2023.03.22-21.59.46:993][104]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1.0
+[2023.03.22-21.59.47:008][105]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1.0
+[2023.03.22-21.59.47:024][106]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1.0
+[2023.03.22-21.59.47:041][107]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1.0
+[2023.03.22-21.59.47:058][108]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1.0
+[2023.03.22-21.59.47:075][109]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1.0
+[2023.03.22-21.59.47:092][110]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1.0
+[2023.03.22-21.59.47:108][111]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1.0
+[2023.03.22-21.59.47:124][112]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1.0
+[2023.03.22-21.59.47:141][113]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1.0
+[2023.03.22-21.59.47:158][114]AnimBlueprintLog: Error: No Inertialization node found for request from transition 'Slide' to 'Neve_AnimBS_WalkingRunning' in state machine 'Neve_Anim State Machine' in anim blueprint '/Game/Art/Animations/NewAttemptAnimBP.NewAttemptAnimBP'. Add an Inertialization node after this state machine.
+[2023.03.22-21.59.52:690][446]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2023.03.22-21.59.52:690][446]LogBlueprintUserMessages: [PlayerCharacter_C_0] 160.0
+[2023.03.22-21.59.53:058][468]LogCharacterMovement: PlayerCharacter_C_0 is stuck and failed to move! Velocity: X=140.69 Y=-40.72 Z=0.00 Location: X=3154.33 Y=197.25 Z=212.45 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:1.421 Actor:Lab_Gurney3 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2023.03.22-21.59.55:724][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.22-21.59.55:724][626]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lab_Level
+[2023.03.22-21.59.55:724][626]LogWorld: UWorld::CleanupWorld for Lab_Level, bSessionEnded=true, bCleanupResources=true
+[2023.03.22-21.59.55:725][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-21.59.55:737][626]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.22-21.59.55:749][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-21.59.55:772][626]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.22-21.59.55:772][626]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.22-21.59.55:773][626]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.22-21.59.55:776][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.22-21.59.55:780][626]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2023.03.22-21.59.55:805][627]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2023.03.22-21.59.58:877][809]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Billboard_Billboard)
+[2023.03.22-22.00.14:009][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.03.22-22.00.14:052][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.03.22-22.00.14:160][661]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Lab_Level744259104947E824F66DDEBE4AC527DD.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/Lab_Level.umap'
+[2023.03.22-22.00.14:166][661]LogFileHelpers: Saving map 'Lab_Level' took 0.137
+[2023.03.22-22.00.14:181][661]AssetCheck: New page: Asset Save: Lab_Level
+[2023.03.22-22.00.14:181][661]LogContentValidation: Display: Validating World /Game/Levels/Lab_Level.Lab_Level
