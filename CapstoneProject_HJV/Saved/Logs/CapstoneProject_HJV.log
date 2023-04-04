@@ -3306,3 +3306,569 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.04.04-20.39.23:337][829]LogContentValidation: Display: Validating StaticMesh /Game/Art/Lab_Props/GlassObjects/Glass_GlassShard_00.Glass_GlassShard_00
 [2023.04.04-20.39.23:337][829]LogContentValidation: Display: Validating StaticMesh /Game/Art/Lab_Props/GlassObjects/Glass_GlassShard_01.Glass_GlassShard_01
 [2023.04.04-20.39.23:337][829]LogContentValidation: Display: Validating StaticMesh /Game/Art/Lab_Props/GlassObjects/Glass_GlassBroken.Glass_GlassBroken
+[2023.04.04-20.41.58:898][501]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.04.04-20.41.58:916][501]LogContentBrowser: Creating deferred item: NewFolder
+[2023.04.04-20.42.00:804][615]LogContentBrowser: Attempting asset rename: NewFolder -> Glass
+[2023.04.04-20.42.00:810][615]LogContentBrowser: End creating deferred item NewFolder
+[2023.04.04-20.42.08:290][829]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/bvelt/Downloads/BrokenGlass/Glass_Glass_Normal.png)
+[2023.04.04-20.42.08:351][829]LogTexture: Display: Building textures: Glass_Glass_Normal (OODLE_BC5, 2048X2048)
+[2023.04.04-20.42.08:431][829]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.04.04-20.42.08:431][829]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.04.04-20.42.08:431][829]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/bvelt/Downloads/BrokenGlass/Glass_Glass_OcclusionRoughnessMetallic.png)
+[2023.04.04-20.42.08:487][829]LogTexture: Display: Building textures: Glass_Glass_OcclusionRoughnessMetallic (OODLE_AutoDXT, 2048X2048)
+[2023.04.04-20.42.08:566][829]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.04.04-20.42.08:566][829]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.04.04-20.42.08:599][829]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/bvelt/Downloads/BrokenGlass/Glass_Glass_BaseColor.png)
+[2023.04.04-20.42.08:653][829]LogTexture: Display: Building textures: Glass_Glass_BaseColor (OODLE_AutoDXT, 2048X2048)
+[2023.04.04-20.42.08:759][829]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.04.04-20.42.08:759][829]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.04.04-20.42.38:016][574]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.04.04-20.42.38:033][574]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.04.04-20.42.42:103][819]LogContentBrowser: Attempting asset rename: NewMaterial -> GlassMAT
+[2023.04.04-20.42.42:110][819]LogContentBrowser: End creating deferred item NewMaterial
+[2023.04.04-20.42.43:697][913]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Art/Materials/Environment/GlassMAT.GlassMAT
+[2023.04.04-20.42.43:699][913]LogMaterial: Display: Missing cached shadermap for GlassMAT in PCD3D_SM5, Default, SM5 (DDC key hash: 9E278CC56175E64F31D35583E61CC918E5A81BF7), compiling. 
+[2023.04.04-20.42.43:719][913]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2023.04.04-20.42.43:774][913]LogMaterial: Display: Missing cached shadermap for GlassMAT in PCD3D_SM5, Default, SM5 (DDC key hash: 6ABD03A595B43CE7440D8F99E74803143A33A2B3), compiling. 
+[2023.04.04-20.42.43:776][913]LogMaterial: Display: Missing cached shadermap for GlassMAT in PCD3D_SM5, Default, SM5 (DDC key hash: 275037190EB60E48CF436BD2AB50088181397D57), compiling. 
+[2023.04.04-20.42.43:794][913]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.04-20.42.43:830][914]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.04.04-20.42.43:830][914]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.04.04-20.42.43:830][914]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.04.04-20.42.43:830][914]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.04-20.42.43:830][914]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.04.04-20.42.43:855][915]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2023.04.04-20.42.43:855][915]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2023.04.04-20.42.43:855][915]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2023.04.04-20.42.43:855][915]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2023.04.04-20.42.43:855][915]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2023.04.04-20.42.43:855][915]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2023.04.04-20.42.43:855][915]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2023.04.04-20.42.43:855][915]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2023.04.04-20.42.43:855][915]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.04.04-20.42.44:723][961]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.04-20.42.44:723][961]LogShaderCompilers: Display: Total job queries 20, among them cache hits 0 (0.00%)
+[2023.04.04-20.42.44:723][961]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2023.04.04-20.42.44:723][961]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.04.04-20.42.44:723][961]LogShaderCompilers: Display: ================================================
+[2023.04.04-20.42.45:002][978]MaterialEditorStats: Texture samplers: 2/16
+[2023.04.04-20.42.45:119][985]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.04.04-20.42.45:119][985]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.04.04-20.42.45:119][985]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.04.04-20.42.45:119][985]MaterialEditorStats: Texture samplers: 2/16
+[2023.04.04-20.42.54:465][511]LogMaterial: Display: Missing cached shadermap for GlassMAT in PCD3D_SM5, Default, SM5 (DDC key hash: F44FF2D389E8EB90366A07E2FBDC4555DC58D254), compiling. 
+[2023.04.04-20.42.54:467][511]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: BB9B929EE895103C896D225D67381EFCFCACA7CF), compiling. 
+[2023.04.04-20.42.54:468][511]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 883CF4D6EE16FD1B2B659EFBAF8E219808CFC2C6), compiling. 
+[2023.04.04-20.42.54:471][511]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.04-20.42.54:495][512]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.04.04-20.42.54:495][512]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.04.04-20.42.54:495][512]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.04.04-20.42.54:495][512]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.04-20.42.54:495][512]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.04.04-20.42.54:495][512]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.04.04-20.42.54:495][512]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.04.04-20.42.54:495][512]MaterialEditorStats: Texture samplers: 2/16
+[2023.04.04-20.42.56:778][629]LogMaterial: Display: Missing cached shadermap for GlassMAT in PCD3D_SM5, Default, SM5 (DDC key hash: CED6D0D01B9417AD45BC811AFECAC95594D79842), compiling. 
+[2023.04.04-20.42.56:781][629]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: FD0379DE98128FBB8512ACEB307B9D9CB1582F73), compiling. 
+[2023.04.04-20.42.56:782][629]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: EAE72B01546CB6D41C33FFF2388F5C2F35A28548), compiling. 
+[2023.04.04-20.42.56:783][629]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: E23D218D6E5F5D65835D020392BC920E0E44F524), compiling. 
+[2023.04.04-20.42.56:786][629]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.04-20.42.56:807][630]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.04.04-20.42.56:807][630]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.04.04-20.42.56:807][630]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.04.04-20.42.56:807][630]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.04.04-20.42.56:807][630]MaterialEditorStats: Texture samplers: 2/16
+[2023.04.04-20.42.56:827][631]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.04.04-20.42.56:827][631]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.04.04-20.42.56:827][631]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.04-20.42.59:046][738]LogMaterial: Display: Missing cached shadermap for GlassMAT in PCD3D_SM5, Default, SM5 (DDC key hash: 66E731433B85FFB0A9F89D4CFC9D21B663E6A3F9), compiling. 
+[2023.04.04-20.42.59:048][738]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: FA65C8496BE22736D3FB979D972451D0FA866E80), compiling. 
+[2023.04.04-20.42.59:049][738]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 579935D3D68AA44AD6664B38B45EF52666D34171), compiling. 
+[2023.04.04-20.42.59:050][738]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 8F2142AD7731A730F617A9CA99960E4868B6EF05), compiling. 
+[2023.04.04-20.42.59:051][738]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 272C552B1380767A285ABCB987E768C94DFBC7AC), compiling. 
+[2023.04.04-20.42.59:054][738]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.04-20.42.59:077][739]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.04.04-20.42.59:077][739]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.04.04-20.42.59:077][739]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.04.04-20.42.59:077][739]MaterialEditorStats: Texture samplers: 2/16
+[2023.04.04-20.42.59:099][740]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.04.04-20.42.59:099][740]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.04.04-20.42.59:099][740]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.04.04-20.42.59:099][740]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.04-20.43.02:880][953]LogSlate: Window 'GlassMAT' being destroyed
+[2023.04.04-20.43.21:793][ 84]LogMaterial: Display: Missing cached shadermap for GlassMAT in PCD3D_SM5, Default, SM5 (DDC key hash: F428EB16FD9CAB3E45DDB3003D1DCFFB6E1629E0), compiling. 
+[2023.04.04-20.43.21:794][ 84]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: CD5DCEEC51D955971D9A01B62CB74113FB3AF767), compiling. 
+[2023.04.04-20.43.21:798][ 84]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.04-20.43.21:798][ 84]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.04-20.43.21:798][ 84]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.43.21:803][ 85]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.04.04-20.43.21:816][ 86]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.04.04-20.43.21:816][ 86]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.04.04-20.43.21:816][ 86]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.04-20.43.21:816][ 86]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.04.04-20.43.21:836][ 87]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2023.04.04-20.43.21:837][ 87]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2023.04.04-20.43.21:837][ 87]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2023.04.04-20.43.21:837][ 87]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2023.04.04-20.43.21:837][ 87]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2023.04.04-20.43.21:837][ 87]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2023.04.04-20.43.21:837][ 87]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2023.04.04-20.43.21:837][ 87]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2023.04.04-20.43.21:837][ 87]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.04.04-20.43.22:866][139]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.04-20.43.22:866][139]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.04-20.43.22:866][139]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.43.22:949][144]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.04.04-20.43.22:949][144]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.04.04-20.43.22:949][144]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.04.04-20.43.22:949][144]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.04-20.43.22:949][144]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.04-20.43.22:949][144]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.43.34:589][841]LogMaterial: Display: Missing cached shadermap for GlassMAT in PCD3D_SM5, Default, SM5 (DDC key hash: D21C2AD445DEB2B523D943C22AF2CF94FC2D40FC), compiling. 
+[2023.04.04-20.43.34:590][841]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 871343F81C55E2E14E084429473F8CCBE77E1452), compiling. 
+[2023.04.04-20.43.34:593][841]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.04-20.43.34:593][841]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.04.04-20.43.34:593][841]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.43.34:598][842]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.04.04-20.43.34:598][842]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.04.04-20.43.34:598][842]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.04.04-20.43.34:598][842]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.04-20.43.34:610][843]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2023.04.04-20.43.34:610][843]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.04.04-20.43.34:610][843]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2023.04.04-20.43.34:610][843]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2023.04.04-20.43.34:610][843]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2023.04.04-20.43.34:610][843]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2023.04.04-20.43.34:610][843]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2023.04.04-20.43.34:610][843]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2023.04.04-20.43.34:610][843]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2023.04.04-20.43.34:610][843]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.04.04-20.43.35:454][882]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.04-20.43.35:454][882]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.04.04-20.43.35:454][882]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.43.35:554][888]MaterialEditorStats: Base pass shader: 126 instructions
+[2023.04.04-20.43.35:554][888]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2023.04.04-20.43.35:554][888]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.04.04-20.43.35:554][888]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.04-20.43.35:554][888]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.04.04-20.43.35:554][888]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.44.04:519][619]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Art/Materials/LabMaterials/Desk_Mat.Desk_Mat
+[2023.04.04-20.44.04:520][619]LogMaterial: Display: Missing cached shadermap for Desk_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 69E431C9E8A07174B04DACBD1EEDEF5B96630C27), compiling. 
+[2023.04.04-20.44.04:529][619]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Normal' priority
+[2023.04.04-20.44.04:572][619]LogMaterial: Display: Missing cached shadermap for Desk_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: B3FBAD4F5B33D386E08453520BC34579D8BE4563), compiling. 
+[2023.04.04-20.44.04:574][619]LogMaterial: Display: Missing cached shadermap for Desk_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: F0AA8F5012664E385DDBEBBCA91846009D1440C3), compiling. 
+[2023.04.04-20.44.04:576][619]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 87B001E57EF7D6FEDAB1F14829DC89A0EB7CFF1C), compiling. 
+[2023.04.04-20.44.04:577][619]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: B657DA96FBF1A3AD47D7973DD0612C2CA67B6286), compiling. 
+[2023.04.04-20.44.04:577][619]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 69BFA5FDBDD538FB0D409725FFE942778BDF3B4E), compiling. 
+[2023.04.04-20.44.04:594][619]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.04-20.44.04:594][619]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.04.04-20.44.04:594][619]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.44.04:627][620]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.04.04-20.44.04:628][620]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.04.04-20.44.04:628][620]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.04.04-20.44.04:628][620]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.04-20.44.04:628][620]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2023.04.04-20.44.04:654][621]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 10
+[2023.04.04-20.44.04:654][621]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 9
+[2023.04.04-20.44.04:654][621]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2023.04.04-20.44.04:654][621]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2023.04.04-20.44.04:654][621]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2023.04.04-20.44.04:654][621]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 5
+[2023.04.04-20.44.04:654][621]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2023.04.04-20.44.04:654][621]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2023.04.04-20.44.04:654][621]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2023.04.04-20.44.04:654][621]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2023.04.04-20.44.04:654][621]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.04.04-20.44.04:779][627]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.04.04-20.44.04:801][628]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.04.04-20.44.05:568][661]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 4
+[2023.04.04-20.44.05:569][661]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.04-20.44.05:672][666]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 3
+[2023.04.04-20.44.05:672][666]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.04-20.44.05:719][668]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2
+[2023.04.04-20.44.05:719][668]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.04-20.44.05:740][669]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2023.04.04-20.44.05:740][669]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.04-20.44.05:869][675]MaterialEditorStats: Texture samplers: 5/16
+[2023.04.04-20.44.05:869][675]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.04.04-20.44.05:869][675]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.44.06:188][691]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.04.04-20.44.06:188][691]MaterialEditorStats: Base pass shader with Surface Lightmap: 159 instructions
+[2023.04.04-20.44.06:188][691]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2023.04.04-20.44.06:188][691]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.04.04-20.44.06:188][691]MaterialEditorStats: Texture samplers: 5/16
+[2023.04.04-20.44.06:188][691]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.04.04-20.44.06:188][691]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.44.19:924][513]LogMaterial: Display: Missing cached shadermap for GlassMAT in PCD3D_SM5, Default, SM5 (DDC key hash: 3F9DDD554A5F7AF811B5DECBC70EB4A36BC780E0), compiling. 
+[2023.04.04-20.44.19:926][513]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 9D8ADB66B6130DEFA1AF14F7993CBA572E9BBCAF), compiling. 
+[2023.04.04-20.44.19:930][513]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.04-20.44.19:930][513]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.04.04-20.44.19:930][513]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.44.19:935][514]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.04.04-20.44.19:952][515]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.04.04-20.44.19:952][515]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.04.04-20.44.19:952][515]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.04-20.44.19:952][515]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.04.04-20.44.19:952][515]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2023.04.04-20.44.19:952][515]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2023.04.04-20.44.19:952][515]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2023.04.04-20.44.19:952][515]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2023.04.04-20.44.19:952][515]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2023.04.04-20.44.19:952][515]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2023.04.04-20.44.19:952][515]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2023.04.04-20.44.19:952][515]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2023.04.04-20.44.19:952][515]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.04.04-20.44.20:774][549]MaterialEditorStats: Texture samplers: 5/16
+[2023.04.04-20.44.20:774][549]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.04.04-20.44.20:774][549]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.44.20:872][555]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.04.04-20.44.20:872][555]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2023.04.04-20.44.20:872][555]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.04.04-20.44.20:872][555]MaterialEditorStats: Texture samplers: 5/16
+[2023.04.04-20.44.20:872][555]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.04.04-20.44.20:872][555]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.44.24:562][776]LogMaterial: Display: Missing cached shadermap for GlassMAT in PCD3D_SM5, Default, SM5 (DDC key hash: 56A0636BE83F2EF282B9C35CA47F0971DAEFAAE8), compiling. 
+[2023.04.04-20.44.24:564][776]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: E06482D24F1A8BA51FDACFD0303862FF7475713D), compiling. 
+[2023.04.04-20.44.24:569][776]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.04-20.44.24:569][776]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.04.04-20.44.24:569][776]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.44.24:572][777]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.04.04-20.44.24:588][778]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.04.04-20.44.24:588][778]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.04.04-20.44.24:588][778]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.04-20.44.24:588][778]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.04.04-20.44.24:588][778]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2023.04.04-20.44.24:588][778]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2023.04.04-20.44.24:588][778]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2023.04.04-20.44.24:588][778]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2023.04.04-20.44.24:588][778]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2023.04.04-20.44.24:588][778]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2023.04.04-20.44.24:588][778]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2023.04.04-20.44.24:588][778]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2023.04.04-20.44.24:588][778]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.04.04-20.44.25:394][812]MaterialEditorStats: Texture samplers: 5/16
+[2023.04.04-20.44.25:394][812]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.04.04-20.44.25:394][812]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.44.25:493][818]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.04.04-20.44.25:493][818]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 204 instructions
+[2023.04.04-20.44.25:493][818]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.04.04-20.44.25:493][818]MaterialEditorStats: Texture samplers: 5/16
+[2023.04.04-20.44.25:493][818]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.04.04-20.44.25:493][818]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.44.27:259][923]LogMaterial: Display: Missing cached shadermap for GlassMAT in PCD3D_SM5, Default, SM5 (DDC key hash: 466C44C2AC85C295257C439E2A775AFC820966CC), compiling. 
+[2023.04.04-20.44.27:269][923]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.04-20.44.27:269][923]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.04.04-20.44.27:269][923]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.44.27:303][925]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.04.04-20.44.27:303][925]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 204 instructions
+[2023.04.04-20.44.27:303][925]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.04.04-20.44.27:303][925]MaterialEditorStats: Texture samplers: 5/16
+[2023.04.04-20.44.27:303][925]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.04.04-20.44.27:303][925]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.44.29:337][ 47]LogMaterial: Display: Missing cached shadermap for GlassMAT in PCD3D_SM5, Default, SM5 (DDC key hash: 26DF392845EB103144BFE6B0B428D2AE2F4F057F), compiling. 
+[2023.04.04-20.44.29:339][ 47]LogMaterial: Display: Missing cached shadermap for GlassMAT in PCD3D_SM5, Default, SM5 (DDC key hash: 6F0BFCCBD76BC2271CB9E7DF92BCFE852AC8334D), compiling. 
+[2023.04.04-20.44.29:341][ 47]LogMaterial: Display: Missing cached shadermap for GlassMAT in PCD3D_SM5, Default, SM5 (DDC key hash: 9F3B38BBDD71498F73FA24072B380A56357FFAFC), compiling. 
+[2023.04.04-20.44.29:348][ 47]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.04-20.44.29:348][ 47]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.04.04-20.44.29:348][ 47]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.44.29:377][ 49]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Normal' priority
+[2023.04.04-20.44.29:377][ 49]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.04.04-20.44.29:377][ 49]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.04.04-20.44.29:377][ 49]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 21
+[2023.04.04-20.44.29:377][ 49]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 19
+[2023.04.04-20.44.29:377][ 49]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+[2023.04.04-20.44.29:377][ 49]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 15
+[2023.04.04-20.44.29:377][ 49]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 13
+[2023.04.04-20.44.29:377][ 49]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 11
+[2023.04.04-20.44.29:377][ 49]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2023.04.04-20.44.29:377][ 49]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 7
+[2023.04.04-20.44.29:377][ 49]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 5
+[2023.04.04-20.44.29:377][ 49]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2023.04.04-20.44.29:377][ 49]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Normal' priority
+[2023.04.04-20.44.29:377][ 49]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.04-20.44.30:282][ 90]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2023.04.04-20.44.30:282][ 90]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.04.04-20.44.30:308][ 91]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.04-20.44.30:308][ 91]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.04.04-20.44.30:308][ 91]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.44.31:318][145]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.04-20.44.31:318][145]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.04.04-20.44.31:318][145]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.44.31:451][153]MaterialEditorStats: Base pass shader: 76 instructions
+[2023.04.04-20.44.31:451][153]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 107 instructions
+[2023.04.04-20.44.31:451][153]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2023.04.04-20.44.31:451][153]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.04-20.44.31:451][153]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.04.04-20.44.31:451][153]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.44.45:728][  9]LogMaterial: Display: Missing cached shadermap for GlassMAT in PCD3D_SM5, Default, SM5 (DDC key hash: 9E8722F6530B82667AAF9B6F3FA4B59638BFA0C9), compiling. 
+[2023.04.04-20.44.45:730][  9]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.04-20.44.45:730][  9]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.04.04-20.44.45:730][  9]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.44.45:773][ 12]MaterialEditorStats: Base pass shader: 76 instructions
+[2023.04.04-20.44.45:773][ 12]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 107 instructions
+[2023.04.04-20.44.45:773][ 12]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2023.04.04-20.44.45:773][ 12]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.04-20.44.45:773][ 12]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.04.04-20.44.45:773][ 12]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.44.48:423][171]LogMaterial: Display: Missing cached shadermap for GlassMAT in PCD3D_SM5, Default, SM5 (DDC key hash: 1BD19935CC317A9342EB8387D09EF5BCC511E254), compiling. 
+[2023.04.04-20.44.48:425][171]LogMaterial: Display: Missing cached shadermap for GlassMAT in PCD3D_SM5, Default, SM5 (DDC key hash: 77DBB735A1622E949F348C2B0BA4DAC647A101A4), compiling. 
+[2023.04.04-20.44.48:427][171]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.04-20.44.48:427][171]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.04.04-20.44.48:427][171]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.44.48:456][173]MaterialEditorStats: Base pass shader: 76 instructions
+[2023.04.04-20.44.48:456][173]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 107 instructions
+[2023.04.04-20.44.48:456][173]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2023.04.04-20.44.48:456][173]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.04-20.44.48:456][173]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.04.04-20.44.48:456][173]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.44.51:125][333]LogMaterial: Display: Missing cached shadermap for GlassMAT in PCD3D_SM5, Default, SM5 (DDC key hash: 001E269DDE605211E891D01A95FA33BA3A0E7868), compiling. 
+[2023.04.04-20.44.51:131][333]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.04-20.44.51:131][333]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.04.04-20.44.51:131][333]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.44.51:147][335]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Normal' priority
+[2023.04.04-20.44.51:147][335]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.04.04-20.44.51:147][335]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.04.04-20.44.51:147][335]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 21
+[2023.04.04-20.44.51:147][335]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 19
+[2023.04.04-20.44.51:147][335]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+[2023.04.04-20.44.51:147][335]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 15
+[2023.04.04-20.44.51:147][335]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 13
+[2023.04.04-20.44.51:147][335]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 11
+[2023.04.04-20.44.51:147][335]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2023.04.04-20.44.51:147][335]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 7
+[2023.04.04-20.44.51:147][335]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 5
+[2023.04.04-20.44.51:147][335]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2023.04.04-20.44.51:147][335]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Normal' priority
+[2023.04.04-20.44.51:147][335]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.04-20.44.52:369][394]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.04.04-20.44.52:369][394]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.04.04-20.44.52:372][394]MaterialEditorStats: Texture samplers: 2/16
+[2023.04.04-20.44.52:372][394]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.04.04-20.44.52:372][394]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.44.52:470][399]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.04-20.44.52:471][399]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.04.04-20.44.52:471][399]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.44.53:102][430]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.04-20.44.53:102][430]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.04.04-20.44.53:102][430]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.44.53:502][454]MaterialEditorStats: Base pass shader: 80 instructions
+[2023.04.04-20.44.53:502][454]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 111 instructions
+[2023.04.04-20.44.53:503][454]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2023.04.04-20.44.53:503][454]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.04-20.44.53:503][454]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.04.04-20.44.53:503][454]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.44.54:609][520]LogMaterialEditor: Saving and Compiling material GlassMAT
+[2023.04.04-20.44.54:871][520]LogMaterial: Display: Missing cached shadermap for GlassMAT in PCD3D_SM5, Default, SM5 (DDC key hash: 4B25897B6834381EB31F6DBFCAFD691CF6638C1A), compiling. 
+[2023.04.04-20.44.54:903][520]LogMaterial: Display: Missing cached shadermap for GlassMAT in PCD3D_SM5, Default, SM5 (DDC key hash: FB983E631126EEB0D10E36A2822E39EB4D269FEA), compiling. 
+[2023.04.04-20.44.54:962][520]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2023.04.04-20.44.54:969][520]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2023.04.04-20.44.55:181][520]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2023.04.04-20.44.55:181][520]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.04-20.44.55:219][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.04.04-20.44.55:274][520]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.04.04-20.44.55:281][520]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 8
+[2023.04.04-20.44.55:281][520]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2023.04.04-20.44.55:281][520]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2023.04.04-20.44.55:281][520]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2023.04.04-20.44.55:281][520]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2023.04.04-20.44.55:281][520]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2023.04.04-20.44.55:281][520]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2023.04.04-20.44.55:281][520]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2023.04.04-20.44.55:281][520]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.04.04-20.44.55:302][520]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/GlassMAT342F049D42F55AB4632D2A982144DD70.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Art/Materials/Environment/GlassMAT.uasset'
+[2023.04.04-20.44.55:324][520]AssetCheck: New page: Asset Save: GlassMAT
+[2023.04.04-20.44.55:325][520]LogContentValidation: Display: Validating Material /Game/Art/Materials/Environment/GlassMAT.GlassMAT
+[2023.04.04-20.44.55:325][520]MaterialEditorStats: Texture samplers: 2/16
+[2023.04.04-20.44.55:325][520]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.04.04-20.44.55:325][520]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.44.55:345][521]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.04-20.44.55:345][521]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.04.04-20.44.55:345][521]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.44.56:160][568]MaterialEditorStats: Base pass shader: 80 instructions
+[2023.04.04-20.44.56:161][568]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 111 instructions
+[2023.04.04-20.44.56:161][568]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2023.04.04-20.44.56:161][568]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.04-20.44.56:161][568]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.04.04-20.44.56:161][568]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.44.59:544][770]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Art/Materials/LabMaterials/FlaskBeaker_GlassMat.FlaskBeaker_GlassMat
+[2023.04.04-20.44.59:545][770]LogMaterial: Display: Missing cached shadermap for FlaskBeaker_GlassMat in PCD3D_SM5, Default, SM5 (DDC key hash: 2E864A11C4F210017CA30095A5377964F723C777), compiling. 
+[2023.04.04-20.44.59:560][770]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Normal' priority
+[2023.04.04-20.44.59:561][770]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 25
+[2023.04.04-20.44.59:561][770]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 22
+[2023.04.04-20.44.59:561][770]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2023.04.04-20.44.59:561][770]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 16
+[2023.04.04-20.44.59:561][770]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 13
+[2023.04.04-20.44.59:561][770]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 10
+[2023.04.04-20.44.59:561][770]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2023.04.04-20.44.59:561][770]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2023.04.04-20.44.59:561][770]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2023.04.04-20.44.59:561][770]LogShaderCompilers: Display: Started 25 'Local' shader compile jobs with 'Normal' priority
+[2023.04.04-20.44.59:632][770]LogMaterial: Display: Missing cached shadermap for FlaskBeaker_GlassMat in PCD3D_SM5, Default, SM5 (DDC key hash: D89AE22C1E685F278BC2E3BA7BEF6EA42D26169C), compiling. 
+[2023.04.04-20.44.59:636][770]LogMaterial: Display: Missing cached shadermap for FlaskBeaker_GlassMat in PCD3D_SM5, Default, SM5 (DDC key hash: 3DECF9E365998CC3416F63C72056CA2D1D5BC1FE), compiling. 
+[2023.04.04-20.44.59:639][770]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 72B54757864A36EB4800352F0226745E17D628E5), compiling. 
+[2023.04.04-20.44.59:640][770]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 2E80AEA7742708C517CA90CA53B87865252589C7), compiling. 
+[2023.04.04-20.44.59:642][770]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 07A301A66C294F748DC2535FAF855C4DFDAC3920), compiling. 
+[2023.04.04-20.44.59:670][770]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.04-20.44.59:670][770]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.04.04-20.44.59:670][770]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.45.05:857][ 31]MaterialEditorStats: Texture samplers: 6/16
+[2023.04.04-20.45.05:857][ 31]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.04.04-20.45.05:857][ 31]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.45.08:653][176]MaterialEditorStats: Texture samplers: 7/16
+[2023.04.04-20.45.08:653][176]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.04.04-20.45.08:653][176]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.45.08:885][190]MaterialEditorStats: Base pass shader: 328 instructions
+[2023.04.04-20.45.08:885][190]MaterialEditorStats: Base pass shader with Surface Lightmap: 370 instructions
+[2023.04.04-20.45.08:885][190]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 416 instructions
+[2023.04.04-20.45.08:885][190]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2023.04.04-20.45.08:885][190]MaterialEditorStats: Texture samplers: 7/16
+[2023.04.04-20.45.08:885][190]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.04.04-20.45.08:885][190]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.45.11:745][361]LogMaterial: Display: Missing cached shadermap for GlassMAT in PCD3D_SM5, Default, SM5 (DDC key hash: 834E1949B12AE918C55F7950A899DEB200B1DD09), compiling. 
+[2023.04.04-20.45.11:747][361]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.04-20.45.11:747][361]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.04.04-20.45.11:747][361]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.45.11:779][363]MaterialEditorStats: Base pass shader: 76 instructions
+[2023.04.04-20.45.11:779][363]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 107 instructions
+[2023.04.04-20.45.11:779][363]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2023.04.04-20.45.11:779][363]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.04-20.45.11:779][363]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.04.04-20.45.11:779][363]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.45.15:019][557]LogMaterial: Display: Missing cached shadermap for GlassMAT in PCD3D_SM5, Default, SM5 (DDC key hash: 7C1E99C47C07D1DA9562E22D1D751EC4AB90F7E1), compiling. 
+[2023.04.04-20.45.15:020][557]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 8BAEC8E6CEBFC619530D60F2B6B9E5A7846C6933), compiling. 
+[2023.04.04-20.45.15:024][557]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.04-20.45.15:024][557]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.04.04-20.45.15:024][557]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.45.15:041][559]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Normal' priority
+[2023.04.04-20.45.15:041][559]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.04.04-20.45.15:041][559]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.04.04-20.45.15:041][559]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 21
+[2023.04.04-20.45.15:041][559]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 19
+[2023.04.04-20.45.15:041][559]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+[2023.04.04-20.45.15:041][559]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 15
+[2023.04.04-20.45.15:041][559]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 13
+[2023.04.04-20.45.15:041][559]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 11
+[2023.04.04-20.45.15:041][559]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2023.04.04-20.45.15:041][559]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 7
+[2023.04.04-20.45.15:041][559]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 5
+[2023.04.04-20.45.15:041][559]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2023.04.04-20.45.15:041][559]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Normal' priority
+[2023.04.04-20.45.15:041][559]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.04-20.45.15:916][598]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.04.04-20.45.15:916][598]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.04.04-20.45.15:939][599]MaterialEditorStats: Texture samplers: 2/16
+[2023.04.04-20.45.15:939][599]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.04.04-20.45.15:939][599]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.45.16:019][603]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.04-20.45.16:019][603]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.04.04-20.45.16:019][603]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.45.16:962][652]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.04-20.45.16:962][652]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.04.04-20.45.16:962][652]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.45.17:178][665]MaterialEditorStats: Base pass shader: 79 instructions
+[2023.04.04-20.45.17:178][665]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 110 instructions
+[2023.04.04-20.45.17:178][665]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2023.04.04-20.45.17:178][665]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.04-20.45.17:178][665]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.04.04-20.45.17:178][665]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.45.19:169][784]LogMaterialEditor: Saving and Compiling material GlassMAT
+[2023.04.04-20.45.19:423][784]LogMaterial: Display: Missing cached shadermap for GlassMAT in PCD3D_SM5, Default, SM5 (DDC key hash: 93AB7F27AF2F2E6B3CEB991BEB3812B20F395F21), compiling. 
+[2023.04.04-20.45.19:448][784]LogMaterial: Display: Missing cached shadermap for GlassMAT in PCD3D_SM5, Default, SM5 (DDC key hash: F7420356FD587372B6FAC53DB873E503D7B02239), compiling. 
+[2023.04.04-20.45.19:509][784]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2023.04.04-20.45.19:514][784]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2023.04.04-20.45.19:725][784]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2023.04.04-20.45.19:725][784]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.04-20.45.19:757][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.04.04-20.45.19:806][784]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.04.04-20.45.19:816][784]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 8
+[2023.04.04-20.45.19:817][784]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2023.04.04-20.45.19:817][784]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2023.04.04-20.45.19:817][784]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2023.04.04-20.45.19:817][784]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2023.04.04-20.45.19:817][784]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2023.04.04-20.45.19:817][784]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2023.04.04-20.45.19:817][784]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2023.04.04-20.45.19:817][784]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.04.04-20.45.19:817][784]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/GlassMAT6F5C71A54261EF230C2389A0289403A1.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Art/Materials/Environment/GlassMAT.uasset'
+[2023.04.04-20.45.19:843][784]AssetCheck: New page: Asset Save: GlassMAT
+[2023.04.04-20.45.19:843][784]LogContentValidation: Display: Validating Material /Game/Art/Materials/Environment/GlassMAT.GlassMAT
+[2023.04.04-20.45.19:844][784]MaterialEditorStats: Texture samplers: 2/16
+[2023.04.04-20.45.19:844][784]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.04.04-20.45.19:844][784]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.45.19:868][785]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.04-20.45.19:869][785]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.04.04-20.45.19:869][785]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.45.20:700][831]MaterialEditorStats: Base pass shader: 79 instructions
+[2023.04.04-20.45.20:700][831]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 110 instructions
+[2023.04.04-20.45.20:700][831]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2023.04.04-20.45.20:700][831]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.04-20.45.20:700][831]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.04.04-20.45.20:700][831]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.04-20.45.31:074][451]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Lab_Props/GlassObjects/Glass_GlassBroken.Glass_GlassBroken
+[2023.04.04-20.45.43:385][171]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Glass_GlassBroken36F622954ACB5559632129AABD720845.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Art/Lab_Props/GlassObjects/Glass_GlassBroken.uasset'
+[2023.04.04-20.45.43:398][171]AssetCheck: New page: Asset Save: Glass_GlassBroken
+[2023.04.04-20.45.43:398][171]LogContentValidation: Display: Validating StaticMesh /Game/Art/Lab_Props/GlassObjects/Glass_GlassBroken.Glass_GlassBroken
+[2023.04.04-20.45.48:910][501]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Lab_Props/GlassObjects/Glass_GlassShard_00.Glass_GlassShard_00
+[2023.04.04-20.45.55:703][892]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Glass_GlassShard_00A6DB2DBA4480EA20E6C7FEB0DF586842.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Art/Lab_Props/GlassObjects/Glass_GlassShard_00.uasset'
+[2023.04.04-20.45.55:718][892]AssetCheck: New page: Asset Save: Glass_GlassShard_00
+[2023.04.04-20.45.55:718][892]LogContentValidation: Display: Validating StaticMesh /Game/Art/Lab_Props/GlassObjects/Glass_GlassShard_00.Glass_GlassShard_00
+[2023.04.04-20.45.57:490][998]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-20.45.57:490][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-20.45.58:538][ 59]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-20.45.58:538][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-20.46.00:596][179]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Lab_Props/GlassObjects/Glass_GlassShard_01.Glass_GlassShard_01
+[2023.04.04-20.46.08:062][611]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Glass_GlassShard_01FF14757B45CD2215E4A621A7092B6498.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Art/Lab_Props/GlassObjects/Glass_GlassShard_01.uasset'
+[2023.04.04-20.46.08:076][611]AssetCheck: New page: Asset Save: Glass_GlassShard_01
+[2023.04.04-20.46.08:076][611]LogContentValidation: Display: Validating StaticMesh /Game/Art/Lab_Props/GlassObjects/Glass_GlassShard_01.Glass_GlassShard_01
+[2023.04.04-20.46.10:357][746]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Lab_Props/GlassObjects/Glass_GlassShard_02.Glass_GlassShard_02
+[2023.04.04-20.46.16:116][ 74]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Glass_GlassShard_0274D0C6B14BB0CEA4BDA57BAA9F7A4440.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Art/Lab_Props/GlassObjects/Glass_GlassShard_02.uasset'
+[2023.04.04-20.46.16:130][ 74]AssetCheck: New page: Asset Save: Glass_GlassShard_02
+[2023.04.04-20.46.16:130][ 74]LogContentValidation: Display: Validating StaticMesh /Game/Art/Lab_Props/GlassObjects/Glass_GlassShard_02.Glass_GlassShard_02
+[2023.04.04-20.46.17:621][162]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Lab_Props/GlassObjects/Glass_GlassShard_03.Glass_GlassShard_03
+[2023.04.04-20.46.25:548][620]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Glass_GlassShard_038A09B3CB4AF5F0E9B4B2A9A76E3F2777.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Art/Lab_Props/GlassObjects/Glass_GlassShard_03.uasset'
+[2023.04.04-20.46.25:561][620]AssetCheck: New page: Asset Save: Glass_GlassShard_03
+[2023.04.04-20.46.25:561][620]LogContentValidation: Display: Validating StaticMesh /Game/Art/Lab_Props/GlassObjects/Glass_GlassShard_03.Glass_GlassShard_03
+[2023.04.04-20.46.27:295][722]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Lab_Props/GlassObjects/Glass_GlassShard_04.Glass_GlassShard_04
+[2023.04.04-20.46.34:251][120]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Glass_GlassShard_041DE3DC454AC22251D88E398443F1AD69.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Art/Lab_Props/GlassObjects/Glass_GlassShard_04.uasset'
+[2023.04.04-20.46.34:266][120]AssetCheck: New page: Asset Save: Glass_GlassShard_04
+[2023.04.04-20.46.34:266][120]LogContentValidation: Display: Validating StaticMesh /Game/Art/Lab_Props/GlassObjects/Glass_GlassShard_04.Glass_GlassShard_04
+[2023.04.04-20.46.36:563][251]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Lab_Props/GlassObjects/Glass_GlassShard_05.Glass_GlassShard_05
+[2023.04.04-20.46.45:203][746]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Glass_GlassShard_05332A085C437C2A3DC6E5FFB15BBBDA4E.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Art/Lab_Props/GlassObjects/Glass_GlassShard_05.uasset'
+[2023.04.04-20.46.45:218][746]AssetCheck: New page: Asset Save: Glass_GlassShard_05
+[2023.04.04-20.46.45:218][746]LogContentValidation: Display: Validating StaticMesh /Game/Art/Lab_Props/GlassObjects/Glass_GlassShard_05.Glass_GlassShard_05
+[2023.04.04-20.46.47:025][847]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Lab_Props/GlassObjects/Glass_GlassShard_06.Glass_GlassShard_06
+[2023.04.04-20.46.52:639][155]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Glass_GlassShard_06994C50DC4A0D85625C81B48F9F1E4299.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Art/Lab_Props/GlassObjects/Glass_GlassShard_06.uasset'
+[2023.04.04-20.46.52:656][155]AssetCheck: New page: Asset Save: Glass_GlassShard_06
+[2023.04.04-20.46.52:656][155]LogContentValidation: Display: Validating StaticMesh /Game/Art/Lab_Props/GlassObjects/Glass_GlassShard_06.Glass_GlassShard_06
+[2023.04.04-20.46.54:737][264]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Lab_Props/GlassObjects/Glass_GlassShard_07.Glass_GlassShard_07
+[2023.04.04-20.47.00:860][570]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Glass_GlassShard_072604BBC64F9313970B6DF79C87BD5C7B.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Art/Lab_Props/GlassObjects/Glass_GlassShard_07.uasset'
+[2023.04.04-20.47.00:875][570]AssetCheck: New page: Asset Save: Glass_GlassShard_07
+[2023.04.04-20.47.00:875][570]LogContentValidation: Display: Validating StaticMesh /Game/Art/Lab_Props/GlassObjects/Glass_GlassShard_07.Glass_GlassShard_07
+[2023.04.04-20.47.02:420][642]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Lab_Props/GlassObjects/Glass_GlassShard_08.Glass_GlassShard_08
+[2023.04.04-20.47.07:919][884]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Glass_GlassShard_08E3A011114DDFC9FA384B6DABE56578C6.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Art/Lab_Props/GlassObjects/Glass_GlassShard_08.uasset'
+[2023.04.04-20.47.07:931][884]AssetCheck: New page: Asset Save: Glass_GlassShard_08
+[2023.04.04-20.47.07:931][884]LogContentValidation: Display: Validating StaticMesh /Game/Art/Lab_Props/GlassObjects/Glass_GlassShard_08.Glass_GlassShard_08
+[2023.04.04-20.47.12:427][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2023.04.04-20.47.12:518][ 81]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Glass_Glass_Normal8D51218046B5EE7E804ADA99A773B4D0.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Art/Textures/Glass/Glass_Glass_Normal.uasset'
+[2023.04.04-20.47.12:593][ 81]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Glass_Glass_OcclusionRoughnessMe77C7D7CB43D5A21F5D8958A7613B280B.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Art/Textures/Glass/Glass_Glass_OcclusionRoughnessMetallic.uasset'
+[2023.04.04-20.47.12:650][ 81]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Glass_Glass_BaseColor875CC04047B87E3508F052AF809CB9EC.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Art/Textures/Glass/Glass_Glass_BaseColor.uasset'
+[2023.04.04-20.47.12:673][ 81]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.04-20.47.12:673][ 81]LogContentValidation: Display: Validating Texture2D /Game/Art/Textures/Glass/Glass_Glass_BaseColor.Glass_Glass_BaseColor
+[2023.04.04-20.47.12:673][ 81]LogContentValidation: Display: Validating Texture2D /Game/Art/Textures/Glass/Glass_Glass_OcclusionRoughnessMetallic.Glass_Glass_OcclusionRoughnessMetallic
+[2023.04.04-20.47.12:673][ 81]LogContentValidation: Display: Validating Texture2D /Game/Art/Textures/Glass/Glass_Glass_Normal.Glass_Glass_Normal
+[2023.04.04-20.47.15:123][179]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-20.47.15:123][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-20.47.15:610][200]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-20.47.15:610][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-20.47.15:976][218]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-20.47.15:976][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-20.47.16:349][238]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-20.47.16:349][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-20.47.16:761][260]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-20.47.16:762][260]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-20.47.17:144][281]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-20.47.17:144][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-20.47.17:581][304]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-20.47.17:582][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-20.47.18:031][327]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-20.47.18:031][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
