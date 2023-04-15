@@ -9808,3 +9808,835 @@ Are you sure?
 [2023.04.15-16.18.50:588][637]AssetCheck: New page: Asset Save: multiple assets
 [2023.04.15-16.18.50:588][637]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Lab_Level_BuiltData.Lab_Level_BuiltData
 [2023.04.15-16.18.50:589][637]LogContentValidation: Display: Validating World /Game/Levels/Lab_Level.Lab_Level
+[2023.04.15-16.26.07:956][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.04.15-16.26.08:094][941]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Lab_Level467B462C4CD847E93F15DD832AFE6763.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/Lab_Level.umap'
+[2023.04.15-16.26.08:640][941]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Lab_Level_BuiltData900C4A48480498241B1E16BAF1620265.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/Lab_Level_BuiltData.uasset'
+[2023.04.15-16.26.08:656][941]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.15-16.26.08:656][941]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Lab_Level_BuiltData.Lab_Level_BuiltData
+[2023.04.15-16.26.08:656][941]LogContentValidation: Display: Validating World /Game/Levels/Lab_Level.Lab_Level
+[2023.04.15-16.26.12:097][148]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.15-16.26.12:103][148]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.15-16.26.12:103][148]PIE: New page: PIE session: Lab_Level (Apr 15, 2023, 8:26:12 AM)
+[2023.04.15-16.26.12:103][148]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lab_Level
+[2023.04.15-16.26.12:117][148]LogTemp: Warning: CPath - Dynamic obstacle 'Lab_Door7' is not Movable.
+[2023.04.15-16.26.12:117][148]LogTemp: Warning: CPath - Dynamic obstacle 'Lab_Door6_159' is not Movable.
+[2023.04.15-16.26.12:143][148]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039909s)
+[2023.04.15-16.26.12:144][148]LogAIModule: Creating AISystem for world Lab_Level
+[2023.04.15-16.26.12:144][148]LogPlayLevel: PIE: World Init took: (0.001492s)
+[2023.04.15-16.26.12:145][148]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lab_Level.Lab_Level to /Game/Levels/UEDPIE_0_Lab_Level.Lab_Level (0.041603s)
+[2023.04.15-16.26.12:177][148]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2023.04.15-16.26.12:178][148]LogAudio: Display: Creating Audio Device:                 Id: 77, Scope: Unique, Realtime: True
+[2023.04.15-16.26.12:178][148]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.15-16.26.12:178][148]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.15-16.26.12:178][148]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.15-16.26.12:178][148]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.15-16.26.12:178][148]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.15-16.26.12:178][148]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.15-16.26.12:178][148]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.15-16.26.12:178][148]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.15-16.26.12:178][148]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.15-16.26.12:178][148]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.15-16.26.12:178][148]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.15-16.26.12:178][148]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.15-16.26.12:181][148]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.15-16.26.12:181][148]LogAudioMixer: Display: 1: FrontRight
+[2023.04.15-16.26.12:250][148]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2023.04.15-16.26.12:250][148]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.15-16.26.12:250][148]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.15-16.26.12:250][148]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.15-16.26.12:251][148]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.15-16.26.12:251][148]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.15-16.26.12:251][148]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.15-16.26.12:252][148]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.15-16.26.12:252][148]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.15-16.26.12:252][148]LogInit: FAudioDevice initialized.
+[2023.04.15-16.26.12:252][148]LogAudio: Display: Audio Device (ID: 77) registered with world 'Lab_Level'.
+[2023.04.15-16.26.12:260][148]LogLoad: Game class is 'MyGame_C'
+[2023.04.15-16.26.12:271][148]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Lab_Level.Lab_Level:PersistentLevel.Drone2.CharacterMesh0'
+[2023.04.15-16.26.12:271][148]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Lab_Level.Lab_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.15-16.26.12:272][148]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lab_Level.Lab_Level up for play (max tick rate 60) at 2023.04.15-12.26.12
+[2023.04.15-16.26.12:273][148]LogWorld: Bringing up level for play took: 0.012476
+[2023.04.15-16.26.12:273][148]LogOnline: OSS: Creating online subsystem instance for: :Context_117
+[2023.04.15-16.26.12:275][148]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.15-16.26.12:276][148]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.15-16.26.12:276][148]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.15-16.26.12:300][148]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.15-16.26.12:300][148]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.15-16.26.12:300][148]PIE: Server logged in
+[2023.04.15-16.26.12:301][148]PIE: Play in editor total start time 0.199 seconds.
+[2023.04.15-16.26.14:508][279]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array DialogueText [-1/0]!
+[2023.04.15-16.26.14:675][289]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array DialogueText [-1/0]!
+[2023.04.15-16.26.17:475][457]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array DialogueText [-1/0]!
+[2023.04.15-16.26.19:276][565]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.0
+[2023.04.15-16.26.38:743][733]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array DialogueText [-1/0]!
+[2023.04.15-16.26.43:268][  2]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Lab_Level.Lab_Level:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-16.26.43:286][  3]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Lab_Level.Lab_Level:PersistentLevel.Drone_C_1.CharacterMesh0'
+[2023.04.15-16.26.44:869][ 98]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array DialogueText [-1/0]!
+[2023.04.15-16.27.04:884][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-16.27.04:884][296]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lab_Level
+[2023.04.15-16.27.04:897][296]LogWorld: UWorld::CleanupWorld for Lab_Level, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-16.27.04:900][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-16.27.04:907][296]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.15-16.27.04:922][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-16.27.04:957][296]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.15-16.27.04:958][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.15-16.27.04:960][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.15-16.27.04:963][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-16.27.04:973][296]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.04.15-16.27.05:005][297]LogPlayLevel: Display: Destroying online subsystem :Context_117
+[2023.04.15-16.27.13:123][782]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Lab_Door7)
+[2023.04.15-16.27.18:366][ 95]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Lab_Door6)
+[2023.04.15-16.27.20:724][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.04.15-16.27.20:858][229]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Lab_Level598C122745F55038BE00669BA64CE04F.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/Lab_Level.umap'
+[2023.04.15-16.27.21:408][229]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Lab_Level_BuiltData3EB4FCB04A8116CBC7C4019A2FC0100E.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/Lab_Level_BuiltData.uasset'
+[2023.04.15-16.27.21:422][229]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.15-16.27.21:422][229]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Lab_Level_BuiltData.Lab_Level_BuiltData
+[2023.04.15-16.27.21:422][229]LogContentValidation: Display: Validating World /Game/Levels/Lab_Level.Lab_Level
+[2023.04.15-16.28.27:007][895]BlueprintLog: New page: Compile NeveFinalAnimBP
+[2023.04.15-16.28.27:022][895]LogBlueprint: Warning: [AssetLog] C:\Users\bvelt\Desktop\DAGD 499\CapstoneProject\CapstoneProject_HJV\Content\Art\Animations\NeveFinalAnimations\NeveFinalAnimBP.uasset: [Compiler] Idle to Grind  will never be taken, please connect something to  Can Enter Transition
+[2023.04.15-16.28.27:098][895]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2023.04.15-16.28.36:868][467]BlueprintLog: New page: Compile NeveFinalAnimBP
+[2023.04.15-16.28.36:942][467]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2023.04.15-16.28.37:453][490]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/NeveFinalAnimBP2A42E3BD4211008F703E53B6CF212BC0.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Art/Animations/NeveFinalAnimations/NeveFinalAnimBP.uasset'
+[2023.04.15-16.28.37:470][490]AssetCheck: New page: Asset Save: NeveFinalAnimBP
+[2023.04.15-16.28.37:470][490]LogContentValidation: Display: Validating AnimBlueprint /Game/Art/Animations/NeveFinalAnimations/NeveFinalAnimBP.NeveFinalAnimBP
+[2023.04.15-16.28.45:354][963]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.15-16.28.45:363][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.15-16.28.45:363][963]PIE: New page: PIE session: Lab_Level (Apr 15, 2023, 8:28:45 AM)
+[2023.04.15-16.28.45:400][963]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lab_Level
+[2023.04.15-16.28.45:415][963]LogTemp: Warning: CPath - Dynamic obstacle 'Lab_Door7' is not Movable.
+[2023.04.15-16.28.45:415][963]LogTemp: Warning: CPath - Dynamic obstacle 'Lab_Door6_159' is not Movable.
+[2023.04.15-16.28.45:445][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044193s)
+[2023.04.15-16.28.45:448][963]LogAIModule: Creating AISystem for world Lab_Level
+[2023.04.15-16.28.45:449][963]LogPlayLevel: PIE: World Init took: (0.003830s)
+[2023.04.15-16.28.45:449][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lab_Level.Lab_Level to /Game/Levels/UEDPIE_0_Lab_Level.Lab_Level (0.048297s)
+[2023.04.15-16.28.45:487][963]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2023.04.15-16.28.45:489][963]LogAudio: Display: Creating Audio Device:                 Id: 78, Scope: Unique, Realtime: True
+[2023.04.15-16.28.45:489][963]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.15-16.28.45:489][963]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.15-16.28.45:489][963]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.15-16.28.45:489][963]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.15-16.28.45:489][963]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.15-16.28.45:489][963]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.15-16.28.45:489][963]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.15-16.28.45:489][963]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.15-16.28.45:490][963]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.15-16.28.45:490][963]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.15-16.28.45:490][963]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.15-16.28.45:490][963]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.15-16.28.45:493][963]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.15-16.28.45:493][963]LogAudioMixer: Display: 1: FrontRight
+[2023.04.15-16.28.45:554][963]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2023.04.15-16.28.45:554][963]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.15-16.28.45:554][963]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.15-16.28.45:554][963]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.15-16.28.45:555][963]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.15-16.28.45:555][963]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.15-16.28.45:555][963]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.15-16.28.45:556][963]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.15-16.28.45:556][963]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.15-16.28.45:556][963]LogInit: FAudioDevice initialized.
+[2023.04.15-16.28.45:556][963]LogAudio: Display: Audio Device (ID: 78) registered with world 'Lab_Level'.
+[2023.04.15-16.28.45:565][963]LogLoad: Game class is 'MyGame_C'
+[2023.04.15-16.28.45:576][963]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Lab_Level.Lab_Level:PersistentLevel.Drone2.CharacterMesh0'
+[2023.04.15-16.28.45:576][963]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Lab_Level.Lab_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.15-16.28.45:577][963]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lab_Level.Lab_Level up for play (max tick rate 60) at 2023.04.15-12.28.45
+[2023.04.15-16.28.45:577][963]LogWorld: Bringing up level for play took: 0.011319
+[2023.04.15-16.28.45:578][963]LogOnline: OSS: Creating online subsystem instance for: :Context_118
+[2023.04.15-16.28.45:579][963]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.15-16.28.45:579][963]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.15-16.28.45:579][963]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.15-16.28.45:602][963]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.15-16.28.45:603][963]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.15-16.28.45:603][963]PIE: Server logged in
+[2023.04.15-16.28.45:603][963]PIE: Play in editor total start time 0.242 seconds.
+[2023.04.15-16.28.47:310][ 64]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array DialogueText [-1/0]!
+[2023.04.15-16.28.49:945][222]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array DialogueText [-1/0]!
+[2023.04.15-16.28.51:361][307]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.0
+[2023.04.15-16.29.09:168][375]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1650.0
+[2023.04.15-16.29.12:202][557]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1650.0
+[2023.04.15-16.29.20:252][ 40]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.0
+[2023.04.15-16.29.27:732][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-16.29.27:732][484]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lab_Level
+[2023.04.15-16.29.27:743][484]LogWorld: UWorld::CleanupWorld for Lab_Level, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-16.29.27:745][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-16.29.27:753][484]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.15-16.29.27:768][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-16.29.27:799][484]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.15-16.29.27:799][484]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.15-16.29.27:800][484]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.15-16.29.27:804][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-16.29.27:812][484]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2023.04.15-16.29.27:848][485]LogPlayLevel: Display: Destroying online subsystem :Context_118
+[2023.04.15-16.30.52:942][697]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-16.30.52:942][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-16.33.35:729][331]BlueprintLog: New page: Compile PlayerCharacter
+[2023.04.15-16.33.35:779][331]LogBlueprint: Error: [AssetLog] C:\Users\bvelt\Desktop\DAGD 499\CapstoneProject\CapstoneProject_HJV\Content\Assets\PlayerCharacter.uasset: [Compiler] This blueprint (self) is not a PlayerHud_C, therefore ' Target ' must have a connection.
+[2023.04.15-16.33.35:779][331]LogBlueprint: Error: [AssetLog] C:\Users\bvelt\Desktop\DAGD 499\CapstoneProject\CapstoneProject_HJV\Content\Assets\PlayerCharacter.uasset: [Compiler] This blueprint (self) is not a PlayerHud_C, therefore ' Target ' must have a connection.
+[2023.04.15-16.33.35:784][331]LogBlueprint: Error: [AssetLog] C:\Users\bvelt\Desktop\DAGD 499\CapstoneProject\CapstoneProject_HJV\Content\Assets\PlayerCharacter.uasset: [Compiler] Variable node  Get DialogueText  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.04.15-16.33.35:870][331]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2023.04.15-16.33.35:900][331]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_38:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-16.33.35:900][331]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_38:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-16.33.35:972][331]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_38:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-16.33.35:972][331]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_38:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-16.33.50:519][185]BlueprintLog: New page: Compile PlayerCharacter
+[2023.04.15-16.33.50:647][185]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2023.04.15-16.33.50:661][185]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_38:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-16.33.50:661][185]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_38:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-16.33.50:735][185]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_38:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-16.33.50:736][185]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_38:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-16.33.51:311][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PlayerCharacter" FILE="../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset" SILENT=true
+[2023.04.15-16.33.51:465][205]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/PlayerCharacter99C2913947E4E1D217EBC9B0EE8AB600.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset'
+[2023.04.15-16.33.51:484][205]AssetCheck: New page: Asset Save: PlayerCharacter
+[2023.04.15-16.33.51:484][205]LogContentValidation: Display: Validating Blueprint /Game/Assets/PlayerCharacter.PlayerCharacter
+[2023.04.15-16.33.53:744][339]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.15-16.33.53:751][339]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.15-16.33.53:751][339]PIE: New page: PIE session: Lab_Level (Apr 15, 2023, 8:33:53 AM)
+[2023.04.15-16.33.53:780][339]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lab_Level
+[2023.04.15-16.33.53:796][339]LogTemp: Warning: CPath - Dynamic obstacle 'Lab_Door7' is not Movable.
+[2023.04.15-16.33.53:796][339]LogTemp: Warning: CPath - Dynamic obstacle 'Lab_Door6_159' is not Movable.
+[2023.04.15-16.33.53:819][339]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038975s)
+[2023.04.15-16.33.53:820][339]LogAIModule: Creating AISystem for world Lab_Level
+[2023.04.15-16.33.53:820][339]LogPlayLevel: PIE: World Init took: (0.001000s)
+[2023.04.15-16.33.53:820][339]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lab_Level.Lab_Level to /Game/Levels/UEDPIE_0_Lab_Level.Lab_Level (0.040202s)
+[2023.04.15-16.33.53:857][339]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2023.04.15-16.33.53:864][339]LogAudio: Display: Creating Audio Device:                 Id: 79, Scope: Unique, Realtime: True
+[2023.04.15-16.33.53:864][339]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.15-16.33.53:864][339]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.15-16.33.53:864][339]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.15-16.33.53:864][339]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.15-16.33.53:864][339]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.15-16.33.53:864][339]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.15-16.33.53:864][339]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.15-16.33.53:864][339]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.15-16.33.53:864][339]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.15-16.33.53:864][339]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.15-16.33.53:864][339]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.15-16.33.53:864][339]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.15-16.33.53:866][339]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.15-16.33.53:866][339]LogAudioMixer: Display: 1: FrontRight
+[2023.04.15-16.33.53:927][339]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2023.04.15-16.33.53:927][339]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.15-16.33.53:927][339]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.15-16.33.53:927][339]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.15-16.33.53:928][339]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.15-16.33.53:928][339]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.15-16.33.53:928][339]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.15-16.33.53:929][339]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.15-16.33.53:929][339]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.15-16.33.53:929][339]LogInit: FAudioDevice initialized.
+[2023.04.15-16.33.53:929][339]LogAudio: Display: Audio Device (ID: 79) registered with world 'Lab_Level'.
+[2023.04.15-16.33.53:938][339]LogLoad: Game class is 'MyGame_C'
+[2023.04.15-16.33.53:948][339]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Lab_Level.Lab_Level:PersistentLevel.Drone2.CharacterMesh0'
+[2023.04.15-16.33.53:948][339]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Lab_Level.Lab_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.15-16.33.53:949][339]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lab_Level.Lab_Level up for play (max tick rate 60) at 2023.04.15-12.33.53
+[2023.04.15-16.33.53:950][339]LogWorld: Bringing up level for play took: 0.011854
+[2023.04.15-16.33.53:950][339]LogOnline: OSS: Creating online subsystem instance for: :Context_119
+[2023.04.15-16.33.53:952][339]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.15-16.33.53:952][339]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.15-16.33.53:952][339]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.15-16.33.53:977][339]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.15-16.33.53:978][339]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.15-16.33.53:978][339]PIE: Server logged in
+[2023.04.15-16.33.53:979][339]PIE: Play in editor total start time 0.229 seconds.
+[2023.04.15-16.34.03:918][934]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array DialogueText [-1/0]!
+[2023.04.15-16.34.04:669][979]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array DialogueText [-1/0]!
+[2023.04.15-16.34.05:918][ 54]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array DialogueText [-1/0]!
+[2023.04.15-16.34.06:935][115]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array DialogueText [-1/0]!
+[2023.04.15-16.34.07:302][137]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array DialogueText [-1/0]!
+[2023.04.15-16.34.07:519][150]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array DialogueText [-1/0]!
+[2023.04.15-16.34.09:552][272]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array DialogueText [-1/0]!
+[2023.04.15-16.34.10:018][300]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array DialogueText [-1/0]!
+[2023.04.15-16.34.10:186][310]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array DialogueText [-1/0]!
+[2023.04.15-16.34.10:385][322]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array DialogueText [-1/0]!
+[2023.04.15-16.34.10:785][346]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array DialogueText [-1/0]!
+[2023.04.15-16.34.11:502][389]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array DialogueText [-1/0]!
+[2023.04.15-16.34.11:752][404]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array DialogueText [-1/0]!
+[2023.04.15-16.34.11:936][415]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array DialogueText [-1/0]!
+[2023.04.15-16.34.12:137][427]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array DialogueText [-1/0]!
+[2023.04.15-16.34.12:319][438]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array DialogueText [-1/0]!
+[2023.04.15-16.34.13:069][483]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array DialogueText [-1/0]!
+[2023.04.15-16.34.13:269][495]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array DialogueText [-1/0]!
+[2023.04.15-16.34.13:452][506]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array DialogueText [-1/0]!
+[2023.04.15-16.34.13:636][517]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array DialogueText [-1/0]!
+[2023.04.15-16.34.14:233][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-16.34.14:233][551]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lab_Level
+[2023.04.15-16.34.14:244][551]LogWorld: UWorld::CleanupWorld for Lab_Level, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-16.34.14:247][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-16.34.14:255][551]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.15-16.34.14:272][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-16.34.14:304][551]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.15-16.34.14:304][551]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.15-16.34.14:305][551]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.15-16.34.14:308][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-16.34.14:316][551]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.04.15-16.34.14:353][552]LogPlayLevel: Display: Destroying online subsystem :Context_119
+[2023.04.15-16.34.36:905][890]BlueprintLog: New page: Compile PlayerCharacter
+[2023.04.15-16.34.37:030][890]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2023.04.15-16.34.37:050][890]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_38:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-16.34.37:051][890]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_38:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-16.34.37:130][890]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_38:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-16.34.37:131][890]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_38:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-16.34.37:694][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PlayerCharacter" FILE="../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset" SILENT=true
+[2023.04.15-16.34.37:846][911]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/PlayerCharacter806BEE8147BC5AF04D5F0DBCA8992324.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset'
+[2023.04.15-16.34.37:865][911]AssetCheck: New page: Asset Save: PlayerCharacter
+[2023.04.15-16.34.37:866][911]LogContentValidation: Display: Validating Blueprint /Game/Assets/PlayerCharacter.PlayerCharacter
+[2023.04.15-16.34.40:879][ 91]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.15-16.34.40:885][ 91]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.15-16.34.40:885][ 91]PIE: New page: PIE session: Lab_Level (Apr 15, 2023, 8:34:40 AM)
+[2023.04.15-16.34.40:885][ 91]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lab_Level
+[2023.04.15-16.34.40:898][ 91]LogTemp: Warning: CPath - Dynamic obstacle 'Lab_Door7' is not Movable.
+[2023.04.15-16.34.40:898][ 91]LogTemp: Warning: CPath - Dynamic obstacle 'Lab_Door6_159' is not Movable.
+[2023.04.15-16.34.40:920][ 91]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034054s)
+[2023.04.15-16.34.40:921][ 91]LogAIModule: Creating AISystem for world Lab_Level
+[2023.04.15-16.34.40:921][ 91]LogPlayLevel: PIE: World Init took: (0.000947s)
+[2023.04.15-16.34.40:921][ 91]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lab_Level.Lab_Level to /Game/Levels/UEDPIE_0_Lab_Level.Lab_Level (0.035143s)
+[2023.04.15-16.34.40:964][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2023.04.15-16.34.40:971][ 91]LogAudio: Display: Creating Audio Device:                 Id: 80, Scope: Unique, Realtime: True
+[2023.04.15-16.34.40:971][ 91]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.15-16.34.40:971][ 91]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.15-16.34.40:971][ 91]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.15-16.34.40:971][ 91]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.15-16.34.40:971][ 91]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.15-16.34.40:971][ 91]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.15-16.34.40:971][ 91]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.15-16.34.40:971][ 91]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.15-16.34.40:972][ 91]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.15-16.34.40:972][ 91]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.15-16.34.40:972][ 91]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.15-16.34.40:972][ 91]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.15-16.34.40:973][ 91]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.15-16.34.40:973][ 91]LogAudioMixer: Display: 1: FrontRight
+[2023.04.15-16.34.41:033][ 91]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2023.04.15-16.34.41:034][ 91]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.15-16.34.41:034][ 91]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.15-16.34.41:034][ 91]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.15-16.34.41:034][ 91]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.15-16.34.41:034][ 91]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.15-16.34.41:034][ 91]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.15-16.34.41:035][ 91]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.15-16.34.41:035][ 91]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.15-16.34.41:035][ 91]LogInit: FAudioDevice initialized.
+[2023.04.15-16.34.41:035][ 91]LogAudio: Display: Audio Device (ID: 80) registered with world 'Lab_Level'.
+[2023.04.15-16.34.41:043][ 91]LogLoad: Game class is 'MyGame_C'
+[2023.04.15-16.34.41:053][ 91]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Lab_Level.Lab_Level:PersistentLevel.Drone2.CharacterMesh0'
+[2023.04.15-16.34.41:053][ 91]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Lab_Level.Lab_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.15-16.34.41:054][ 91]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lab_Level.Lab_Level up for play (max tick rate 60) at 2023.04.15-12.34.41
+[2023.04.15-16.34.41:054][ 91]LogWorld: Bringing up level for play took: 0.010931
+[2023.04.15-16.34.41:054][ 91]LogOnline: OSS: Creating online subsystem instance for: :Context_120
+[2023.04.15-16.34.41:057][ 91]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.15-16.34.41:057][ 91]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.15-16.34.41:057][ 91]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.15-16.34.41:079][ 91]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.15-16.34.41:080][ 91]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.15-16.34.41:080][ 91]PIE: Server logged in
+[2023.04.15-16.34.41:081][ 91]PIE: Play in editor total start time 0.196 seconds.
+[2023.04.15-16.34.53:194][817]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.0
+[2023.04.15-16.34.58:913][158]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-16.34.58:913][158]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lab_Level
+[2023.04.15-16.34.58:930][158]LogWorld: UWorld::CleanupWorld for Lab_Level, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-16.34.58:932][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-16.34.58:940][158]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.15-16.34.58:955][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-16.34.58:987][158]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.15-16.34.58:988][158]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.15-16.34.58:988][158]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.15-16.34.58:992][158]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-16.34.59:001][158]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2023.04.15-16.34.59:036][159]LogPlayLevel: Display: Destroying online subsystem :Context_120
+[2023.04.15-16.35.10:639][834]BlueprintLog: New page: Compile PlayerCharacter
+[2023.04.15-16.35.10:768][834]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2023.04.15-16.35.10:781][834]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_38:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-16.35.10:781][834]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_38:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-16.35.10:856][834]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_38:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-16.35.10:857][834]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_38:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-16.35.11:423][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PlayerCharacter" FILE="../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset" SILENT=true
+[2023.04.15-16.35.11:571][854]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/PlayerCharacterC49F3DC041EAD8E9269B738C8A6C2B0C.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset'
+[2023.04.15-16.35.11:592][854]AssetCheck: New page: Asset Save: PlayerCharacter
+[2023.04.15-16.35.11:592][854]LogContentValidation: Display: Validating Blueprint /Game/Assets/PlayerCharacter.PlayerCharacter
+[2023.04.15-16.35.44:871][842]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Assets/MainMenuGUI/PlayerHud.PlayerHud
+[2023.04.15-16.35.59:411][695]LogSlate: Took 0.009995 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.04.15-16.36.04:051][965]LogLinker: Warning: [AssetLog] C:\Users\bvelt\Desktop\DAGD 499\CapstoneProject\CapstoneProject_HJV\Content\Levels\DELETELATER.umap: Failed to load '/Game/Levels/DELETELATER_BuiltData': Can't find file.
+[2023.04.15-16.36.04:051][965]LogLinker: Warning: [AssetLog] C:\Users\bvelt\Desktop\DAGD 499\CapstoneProject\CapstoneProject_HJV\Content\Levels\DELETELATER.umap: Failed to load '/Game/Levels/DELETELATER_BuiltData': Can't find file.
+[2023.04.15-16.36.04:065][965]LogLinker: Warning: [AssetLog] C:\Users\bvelt\Desktop\DAGD 499\CapstoneProject\CapstoneProject_HJV\Content\Levels\DELETELATER.umap: Failed to load '/Game/Levels/DELETELATER_BuiltData': Can't find file.
+[2023.04.15-16.36.04:066][965]LogLinker: Warning: Failed to load '/Game/Levels/DELETELATER_BuiltData': Can't find file.
+[2023.04.15-16.36.04:067][965]LogLinker: Warning: Failed to load '/Game/Levels/DELETELATER_BuiltData': Can't find file.
+[2023.04.15-16.36.04:090][965]LogLinker: Warning: [AssetLog] C:\Users\bvelt\Desktop\DAGD 499\CapstoneProject\CapstoneProject_HJV\Content\Levels\DELETELATER.umap: Failed to load '/Game/Levels/DELETELATER_BuiltData': Can't find file.
+[2023.04.15-16.36.04:092][965]LoadErrors: Failed to load /Game/Levels/DELETELATER_BuiltData.DELETELATER_BuiltData Referenced by PersistentLevel
+[2023.04.15-16.36.04:112][965]LogMaterial: Display: Missing cached shadermap for Lab_GlassMAT in PCD3D_SM5, Default, SM5 (DDC key hash: 9727F580BB858FF82298424F0BE12DFA00FDF8C5), compiling. 
+[2023.04.15-16.36.04:210][965]LogShaderCompilers: Display: Submitted 46 shader compile jobs with 'Low' priority
+[2023.04.15-16.36.04:227][965]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 46
+[2023.04.15-16.36.04:227][965]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 42
+[2023.04.15-16.36.04:227][965]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 38
+[2023.04.15-16.36.04:227][965]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 34
+[2023.04.15-16.36.04:227][965]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 30
+[2023.04.15-16.36.04:227][965]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 26
+[2023.04.15-16.36.04:227][965]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 22
+[2023.04.15-16.36.04:227][965]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 18
+[2023.04.15-16.36.04:227][965]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 14
+[2023.04.15-16.36.04:227][965]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 10
+[2023.04.15-16.36.04:227][965]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 6
+[2023.04.15-16.36.04:227][965]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2023.04.15-16.36.04:227][965]LogShaderCompilers: Display: Started 46 'Local' shader compile jobs with 'Low' priority
+[2023.04.15-16.36.06:413][ 61]Cmd: TRANSACTION UNDO
+[2023.04.15-16.36.06:414][ 61]LogEditorTransaction: Undo Remove Widget
+[2023.04.15-16.36.06:859][ 61]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-16.36.10:087][160]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.15-16.36.10:087][160]LogShaderCompilers: Display: Total job queries 46, among them cache hits 0 (0.00%)
+[2023.04.15-16.36.10:087][160]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 2 distinct outputs (50.00%)
+[2023.04.15-16.36.10:087][160]LogShaderCompilers: Display: RAM used: 0.02 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.04.15-16.36.10:087][160]LogShaderCompilers: Display: ================================================
+[2023.04.15-16.40.44:245][454]LogEditorTransaction: Undo Edit Size Rule
+[2023.04.15-16.40.44:355][454]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-16.40.44:980][483]Cmd: TRANSACTION UNDO
+[2023.04.15-16.40.44:980][483]LogEditorTransaction: Undo Edit Size Rule
+[2023.04.15-16.40.45:081][483]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-16.40.45:194][487]Cmd: TRANSACTION UNDO
+[2023.04.15-16.40.45:194][487]LogEditorTransaction: Undo Edit Size To Content
+[2023.04.15-16.40.45:293][487]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-16.40.45:413][490]Cmd: TRANSACTION UNDO
+[2023.04.15-16.40.45:413][490]LogEditorTransaction: Undo Edit Size To Content
+[2023.04.15-16.40.45:511][490]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-16.40.45:605][493]Cmd: TRANSACTION UNDO
+[2023.04.15-16.40.45:605][493]LogEditorTransaction: Undo Edit Vertical Alignment
+[2023.04.15-16.40.45:703][493]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-16.40.45:812][496]Cmd: TRANSACTION UNDO
+[2023.04.15-16.40.45:812][496]LogEditorTransaction: Undo Edit Size Rule
+[2023.04.15-16.40.45:912][496]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-16.40.46:050][501]Cmd: TRANSACTION UNDO
+[2023.04.15-16.40.46:050][501]LogEditorTransaction: Undo Edit Size Rule
+[2023.04.15-16.40.46:148][501]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-16.40.46:297][507]Cmd: TRANSACTION UNDO
+[2023.04.15-16.40.46:297][507]LogEditorTransaction: Undo Edit Size Rule
+[2023.04.15-16.40.46:402][507]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-16.40.46:579][515]Cmd: TRANSACTION UNDO
+[2023.04.15-16.40.46:579][515]LogEditorTransaction: Undo Remove Widget
+[2023.04.15-16.40.46:682][515]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-16.40.46:861][523]Cmd: TRANSACTION UNDO
+[2023.04.15-16.40.46:861][523]LogEditorTransaction: Undo Edit Vertical Alignment
+[2023.04.15-16.40.46:963][523]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-16.40.47:214][535]Cmd: TRANSACTION UNDO
+[2023.04.15-16.40.47:214][535]LogEditorTransaction: Undo Edit Vertical Alignment
+[2023.04.15-16.40.47:312][535]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-16.40.47:557][547]Cmd: TRANSACTION UNDO
+[2023.04.15-16.40.47:557][547]LogEditorTransaction: Undo Move Widget
+[2023.04.15-16.40.47:660][547]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-16.40.47:897][558]Cmd: TRANSACTION UNDO
+[2023.04.15-16.40.47:897][558]LogEditorTransaction: Undo Move Widget
+[2023.04.15-16.40.47:999][558]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-16.40.48:343][576]Cmd: TRANSACTION UNDO
+[2023.04.15-16.40.48:344][576]LogEditorTransaction: Undo Move Widget
+[2023.04.15-16.40.48:446][576]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-16.40.48:741][591]Cmd: TRANSACTION UNDO
+[2023.04.15-16.40.48:741][591]LogEditorTransaction: Undo Move Widget
+[2023.04.15-16.40.48:841][591]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-16.40.49:170][608]Cmd: TRANSACTION UNDO
+[2023.04.15-16.40.49:170][608]LogEditorTransaction: Undo Move Widget
+[2023.04.15-16.40.49:271][608]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-16.40.49:634][627]Cmd: TRANSACTION UNDO
+[2023.04.15-16.40.49:634][627]LogEditorTransaction: Undo Move Widget
+[2023.04.15-16.40.49:735][627]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-16.40.50:049][643]Cmd: TRANSACTION UNDO
+[2023.04.15-16.40.50:049][643]LogEditorTransaction: Undo Edit Text
+[2023.04.15-16.40.50:150][643]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-16.40.50:874][683]Cmd: TRANSACTION UNDO
+[2023.04.15-16.40.50:874][683]LogEditorTransaction: Undo Edit Vertical Alignment
+[2023.04.15-16.40.50:975][683]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-16.40.51:429][707]Cmd: TRANSACTION UNDO
+[2023.04.15-16.40.51:429][707]LogEditorTransaction: Undo Edit Vertical Alignment
+[2023.04.15-16.40.51:531][707]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-16.40.51:874][725]Cmd: TRANSACTION UNDO
+[2023.04.15-16.40.51:874][725]LogEditorTransaction: Undo Edit Size Rule
+[2023.04.15-16.40.51:976][725]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-16.40.52:276][740]Cmd: TRANSACTION UNDO
+[2023.04.15-16.40.52:276][740]LogEditorTransaction: Undo Edit Size Rule
+[2023.04.15-16.40.52:377][740]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-16.40.52:624][752]Cmd: TRANSACTION UNDO
+[2023.04.15-16.40.52:624][752]LogEditorTransaction: Undo Add Widget
+[2023.04.15-16.40.52:722][752]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-16.40.53:119][773]Cmd: TRANSACTION UNDO
+[2023.04.15-16.40.53:119][773]LogEditorTransaction: Undo Remove Widget
+[2023.04.15-16.40.53:223][773]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-16.40.53:693][798]Cmd: TRANSACTION UNDO
+[2023.04.15-16.40.53:693][798]LogEditorTransaction: Undo Edit Bottom
+[2023.04.15-16.40.53:793][798]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-16.40.54:231][821]Cmd: TRANSACTION UNDO
+[2023.04.15-16.40.54:231][821]LogEditorTransaction: Undo Edit Right
+[2023.04.15-16.40.54:337][821]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-16.40.55:505][888]Cmd: TRANSACTION UNDO
+[2023.04.15-16.40.55:505][888]LogEditorTransaction: Undo Changed Anchors
+[2023.04.15-16.40.55:605][888]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-16.40.56:277][925]Cmd: TRANSACTION UNDO
+[2023.04.15-16.40.56:277][925]LogEditorTransaction: Undo Move Widget
+[2023.04.15-16.40.56:381][925]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-16.40.57:047][962]Cmd: TRANSACTION UNDO
+[2023.04.15-16.40.57:047][962]LogEditorTransaction: Undo Edit Size To Content
+[2023.04.15-16.40.57:155][962]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-16.40.57:528][981]Cmd: TRANSACTION UNDO
+[2023.04.15-16.40.57:528][981]LogEditorTransaction: Undo Edit Bottom
+[2023.04.15-16.40.57:632][981]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-16.40.57:989][999]Cmd: TRANSACTION UNDO
+[2023.04.15-16.40.57:989][999]LogEditorTransaction: Undo Edit Right
+[2023.04.15-16.40.58:091][999]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-16.40.58:429][ 16]Cmd: TRANSACTION UNDO
+[2023.04.15-16.40.58:429][ 16]LogEditorTransaction: Undo Edit Top
+[2023.04.15-16.40.58:532][ 16]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-16.40.58:831][ 31]Cmd: TRANSACTION UNDO
+[2023.04.15-16.40.58:831][ 31]LogEditorTransaction: Undo Edit Left
+[2023.04.15-16.40.58:932][ 31]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-16.40.59:291][ 49]Cmd: TRANSACTION UNDO
+[2023.04.15-16.40.59:291][ 49]LogEditorTransaction: Undo Move Widget
+[2023.04.15-16.40.59:395][ 49]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-16.40.59:744][ 67]Cmd: TRANSACTION UNDO
+[2023.04.15-16.40.59:744][ 67]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.04.15-16.40.59:844][ 67]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-16.41.00:196][ 85]Cmd: TRANSACTION UNDO
+[2023.04.15-16.41.00:196][ 85]LogEditorTransaction: Undo Move Widget
+[2023.04.15-16.41.00:301][ 85]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-16.41.01:219][137]Cmd: TRANSACTION UNDO
+[2023.04.15-16.41.01:219][137]LogEditorTransaction: Undo Delete current selection
+[2023.04.15-16.41.01:411][137]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-16.41.08:614][566]LogEditorTransaction: Redo Delete current selection
+[2023.04.15-16.41.08:627][566]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.PlayerCharacter_2.CollisionCylinder) Component already registered.
+[2023.04.15-16.41.08:630][566]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_16:PersistentLevel.PlayerCharacter_C_0.CollisionCylinder) Component already registered.
+[2023.04.15-16.41.08:634][566]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_17:PersistentLevel.PlayerCharacter_C_0.CollisionCylinder) Component already registered.
+[2023.04.15-16.41.08:752][566]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-16.41.16:894][ 46]BlueprintLog: New page: Compile PlayerHud
+[2023.04.15-16.41.16:974][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2023.04.15-16.41.52:713][176]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2023.04.15-16.41.52:851][176]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Lab_Level_Auto68C19CFD64F1F659F5A3D8092BBE2568D.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Autosaves/Game/Levels/Lab_Level_Auto6.umap'
+[2023.04.15-16.41.52:852][176]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Lab_Level' took 0.178
+[2023.04.15-16.41.52:852][176]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.178
+[2023.04.15-16.41.52:853][176]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/PlayerCharacter] ([4] browsable assets)...
+[2023.04.15-16.41.52:862][176]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/PlayerCharacter.PlayerCharacter]
+[2023.04.15-16.41.52:871][176]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/PlayerCharacter.PlayerCharacter]
+[2023.04.15-16.41.52:871][176]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/PlayerCharacter]
+[2023.04.15-16.41.53:030][176]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/PlayerCharacter_Auto654F3BD2A4A99AC136E3BBCBDF1E6D190.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Autosaves/Game/Assets/PlayerCharacter_Auto6.uasset'
+[2023.04.15-16.41.53:032][176]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/MainMenuGUI/PlayerHud] ([4] browsable assets)...
+[2023.04.15-16.41.53:032][176]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/MainMenuGUI/PlayerHud]
+[2023.04.15-16.41.53:047][176]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/PlayerHud_Auto6FA08ECBF48D41006A26473BC45570EFF.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Autosaves/Game/Assets/MainMenuGUI/PlayerHud_Auto6.uasset'
+[2023.04.15-16.41.53:049][176]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cutscene/BattleSequence] ([1] browsable assets)...
+[2023.04.15-16.41.53:049][176]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cutscene/BattleSequence]
+[2023.04.15-16.41.53:055][176]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/BattleSequence_Auto66AA1AC174E3071125A1F63B32F046CC5.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Autosaves/Game/Cutscene/BattleSequence_Auto6.uasset'
+[2023.04.15-16.41.53:056][176]LogFileHelpers: Auto-saving content packages took 0.204
+[2023.04.15-17.24.30:885][494]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2023.04.15-17.24.30:896][494]LogSlate: Took 0.010302 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2023.04.15-17.24.52:303][496]LogSlate: Window 'Delete widgets' being destroyed
+[2023.04.15-17.26.04:084][789]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/PlayerHud00E1EB1A46DB3E535CA03CACFEAE5CB7.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/MainMenuGUI/PlayerHud.uasset'
+[2023.04.15-17.26.04:105][789]AssetCheck: New page: Asset Save: PlayerHud
+[2023.04.15-17.26.04:105][789]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/MainMenuGUI/PlayerHud.PlayerHud
+[2023.04.15-17.26.04:644][822]BlueprintLog: New page: Compile PlayerHud
+[2023.04.15-17.26.04:653][822]LogBlueprint: Error: [AssetLog] C:\Users\bvelt\Desktop\DAGD 499\CapstoneProject\CapstoneProject_HJV\Content\Assets\MainMenuGUI\PlayerHud.uasset: [Compiler] This blueprint (self) is not a TextBlock, therefore ' Target ' must have a connection.
+[2023.04.15-17.26.04:730][822]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2023.04.15-17.26.44:031][151]BlueprintLog: New page: Compile PlayerHud
+[2023.04.15-17.26.44:088][151]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2023.04.15-17.26.44:542][173]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/PlayerHud7BCC5F1F4FD7BBACEE5D5FBFF12C5224.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/MainMenuGUI/PlayerHud.uasset'
+[2023.04.15-17.26.44:556][173]AssetCheck: New page: Asset Save: PlayerHud
+[2023.04.15-17.26.44:556][173]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/MainMenuGUI/PlayerHud.PlayerHud
+[2023.04.15-17.27.40:135][ 12]LogSlate: Window 'Pick Row Structure' being destroyed
+[2023.04.15-17.27.40:148][ 12]LogContentBrowser: Deferred new asset file creation: NewDataTable
+[2023.04.15-17.27.40:166][ 12]LogContentBrowser: Creating deferred item: NewDataTable
+[2023.04.15-17.27.43:205][179]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1563)].
+[2023.04.15-17.27.43:206][179]LogContentBrowser: Attempting asset rename: NewDataTable -> NewDataTable
+[2023.04.15-17.27.43:211][179]LogContentBrowser: End creating deferred item NewDataTable
+[2023.04.15-17.27.43:265][179]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2023.04.15-17.27.43:403][179]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Lab_Level_Auto7A3CECD8A4EC50FAACDB989BC762C4FC7.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Autosaves/Game/Levels/Lab_Level_Auto7.umap'
+[2023.04.15-17.27.43:405][179]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Lab_Level' took 0.180
+[2023.04.15-17.27.43:405][179]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.180
+[2023.04.15-17.27.43:405][179]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/PlayerCharacter] ([4] browsable assets)...
+[2023.04.15-17.27.43:415][179]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/PlayerCharacter.PlayerCharacter]
+[2023.04.15-17.27.43:423][179]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/PlayerCharacter.PlayerCharacter]
+[2023.04.15-17.27.43:423][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/PlayerCharacter]
+[2023.04.15-17.27.43:584][179]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/PlayerCharacter_Auto76FEFA7484AEF53CF2A4E5CA68217647E.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Autosaves/Game/Assets/PlayerCharacter_Auto7.uasset'
+[2023.04.15-17.27.43:585][179]LogFileHelpers: Auto-saving content packages took 0.180
+[2023.04.15-17.27.55:425][886]LogContentBrowser: Attempting asset rename: NewDataTable -> TextDecorator
+[2023.04.15-17.27.55:501][886]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/TextDecoratorD973D8AB43DA58D2817977BA0FB7E7B8.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/MainMenuGUI/TextDecorator.uasset'
+[2023.04.15-17.27.55:584][886]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.04.15-17.27.55:631][886]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.04.15-17.27.55:665][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.04.15-17.27.55:825][886]AssetCheck: New page: Asset Save: TextDecorator
+[2023.04.15-17.27.55:825][886]LogContentValidation: Display: Validating DataTable /Game/Assets/MainMenuGUI/TextDecorator.TextDecorator
+[2023.04.15-17.27.57:232][969]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Assets/MainMenuGUI/TextDecorator.TextDecorator
+[2023.04.15-17.29.17:110][725]LogSlate: Window 'Color Picker' being destroyed
+[2023.04.15-17.29.25:009][196]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/TextDecoratorC8831FD8430BC2DC0C7CA28654C575E6.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/MainMenuGUI/TextDecorator.uasset'
+[2023.04.15-17.29.25:031][196]AssetCheck: New page: Asset Save: TextDecorator
+[2023.04.15-17.29.25:031][196]LogContentValidation: Display: Validating DataTable /Game/Assets/MainMenuGUI/TextDecorator.TextDecorator
+[2023.04.15-17.30.02:100][413]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/PlayerHud4ED6D31347821444BA6B2CAF19286744.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/MainMenuGUI/PlayerHud.uasset'
+[2023.04.15-17.30.02:114][413]AssetCheck: New page: Asset Save: PlayerHud
+[2023.04.15-17.30.02:114][413]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/MainMenuGUI/PlayerHud.PlayerHud
+[2023.04.15-17.32.02:373][610]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/TextDecoratorEF4F2CA0495E1E26ABF1D1802A4FA9E3.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/MainMenuGUI/TextDecorator.uasset'
+[2023.04.15-17.32.02:391][610]AssetCheck: New page: Asset Save: TextDecorator
+[2023.04.15-17.32.02:391][610]LogContentValidation: Display: Validating DataTable /Game/Assets/MainMenuGUI/TextDecorator.TextDecorator
+[2023.04.15-17.32.09:015][902]BlueprintLog: New page: Compile PlayerHud
+[2023.04.15-17.32.09:169][902]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2023.04.15-17.32.09:861][937]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/PlayerHudEE6933E1493F95F15820A3823315D3E4.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/MainMenuGUI/PlayerHud.uasset'
+[2023.04.15-17.32.09:874][937]AssetCheck: New page: Asset Save: PlayerHud
+[2023.04.15-17.32.09:874][937]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/MainMenuGUI/PlayerHud.PlayerHud
+[2023.04.15-17.33.13:546][749]LogSlate: Window 'Color Picker' being destroyed
+[2023.04.15-17.33.28:177][625]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/TextDecorator51F31EFD4F23D3465DD78D8B776C3B7B.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/MainMenuGUI/TextDecorator.uasset'
+[2023.04.15-17.33.28:193][625]AssetCheck: New page: Asset Save: TextDecorator
+[2023.04.15-17.33.28:193][625]LogContentValidation: Display: Validating DataTable /Game/Assets/MainMenuGUI/TextDecorator.TextDecorator
+[2023.04.15-17.34.00:544][562]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Emphasis'. Using FTextBlockStyle defaults instead.
+[2023.04.15-17.34.02:159][659]BlueprintLog: New page: Compile PlayerHud
+[2023.04.15-17.34.02:259][659]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2023.04.15-17.34.35:417][641]BlueprintLog: New page: Compile PlayerHud
+[2023.04.15-17.34.35:476][641]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2023.04.15-17.34.36:010][667]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/PlayerHud28D5FCAA4B0071A91B1C4E8497C71606.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/MainMenuGUI/PlayerHud.uasset'
+[2023.04.15-17.34.36:024][667]AssetCheck: New page: Asset Save: PlayerHud
+[2023.04.15-17.34.36:024][667]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/MainMenuGUI/PlayerHud.PlayerHud
+[2023.04.15-17.35.44:563][775]Cmd: EDIT COPY
+[2023.04.15-17.36.31:388][558]LogEditorViewport: Clicking on Actor (LMB): QuestionMark_C (QuestionMark)
+[2023.04.15-17.36.55:482][997]LogEditorViewport: Clicking on Actor (LMB): QuestionMark_C (QuestionMark2)
+[2023.04.15-17.37.26:062][829]LogEditorViewport: Clicking on Actor (LMB): WinSpace_C (WinSpace)
+[2023.04.15-17.37.47:772][126]LogEditorViewport: Clicking on Actor (LMB): QuestionMark_C (QuestionMark3)
+[2023.04.15-17.38.12:707][618]LogEditorViewport: Clicking on Actor (LMB): QuestionMark_C (QuestionMark2)
+[2023.04.15-17.38.19:786][ 40]LogEditorViewport: Clicking on Actor (LMB): QuestionMark_C (QuestionMark)
+[2023.04.15-17.38.30:004][645]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Lab_Level
+[2023.04.15-17.41.03:053][789]BlueprintLog: New page: Compile Lab_Level
+[2023.04.15-17.41.03:148][789]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2023.04.15-17.41.03:609][810]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2023.04.15-17.41.03:740][810]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Lab_LevelFA780F9240E502A116F3BD8551FF6BA1.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/Lab_Level.umap'
+[2023.04.15-17.41.03:756][810]LogFileHelpers: Saving map 'Lab_Level' took 0.191
+[2023.04.15-17.41.03:773][810]AssetCheck: New page: Asset Save: Lab_Level
+[2023.04.15-17.41.03:773][810]LogContentValidation: Display: Validating World /Game/Levels/Lab_Level.Lab_Level
+[2023.04.15-17.41.47:676][392]LogEditorViewport: Clicking on Actor (LMB): Tutorial_Drone_C (Drone)
+[2023.04.15-17.42.08:825][656]LogEditorViewport: Clicking on Actor (LMB): Tutorial_Drone_C (Drone2)
+[2023.04.15-17.42.11:182][795]LogEditorViewport: Clicking on Actor (LMB): Tutorial_Drone_C (Drone)
+[2023.04.15-17.42.16:023][ 79]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Tutorial/Tutorial_Drone.Tutorial_Drone
+[2023.04.15-17.42.16:247][ 79]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_54:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-17.42.32:948][ 75]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone2.CharacterMesh0'
+[2023.04.15-17.42.32:949][ 75]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone2.CharacterMesh0'
+[2023.04.15-17.42.32:950][ 75]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.15-17.42.32:951][ 75]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.15-17.42.32:954][ 75]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_54:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-17.42.32:955][ 75]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_54:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-17.42.32:966][ 75]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone2.CharacterMesh0'
+[2023.04.15-17.42.32:966][ 75]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone2.CharacterMesh0'
+[2023.04.15-17.42.32:967][ 75]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.15-17.42.32:967][ 75]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.15-17.42.32:970][ 75]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_54:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-17.42.32:970][ 75]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_54:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-17.42.42:623][652]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone2.CharacterMesh0'
+[2023.04.15-17.42.42:624][652]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone2.CharacterMesh0'
+[2023.04.15-17.42.42:625][652]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.15-17.42.42:625][652]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.15-17.42.42:630][652]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_54:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-17.42.42:630][652]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_54:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-17.42.42:631][652]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone2.CharacterMesh0'
+[2023.04.15-17.42.42:632][652]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone2.CharacterMesh0'
+[2023.04.15-17.42.42:632][652]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.15-17.42.42:632][652]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.15-17.42.42:634][652]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_54:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-17.42.42:634][652]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_54:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-17.42.45:798][840]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone2.CharacterMesh0'
+[2023.04.15-17.42.45:800][840]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone2.CharacterMesh0'
+[2023.04.15-17.42.45:801][840]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.15-17.42.45:801][840]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.15-17.42.45:805][840]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_54:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-17.42.45:805][840]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_54:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-17.42.45:807][840]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone2.CharacterMesh0'
+[2023.04.15-17.42.45:807][840]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone2.CharacterMesh0'
+[2023.04.15-17.42.45:808][840]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.15-17.42.45:808][840]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.15-17.42.45:810][840]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_54:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-17.42.45:811][840]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_54:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-17.42.50:315][105]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone2.CharacterMesh0'
+[2023.04.15-17.42.50:315][105]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone2.CharacterMesh0'
+[2023.04.15-17.42.50:316][105]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.15-17.42.50:316][105]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.15-17.42.50:321][105]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_54:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-17.42.50:321][105]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_54:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-17.42.50:322][105]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone2.CharacterMesh0'
+[2023.04.15-17.42.50:323][105]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone2.CharacterMesh0'
+[2023.04.15-17.42.50:323][105]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.15-17.42.50:323][105]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.15-17.42.50:326][105]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_54:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-17.42.50:326][105]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_54:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-17.42.50:340][106]BlueprintLog: New page: Compile Tutorial_Drone
+[2023.04.15-17.42.50:371][106]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone2.CharacterMesh0'
+[2023.04.15-17.42.50:372][106]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone2.CharacterMesh0'
+[2023.04.15-17.42.50:372][106]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.15-17.42.50:396][106]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.15-17.42.50:399][106]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_54:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-17.42.50:399][106]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_54:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-17.42.50:496][106]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2023.04.15-17.42.50:500][106]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone2.CharacterMesh0'
+[2023.04.15-17.42.50:501][106]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone2.CharacterMesh0'
+[2023.04.15-17.42.50:502][106]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.15-17.42.50:502][106]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.15-17.42.50:505][106]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_54:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-17.42.50:505][106]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_54:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-17.42.50:519][106]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone2.CharacterMesh0'
+[2023.04.15-17.42.50:519][106]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone2.CharacterMesh0'
+[2023.04.15-17.42.50:520][106]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.15-17.42.50:520][106]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.15-17.42.50:521][106]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_54:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-17.42.50:521][106]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_54:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-17.42.55:694][410]LogEditorViewport: Clicking on Actor (LMB): WinSpace_C (WinSpace)
+[2023.04.15-17.42.57:707][528]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/WinSpace.WinSpace
+[2023.04.15-17.43.23:814][ 78]BlueprintLog: New page: Compile WinSpace
+[2023.04.15-17.43.23:894][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2023.04.15-17.43.26:263][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/WinSpace" FILE="../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/WinSpace.uasset" SILENT=true
+[2023.04.15-17.43.26:286][217]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/WinSpaceC2BBDCDF46DAA1A669816FA963210D0F.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/WinSpace.uasset'
+[2023.04.15-17.43.26:303][217]AssetCheck: New page: Asset Save: WinSpace
+[2023.04.15-17.43.26:303][217]LogContentValidation: Display: Validating Blueprint /Game/Assets/WinSpace.WinSpace
+[2023.04.15-17.44.06:708][638]BlueprintLog: New page: Compile Lab_Level
+[2023.04.15-17.44.06:792][638]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2023.04.15-17.44.07:201][656]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2023.04.15-17.44.07:328][656]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Lab_Level72570AFA410889E2391F0FA29C62ACC5.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/Lab_Level.umap'
+[2023.04.15-17.44.07:342][656]LogFileHelpers: Saving map 'Lab_Level' took 0.190
+[2023.04.15-17.44.07:362][656]AssetCheck: New page: Asset Save: Lab_Level
+[2023.04.15-17.44.07:362][656]LogContentValidation: Display: Validating World /Game/Levels/Lab_Level.Lab_Level
+[2023.04.15-17.44.17:055][231]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/EnvironmentalHazards/_SplatterBlob._SplatterBlob
+[2023.04.15-17.47.11:941][687]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2023.04.15-17.47.12:006][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.04.15-17.47.12:137][687]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Lab_Level3D94BF084D84E99E34365B86955685D5.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/Lab_Level.umap'
+[2023.04.15-17.47.12:154][687]LogFileHelpers: Saving map 'Lab_Level' took 0.195
+[2023.04.15-17.47.12:183][687]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/DELETELATER.DELETELATER:PersistentLevel.Drone2.CharacterMesh0'
+[2023.04.15-17.47.12:183][687]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/DELETELATER.DELETELATER:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.15-17.47.12:274][687]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2023.04.15-17.47.12:416][687]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/DELETELATER9BFB9A5749F693F6E90A88B2AF072C45.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/DELETELATER.umap'
+[2023.04.15-17.47.12:447][687]LogFileHelpers: Saving map 'DELETELATER' took 0.292
+[2023.04.15-17.47.12:467][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PlayerCharacter" FILE="../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset" SILENT=true
+[2023.04.15-17.47.12:642][687]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/PlayerCharacter61F4430A425F26C3361566B19047EBCF.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset'
+[2023.04.15-17.47.12:728][687]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Tutorial_DroneA7430A254A4E83EA8B4EF29397772512.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/Tutorial/Tutorial_Drone.uasset'
+[2023.04.15-17.47.12:729][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cutscene/BattleSequence" FILE="../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Cutscene/BattleSequence.uasset" SILENT=true
+[2023.04.15-17.47.12:734][687]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/BattleSequence1CF8BDA845C0EC10372694A32EFC8BAE.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Cutscene/BattleSequence.uasset'
+[2023.04.15-17.47.12:737][687]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/NeveFinalAnimations_MantisBladeA373F086C4BB521DCBC6688A3E9570776.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Art/Animations/NeveFinalAnimations/NeveFinalAnimations_MantisBladeAttack_Montage.uasset'
+[2023.04.15-17.47.12:756][687]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.15-17.47.12:756][687]LogContentValidation: Display: Validating Blueprint /Game/Assets/PlayerCharacter.PlayerCharacter
+[2023.04.15-17.47.12:756][687]LogContentValidation: Display: Validating Blueprint /Game/Assets/Tutorial/Tutorial_Drone.Tutorial_Drone
+[2023.04.15-17.47.12:756][687]LogContentValidation: Display: Validating AnimMontage /Game/Art/Animations/NeveFinalAnimations/NeveFinalAnimations_MantisBladeAttack_Montage.NeveFinalAnimations_MantisBladeAttack_Montage
+[2023.04.15-17.47.12:756][687]LogContentValidation: Display: Validating LevelSequence /Game/Cutscene/BattleSequence.BattleSequence
+[2023.04.15-17.47.12:756][687]LogContentValidation: Display: Validating World /Game/Levels/Lab_Level.Lab_Level
+[2023.04.15-17.47.12:756][687]LogContentValidation: Display: Validating World /Game/Levels/DELETELATER.DELETELATER
+[2023.04.15-17.47.13:496][730]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.15-17.47.13:502][730]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.04.15-17.47.13:573][730]LogPlayLevel: [PlayLevel] Compiling PlayerCharacter before play...
+[2023.04.15-17.47.13:677][730]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_38:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-17.47.13:678][730]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_38:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-17.47.13:757][730]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone2.CharacterMesh0'
+[2023.04.15-17.47.13:757][730]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone2.CharacterMesh0'
+[2023.04.15-17.47.13:758][730]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.15-17.47.13:758][730]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.15-17.47.13:760][730]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_54:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-17.47.13:760][730]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_54:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-17.47.13:780][730]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_38:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-17.47.13:780][730]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_38:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-17.47.13:804][730]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone2.CharacterMesh0'
+[2023.04.15-17.47.13:804][730]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone2.CharacterMesh0'
+[2023.04.15-17.47.13:804][730]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.15-17.47.13:805][730]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.15-17.47.13:807][730]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_54:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-17.47.13:807][730]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_54:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-17.47.13:810][730]LogPlayLevel: [PlayLevel] Compiling DELETELATER before play...
+[2023.04.15-17.47.13:902][730]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2023.04.15-17.47.13:904][730]LogPlayLevel: PlayLevel: Blueprint regeneration took 401 ms (2 blueprints)
+[2023.04.15-17.47.13:904][730]PIE: New page: PIE session: Lab_Level (Apr 15, 2023, 9:47:13 AM)
+[2023.04.15-17.47.13:904][730]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lab_Level
+[2023.04.15-17.47.13:918][730]LogTemp: Warning: CPath - Dynamic obstacle 'Lab_Door7' is not Movable.
+[2023.04.15-17.47.13:918][730]LogTemp: Warning: CPath - Dynamic obstacle 'Lab_Door6_159' is not Movable.
+[2023.04.15-17.47.13:943][730]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038358s)
+[2023.04.15-17.47.13:944][730]LogAIModule: Creating AISystem for world Lab_Level
+[2023.04.15-17.47.13:944][730]LogPlayLevel: PIE: World Init took: (0.001058s)
+[2023.04.15-17.47.13:944][730]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lab_Level.Lab_Level to /Game/Levels/UEDPIE_0_Lab_Level.Lab_Level (0.039609s)
+[2023.04.15-17.47.13:988][730]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2023.04.15-17.47.13:989][730]LogAudio: Display: Creating Audio Device:                 Id: 81, Scope: Unique, Realtime: True
+[2023.04.15-17.47.13:989][730]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.15-17.47.13:989][730]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.15-17.47.13:989][730]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.15-17.47.13:989][730]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.15-17.47.13:989][730]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.15-17.47.13:989][730]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.15-17.47.13:989][730]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.15-17.47.13:989][730]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.15-17.47.13:990][730]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.15-17.47.13:990][730]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.15-17.47.13:990][730]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.15-17.47.13:990][730]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.15-17.47.13:992][730]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.15-17.47.13:992][730]LogAudioMixer: Display: 1: FrontRight
+[2023.04.15-17.47.14:053][730]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2023.04.15-17.47.14:054][730]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.15-17.47.14:054][730]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.15-17.47.14:054][730]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.15-17.47.14:054][730]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.15-17.47.14:054][730]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.15-17.47.14:054][730]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.15-17.47.14:056][730]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.15-17.47.14:056][730]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.15-17.47.14:056][730]LogInit: FAudioDevice initialized.
+[2023.04.15-17.47.14:056][730]LogAudio: Display: Audio Device (ID: 81) registered with world 'Lab_Level'.
+[2023.04.15-17.47.14:069][730]LogLoad: Game class is 'MyGame_C'
+[2023.04.15-17.47.14:078][730]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Lab_Level.Lab_Level:PersistentLevel.Drone2.CharacterMesh0'
+[2023.04.15-17.47.14:079][730]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Lab_Level.Lab_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.15-17.47.14:080][730]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lab_Level.Lab_Level up for play (max tick rate 60) at 2023.04.15-13.47.14
+[2023.04.15-17.47.14:080][730]LogWorld: Bringing up level for play took: 0.010612
+[2023.04.15-17.47.14:080][730]LogOnline: OSS: Creating online subsystem instance for: :Context_136
+[2023.04.15-17.47.14:083][730]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.15-17.47.14:083][730]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.15-17.47.14:083][730]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.15-17.47.14:110][730]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.15-17.47.14:110][730]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.15-17.47.14:111][730]PIE: Server logged in
+[2023.04.15-17.47.14:111][730]PIE: Play in editor total start time 0.609 seconds.
+[2023.04.15-17.47.39:093][220]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.0
+[2023.04.15-17.47.43:843][505]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.04.15-17.47.43:843][505]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.04.15-17.47.43:844][505]LogNet: Browse: /Game/Levels/Lab_Level
+[2023.04.15-17.47.43:844][505]LogLoad: LoadMap: /Game/Levels/Lab_Level
+[2023.04.15-17.47.43:844][505]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lab_Level
+[2023.04.15-17.47.43:853][505]LogWorld: UWorld::CleanupWorld for Lab_Level, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-17.47.43:854][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-17.47.43:922][505]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.15-17.47.43:929][505]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2023.04.15-17.47.43:932][505]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lab_Level
+[2023.04.15-17.47.43:943][505]LogTemp: Warning: CPath - Dynamic obstacle 'Lab_Door7' is not Movable.
+[2023.04.15-17.47.43:945][505]LogTemp: Warning: CPath - Dynamic obstacle 'Lab_Door6_159' is not Movable.
+[2023.04.15-17.47.43:968][505]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035950s)
+[2023.04.15-17.47.43:969][505]LogAIModule: Creating AISystem for world Lab_Level
+[2023.04.15-17.47.43:969][505]LogPlayLevel: PIE: World Init took: (0.001002s)
+[2023.04.15-17.47.43:970][505]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lab_Level.Lab_Level to /Game/Levels/UEDPIE_0_Lab_Level.Lab_Level (0.037133s)
+[2023.04.15-17.47.43:970][505]LogAudio: Display: Audio Device (ID: 81) registered with world 'Lab_Level'.
+[2023.04.15-17.47.43:970][505]LogLoad: Game class is 'MyGame_C'
+[2023.04.15-17.47.43:975][505]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Lab_Level.Lab_Level:PersistentLevel.Drone2.CharacterMesh0'
+[2023.04.15-17.47.43:975][505]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Lab_Level.Lab_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.15-17.47.43:976][505]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lab_Level.Lab_Level up for play (max tick rate 60) at 2023.04.15-13.47.43
+[2023.04.15-17.47.43:976][505]LogWorld: Bringing up level for play took: 0.006216
+[2023.04.15-17.47.43:980][505]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.15-17.47.43:980][505]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.15-17.47.43:980][505]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.15-17.47.44:005][505]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.15-17.47.44:005][505]LogLoad: Took 0.161333 seconds to LoadMap(/Game/Levels/UEDPIE_0_Lab_Level)
+[2023.04.15-17.47.45:068][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-17.47.45:068][560]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lab_Level
+[2023.04.15-17.47.45:079][560]LogWorld: UWorld::CleanupWorld for Lab_Level, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-17.47.45:081][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-17.47.45:094][560]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.15-17.47.45:109][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-17.47.45:158][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-17.47.45:160][560]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.15-17.47.45:161][560]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.15-17.47.45:174][560]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2023.04.15-17.47.45:212][561]LogPlayLevel: Display: Destroying online subsystem :Context_136
+[2023.04.15-17.48.59:492][994]BlueprintLog: New page: Compile EnemyProjectile
+[2023.04.15-17.48.59:574][994]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2023.04.15-17.48.59:587][994]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_38:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-17.48.59:587][994]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_38:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-17.48.59:594][994]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_38:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-17.48.59:594][994]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_38:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-17.49.00:021][ 15]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/EnemyProjectileDD6858774C5F69932A48968646E1E931.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/AI/EnemyProjectile.uasset'
+[2023.04.15-17.49.00:037][ 15]AssetCheck: New page: Asset Save: EnemyProjectile
+[2023.04.15-17.49.00:037][ 15]LogContentValidation: Display: Validating Blueprint /Game/Assets/AI/EnemyProjectile.EnemyProjectile
+[2023.04.15-17.49.10:474][633]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2023.04.15-17.49.10:543][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.04.15-17.49.10:671][633]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Lab_Level36091C454839F938A6830C8166A3600B.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/Lab_Level.umap'
+[2023.04.15-17.49.10:684][633]LogFileHelpers: Saving map 'Lab_Level' took 0.187
+[2023.04.15-17.49.10:701][633]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/DELETELATER.DELETELATER:PersistentLevel.Drone2.CharacterMesh0'
+[2023.04.15-17.49.10:701][633]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/DELETELATER.DELETELATER:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.15-17.49.10:791][633]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2023.04.15-17.49.10:923][633]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/DELETELATERB6C9F92F477AA93B7F0D6C8403B0457F.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/DELETELATER.umap'
+[2023.04.15-17.49.10:954][633]LogFileHelpers: Saving map 'DELETELATER' took 0.269
+[2023.04.15-17.49.10:969][633]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.15-17.49.10:969][633]LogContentValidation: Display: Validating World /Game/Levels/Lab_Level.Lab_Level
+[2023.04.15-17.49.10:969][633]LogContentValidation: Display: Validating World /Game/Levels/DELETELATER.DELETELATER
