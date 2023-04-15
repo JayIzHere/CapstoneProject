@@ -12814,3 +12814,1063 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.04.15-21.51.56:222][992]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/BattleSequenceB9E630924463BF78C974AAB82B0953C3.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Cutscene/BattleSequence.uasset'
 [2023.04.15-21.51.56:237][992]AssetCheck: New page: Asset Save: BattleSequence
 [2023.04.15-21.51.56:237][992]LogContentValidation: Display: Validating LevelSequence /Game/Cutscene/BattleSequence.BattleSequence
+[2023.04.15-21.53.21:178][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.04.15-21.53.21:237][163]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/AnimationTestingGround.AnimationTestingGround
+[2023.04.15-21.53.21:238][163]Cmd: MAP LOAD FILE="../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/AnimationTestingGround.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.15-21.53.21:238][163]LightingResults: New page: Lighting Build
+[2023.04.15-21.53.21:238][163]LoadErrors: New page: Loading map: AnimationTestingGround.umap
+[2023.04.15-21.53.21:268][163]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-21.53.21:268][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-21.53.21:330][163]LogWorld: UWorld::CleanupWorld for Lab_Level, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-21.53.21:332][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-21.53.21:332][163]MapCheck: New page: Map Check
+[2023.04.15-21.53.21:332][163]LightingResults: New page: Lighting Build
+[2023.04.15-21.53.21:369][163]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.15-21.53.21:420][163]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2023.04.15-21.53.21:428][163]LogAudio: Display: Audio Device (ID: 1) registered with world 'AnimationTestingGround'.
+[2023.04.15-21.53.21:616][163]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.15-21.53.21:617][163]LogAIModule: Creating AISystem for world AnimationTestingGround
+[2023.04.15-21.53.21:659][163]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2023.04.15-21.53.21:671][163]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.15-21.53.21:671][163]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.101ms to complete.
+[2023.04.15-21.53.21:671][163]LogFileHelpers: Loading map 'AnimationTestingGround' took 0.433
+[2023.04.15-21.53.37:529][104]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.15-21.53.38:634][104]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.04.15-21.53.38:648][104]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.04.15-21.53.38:665][104]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.04.15-21.53.40:818][234]LogContentBrowser: Attempting asset rename: NewBlueprint -> Fan
+[2023.04.15-21.53.40:828][234]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.04.15-21.53.42:342][324]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Props/Fan.Fan
+[2023.04.15-21.54.46:137][118]LogEditorTransaction: Undo Rename Component Variable
+[2023.04.15-21.54.46:188][118]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-21.54.46:609][137]LogEditorTransaction: Undo Make New Scene Root
+[2023.04.15-21.54.46:659][137]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-21.56.05:745][855]BlueprintLog: New page: Compile Fan
+[2023.04.15-21.56.05:833][855]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2023.04.15-21.57.03:503][271]BlueprintLog: New page: Compile Fan
+[2023.04.15-21.57.03:580][271]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2023.04.15-21.57.04:027][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Props/Fan" FILE="../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/Props/Fan.uasset" SILENT=true
+[2023.04.15-21.57.04:035][293]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Fan6FFBFD0847D67D1A5B0EC294CD002A8F.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/Props/Fan.uasset'
+[2023.04.15-21.57.04:052][293]AssetCheck: New page: Asset Save: Fan
+[2023.04.15-21.57.04:052][293]LogContentValidation: Display: Validating Blueprint /Game/Assets/Props/Fan.Fan
+[2023.04.15-21.57.23:949][477]BlueprintLog: New page: Compile Fan
+[2023.04.15-21.57.24:016][477]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2023.04.15-21.57.24:589][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Props/Fan" FILE="../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/Props/Fan.uasset" SILENT=true
+[2023.04.15-21.57.24:597][507]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Fan0181700C4C7D55D486BC4EBA86E64B57.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/Props/Fan.uasset'
+[2023.04.15-21.57.24:613][507]AssetCheck: New page: Asset Save: Fan
+[2023.04.15-21.57.24:613][507]LogContentValidation: Display: Validating Blueprint /Game/Assets/Props/Fan.Fan
+[2023.04.15-21.57.57:815][491]BlueprintLog: New page: Compile Fan
+[2023.04.15-21.57.57:897][491]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2023.04.15-21.57.58:636][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Props/Fan" FILE="../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/Props/Fan.uasset" SILENT=true
+[2023.04.15-21.57.58:645][531]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/FanD218651B409F2BF04C5ABD825CAC865E.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/Props/Fan.uasset'
+[2023.04.15-21.57.58:657][531]AssetCheck: New page: Asset Save: Fan
+[2023.04.15-21.57.58:658][531]LogContentValidation: Display: Validating Blueprint /Game/Assets/Props/Fan.Fan
+[2023.04.15-21.58.42:366][127]BlueprintLog: New page: Compile Fan
+[2023.04.15-21.58.42:437][127]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2023.04.15-21.58.43:090][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Props/Fan" FILE="../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/Props/Fan.uasset" SILENT=true
+[2023.04.15-21.58.43:099][162]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/FanE95AB8D74318FC28DF1E5A9D215ACF27.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/Props/Fan.uasset'
+[2023.04.15-21.58.43:115][162]AssetCheck: New page: Asset Save: Fan
+[2023.04.15-21.58.43:115][162]LogContentValidation: Display: Validating Blueprint /Game/Assets/Props/Fan.Fan
+[2023.04.15-21.58.46:848][386]BlueprintLog: New page: Compile Fan
+[2023.04.15-21.58.46:918][386]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2023.04.15-21.58.47:345][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Props/Fan" FILE="../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/Props/Fan.uasset" SILENT=true
+[2023.04.15-21.58.47:353][408]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/FanF71BA74640B175341E73909A0511B19B.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/Props/Fan.uasset'
+[2023.04.15-21.58.47:367][408]AssetCheck: New page: Asset Save: Fan
+[2023.04.15-21.58.47:368][408]LogContentValidation: Display: Validating Blueprint /Game/Assets/Props/Fan.Fan
+[2023.04.15-21.58.51:966][678]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2023.04.15-21.58.51:989][678]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/AnimationTestingGroundE663FB3A443A002DA1ED0FB2E6A16237.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/AnimationTestingGround.umap'
+[2023.04.15-21.58.52:019][678]AssetCheck: New page: Asset Save: AnimationTestingGround
+[2023.04.15-21.58.52:019][678]LogContentValidation: Display: Validating World /Game/Levels/AnimationTestingGround.AnimationTestingGround
+[2023.04.15-21.59.00:642][194]BlueprintLog: New page: Compile Fan
+[2023.04.15-21.59.00:718][194]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2023.04.15-21.59.01:224][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Props/Fan" FILE="../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/Props/Fan.uasset" SILENT=true
+[2023.04.15-21.59.01:232][220]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Fan634B90004E9F31F8A617D19C83B702F7.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/Props/Fan.uasset'
+[2023.04.15-21.59.01:250][220]AssetCheck: New page: Asset Save: Fan
+[2023.04.15-21.59.01:250][220]LogContentValidation: Display: Validating Blueprint /Game/Assets/Props/Fan.Fan
+[2023.04.15-21.59.02:913][319]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.15-21.59.02:922][319]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.15-21.59.02:922][319]PIE: New page: PIE session: AnimationTestingGround (Apr 15, 2023, 1:59:02 PM)
+[2023.04.15-21.59.02:923][319]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AnimationTestingGround
+[2023.04.15-21.59.02:931][319]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008964s)
+[2023.04.15-21.59.02:932][319]LogAIModule: Creating AISystem for world AnimationTestingGround
+[2023.04.15-21.59.02:932][319]LogPlayLevel: PIE: World Init took: (0.000866s)
+[2023.04.15-21.59.02:932][319]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AnimationTestingGround.AnimationTestingGround to /Game/Levels/UEDPIE_0_AnimationTestingGround.AnimationTestingGround (0.009937s)
+[2023.04.15-21.59.02:976][319]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2023.04.15-21.59.02:976][319]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2023.04.15-21.59.02:976][319]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.15-21.59.02:976][319]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.15-21.59.02:976][319]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.15-21.59.02:976][319]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.15-21.59.02:976][319]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.15-21.59.02:976][319]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.15-21.59.02:976][319]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.15-21.59.02:976][319]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.15-21.59.02:977][319]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.15-21.59.02:977][319]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.15-21.59.02:977][319]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.15-21.59.02:977][319]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.15-21.59.02:979][319]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.15-21.59.02:979][319]LogAudioMixer: Display: 1: FrontRight
+[2023.04.15-21.59.03:040][319]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2023.04.15-21.59.03:040][319]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.15-21.59.03:040][319]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.15-21.59.03:040][319]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.15-21.59.03:040][319]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.15-21.59.03:040][319]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.15-21.59.03:040][319]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.15-21.59.03:041][319]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.15-21.59.03:041][319]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.15-21.59.03:041][319]LogInit: FAudioDevice initialized.
+[2023.04.15-21.59.03:041][319]LogAudio: Display: Audio Device (ID: 40) registered with world 'AnimationTestingGround'.
+[2023.04.15-21.59.03:047][319]LogLoad: Game class is 'MyGame_C'
+[2023.04.15-21.59.03:048][319]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AnimationTestingGround.AnimationTestingGround up for play (max tick rate 60) at 2023.04.15-17.59.03
+[2023.04.15-21.59.03:048][319]LogWorld: Bringing up level for play took: 0.000775
+[2023.04.15-21.59.03:048][319]LogOnline: OSS: Creating online subsystem instance for: :Context_72
+[2023.04.15-21.59.03:050][319]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.15-21.59.03:050][319]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.15-21.59.03:050][319]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.15-21.59.03:053][319]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.15-21.59.03:053][319]PIE: Server logged in
+[2023.04.15-21.59.03:054][319]PIE: Play in editor total start time 0.135 seconds.
+[2023.04.15-21.59.10:636][771]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-21.59.10:637][771]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_AnimationTestingGround
+[2023.04.15-21.59.10:637][771]LogWorld: UWorld::CleanupWorld for AnimationTestingGround, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-21.59.10:638][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-21.59.10:657][771]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.15-21.59.10:672][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-21.59.10:710][771]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.15-21.59.10:711][771]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.15-21.59.10:712][771]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.15-21.59.10:715][771]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-21.59.10:719][771]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2023.04.15-21.59.10:748][772]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2023.04.15-21.59.32:344][ 54]BlueprintLog: New page: Compile Fan
+[2023.04.15-21.59.32:420][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2023.04.15-21.59.33:121][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Props/Fan" FILE="../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/Props/Fan.uasset" SILENT=true
+[2023.04.15-21.59.33:130][ 91]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/FanD38AD873406CD68CE81DBA82729C73D0.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/Props/Fan.uasset'
+[2023.04.15-21.59.33:144][ 91]AssetCheck: New page: Asset Save: Fan
+[2023.04.15-21.59.33:144][ 91]LogContentValidation: Display: Validating Blueprint /Game/Assets/Props/Fan.Fan
+[2023.04.15-21.59.35:416][227]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.15-21.59.35:422][227]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.15-21.59.35:423][227]PIE: New page: PIE session: AnimationTestingGround (Apr 15, 2023, 1:59:35 PM)
+[2023.04.15-21.59.35:423][227]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AnimationTestingGround
+[2023.04.15-21.59.35:430][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007687s)
+[2023.04.15-21.59.35:431][227]LogAIModule: Creating AISystem for world AnimationTestingGround
+[2023.04.15-21.59.35:431][227]LogPlayLevel: PIE: World Init took: (0.000809s)
+[2023.04.15-21.59.35:431][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AnimationTestingGround.AnimationTestingGround to /Game/Levels/UEDPIE_0_AnimationTestingGround.AnimationTestingGround (0.008601s)
+[2023.04.15-21.59.35:476][227]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2023.04.15-21.59.35:477][227]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2023.04.15-21.59.35:477][227]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.15-21.59.35:477][227]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.15-21.59.35:477][227]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.15-21.59.35:477][227]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.15-21.59.35:477][227]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.15-21.59.35:477][227]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.15-21.59.35:477][227]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.15-21.59.35:477][227]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.15-21.59.35:478][227]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.15-21.59.35:478][227]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.15-21.59.35:478][227]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.15-21.59.35:478][227]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.15-21.59.35:479][227]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.15-21.59.35:479][227]LogAudioMixer: Display: 1: FrontRight
+[2023.04.15-21.59.35:546][227]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2023.04.15-21.59.35:546][227]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.15-21.59.35:546][227]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.15-21.59.35:547][227]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.15-21.59.35:547][227]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.15-21.59.35:547][227]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.15-21.59.35:547][227]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.15-21.59.35:548][227]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.15-21.59.35:548][227]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.15-21.59.35:548][227]LogInit: FAudioDevice initialized.
+[2023.04.15-21.59.35:548][227]LogAudio: Display: Audio Device (ID: 41) registered with world 'AnimationTestingGround'.
+[2023.04.15-21.59.35:560][227]LogLoad: Game class is 'MyGame_C'
+[2023.04.15-21.59.35:562][227]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AnimationTestingGround.AnimationTestingGround up for play (max tick rate 60) at 2023.04.15-17.59.35
+[2023.04.15-21.59.35:562][227]LogWorld: Bringing up level for play took: 0.000991
+[2023.04.15-21.59.35:562][227]LogOnline: OSS: Creating online subsystem instance for: :Context_73
+[2023.04.15-21.59.35:563][227]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.15-21.59.35:563][227]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.15-21.59.35:563][227]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.15-21.59.35:565][227]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.15-21.59.35:565][227]PIE: Server logged in
+[2023.04.15-21.59.35:566][227]PIE: Play in editor total start time 0.144 seconds.
+[2023.04.15-21.59.49:995][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-21.59.49:995][ 90]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_AnimationTestingGround
+[2023.04.15-21.59.49:996][ 90]LogWorld: UWorld::CleanupWorld for AnimationTestingGround, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-21.59.49:997][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-21.59.50:008][ 90]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.15-21.59.50:019][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-21.59.50:064][ 90]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.15-21.59.50:065][ 90]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.15-21.59.50:066][ 90]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.15-21.59.50:068][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-21.59.50:074][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2023.04.15-21.59.50:099][ 91]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2023.04.15-22.00.22:581][321]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.15-22.00.22:586][321]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.04.15-22.00.23:618][321]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.04.15-22.00.23:631][321]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.04.15-22.00.23:647][321]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.04.15-22.00.28:114][586]LogContentBrowser: Attempting asset rename: NewBlueprint -> FanBox
+[2023.04.15-22.00.28:117][586]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.04.15-22.00.34:105][943]BlueprintLog: New page: Compile Fan
+[2023.04.15-22.00.34:184][943]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2023.04.15-22.00.34:640][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Props/Fan" FILE="../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/Props/Fan.uasset" SILENT=true
+[2023.04.15-22.00.34:649][966]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Fan9472CC4845BFED9090400BBAEF9E379A.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/Props/Fan.uasset'
+[2023.04.15-22.00.34:664][966]AssetCheck: New page: Asset Save: Fan
+[2023.04.15-22.00.34:664][966]LogContentValidation: Display: Validating Blueprint /Game/Assets/Props/Fan.Fan
+[2023.04.15-22.00.37:686][146]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Props/FanBox.FanBox
+[2023.04.15-22.00.55:951][217]BlueprintLog: New page: Compile FanBox
+[2023.04.15-22.00.56:021][217]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2023.04.15-22.00.56:466][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Props/FanBox" FILE="../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/Props/FanBox.uasset" SILENT=true
+[2023.04.15-22.00.56:471][241]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/FanBoxB3FF9A1E4A4A92434D55BDAB0FA73F76.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/Props/FanBox.uasset'
+[2023.04.15-22.00.56:484][241]AssetCheck: New page: Asset Save: FanBox
+[2023.04.15-22.00.56:484][241]LogContentValidation: Display: Validating Blueprint /Game/Assets/Props/FanBox.FanBox
+[2023.04.15-22.02.02:631][185]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.04.15-22.02.02:647][185]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.15-22.02.03:934][263]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.04.15-22.02.05:801][369]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.04.15-22.02.05:819][369]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.15-22.02.05:819][369]LogEditorClassViewer: Warning: Class /Takes/Sequencer/DefaultTakeBurnIn.PLACEHOLDER-CLASS__DefaultBurnInOptions_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.15-22.03.04:537][875]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_27:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-22.03.12:856][373]LogEditorTransaction: Undo Modify Component(s)
+[2023.04.15-22.03.12:882][373]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_24:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-22.03.12:883][373]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_27:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-22.03.12:884][373]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_27:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-22.03.12:884][373]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_27:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-22.03.12:885][373]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_24:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-22.03.12:885][373]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_24:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-22.03.12:949][373]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-22.03.13:076][373]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_27:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-22.03.15:877][538]BlueprintLog: New page: Compile Drone
+[2023.04.15-22.03.16:037][538]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_27:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-22.03.16:038][538]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_27:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-22.03.16:039][538]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_24:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-22.03.16:040][538]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_24:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-22.03.16:111][538]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2023.04.15-22.03.16:115][538]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_27:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-22.03.16:116][538]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_27:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-22.03.16:129][538]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_24:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-22.03.16:130][538]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_24:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-22.03.16:134][538]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_27:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-22.03.16:134][538]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_27:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-22.03.16:146][538]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_24:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-22.03.16:146][538]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_24:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-22.03.16:171][538]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_27:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-22.03.16:551][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/AI/NewDrone/Drone" FILE="../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/AI/NewDrone/Drone.uasset" SILENT=true
+[2023.04.15-22.03.16:644][558]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Drone87B3A1504DAE1F870BA781BC5C3C3D23.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/AI/NewDrone/Drone.uasset'
+[2023.04.15-22.03.16:666][558]AssetCheck: New page: Asset Save: Drone
+[2023.04.15-22.03.16:666][558]LogContentValidation: Display: Validating Blueprint /Game/Assets/AI/NewDrone/Drone.Drone
+[2023.04.15-22.04.15:112][ 55]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.04.15-22.04.15:129][ 55]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.15-22.06.17:083][311]BlueprintLog: New page: Compile FanBox
+[2023.04.15-22.06.17:086][311]LogBlueprint: Warning: [AssetLog] C:\Users\bvelt\Desktop\DAGD 499\CapstoneProject\CapstoneProject_HJV\Content\Assets\Props\FanBox.uasset: [Compiler] Could not find a variable named "EnemyHealthBar" in 'FanBox_C'.
+Make sure 'FanBox_C' has been compiled for  Get EnemyHealthBar
+[2023.04.15-22.06.17:086][311]LogBlueprint: Warning: [AssetLog] C:\Users\bvelt\Desktop\DAGD 499\CapstoneProject\CapstoneProject_HJV\Content\Assets\Props\FanBox.uasset: [Compiler] Could not find a variable named "EnemyHealthBar" in 'FanBox_C'.
+Make sure 'FanBox_C' has been compiled for  Get EnemyHealthBar
+[2023.04.15-22.06.17:087][311]LogBlueprint: Error: [AssetLog] C:\Users\bvelt\Desktop\DAGD 499\CapstoneProject\CapstoneProject_HJV\Content\Assets\Props\FanBox.uasset: [Compiler] The property associated with  Enemy Health Bar  could not be found in '/Game/Assets/Props/FanBox.FanBox_C'
+[2023.04.15-22.06.17:087][311]LogBlueprint: Error: [AssetLog] C:\Users\bvelt\Desktop\DAGD 499\CapstoneProject\CapstoneProject_HJV\Content\Assets\Props\FanBox.uasset: [Compiler] The property associated with  Enemy Health Bar  could not be found in '/Game/Assets/Props/FanBox.FanBox_C'
+[2023.04.15-22.06.17:169][311]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2023.04.15-22.06.17:639][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Props/FanBox" FILE="../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/Props/FanBox.uasset" SILENT=true
+[2023.04.15-22.06.17:650][335]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/FanBox39CCD8BE4AB462B23FFA0ABE42379F8E.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/Props/FanBox.uasset'
+[2023.04.15-22.06.17:665][335]AssetCheck: New page: Asset Save: FanBox
+[2023.04.15-22.06.17:665][335]LogContentValidation: Display: Validating Blueprint /Game/Assets/Props/FanBox.FanBox
+[2023.04.15-22.07.16:921][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/AI/NewDrone/Drone" FILE="../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/AI/NewDrone/Drone.uasset" SILENT=true
+[2023.04.15-22.07.16:999][886]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Drone406769D74B558F71F87C33878EAB37E5.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/AI/NewDrone/Drone.uasset'
+[2023.04.15-22.07.17:020][886]AssetCheck: New page: Asset Save: Drone
+[2023.04.15-22.07.17:020][886]LogContentValidation: Display: Validating Blueprint /Game/Assets/AI/NewDrone/Drone.Drone
+[2023.04.15-22.07.57:814][315]BlueprintLog: New page: Compile FanBox
+[2023.04.15-22.07.57:817][315]LogBlueprint: Error: [AssetLog] C:\Users\bvelt\Desktop\DAGD 499\CapstoneProject\CapstoneProject_HJV\Content\Assets\Props\FanBox.uasset: [Compiler] Can't connect pins  Self  and  Drone : Self Object Reference is not compatible with Drone Object Reference.
+[2023.04.15-22.07.57:817][315]LogBlueprint: Error: [AssetLog] C:\Users\bvelt\Desktop\DAGD 499\CapstoneProject\CapstoneProject_HJV\Content\Assets\Props\FanBox.uasset: [Compiler] Can't connect pins  Drone  and  Self : Drone Object Reference is not compatible with Self Object Reference.
+[2023.04.15-22.07.57:817][315]LogBlueprint: Warning: [AssetLog] C:\Users\bvelt\Desktop\DAGD 499\CapstoneProject\CapstoneProject_HJV\Content\Assets\Props\FanBox.uasset: [Compiler] Could not find a variable named "EnemyHealthBar" in 'FanBox_C'.
+Make sure 'FanBox_C' has been compiled for  Set EnemyHealthBar
+[2023.04.15-22.07.57:817][315]LogBlueprint: Warning: [AssetLog] C:\Users\bvelt\Desktop\DAGD 499\CapstoneProject\CapstoneProject_HJV\Content\Assets\Props\FanBox.uasset: [Compiler] Could not find a variable named "EnemyHealthBar" in 'FanBox_C'.
+Make sure 'FanBox_C' has been compiled for  Get EnemyHealthBar
+[2023.04.15-22.07.57:817][315]LogBlueprint: Warning: [AssetLog] C:\Users\bvelt\Desktop\DAGD 499\CapstoneProject\CapstoneProject_HJV\Content\Assets\Props\FanBox.uasset: [Compiler] Could not find a variable named "EnemyHealthBar" in 'FanBox_C'.
+Make sure 'FanBox_C' has been compiled for  Get EnemyHealthBar
+[2023.04.15-22.07.57:817][315]LogBlueprint: Error: [AssetLog] C:\Users\bvelt\Desktop\DAGD 499\CapstoneProject\CapstoneProject_HJV\Content\Assets\Props\FanBox.uasset: [Compiler] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2023.04.15-22.07.57:818][315]LogBlueprint: Error: [AssetLog] C:\Users\bvelt\Desktop\DAGD 499\CapstoneProject\CapstoneProject_HJV\Content\Assets\Props\FanBox.uasset: [Compiler] This blueprint (self) is not a EnemyHealthBar_C, therefore ' Target ' must have a connection.
+[2023.04.15-22.07.57:818][315]LogBlueprint: Error: [AssetLog] C:\Users\bvelt\Desktop\DAGD 499\CapstoneProject\CapstoneProject_HJV\Content\Assets\Props\FanBox.uasset: [Compiler] This blueprint (self) is not a EnemyHealthBar_C, therefore ' Target ' must have a connection.
+[2023.04.15-22.07.57:818][315]LogBlueprint: Error: [AssetLog] C:\Users\bvelt\Desktop\DAGD 499\CapstoneProject\CapstoneProject_HJV\Content\Assets\Props\FanBox.uasset: [Compiler] The property associated with  Enemy Health Bar  could not be found in '/Game/Assets/Props/FanBox.FanBox_C'
+[2023.04.15-22.07.57:818][315]LogBlueprint: Error: [AssetLog] C:\Users\bvelt\Desktop\DAGD 499\CapstoneProject\CapstoneProject_HJV\Content\Assets\Props\FanBox.uasset: [Compiler] The property associated with  Enemy Health Bar  could not be found in '/Game/Assets/Props/FanBox.FanBox_C'
+[2023.04.15-22.07.57:818][315]LogBlueprint: Error: [AssetLog] C:\Users\bvelt\Desktop\DAGD 499\CapstoneProject\CapstoneProject_HJV\Content\Assets\Props\FanBox.uasset: [Compiler] Variable node  Set Drone  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.04.15-22.07.57:818][315]LogBlueprint: Error: [AssetLog] C:\Users\bvelt\Desktop\DAGD 499\CapstoneProject\CapstoneProject_HJV\Content\Assets\Props\FanBox.uasset: [Compiler] The property associated with  Enemy Health Bar  could not be found in '/Game/Assets/Props/FanBox.FanBox_C'
+[2023.04.15-22.07.57:887][315]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2023.04.15-22.07.58:954][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Props/FanBox" FILE="../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/Props/FanBox.uasset" SILENT=true
+[2023.04.15-22.07.58:967][375]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/FanBoxD47C51964C19751B82DCC7BD9A01D818.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/Props/FanBox.uasset'
+[2023.04.15-22.07.58:984][375]AssetCheck: New page: Asset Save: FanBox
+[2023.04.15-22.07.58:984][375]LogContentValidation: Display: Validating Blueprint /Game/Assets/Props/FanBox.FanBox
+[2023.04.15-22.09.51:226][ 74]BlueprintLog: New page: Compile FanBox
+[2023.04.15-22.09.51:228][ 74]LogBlueprint: Warning: [AssetLog] C:\Users\bvelt\Desktop\DAGD 499\CapstoneProject\CapstoneProject_HJV\Content\Assets\Props\FanBox.uasset: [Compiler] Could not find a variable named "EnemyHealthBar" in 'FanBox_C'.
+Make sure 'FanBox_C' has been compiled for  Get EnemyHealthBar
+[2023.04.15-22.09.51:229][ 74]LogBlueprint: Warning: [AssetLog] C:\Users\bvelt\Desktop\DAGD 499\CapstoneProject\CapstoneProject_HJV\Content\Assets\Props\FanBox.uasset: [Compiler] Could not find a variable named "EnemyHealthBar" in 'FanBox_C'.
+Make sure 'FanBox_C' has been compiled for  Get EnemyHealthBar
+[2023.04.15-22.09.51:229][ 74]LogBlueprint: Error: [AssetLog] C:\Users\bvelt\Desktop\DAGD 499\CapstoneProject\CapstoneProject_HJV\Content\Assets\Props\FanBox.uasset: [Compiler] The property associated with  Enemy Health Bar  could not be found in '/Game/Assets/Props/FanBox.FanBox_C'
+[2023.04.15-22.09.51:229][ 74]LogBlueprint: Error: [AssetLog] C:\Users\bvelt\Desktop\DAGD 499\CapstoneProject\CapstoneProject_HJV\Content\Assets\Props\FanBox.uasset: [Compiler] The property associated with  Enemy Health Bar  could not be found in '/Game/Assets/Props/FanBox.FanBox_C'
+[2023.04.15-22.09.51:298][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2023.04.15-22.09.55:461][317]BlueprintLog: New page: Compile FanBox
+[2023.04.15-22.09.55:463][317]LogBlueprint: Warning: [AssetLog] C:\Users\bvelt\Desktop\DAGD 499\CapstoneProject\CapstoneProject_HJV\Content\Assets\Props\FanBox.uasset: [Compiler] Could not find a variable named "EnemyHealthBar" in 'FanBox_C'.
+Make sure 'FanBox_C' has been compiled for  Get EnemyHealthBar
+[2023.04.15-22.09.55:463][317]LogBlueprint: Warning: [AssetLog] C:\Users\bvelt\Desktop\DAGD 499\CapstoneProject\CapstoneProject_HJV\Content\Assets\Props\FanBox.uasset: [Compiler] Could not find a variable named "EnemyHealthBar" in 'FanBox_C'.
+Make sure 'FanBox_C' has been compiled for  Get EnemyHealthBar
+[2023.04.15-22.09.55:463][317]LogBlueprint: Error: [AssetLog] C:\Users\bvelt\Desktop\DAGD 499\CapstoneProject\CapstoneProject_HJV\Content\Assets\Props\FanBox.uasset: [Compiler] The property associated with  Enemy Health Bar  could not be found in '/Game/Assets/Props/FanBox.FanBox_C'
+[2023.04.15-22.09.55:464][317]LogBlueprint: Error: [AssetLog] C:\Users\bvelt\Desktop\DAGD 499\CapstoneProject\CapstoneProject_HJV\Content\Assets\Props\FanBox.uasset: [Compiler] The property associated with  Enemy Health Bar  could not be found in '/Game/Assets/Props/FanBox.FanBox_C'
+[2023.04.15-22.09.55:541][317]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2023.04.15-22.10.15:332][493]BlueprintLog: New page: Compile FanBox
+[2023.04.15-22.10.15:404][493]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2023.04.15-22.10.15:858][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Props/FanBox" FILE="../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/Props/FanBox.uasset" SILENT=true
+[2023.04.15-22.10.15:870][516]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/FanBox21A82C594EE2D5727461CDB01C0875B1.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/Props/FanBox.uasset'
+[2023.04.15-22.10.15:889][516]AssetCheck: New page: Asset Save: FanBox
+[2023.04.15-22.10.15:889][516]LogContentValidation: Display: Validating Blueprint /Game/Assets/Props/FanBox.FanBox
+[2023.04.15-22.10.19:884][756]BlueprintLog: New page: Compile FanBox
+[2023.04.15-22.10.19:954][756]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2023.04.15-22.10.20:609][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Props/FanBox" FILE="../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/Props/FanBox.uasset" SILENT=true
+[2023.04.15-22.10.20:622][792]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/FanBoxB4607A3641A9D9D3E880CB9724D263D3.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/Props/FanBox.uasset'
+[2023.04.15-22.10.20:641][792]AssetCheck: New page: Asset Save: FanBox
+[2023.04.15-22.10.20:641][792]LogContentValidation: Display: Validating Blueprint /Game/Assets/Props/FanBox.FanBox
+[2023.04.15-22.10.59:490][111]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2023.04.15-22.10.59:516][111]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/AnimationTestingGround7F17E0704CFD2CB4518B8CBBB4D71A16.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/AnimationTestingGround.umap'
+[2023.04.15-22.10.59:549][111]AssetCheck: New page: Asset Save: AnimationTestingGround
+[2023.04.15-22.10.59:549][111]LogContentValidation: Display: Validating World /Game/Levels/AnimationTestingGround.AnimationTestingGround
+[2023.04.15-22.11.11:938][840]BlueprintLog: New page: Compile PlayerCharacter
+[2023.04.15-22.11.12:149][840]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2023.04.15-22.11.12:180][840]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_27:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-22.11.12:181][840]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_27:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-22.11.12:291][840]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_24:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-22.11.12:292][840]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_24:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-22.11.12:317][840]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_27:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-22.11.12:317][840]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_27:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-22.11.12:331][840]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_24:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-22.11.12:332][840]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_24:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-22.11.36:642][277]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2023.04.15-22.11.36:667][277]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/AnimationTestingGround8FD75FC641DED65B695D41B967ED7856.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/AnimationTestingGround.umap'
+[2023.04.15-22.11.36:696][277]AssetCheck: New page: Asset Save: AnimationTestingGround
+[2023.04.15-22.11.36:696][277]LogContentValidation: Display: Validating World /Game/Levels/AnimationTestingGround.AnimationTestingGround
+[2023.04.15-22.11.38:228][369]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.15-22.11.38:236][369]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.15-22.11.38:236][369]PIE: New page: PIE session: AnimationTestingGround (Apr 15, 2023, 2:11:38 PM)
+[2023.04.15-22.11.38:236][369]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AnimationTestingGround
+[2023.04.15-22.11.38:245][369]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007955s)
+[2023.04.15-22.11.38:245][369]LogAIModule: Creating AISystem for world AnimationTestingGround
+[2023.04.15-22.11.38:246][369]LogPlayLevel: PIE: World Init took: (0.000902s)
+[2023.04.15-22.11.38:246][369]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AnimationTestingGround.AnimationTestingGround to /Game/Levels/UEDPIE_0_AnimationTestingGround.AnimationTestingGround (0.008966s)
+[2023.04.15-22.11.38:290][369]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2023.04.15-22.11.38:291][369]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2023.04.15-22.11.38:291][369]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.15-22.11.38:291][369]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.15-22.11.38:291][369]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.15-22.11.38:291][369]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.15-22.11.38:291][369]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.15-22.11.38:291][369]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.15-22.11.38:291][369]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.15-22.11.38:291][369]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.15-22.11.38:291][369]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.15-22.11.38:291][369]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.15-22.11.38:291][369]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.15-22.11.38:291][369]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.15-22.11.38:295][369]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.15-22.11.38:295][369]LogAudioMixer: Display: 1: FrontRight
+[2023.04.15-22.11.38:355][369]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2023.04.15-22.11.38:356][369]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.15-22.11.38:356][369]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.15-22.11.38:356][369]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.15-22.11.38:356][369]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.15-22.11.38:356][369]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.15-22.11.38:356][369]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.15-22.11.38:357][369]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.15-22.11.38:357][369]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.15-22.11.38:357][369]LogInit: FAudioDevice initialized.
+[2023.04.15-22.11.38:357][369]LogAudio: Display: Audio Device (ID: 42) registered with world 'AnimationTestingGround'.
+[2023.04.15-22.11.38:366][369]LogLoad: Game class is 'MyGame_C'
+[2023.04.15-22.11.38:367][369]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AnimationTestingGround.AnimationTestingGround up for play (max tick rate 60) at 2023.04.15-18.11.38
+[2023.04.15-22.11.38:368][369]LogWorld: Bringing up level for play took: 0.000800
+[2023.04.15-22.11.38:368][369]LogOnline: OSS: Creating online subsystem instance for: :Context_77
+[2023.04.15-22.11.38:369][369]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.15-22.11.38:369][369]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.15-22.11.38:369][369]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.15-22.11.38:372][369]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.15-22.11.38:372][369]PIE: Server logged in
+[2023.04.15-22.11.38:373][369]PIE: Play in editor total start time 0.138 seconds.
+[2023.04.15-22.12.01:547][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-22.12.01:547][754]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_AnimationTestingGround
+[2023.04.15-22.12.01:547][754]LogWorld: UWorld::CleanupWorld for AnimationTestingGround, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-22.12.01:548][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-22.12.01:566][754]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.15-22.12.01:576][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-22.12.01:616][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-22.12.01:617][754]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.15-22.12.01:618][754]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.15-22.12.01:626][754]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2023.04.15-22.12.01:653][755]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2023.04.15-22.13.03:049][406]BlueprintLog: New page: Compile FanBox
+[2023.04.15-22.13.03:122][406]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2023.04.15-22.13.03:702][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Props/FanBox" FILE="../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/Props/FanBox.uasset" SILENT=true
+[2023.04.15-22.13.03:711][438]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/FanBoxDD2182AC4DFC08B6F8FE6EBF3D0C8583.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/Props/FanBox.uasset'
+[2023.04.15-22.13.03:725][438]AssetCheck: New page: Asset Save: FanBox
+[2023.04.15-22.13.03:725][438]LogContentValidation: Display: Validating Blueprint /Game/Assets/Props/FanBox.FanBox
+[2023.04.15-22.13.13:492][ 23]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.15-22.13.13:499][ 23]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.15-22.13.13:499][ 23]PIE: New page: PIE session: AnimationTestingGround (Apr 15, 2023, 2:13:13 PM)
+[2023.04.15-22.13.13:499][ 23]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AnimationTestingGround
+[2023.04.15-22.13.13:507][ 23]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007910s)
+[2023.04.15-22.13.13:508][ 23]LogAIModule: Creating AISystem for world AnimationTestingGround
+[2023.04.15-22.13.13:508][ 23]LogPlayLevel: PIE: World Init took: (0.000798s)
+[2023.04.15-22.13.13:508][ 23]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AnimationTestingGround.AnimationTestingGround to /Game/Levels/UEDPIE_0_AnimationTestingGround.AnimationTestingGround (0.008809s)
+[2023.04.15-22.13.13:553][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2023.04.15-22.13.13:554][ 23]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2023.04.15-22.13.13:554][ 23]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.15-22.13.13:554][ 23]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.15-22.13.13:554][ 23]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.15-22.13.13:554][ 23]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.15-22.13.13:554][ 23]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.15-22.13.13:554][ 23]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.15-22.13.13:554][ 23]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.15-22.13.13:554][ 23]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.15-22.13.13:555][ 23]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.15-22.13.13:555][ 23]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.15-22.13.13:555][ 23]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.15-22.13.13:555][ 23]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.15-22.13.13:556][ 23]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.15-22.13.13:556][ 23]LogAudioMixer: Display: 1: FrontRight
+[2023.04.15-22.13.13:615][ 23]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2023.04.15-22.13.13:616][ 23]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.15-22.13.13:616][ 23]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.15-22.13.13:616][ 23]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.15-22.13.13:616][ 23]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.15-22.13.13:616][ 23]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.15-22.13.13:616][ 23]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.15-22.13.13:617][ 23]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.15-22.13.13:617][ 23]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.15-22.13.13:617][ 23]LogInit: FAudioDevice initialized.
+[2023.04.15-22.13.13:617][ 23]LogAudio: Display: Audio Device (ID: 43) registered with world 'AnimationTestingGround'.
+[2023.04.15-22.13.13:623][ 23]LogLoad: Game class is 'MyGame_C'
+[2023.04.15-22.13.13:625][ 23]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AnimationTestingGround.AnimationTestingGround up for play (max tick rate 60) at 2023.04.15-18.13.13
+[2023.04.15-22.13.13:625][ 23]LogWorld: Bringing up level for play took: 0.001229
+[2023.04.15-22.13.13:626][ 23]LogOnline: OSS: Creating online subsystem instance for: :Context_78
+[2023.04.15-22.13.13:627][ 23]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.15-22.13.13:627][ 23]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.15-22.13.13:627][ 23]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.15-22.13.13:629][ 23]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.15-22.13.13:629][ 23]PIE: Server logged in
+[2023.04.15-22.13.13:631][ 23]PIE: Play in editor total start time 0.132 seconds.
+[2023.04.15-22.13.44:045][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-22.13.44:045][844]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_AnimationTestingGround
+[2023.04.15-22.13.44:045][844]LogWorld: UWorld::CleanupWorld for AnimationTestingGround, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-22.13.44:046][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-22.13.44:067][844]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.15-22.13.44:078][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-22.13.44:123][844]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.15-22.13.44:123][844]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.15-22.13.44:124][844]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.15-22.13.44:127][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-22.13.44:131][844]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2023.04.15-22.13.44:157][845]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2023.04.15-22.14.11:028][443]BlueprintLog: New page: Compile Fan
+[2023.04.15-22.14.11:105][443]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2023.04.15-22.14.11:559][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Props/Fan" FILE="../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/Props/Fan.uasset" SILENT=true
+[2023.04.15-22.14.11:568][465]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/FanB164F7ED4BEACDAD3FD26AA540A041F4.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/Props/Fan.uasset'
+[2023.04.15-22.14.11:586][465]AssetCheck: New page: Asset Save: Fan
+[2023.04.15-22.14.11:586][465]LogContentValidation: Display: Validating Blueprint /Game/Assets/Props/Fan.Fan
+[2023.04.15-22.14.31:129][633]BlueprintLog: New page: Compile FanBox
+[2023.04.15-22.14.31:202][633]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2023.04.15-22.14.31:638][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Props/FanBox" FILE="../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/Props/FanBox.uasset" SILENT=true
+[2023.04.15-22.14.31:647][655]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/FanBox1353AFB14F2922A8B41B99A280D038D9.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/Props/FanBox.uasset'
+[2023.04.15-22.14.31:663][655]AssetCheck: New page: Asset Save: FanBox
+[2023.04.15-22.14.31:663][655]LogContentValidation: Display: Validating Blueprint /Game/Assets/Props/FanBox.FanBox
+[2023.04.15-22.14.42:159][283]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2023.04.15-22.15.24:058][782]BlueprintLog: New page: Compile FanBox
+[2023.04.15-22.15.24:132][782]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2023.04.15-22.15.24:541][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Props/FanBox" FILE="../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/Props/FanBox.uasset" SILENT=true
+[2023.04.15-22.15.24:552][803]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/FanBoxA731E9044F46F4CCBB96E2885CB11EF0.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/Props/FanBox.uasset'
+[2023.04.15-22.15.24:567][803]AssetCheck: New page: Asset Save: FanBox
+[2023.04.15-22.15.24:567][803]LogContentValidation: Display: Validating Blueprint /Game/Assets/Props/FanBox.FanBox
+[2023.04.15-22.15.36:308][503]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2023.04.15-22.15.36:332][503]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/AnimationTestingGround61DEC55D478B7E91A7D16EB5EE412343.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/AnimationTestingGround.umap'
+[2023.04.15-22.15.36:359][503]AssetCheck: New page: Asset Save: AnimationTestingGround
+[2023.04.15-22.15.36:359][503]LogContentValidation: Display: Validating World /Game/Levels/AnimationTestingGround.AnimationTestingGround
+[2023.04.15-22.15.37:009][542]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.15-22.15.37:017][542]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.15-22.15.37:017][542]PIE: New page: PIE session: AnimationTestingGround (Apr 15, 2023, 2:15:37 PM)
+[2023.04.15-22.15.37:042][542]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AnimationTestingGround
+[2023.04.15-22.15.37:056][542]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014048s)
+[2023.04.15-22.15.37:056][542]LogAIModule: Creating AISystem for world AnimationTestingGround
+[2023.04.15-22.15.37:056][542]LogPlayLevel: PIE: World Init took: (0.000855s)
+[2023.04.15-22.15.37:056][542]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AnimationTestingGround.AnimationTestingGround to /Game/Levels/UEDPIE_0_AnimationTestingGround.AnimationTestingGround (0.015109s)
+[2023.04.15-22.15.37:106][542]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2023.04.15-22.15.37:106][542]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2023.04.15-22.15.37:106][542]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.15-22.15.37:106][542]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.15-22.15.37:106][542]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.15-22.15.37:106][542]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.15-22.15.37:106][542]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.15-22.15.37:106][542]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.15-22.15.37:106][542]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.15-22.15.37:106][542]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.15-22.15.37:107][542]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.15-22.15.37:107][542]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.15-22.15.37:107][542]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.15-22.15.37:107][542]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.15-22.15.37:108][542]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.15-22.15.37:108][542]LogAudioMixer: Display: 1: FrontRight
+[2023.04.15-22.15.37:168][542]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2023.04.15-22.15.37:168][542]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.15-22.15.37:168][542]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.15-22.15.37:168][542]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.15-22.15.37:169][542]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.15-22.15.37:169][542]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.15-22.15.37:169][542]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.15-22.15.37:169][542]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.15-22.15.37:169][542]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.15-22.15.37:169][542]LogInit: FAudioDevice initialized.
+[2023.04.15-22.15.37:169][542]LogAudio: Display: Audio Device (ID: 44) registered with world 'AnimationTestingGround'.
+[2023.04.15-22.15.37:181][542]LogLoad: Game class is 'MyGame_C'
+[2023.04.15-22.15.37:183][542]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AnimationTestingGround.AnimationTestingGround up for play (max tick rate 60) at 2023.04.15-18.15.37
+[2023.04.15-22.15.37:183][542]LogWorld: Bringing up level for play took: 0.001150
+[2023.04.15-22.15.37:183][542]LogOnline: OSS: Creating online subsystem instance for: :Context_79
+[2023.04.15-22.15.37:185][542]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.15-22.15.37:185][542]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.15-22.15.37:185][542]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.15-22.15.37:187][542]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.15-22.15.37:187][542]PIE: Server logged in
+[2023.04.15-22.15.37:188][542]PIE: Play in editor total start time 0.172 seconds.
+[2023.04.15-22.16.02:595][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-22.16.02:595][ 61]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_AnimationTestingGround
+[2023.04.15-22.16.02:595][ 61]LogWorld: UWorld::CleanupWorld for AnimationTestingGround, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-22.16.02:595][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-22.16.02:610][ 61]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.15-22.16.02:621][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-22.16.02:664][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-22.16.02:664][ 61]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.15-22.16.02:666][ 61]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.15-22.16.02:674][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2023.04.15-22.16.02:703][ 62]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2023.04.15-22.16.05:099][205]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.15-22.16.05:106][205]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.15-22.16.05:106][205]PIE: New page: PIE session: AnimationTestingGround (Apr 15, 2023, 2:16:05 PM)
+[2023.04.15-22.16.05:106][205]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AnimationTestingGround
+[2023.04.15-22.16.05:113][205]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007430s)
+[2023.04.15-22.16.05:114][205]LogAIModule: Creating AISystem for world AnimationTestingGround
+[2023.04.15-22.16.05:114][205]LogPlayLevel: PIE: World Init took: (0.000780s)
+[2023.04.15-22.16.05:114][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AnimationTestingGround.AnimationTestingGround to /Game/Levels/UEDPIE_0_AnimationTestingGround.AnimationTestingGround (0.008311s)
+[2023.04.15-22.16.05:158][205]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2023.04.15-22.16.05:159][205]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2023.04.15-22.16.05:159][205]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.15-22.16.05:159][205]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.15-22.16.05:159][205]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.15-22.16.05:159][205]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.15-22.16.05:159][205]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.15-22.16.05:159][205]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.15-22.16.05:159][205]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.15-22.16.05:159][205]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.15-22.16.05:160][205]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.15-22.16.05:160][205]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.15-22.16.05:160][205]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.15-22.16.05:160][205]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.15-22.16.05:161][205]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.15-22.16.05:161][205]LogAudioMixer: Display: 1: FrontRight
+[2023.04.15-22.16.05:220][205]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2023.04.15-22.16.05:221][205]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.15-22.16.05:221][205]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.15-22.16.05:221][205]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.15-22.16.05:221][205]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.15-22.16.05:221][205]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.15-22.16.05:221][205]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.15-22.16.05:221][205]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.15-22.16.05:221][205]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.15-22.16.05:221][205]LogInit: FAudioDevice initialized.
+[2023.04.15-22.16.05:221][205]LogAudio: Display: Audio Device (ID: 45) registered with world 'AnimationTestingGround'.
+[2023.04.15-22.16.05:228][205]LogLoad: Game class is 'MyGame_C'
+[2023.04.15-22.16.05:231][205]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AnimationTestingGround.AnimationTestingGround up for play (max tick rate 60) at 2023.04.15-18.16.05
+[2023.04.15-22.16.05:231][205]LogWorld: Bringing up level for play took: 0.000806
+[2023.04.15-22.16.05:231][205]LogOnline: OSS: Creating online subsystem instance for: :Context_80
+[2023.04.15-22.16.05:232][205]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.15-22.16.05:232][205]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.15-22.16.05:232][205]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.15-22.16.05:235][205]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.15-22.16.05:235][205]PIE: Server logged in
+[2023.04.15-22.16.05:235][205]PIE: Play in editor total start time 0.13 seconds.
+[2023.04.15-22.16.13:934][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-22.16.13:934][724]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_AnimationTestingGround
+[2023.04.15-22.16.13:934][724]LogWorld: UWorld::CleanupWorld for AnimationTestingGround, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-22.16.13:935][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-22.16.13:953][724]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.15-22.16.13:967][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-22.16.14:011][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-22.16.14:011][724]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.15-22.16.14:013][724]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.15-22.16.14:019][724]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2023.04.15-22.16.14:051][725]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2023.04.15-22.16.21:066][141]BlueprintLog: New page: Compile FanBox
+[2023.04.15-22.16.21:142][141]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2023.04.15-22.16.23:125][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Props/FanBox" FILE="../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/Props/FanBox.uasset" SILENT=true
+[2023.04.15-22.16.23:135][256]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/FanBoxCDA2EADE4007F458125992B447D42796.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/Props/FanBox.uasset'
+[2023.04.15-22.16.23:148][256]AssetCheck: New page: Asset Save: FanBox
+[2023.04.15-22.16.23:148][256]LogContentValidation: Display: Validating Blueprint /Game/Assets/Props/FanBox.FanBox
+[2023.04.15-22.19.19:251][632]BlueprintLog: New page: Compile PlayerCharacter
+[2023.04.15-22.19.19:427][632]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2023.04.15-22.19.19:447][632]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_27:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-22.19.19:447][632]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_27:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-22.19.19:577][632]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_24:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-22.19.19:577][632]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_24:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-22.19.19:594][632]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_27:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-22.19.19:594][632]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_27:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-22.19.19:609][632]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_24:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-22.19.19:609][632]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_24:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-22.19.20:039][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PlayerCharacter" FILE="../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset" SILENT=true
+[2023.04.15-22.19.20:217][644]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/PlayerCharacterCE8510C849D45BAA54955E96F08658D2.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset'
+[2023.04.15-22.19.20:237][644]AssetCheck: New page: Asset Save: PlayerCharacter
+[2023.04.15-22.19.20:237][644]LogContentValidation: Display: Validating Blueprint /Game/Assets/PlayerCharacter.PlayerCharacter
+[2023.04.15-22.19.22:451][774]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.15-22.19.22:457][774]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.15-22.19.22:457][774]PIE: New page: PIE session: AnimationTestingGround (Apr 15, 2023, 2:19:22 PM)
+[2023.04.15-22.19.22:458][774]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AnimationTestingGround
+[2023.04.15-22.19.22:465][774]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007828s)
+[2023.04.15-22.19.22:466][774]LogAIModule: Creating AISystem for world AnimationTestingGround
+[2023.04.15-22.19.22:466][774]LogPlayLevel: PIE: World Init took: (0.000884s)
+[2023.04.15-22.19.22:466][774]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AnimationTestingGround.AnimationTestingGround to /Game/Levels/UEDPIE_0_AnimationTestingGround.AnimationTestingGround (0.008818s)
+[2023.04.15-22.19.22:518][774]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2023.04.15-22.19.22:519][774]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2023.04.15-22.19.22:519][774]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.15-22.19.22:519][774]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.15-22.19.22:519][774]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.15-22.19.22:519][774]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.15-22.19.22:519][774]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.15-22.19.22:519][774]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.15-22.19.22:519][774]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.15-22.19.22:519][774]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.15-22.19.22:519][774]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.15-22.19.22:519][774]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.15-22.19.22:519][774]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.15-22.19.22:519][774]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.15-22.19.22:521][774]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.15-22.19.22:521][774]LogAudioMixer: Display: 1: FrontRight
+[2023.04.15-22.19.22:580][774]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2023.04.15-22.19.22:580][774]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.15-22.19.22:580][774]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.15-22.19.22:580][774]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.15-22.19.22:582][774]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.15-22.19.22:582][774]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.15-22.19.22:582][774]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.15-22.19.22:583][774]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.15-22.19.22:583][774]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.15-22.19.22:583][774]LogInit: FAudioDevice initialized.
+[2023.04.15-22.19.22:583][774]LogAudio: Display: Audio Device (ID: 46) registered with world 'AnimationTestingGround'.
+[2023.04.15-22.19.22:588][774]LogLoad: Game class is 'MyGame_C'
+[2023.04.15-22.19.22:589][774]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AnimationTestingGround.AnimationTestingGround up for play (max tick rate 60) at 2023.04.15-18.19.22
+[2023.04.15-22.19.22:589][774]LogWorld: Bringing up level for play took: 0.000892
+[2023.04.15-22.19.22:589][774]LogOnline: OSS: Creating online subsystem instance for: :Context_81
+[2023.04.15-22.19.22:591][774]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.15-22.19.22:591][774]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.15-22.19.22:591][774]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.15-22.19.22:593][774]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.15-22.19.22:593][774]PIE: Server logged in
+[2023.04.15-22.19.22:594][774]PIE: Play in editor total start time 0.137 seconds.
+[2023.04.15-22.19.33:554][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-22.19.33:554][429]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_AnimationTestingGround
+[2023.04.15-22.19.33:554][429]LogWorld: UWorld::CleanupWorld for AnimationTestingGround, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-22.19.33:554][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-22.19.33:562][429]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.15-22.19.33:572][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-22.19.33:609][429]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.15-22.19.33:609][429]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.15-22.19.33:610][429]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.15-22.19.33:614][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-22.19.33:619][429]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2023.04.15-22.19.33:651][430]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2023.04.15-22.20.34:689][676]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Assets/AI/NPC/EnemyHealthBar.EnemyHealthBar
+[2023.04.15-22.23.00:033][ 18]BlueprintLog: New page: Compile PlayerCharacter
+[2023.04.15-22.23.00:186][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2023.04.15-22.23.00:204][ 18]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_27:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-22.23.00:204][ 18]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_27:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-22.23.00:347][ 18]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_24:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-22.23.00:348][ 18]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_24:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-22.23.00:365][ 18]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_27:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-22.23.00:366][ 18]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_27:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-22.23.00:379][ 18]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_24:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-22.23.00:380][ 18]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_24:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-22.23.01:043][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PlayerCharacter" FILE="../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset" SILENT=true
+[2023.04.15-22.23.01:226][ 44]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/PlayerCharacter86165DD042BA48B5002F00A64AF2BD3F.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset'
+[2023.04.15-22.23.01:246][ 44]AssetCheck: New page: Asset Save: PlayerCharacter
+[2023.04.15-22.23.01:246][ 44]LogContentValidation: Display: Validating Blueprint /Game/Assets/PlayerCharacter.PlayerCharacter
+[2023.04.15-22.23.06:396][348]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2023.04.15-22.23.06:422][348]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/AnimationTestingGround5F9E015E421C42F49F2AA284727E399F.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/AnimationTestingGround.umap'
+[2023.04.15-22.23.06:450][348]AssetCheck: New page: Asset Save: AnimationTestingGround
+[2023.04.15-22.23.06:451][348]LogContentValidation: Display: Validating World /Game/Levels/AnimationTestingGround.AnimationTestingGround
+[2023.04.15-22.23.32:037][864]BlueprintLog: New page: Compile PlayerCharacter
+[2023.04.15-22.23.32:214][864]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2023.04.15-22.23.32:233][864]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_27:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-22.23.32:233][864]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_27:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-22.23.32:373][864]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_24:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-22.23.32:373][864]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_24:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-22.23.32:391][864]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_27:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-22.23.32:391][864]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_27:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-22.23.32:406][864]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_24:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-22.23.32:406][864]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_24:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-22.23.32:995][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PlayerCharacter" FILE="../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset" SILENT=true
+[2023.04.15-22.23.33:187][885]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/PlayerCharacter5ECFCE9C46FE85C1AD587BA313C63F91.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset'
+[2023.04.15-22.23.33:209][885]AssetCheck: New page: Asset Save: PlayerCharacter
+[2023.04.15-22.23.33:209][885]LogContentValidation: Display: Validating Blueprint /Game/Assets/PlayerCharacter.PlayerCharacter
+[2023.04.15-22.23.34:265][944]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2023.04.15-22.23.34:289][944]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/AnimationTestingGround07E25ED847E2CF97AB07DD95D1F34916.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/AnimationTestingGround.umap'
+[2023.04.15-22.23.34:319][944]AssetCheck: New page: Asset Save: AnimationTestingGround
+[2023.04.15-22.23.34:319][944]LogContentValidation: Display: Validating World /Game/Levels/AnimationTestingGround.AnimationTestingGround
+[2023.04.15-22.23.34:979][984]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.15-22.23.34:986][984]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.15-22.23.34:987][984]PIE: New page: PIE session: AnimationTestingGround (Apr 15, 2023, 2:23:34 PM)
+[2023.04.15-22.23.34:987][984]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AnimationTestingGround
+[2023.04.15-22.23.34:994][984]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007683s)
+[2023.04.15-22.23.34:995][984]LogAIModule: Creating AISystem for world AnimationTestingGround
+[2023.04.15-22.23.34:995][984]LogPlayLevel: PIE: World Init took: (0.000809s)
+[2023.04.15-22.23.34:995][984]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AnimationTestingGround.AnimationTestingGround to /Game/Levels/UEDPIE_0_AnimationTestingGround.AnimationTestingGround (0.008610s)
+[2023.04.15-22.23.35:038][984]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2023.04.15-22.23.35:039][984]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2023.04.15-22.23.35:039][984]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.15-22.23.35:039][984]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.15-22.23.35:039][984]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.15-22.23.35:039][984]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.15-22.23.35:039][984]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.15-22.23.35:039][984]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.15-22.23.35:039][984]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.15-22.23.35:039][984]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.15-22.23.35:040][984]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.15-22.23.35:040][984]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.15-22.23.35:040][984]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.15-22.23.35:040][984]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.15-22.23.35:041][984]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.15-22.23.35:041][984]LogAudioMixer: Display: 1: FrontRight
+[2023.04.15-22.23.35:100][984]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2023.04.15-22.23.35:101][984]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.15-22.23.35:101][984]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.15-22.23.35:101][984]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.15-22.23.35:101][984]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.15-22.23.35:101][984]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.15-22.23.35:101][984]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.15-22.23.35:103][984]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.15-22.23.35:103][984]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.15-22.23.35:103][984]LogInit: FAudioDevice initialized.
+[2023.04.15-22.23.35:103][984]LogAudio: Display: Audio Device (ID: 47) registered with world 'AnimationTestingGround'.
+[2023.04.15-22.23.35:108][984]LogLoad: Game class is 'MyGame_C'
+[2023.04.15-22.23.35:109][984]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AnimationTestingGround.AnimationTestingGround up for play (max tick rate 60) at 2023.04.15-18.23.35
+[2023.04.15-22.23.35:110][984]LogWorld: Bringing up level for play took: 0.000759
+[2023.04.15-22.23.35:110][984]LogOnline: OSS: Creating online subsystem instance for: :Context_85
+[2023.04.15-22.23.35:111][984]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.15-22.23.35:111][984]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.15-22.23.35:111][984]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.15-22.23.35:114][984]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.15-22.23.35:114][984]PIE: Server logged in
+[2023.04.15-22.23.35:114][984]PIE: Play in editor total start time 0.129 seconds.
+[2023.04.15-22.23.44:434][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-22.23.44:434][541]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_AnimationTestingGround
+[2023.04.15-22.23.44:434][541]LogWorld: UWorld::CleanupWorld for AnimationTestingGround, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-22.23.44:435][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-22.23.44:446][541]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.15-22.23.44:458][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-22.23.44:501][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-22.23.44:501][541]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.15-22.23.44:502][541]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.15-22.23.44:509][541]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2023.04.15-22.23.44:540][542]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2023.04.15-22.24.33:830][440]BlueprintLog: New page: Compile PlayerCharacter
+[2023.04.15-22.24.33:975][440]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2023.04.15-22.24.33:995][440]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_27:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-22.24.33:995][440]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_27:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-22.24.34:134][440]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_24:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-22.24.34:135][440]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_24:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-22.24.34:154][440]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_27:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-22.24.34:154][440]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_27:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.15-22.24.34:168][440]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_24:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-22.24.34:169][440]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_24:PersistentLevel.Tutorial_Drone_C_0.CharacterMesh0'
+[2023.04.15-22.24.34:699][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PlayerCharacter" FILE="../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset" SILENT=true
+[2023.04.15-22.24.34:878][458]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/PlayerCharacterFA230C0A4920D339C97284B7D9D2A276.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/PlayerCharacter.uasset'
+[2023.04.15-22.24.34:897][458]AssetCheck: New page: Asset Save: PlayerCharacter
+[2023.04.15-22.24.34:898][458]LogContentValidation: Display: Validating Blueprint /Game/Assets/PlayerCharacter.PlayerCharacter
+[2023.04.15-22.24.36:961][580]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.15-22.24.36:968][580]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.15-22.24.36:968][580]PIE: New page: PIE session: AnimationTestingGround (Apr 15, 2023, 2:24:36 PM)
+[2023.04.15-22.24.36:968][580]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AnimationTestingGround
+[2023.04.15-22.24.36:975][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007652s)
+[2023.04.15-22.24.36:976][580]LogAIModule: Creating AISystem for world AnimationTestingGround
+[2023.04.15-22.24.36:976][580]LogPlayLevel: PIE: World Init took: (0.000785s)
+[2023.04.15-22.24.36:976][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AnimationTestingGround.AnimationTestingGround to /Game/Levels/UEDPIE_0_AnimationTestingGround.AnimationTestingGround (0.008538s)
+[2023.04.15-22.24.37:027][580]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2023.04.15-22.24.37:028][580]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2023.04.15-22.24.37:028][580]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.15-22.24.37:028][580]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.15-22.24.37:028][580]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.15-22.24.37:028][580]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.15-22.24.37:028][580]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.15-22.24.37:028][580]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.15-22.24.37:028][580]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.15-22.24.37:028][580]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.15-22.24.37:029][580]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.15-22.24.37:029][580]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.15-22.24.37:029][580]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.15-22.24.37:029][580]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.15-22.24.37:030][580]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.15-22.24.37:030][580]LogAudioMixer: Display: 1: FrontRight
+[2023.04.15-22.24.37:093][580]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2023.04.15-22.24.37:094][580]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.15-22.24.37:094][580]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.15-22.24.37:094][580]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.15-22.24.37:094][580]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.15-22.24.37:094][580]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.15-22.24.37:094][580]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.15-22.24.37:096][580]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.15-22.24.37:096][580]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.15-22.24.37:096][580]LogInit: FAudioDevice initialized.
+[2023.04.15-22.24.37:096][580]LogAudio: Display: Audio Device (ID: 48) registered with world 'AnimationTestingGround'.
+[2023.04.15-22.24.37:106][580]LogLoad: Game class is 'MyGame_C'
+[2023.04.15-22.24.37:107][580]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AnimationTestingGround.AnimationTestingGround up for play (max tick rate 60) at 2023.04.15-18.24.37
+[2023.04.15-22.24.37:107][580]LogWorld: Bringing up level for play took: 0.000865
+[2023.04.15-22.24.37:107][580]LogOnline: OSS: Creating online subsystem instance for: :Context_86
+[2023.04.15-22.24.37:109][580]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.15-22.24.37:109][580]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.15-22.24.37:109][580]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.15-22.24.37:111][580]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.15-22.24.37:111][580]PIE: Server logged in
+[2023.04.15-22.24.37:113][580]PIE: Play in editor total start time 0.145 seconds.
+[2023.04.15-22.25.00:652][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-22.25.00:652][987]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_AnimationTestingGround
+[2023.04.15-22.25.00:652][987]LogWorld: UWorld::CleanupWorld for AnimationTestingGround, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-22.25.00:652][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-22.25.00:665][987]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.15-22.25.00:674][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-22.25.00:718][987]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.15-22.25.00:719][987]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.15-22.25.00:721][987]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.15-22.25.00:723][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-22.25.00:728][987]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2023.04.15-22.25.00:760][988]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2023.04.15-22.25.08:904][474]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-22.25.08:904][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-22.25.08:919][474]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-22.25.08:919][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-22.25.09:117][474]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-22.25.09:117][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-22.25.17:986][996]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Art/Animations/NeveFinalAnimations/NeveFinalAnimBP.NeveFinalAnimBP
+[2023.04.15-22.25.17:992][996]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.15-22.25.18:407][996]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.04.15-22.26.08:928][998]BlueprintLog: New page: Compile NeveFinalAnimBP
+[2023.04.15-22.26.09:100][998]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2023.04.15-22.26.09:614][ 21]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/NeveFinalAnimBP283AB447475C33C19E5D9BB41A08FEF7.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Art/Animations/NeveFinalAnimations/NeveFinalAnimBP.uasset'
+[2023.04.15-22.26.09:633][ 21]AssetCheck: New page: Asset Save: NeveFinalAnimBP
+[2023.04.15-22.26.09:633][ 21]LogContentValidation: Display: Validating AnimBlueprint /Game/Art/Animations/NeveFinalAnimations/NeveFinalAnimBP.NeveFinalAnimBP
+[2023.04.15-22.26.31:928][357]BlueprintLog: New page: Compile NeveFinalAnimBP
+[2023.04.15-22.26.32:137][357]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2023.04.15-22.26.32:635][378]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/NeveFinalAnimBP03B27F2446EE69FDF020F5A81138B2EE.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Art/Animations/NeveFinalAnimations/NeveFinalAnimBP.uasset'
+[2023.04.15-22.26.32:648][378]AssetCheck: New page: Asset Save: NeveFinalAnimBP
+[2023.04.15-22.26.32:648][378]LogContentValidation: Display: Validating AnimBlueprint /Game/Art/Animations/NeveFinalAnimations/NeveFinalAnimBP.NeveFinalAnimBP
+[2023.04.15-22.27.03:152][174]BlueprintLog: New page: Compile NeveFinalAnimBP
+[2023.04.15-22.27.03:239][174]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2023.04.15-22.27.03:825][201]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/NeveFinalAnimBP8662680A44DAE9D1BD8AAA9AABB33810.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Art/Animations/NeveFinalAnimations/NeveFinalAnimBP.uasset'
+[2023.04.15-22.27.03:840][201]AssetCheck: New page: Asset Save: NeveFinalAnimBP
+[2023.04.15-22.27.03:840][201]LogContentValidation: Display: Validating AnimBlueprint /Game/Art/Animations/NeveFinalAnimations/NeveFinalAnimBP.NeveFinalAnimBP
+[2023.04.15-22.27.07:884][442]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.15-22.27.07:892][442]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.15-22.27.07:892][442]PIE: New page: PIE session: AnimationTestingGround (Apr 15, 2023, 2:27:07 PM)
+[2023.04.15-22.27.07:921][442]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AnimationTestingGround
+[2023.04.15-22.27.07:929][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008251s)
+[2023.04.15-22.27.07:930][442]LogAIModule: Creating AISystem for world AnimationTestingGround
+[2023.04.15-22.27.07:930][442]LogPlayLevel: PIE: World Init took: (0.000913s)
+[2023.04.15-22.27.07:930][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AnimationTestingGround.AnimationTestingGround to /Game/Levels/UEDPIE_0_AnimationTestingGround.AnimationTestingGround (0.009319s)
+[2023.04.15-22.27.07:973][442]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2023.04.15-22.27.07:974][442]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2023.04.15-22.27.07:974][442]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.15-22.27.07:974][442]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.15-22.27.07:974][442]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.15-22.27.07:974][442]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.15-22.27.07:974][442]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.15-22.27.07:974][442]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.15-22.27.07:974][442]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.15-22.27.07:974][442]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.15-22.27.07:975][442]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.15-22.27.07:975][442]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.15-22.27.07:975][442]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.15-22.27.07:975][442]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.15-22.27.07:976][442]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.15-22.27.07:976][442]LogAudioMixer: Display: 1: FrontRight
+[2023.04.15-22.27.08:049][442]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2023.04.15-22.27.08:049][442]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.15-22.27.08:049][442]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.15-22.27.08:049][442]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.15-22.27.08:050][442]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.15-22.27.08:050][442]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.15-22.27.08:050][442]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.15-22.27.08:051][442]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.15-22.27.08:051][442]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.15-22.27.08:051][442]LogInit: FAudioDevice initialized.
+[2023.04.15-22.27.08:051][442]LogAudio: Display: Audio Device (ID: 49) registered with world 'AnimationTestingGround'.
+[2023.04.15-22.27.08:056][442]LogLoad: Game class is 'MyGame_C'
+[2023.04.15-22.27.08:057][442]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AnimationTestingGround.AnimationTestingGround up for play (max tick rate 60) at 2023.04.15-18.27.08
+[2023.04.15-22.27.08:058][442]LogWorld: Bringing up level for play took: 0.000990
+[2023.04.15-22.27.08:058][442]LogOnline: OSS: Creating online subsystem instance for: :Context_90
+[2023.04.15-22.27.08:059][442]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.15-22.27.08:060][442]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.15-22.27.08:060][442]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.15-22.27.08:062][442]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.15-22.27.08:062][442]PIE: Server logged in
+[2023.04.15-22.27.08:063][442]PIE: Play in editor total start time 0.172 seconds.
+[2023.04.15-22.27.31:884][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-22.27.31:884][868]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_AnimationTestingGround
+[2023.04.15-22.27.31:885][868]LogWorld: UWorld::CleanupWorld for AnimationTestingGround, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-22.27.31:885][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-22.27.31:897][868]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.15-22.27.31:908][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-22.27.31:946][868]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.15-22.27.31:947][868]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.15-22.27.31:948][868]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.15-22.27.31:951][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-22.27.31:955][868]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2023.04.15-22.27.31:988][869]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2023.04.15-22.27.45:299][667]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.15-22.27.45:305][667]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.15-22.27.45:305][667]PIE: New page: PIE session: AnimationTestingGround (Apr 15, 2023, 2:27:45 PM)
+[2023.04.15-22.27.45:305][667]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AnimationTestingGround
+[2023.04.15-22.27.45:313][667]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007872s)
+[2023.04.15-22.27.45:313][667]LogAIModule: Creating AISystem for world AnimationTestingGround
+[2023.04.15-22.27.45:314][667]LogPlayLevel: PIE: World Init took: (0.000829s)
+[2023.04.15-22.27.45:314][667]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AnimationTestingGround.AnimationTestingGround to /Game/Levels/UEDPIE_0_AnimationTestingGround.AnimationTestingGround (0.008803s)
+[2023.04.15-22.27.45:355][667]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2023.04.15-22.27.45:359][667]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2023.04.15-22.27.45:359][667]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.15-22.27.45:359][667]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.15-22.27.45:359][667]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.15-22.27.45:359][667]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.15-22.27.45:359][667]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.15-22.27.45:359][667]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.15-22.27.45:359][667]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.15-22.27.45:359][667]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.15-22.27.45:359][667]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.15-22.27.45:359][667]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.15-22.27.45:359][667]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.15-22.27.45:359][667]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.15-22.27.45:361][667]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.15-22.27.45:361][667]LogAudioMixer: Display: 1: FrontRight
+[2023.04.15-22.27.45:422][667]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2023.04.15-22.27.45:423][667]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.15-22.27.45:423][667]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.15-22.27.45:423][667]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.15-22.27.45:423][667]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.15-22.27.45:423][667]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.15-22.27.45:423][667]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.15-22.27.45:424][667]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.15-22.27.45:424][667]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.15-22.27.45:424][667]LogInit: FAudioDevice initialized.
+[2023.04.15-22.27.45:424][667]LogAudio: Display: Audio Device (ID: 50) registered with world 'AnimationTestingGround'.
+[2023.04.15-22.27.45:434][667]LogLoad: Game class is 'MyGame_C'
+[2023.04.15-22.27.45:435][667]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AnimationTestingGround.AnimationTestingGround up for play (max tick rate 60) at 2023.04.15-18.27.45
+[2023.04.15-22.27.45:435][667]LogWorld: Bringing up level for play took: 0.000805
+[2023.04.15-22.27.45:435][667]LogOnline: OSS: Creating online subsystem instance for: :Context_91
+[2023.04.15-22.27.45:437][667]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.15-22.27.45:437][667]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.15-22.27.45:437][667]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.15-22.27.45:439][667]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.15-22.27.45:439][667]PIE: Server logged in
+[2023.04.15-22.27.45:440][667]PIE: Play in editor total start time 0.135 seconds.
+[2023.04.15-22.28.51:472][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-22.28.51:472][624]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_AnimationTestingGround
+[2023.04.15-22.28.51:473][624]LogWorld: UWorld::CleanupWorld for AnimationTestingGround, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-22.28.51:473][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-22.28.51:485][624]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.15-22.28.51:495][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-22.28.51:537][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-22.28.51:538][624]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.15-22.28.51:538][624]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.15-22.28.51:547][624]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2023.04.15-22.28.51:578][625]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2023.04.15-22.28.57:932][  2]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2023.04.15-22.28.57:989][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.04.15-22.28.58:013][  2]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/AnimationTestingGroundA4C5077D4D542767ADF171A9B4E6FC46.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/AnimationTestingGround.umap'
+[2023.04.15-22.28.58:024][  2]LogFileHelpers: Saving map 'AnimationTestingGround' took 0.071
+[2023.04.15-22.28.58:040][  2]AssetCheck: New page: Asset Save: AnimationTestingGround
+[2023.04.15-22.28.58:040][  2]LogContentValidation: Display: Validating World /Game/Levels/AnimationTestingGround.AnimationTestingGround
+[2023.04.15-22.29.14:602][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.04.15-22.29.14:658][989]LogTemp: Warning: CPath - Dynamic obstacle 'Lab_Door6_159' is not Movable.
+[2023.04.15-22.29.14:658][989]LogTemp: Warning: CPath - Dynamic obstacle 'Lab_Door7' is not Movable.
+[2023.04.15-22.29.14:741][989]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Lab_Level.Lab_Level
+[2023.04.15-22.29.14:741][989]Cmd: MAP LOAD FILE="../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/Lab_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.15-22.29.14:741][989]LightingResults: New page: Lighting Build
+[2023.04.15-22.29.14:741][989]LoadErrors: New page: Loading map: Lab_Level.umap
+[2023.04.15-22.29.14:743][989]LogWorld: UWorld::CleanupWorld for AnimationTestingGround, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-22.29.14:743][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-22.29.14:743][989]MapCheck: New page: Map Check
+[2023.04.15-22.29.14:743][989]LightingResults: New page: Lighting Build
+[2023.04.15-22.29.14:784][989]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.15-22.29.14:791][989]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2023.04.15-22.29.14:793][989]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lab_Level'.
+[2023.04.15-22.29.14:810][989]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone2.CharacterMesh0'
+[2023.04.15-22.29.14:810][989]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.15-22.29.14:810][989]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone3.CharacterMesh0'
+[2023.04.15-22.29.15:101][989]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.15-22.29.15:101][989]LogAIModule: Creating AISystem for world Lab_Level
+[2023.04.15-22.29.15:151][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2023.04.15-22.29.15:163][989]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.15-22.29.15:163][989]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.15ms to complete.
+[2023.04.15-22.29.15:163][989]LogFileHelpers: Loading map 'Lab_Level' took 0.422
+[2023.04.15-22.29.15:798][ 25]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.15-22.29.15:805][ 25]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.15-22.29.15:805][ 25]PIE: New page: PIE session: Lab_Level (Apr 15, 2023, 2:29:15 PM)
+[2023.04.15-22.29.15:806][ 25]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lab_Level
+[2023.04.15-22.29.15:820][ 25]LogTemp: Warning: CPath - Dynamic obstacle 'Lab_Door7' is not Movable.
+[2023.04.15-22.29.15:820][ 25]LogTemp: Warning: CPath - Dynamic obstacle 'Lab_Door6_159' is not Movable.
+[2023.04.15-22.29.15:841][ 25]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034061s)
+[2023.04.15-22.29.15:842][ 25]LogAIModule: Creating AISystem for world Lab_Level
+[2023.04.15-22.29.15:842][ 25]LogPlayLevel: PIE: World Init took: (0.001045s)
+[2023.04.15-22.29.15:842][ 25]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lab_Level.Lab_Level to /Game/Levels/UEDPIE_0_Lab_Level.Lab_Level (0.035528s)
+[2023.04.15-22.29.15:880][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.04.15-22.29.15:882][ 25]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2023.04.15-22.29.15:882][ 25]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.15-22.29.15:882][ 25]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.15-22.29.15:882][ 25]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.15-22.29.15:882][ 25]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.15-22.29.15:882][ 25]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.15-22.29.15:882][ 25]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.15-22.29.15:882][ 25]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.15-22.29.15:882][ 25]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.15-22.29.15:882][ 25]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.15-22.29.15:882][ 25]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.15-22.29.15:882][ 25]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.15-22.29.15:882][ 25]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.15-22.29.15:884][ 25]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.15-22.29.15:884][ 25]LogAudioMixer: Display: 1: FrontRight
+[2023.04.15-22.29.15:944][ 25]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2023.04.15-22.29.15:944][ 25]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.15-22.29.15:944][ 25]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.15-22.29.15:944][ 25]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.15-22.29.15:944][ 25]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.15-22.29.15:945][ 25]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.15-22.29.15:945][ 25]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.15-22.29.15:945][ 25]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.15-22.29.15:945][ 25]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.15-22.29.15:945][ 25]LogInit: FAudioDevice initialized.
+[2023.04.15-22.29.15:945][ 25]LogAudio: Display: Audio Device (ID: 51) registered with world 'Lab_Level'.
+[2023.04.15-22.29.15:957][ 25]LogLoad: Game class is 'MyGame_C'
+[2023.04.15-22.29.15:970][ 25]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Lab_Level.Lab_Level:PersistentLevel.Drone2.CharacterMesh0'
+[2023.04.15-22.29.15:970][ 25]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Lab_Level.Lab_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.15-22.29.15:970][ 25]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Lab_Level.Lab_Level:PersistentLevel.Drone3.CharacterMesh0'
+[2023.04.15-22.29.15:971][ 25]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lab_Level.Lab_Level up for play (max tick rate 60) at 2023.04.15-18.29.15
+[2023.04.15-22.29.15:971][ 25]LogWorld: Bringing up level for play took: 0.014255
+[2023.04.15-22.29.15:972][ 25]LogOnline: OSS: Creating online subsystem instance for: :Context_92
+[2023.04.15-22.29.15:973][ 25]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.15-22.29.15:973][ 25]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.15-22.29.15:973][ 25]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.15-22.29.15:998][ 25]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.15-22.29.16:001][ 25]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.15-22.29.16:001][ 25]PIE: Server logged in
+[2023.04.15-22.29.16:002][ 25]PIE: Play in editor total start time 0.197 seconds.
+[2023.04.15-22.29.27:350][705]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.0
+[2023.04.15-22.29.32:566][ 18]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1650.0
+[2023.04.15-22.29.48:607][978]LogBlueprintUserMessages: [PlayerCharacter_C_0] 0.0
+[2023.04.15-22.30.10:901][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-22.30.10:901][314]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lab_Level
+[2023.04.15-22.30.10:909][314]LogWorld: UWorld::CleanupWorld for Lab_Level, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-22.30.10:910][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-22.30.10:919][314]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.15-22.30.10:924][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-22.30.10:963][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-22.30.10:964][314]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.15-22.30.10:965][314]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.15-22.30.10:976][314]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2023.04.15-22.30.10:998][315]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2023.04.15-22.30.13:847][482]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
