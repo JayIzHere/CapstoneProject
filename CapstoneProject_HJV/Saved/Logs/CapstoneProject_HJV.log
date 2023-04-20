@@ -14791,3 +14791,295 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.04.20-02.44.48:146][223]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/DroneBossTest45BE8C7940AB0E8D0D70A78CDBBE8662.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/DroneBossTest.umap'
 [2023.04.20-02.44.48:192][223]AssetCheck: New page: Asset Save: DroneBossTest
 [2023.04.20-02.44.48:192][223]LogContentValidation: Display: Validating World /Game/Levels/DroneBossTest.DroneBossTest
+[2023.04.20-02.46.29:912][169]BlueprintLog: New page: Compile BP_Laser
+[2023.04.20-02.46.30:129][169]LogUObjectHash: Compacting FUObjectHashTables data took   6.37ms
+[2023.04.20-02.46.30:582][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/AI/DroneBoss/BP_Laser" FILE="../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/AI/DroneBoss/BP_Laser.uasset" SILENT=true
+[2023.04.20-02.46.30:610][208]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/BP_Laser8CA5D8FE4F6BC12A96F1719C6BDF8CFD.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/AI/DroneBoss/BP_Laser.uasset'
+[2023.04.20-02.46.30:634][208]AssetCheck: New page: Asset Save: BP_Laser
+[2023.04.20-02.46.30:634][208]LogContentValidation: Display: Validating Blueprint /Game/Assets/AI/DroneBoss/BP_Laser.BP_Laser
+[2023.04.20-02.46.33:411][519]BlueprintLog: New page: Compile BP_Laser
+[2023.04.20-02.46.33:515][519]LogUObjectHash: Compacting FUObjectHashTables data took   7.54ms
+[2023.04.20-02.46.33:965][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/AI/DroneBoss/BP_Laser" FILE="../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/AI/DroneBoss/BP_Laser.uasset" SILENT=true
+[2023.04.20-02.46.33:992][559]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/BP_Laser692F935B4D4E323B69AF8BAB7A6B9497.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/AI/DroneBoss/BP_Laser.uasset'
+[2023.04.20-02.46.34:016][559]AssetCheck: New page: Asset Save: BP_Laser
+[2023.04.20-02.46.34:016][559]LogContentValidation: Display: Validating Blueprint /Game/Assets/AI/DroneBoss/BP_Laser.BP_Laser
+[2023.04.20-02.46.58:694][440]BlueprintLog: New page: Compile BP_Laser
+[2023.04.20-02.46.58:802][440]LogUObjectHash: Compacting FUObjectHashTables data took   7.45ms
+[2023.04.20-02.46.59:199][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/AI/DroneBoss/BP_Laser" FILE="../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/AI/DroneBoss/BP_Laser.uasset" SILENT=true
+[2023.04.20-02.46.59:228][469]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/BP_Laser512FBF8B4247C3A1875D40908083DC2B.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/AI/DroneBoss/BP_Laser.uasset'
+[2023.04.20-02.46.59:248][469]AssetCheck: New page: Asset Save: BP_Laser
+[2023.04.20-02.46.59:248][469]LogContentValidation: Display: Validating Blueprint /Game/Assets/AI/DroneBoss/BP_Laser.BP_Laser
+[2023.04.20-02.49.14:841][231]LogUObjectHash: Compacting FUObjectHashTables data took   7.64ms
+[2023.04.20-02.49.14:869][231]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/DroneBossTestCC47F30F4648C6B99C60FDADFDE7A101.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/DroneBossTest.umap'
+[2023.04.20-02.49.14:910][231]AssetCheck: New page: Asset Save: DroneBossTest
+[2023.04.20-02.49.14:910][231]LogContentValidation: Display: Validating World /Game/Levels/DroneBossTest.DroneBossTest
+[2023.04.20-02.49.26:050][432]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.04.20-02.49.26:060][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.20-02.49.26:082][432]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.04.20-02.49.26:082][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.20-02.49.26:284][432]LogUObjectHash: Compacting FUObjectHashTables data took   6.63ms
+[2023.04.20-02.49.34:842][592]LogSlate: Window 'Message' being destroyed
+[2023.04.20-02.49.34:848][592]Message dialog closed, result: Yes, title: Message, text: Would you like to apply changes to this Emitter to the original Emitter?
+/Game/Assets/AI/DroneBoss/LaserImpact.LaserImpact
+(No will lose all changes!)
+[2023.04.20-02.49.35:207][592]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.04.20-02.49.35:215][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.20-02.49.35:234][592]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.04.20-02.49.35:235][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.20-02.49.35:324][592]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2023.04.20-02.49.35:507][598]165431_LaserImpact_System_MessageLog: System successfully compiled.
+[2023.04.20-02.49.38:575][916]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/LaserImpact_System88E228674863A23598F343BA63783F8D.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/AI/DroneBoss/LaserImpact_System.uasset'
+[2023.04.20-02.49.38:593][916]AssetCheck: New page: Asset Save: LaserImpact_System
+[2023.04.20-02.49.38:594][916]LogContentValidation: Display: Validating NiagaraSystem /Game/Assets/AI/DroneBoss/LaserImpact_System.LaserImpact_System
+[2023.04.20-02.49.42:319][344]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.04.20-02.49.42:320][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.20-02.49.42:337][344]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.04.20-02.49.42:338][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.20-02.49.42:426][344]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2023.04.20-02.49.47:232][910]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.04.20-02.49.47:232][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.20-02.50.16:975][ 84]LogEditorViewport: Clicking on Actor (LMB): BP_CPathVolume_C (BP_CPathVolume)
+[2023.04.20-02.50.18:022][187]LogEditorViewport: Clicking on Actor (LMB): DroneBossChar_C (DroneBossChar)
+[2023.04.20-02.50.50:721][237]LogEditorViewport: Clicking on Actor (LMB): DroneBossChar_C (DroneBossChar)
+[2023.04.20-02.51.58:173][  6]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2023.04.20-02.51.58:213][  6]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/DroneBossTest198E8CAA4493FBFF02FCC595BA64F821.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/DroneBossTest.umap'
+[2023.04.20-02.51.58:253][  6]AssetCheck: New page: Asset Save: DroneBossTest
+[2023.04.20-02.51.58:253][  6]LogContentValidation: Display: Validating World /Game/Levels/DroneBossTest.DroneBossTest
+[2023.04.20-02.51.58:916][ 71]LogEditorViewport: Clicking on Actor (LMB): DroneBossChar_C (DroneBossChar)
+[2023.04.20-02.52.10:638][182]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Base)
+[2023.04.20-02.52.33:000][337]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2023.04.20-02.52.33:034][337]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/DroneBossTestB7890AC542A167CE062B41B9C6FD8EC9.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/DroneBossTest.umap'
+[2023.04.20-02.52.33:072][337]AssetCheck: New page: Asset Save: DroneBossTest
+[2023.04.20-02.52.33:072][337]LogContentValidation: Display: Validating World /Game/Levels/DroneBossTest.DroneBossTest
+[2023.04.20-02.52.40:734][101]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2023.04.20-02.52.41:535][183]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2023.04.20-02.52.43:393][383]LogEditorViewport: Clicking on Actor (LMB): BP_CPathVolume_C (BP_CPathVolume)
+[2023.04.20-02.53.24:980][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.04.20-02.53.25:018][639]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/DroneBossTest1954522A49BA49A5CCE191B1AB272EA3.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/DroneBossTest.umap'
+[2023.04.20-02.53.25:058][639]AssetCheck: New page: Asset Save: DroneBossTest
+[2023.04.20-02.53.25:058][639]LogContentValidation: Display: Validating World /Game/Levels/DroneBossTest.DroneBossTest
+[2023.04.20-02.53.37:664][916]Cmd: DELETE
+[2023.04.20-02.53.37:664][916]Cmd: ACTOR DELETE
+[2023.04.20-02.53.37:698][916]LogEditorActor: Deleted Actor: Brush
+[2023.04.20-02.53.37:739][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.04.20-02.53.37:749][916]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2023.04.20-02.53.38:805][ 41]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2023.04.20-02.53.39:929][158]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2023.04.20-02.53.40:477][216]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2023.04.20-02.53.41:343][309]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2023.04.20-02.53.41:916][369]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2023.04.20-02.53.42:391][419]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2023.04.20-02.53.42:984][482]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2023.04.20-02.54.22:953][530]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2023.04.20-02.54.22:987][530]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/DroneBossTest33217B5842D48F41553FD0AC3A169DE2.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/DroneBossTest.umap'
+[2023.04.20-02.54.23:028][530]AssetCheck: New page: Asset Save: DroneBossTest
+[2023.04.20-02.54.23:028][530]LogContentValidation: Display: Validating World /Game/Levels/DroneBossTest.DroneBossTest
+[2023.04.20-02.54.29:551][177]LogEditorViewport: Clicking on Actor (LMB): DroneBossChar_C (DroneBossChar)
+[2023.04.20-02.54.51:064][338]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/DroneBossChar3B7EDC144A20749751D1E19C43C317A3.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/AI/DroneBoss/DroneBossChar.uasset'
+[2023.04.20-02.54.51:087][338]AssetCheck: New page: Asset Save: DroneBossChar
+[2023.04.20-02.54.51:087][338]LogContentValidation: Display: Validating Blueprint /Game/Assets/AI/DroneBoss/DroneBossChar.DroneBossChar
+[2023.04.20-02.54.52:867][501]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2023.04.20-02.54.52:898][501]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/DroneBossTest498BF80C48D5B8EA048847BE5893CD7C.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/DroneBossTest.umap'
+[2023.04.20-02.54.52:936][501]AssetCheck: New page: Asset Save: DroneBossTest
+[2023.04.20-02.54.52:936][501]LogContentValidation: Display: Validating World /Game/Levels/DroneBossTest.DroneBossTest
+[2023.04.20-02.54.58:038][983]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.20-02.54.58:147][983]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.20-02.54.58:148][983]PIE: New page: PIE session: DroneBossTest (Apr 19, 2023, 6:54:58 PM)
+[2023.04.20-02.54.58:148][983]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DroneBossTest
+[2023.04.20-02.54.58:154][983]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006499s)
+[2023.04.20-02.54.58:156][983]LogAIModule: Creating AISystem for world DroneBossTest
+[2023.04.20-02.54.58:156][983]LogPlayLevel: PIE: World Init took: (0.001645s)
+[2023.04.20-02.54.58:156][983]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DroneBossTest.DroneBossTest to /Game/Levels/UEDPIE_0_DroneBossTest.DroneBossTest (0.008304s)
+[2023.04.20-02.54.58:202][983]LogUObjectHash: Compacting FUObjectHashTables data took   6.03ms
+[2023.04.20-02.54.58:206][983]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.04.20-02.54.58:206][983]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.20-02.54.58:206][983]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.20-02.54.58:206][983]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.20-02.54.58:206][983]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.20-02.54.58:206][983]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.20-02.54.58:206][983]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.20-02.54.58:206][983]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.20-02.54.58:206][983]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.20-02.54.58:206][983]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.20-02.54.58:206][983]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.20-02.54.58:206][983]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.20-02.54.58:206][983]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.20-02.54.58:210][983]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.20-02.54.58:210][983]LogAudioMixer: Display: 1: FrontRight
+[2023.04.20-02.54.58:221][983]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud II Wireless)
+[2023.04.20-02.54.58:222][983]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.20-02.54.58:222][983]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.20-02.54.58:222][983]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.20-02.54.58:222][983]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.20-02.54.58:222][983]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.20-02.54.58:222][983]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.20-02.54.58:224][983]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.20-02.54.58:224][983]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.20-02.54.58:224][983]LogInit: FAudioDevice initialized.
+[2023.04.20-02.54.58:224][983]LogAudio: Display: Audio Device (ID: 15) registered with world 'DroneBossTest'.
+[2023.04.20-02.54.58:233][983]LogLoad: Game class is 'MyGame_C'
+[2023.04.20-02.54.58:234][983]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DroneBossTest.DroneBossTest up for play (max tick rate 0) at 2023.04.19-22.54.58
+[2023.04.20-02.54.58:235][983]LogWorld: Bringing up level for play took: 0.001439
+[2023.04.20-02.54.58:235][983]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2023.04.20-02.54.58:237][983]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.20-02.54.58:237][983]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.20-02.54.58:237][983]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.20-02.54.58:257][983]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.20-02.54.58:257][983]PIE: Server logged in
+[2023.04.20-02.54.58:258][983]PIE: Play in editor total start time 0.209 seconds.
+[2023.04.20-02.55.06:405][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.20-02.55.06:406][917]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_DroneBossTest
+[2023.04.20-02.55.06:413][917]LogWorld: UWorld::CleanupWorld for DroneBossTest, bSessionEnded=true, bCleanupResources=true
+[2023.04.20-02.55.06:414][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.20-02.55.06:431][917]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.20-02.55.06:485][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.20-02.55.06:527][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.20-02.55.06:527][917]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.20-02.55.06:528][917]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.20-02.55.06:538][917]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2023.04.20-02.55.06:599][918]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2023.04.20-02.55.18:199][ 25]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/DroneBossChar9134C5E144029F3903BE98BFD196AD9C.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/AI/DroneBoss/DroneBossChar.uasset'
+[2023.04.20-02.55.18:217][ 25]AssetCheck: New page: Asset Save: DroneBossChar
+[2023.04.20-02.55.18:217][ 25]LogContentValidation: Display: Validating Blueprint /Game/Assets/AI/DroneBoss/DroneBossChar.DroneBossChar
+[2023.04.20-02.55.19:467][137]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2023.04.20-02.55.19:494][137]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/DroneBossTest42A08FE94795FF6375D6A5A5536AA53C.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/DroneBossTest.umap'
+[2023.04.20-02.55.19:537][137]AssetCheck: New page: Asset Save: DroneBossTest
+[2023.04.20-02.55.19:537][137]LogContentValidation: Display: Validating World /Game/Levels/DroneBossTest.DroneBossTest
+[2023.04.20-02.55.20:330][205]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.20-02.55.20:343][205]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.20-02.55.20:343][205]PIE: New page: PIE session: DroneBossTest (Apr 19, 2023, 6:55:20 PM)
+[2023.04.20-02.55.20:364][205]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DroneBossTest
+[2023.04.20-02.55.20:371][205]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007153s)
+[2023.04.20-02.55.20:373][205]LogAIModule: Creating AISystem for world DroneBossTest
+[2023.04.20-02.55.20:373][205]LogPlayLevel: PIE: World Init took: (0.001661s)
+[2023.04.20-02.55.20:373][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DroneBossTest.DroneBossTest to /Game/Levels/UEDPIE_0_DroneBossTest.DroneBossTest (0.009058s)
+[2023.04.20-02.55.20:421][205]LogUObjectHash: Compacting FUObjectHashTables data took   6.65ms
+[2023.04.20-02.55.20:422][205]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.04.20-02.55.20:422][205]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.20-02.55.20:422][205]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.20-02.55.20:422][205]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.20-02.55.20:422][205]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.20-02.55.20:422][205]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.20-02.55.20:422][205]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.20-02.55.20:422][205]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.20-02.55.20:422][205]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.20-02.55.20:423][205]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.20-02.55.20:423][205]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.20-02.55.20:423][205]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.20-02.55.20:423][205]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.20-02.55.20:426][205]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.20-02.55.20:426][205]LogAudioMixer: Display: 1: FrontRight
+[2023.04.20-02.55.20:436][205]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud II Wireless)
+[2023.04.20-02.55.20:437][205]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.20-02.55.20:437][205]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.20-02.55.20:437][205]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.20-02.55.20:437][205]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.20-02.55.20:437][205]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.20-02.55.20:437][205]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.20-02.55.20:439][205]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.20-02.55.20:439][205]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.20-02.55.20:439][205]LogInit: FAudioDevice initialized.
+[2023.04.20-02.55.20:439][205]LogAudio: Display: Audio Device (ID: 16) registered with world 'DroneBossTest'.
+[2023.04.20-02.55.20:446][205]LogLoad: Game class is 'MyGame_C'
+[2023.04.20-02.55.20:448][205]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DroneBossTest.DroneBossTest up for play (max tick rate 0) at 2023.04.19-22.55.20
+[2023.04.20-02.55.20:448][205]LogWorld: Bringing up level for play took: 0.001508
+[2023.04.20-02.55.20:448][205]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2023.04.20-02.55.20:451][205]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.20-02.55.20:451][205]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.20-02.55.20:451][205]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.20-02.55.20:471][205]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.20-02.55.20:471][205]PIE: Server logged in
+[2023.04.20-02.55.20:472][205]PIE: Play in editor total start time 0.132 seconds.
+[2023.04.20-02.55.38:368][261]LogBlueprintUserMessages: [Boss_ChangeSiloStatus_C_0] Hello
+[2023.04.20-02.55.44:154][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.20-02.55.44:154][875]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_DroneBossTest
+[2023.04.20-02.55.44:162][875]LogWorld: UWorld::CleanupWorld for DroneBossTest, bSessionEnded=true, bCleanupResources=true
+[2023.04.20-02.55.44:162][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.20-02.55.44:179][875]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.20-02.55.44:237][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.20-02.55.44:278][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.20-02.55.44:279][875]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.20-02.55.44:280][875]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.20-02.55.44:290][875]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2023.04.20-02.55.44:354][876]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2023.04.20-02.56.00:237][536]BlueprintLog: New page: Compile DroneBossChar
+[2023.04.20-02.56.00:562][536]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2023.04.20-02.56.01:397][569]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/DroneBossChar27C68547462BBD7AF51FD98931BC54FD.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/AI/DroneBoss/DroneBossChar.uasset'
+[2023.04.20-02.56.01:416][569]AssetCheck: New page: Asset Save: DroneBossChar
+[2023.04.20-02.56.01:416][569]LogContentValidation: Display: Validating Blueprint /Game/Assets/AI/DroneBoss/DroneBossChar.DroneBossChar
+[2023.04.20-02.56.02:540][668]LogUObjectHash: Compacting FUObjectHashTables data took   6.59ms
+[2023.04.20-02.56.02:562][668]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/DroneBossTest50DF7CC7447094ABD82DD4AA995D1F04.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/DroneBossTest.umap'
+[2023.04.20-02.56.02:602][668]AssetCheck: New page: Asset Save: DroneBossTest
+[2023.04.20-02.56.02:602][668]LogContentValidation: Display: Validating World /Game/Levels/DroneBossTest.DroneBossTest
+[2023.04.20-02.56.03:231][723]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.20-02.56.03:245][723]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.20-02.56.03:245][723]PIE: New page: PIE session: DroneBossTest (Apr 19, 2023, 6:56:03 PM)
+[2023.04.20-02.56.03:268][723]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DroneBossTest
+[2023.04.20-02.56.03:274][723]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005823s)
+[2023.04.20-02.56.03:275][723]LogAIModule: Creating AISystem for world DroneBossTest
+[2023.04.20-02.56.03:275][723]LogPlayLevel: PIE: World Init took: (0.001227s)
+[2023.04.20-02.56.03:275][723]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DroneBossTest.DroneBossTest to /Game/Levels/UEDPIE_0_DroneBossTest.DroneBossTest (0.007237s)
+[2023.04.20-02.56.03:322][723]LogUObjectHash: Compacting FUObjectHashTables data took   6.59ms
+[2023.04.20-02.56.03:323][723]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.04.20-02.56.03:323][723]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.20-02.56.03:323][723]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.20-02.56.03:323][723]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.20-02.56.03:323][723]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.20-02.56.03:323][723]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.20-02.56.03:323][723]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.20-02.56.03:323][723]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.20-02.56.03:323][723]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.20-02.56.03:324][723]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.20-02.56.03:324][723]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.20-02.56.03:324][723]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.20-02.56.03:324][723]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.20-02.56.03:327][723]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.20-02.56.03:327][723]LogAudioMixer: Display: 1: FrontRight
+[2023.04.20-02.56.03:338][723]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud II Wireless)
+[2023.04.20-02.56.03:338][723]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.20-02.56.03:338][723]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.20-02.56.03:338][723]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.20-02.56.03:338][723]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.20-02.56.03:339][723]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.20-02.56.03:339][723]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.20-02.56.03:340][723]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.20-02.56.03:340][723]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.20-02.56.03:340][723]LogInit: FAudioDevice initialized.
+[2023.04.20-02.56.03:340][723]LogAudio: Display: Audio Device (ID: 17) registered with world 'DroneBossTest'.
+[2023.04.20-02.56.03:346][723]LogLoad: Game class is 'MyGame_C'
+[2023.04.20-02.56.03:347][723]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DroneBossTest.DroneBossTest up for play (max tick rate 0) at 2023.04.19-22.56.03
+[2023.04.20-02.56.03:348][723]LogWorld: Bringing up level for play took: 0.001485
+[2023.04.20-02.56.03:348][723]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2023.04.20-02.56.03:350][723]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.20-02.56.03:351][723]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.20-02.56.03:351][723]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.20-02.56.03:370][723]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.20-02.56.03:370][723]PIE: Server logged in
+[2023.04.20-02.56.03:371][723]PIE: Play in editor total start time 0.13 seconds.
+[2023.04.20-02.56.22:939][  9]LogBlueprintUserMessages: [Boss_ChangeSiloStatus_C_0] Hello
+[2023.04.20-02.56.28:975][692]LogBlueprintUserMessages: [Boss_ChangeSiloStatus_C_2] Hello
+[2023.04.20-02.56.43:043][331]LogBlueprintUserMessages: [Boss_ChangeSiloStatus_C_0] Hello
+[2023.04.20-02.56.49:087][ 16]LogBlueprintUserMessages: [Boss_ChangeSiloStatus_C_2] Hello
+[2023.04.20-02.57.03:152][672]LogBlueprintUserMessages: [Boss_ChangeSiloStatus_C_0] Hello
+[2023.04.20-02.57.09:198][359]LogBlueprintUserMessages: [Boss_ChangeSiloStatus_C_2] Hello
+[2023.04.20-02.57.13:512][865]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_DroneBossTest.DroneBossTest:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.20-02.57.23:259][938]LogBlueprintUserMessages: [Boss_ChangeSiloStatus_C_0] Hello
+[2023.04.20-02.57.29:314][567]LogBlueprintUserMessages: [Boss_ChangeSiloStatus_C_2] Hello
+[2023.04.20-02.57.42:115][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.20-02.57.42:115][924]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_DroneBossTest
+[2023.04.20-02.57.42:122][924]LogWorld: UWorld::CleanupWorld for DroneBossTest, bSessionEnded=true, bCleanupResources=true
+[2023.04.20-02.57.42:122][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.20-02.57.42:136][924]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.20-02.57.42:192][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.20-02.57.42:233][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.20-02.57.42:233][924]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.20-02.57.42:234][924]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.20-02.57.42:245][924]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2023.04.20-02.57.42:306][925]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2023.04.20-03.07.41:718][925]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2023.04.20-03.07.41:727][925]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/DroneBossTest' took 0.057
+[2023.04.20-03.07.41:728][925]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/AI/DroneBoss/LaserImpact] ([1] browsable assets)...
+[2023.04.20-03.07.41:738][925]OBJ SavePackage:     Rendered thumbnail for [NiagaraEmitter /Game/Assets/AI/DroneBoss/LaserImpact.LaserImpact]
+[2023.04.20-03.07.41:738][925]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/AI/DroneBoss/LaserImpact]
+[2023.04.20-03.07.41:785][925]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/LaserImpact_Auto568AACD1A4D5E11BC0497729D58C3BB60.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Autosaves/Game/Assets/AI/DroneBoss/LaserImpact_Auto5.uasset'
+[2023.04.20-03.07.41:785][925]LogFileHelpers: Auto-saving content packages took 0.058
