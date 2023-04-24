@@ -1,0 +1,704 @@
+Begin Object Class=/Script/Engine.Material Name="AlienWater"
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionClamp Name="MaterialExpressionClamp_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionCosine Name="MaterialExpressionCosine_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionDepthFade Name="MaterialExpressionDepthFade_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionDepthFade Name="MaterialExpressionDepthFade_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionDivide Name="MaterialExpressionDivide_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionDivide Name="MaterialExpressionDivide_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionDivide Name="MaterialExpressionDivide_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFresnel Name="MaterialExpressionFresnel_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionIf Name="MaterialExpressionIf_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_10"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_11"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_9"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionPanner Name="MaterialExpressionPanner_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionSine Name="MaterialExpressionSine_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTime Name="MaterialExpressionTime_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTime Name="MaterialExpressionTime_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionWorldPosition Name="MaterialExpressionWorldPosition_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionWorldPosition Name="MaterialExpressionWorldPosition_1"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionAdd_0"
+      ConstB=0.100000
+      MaterialExpressionEditorX=1470
+      MaterialExpressionEditorY=226
+      MaterialExpressionGuid=8E31E04841F9DAA17DE1099D04521039
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_1"
+      A=(Expression=MaterialExpressionDivide'"AlienWater:MaterialExpressionDivide_0"')
+      B=(Expression=MaterialExpressionMaterialFunctionCall'"AlienWater:MaterialExpressionMaterialFunctionCall_2"')
+      MaterialExpressionEditorX=-774
+      MaterialExpressionEditorY=648
+      MaterialExpressionGuid=201A439A48A28EBCD77277B325E37229
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_2"
+      A=(Expression=MaterialExpressionDivide'"AlienWater:MaterialExpressionDivide_0"')
+      B=(Expression=MaterialExpressionMultiply'"AlienWater:MaterialExpressionMultiply_3"')
+      MaterialExpressionEditorX=-128
+      MaterialExpressionEditorY=480
+      MaterialExpressionGuid=5BF4E6BB486B8233CDD00EB118BB8704
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_3"
+      A=(Expression=MaterialExpressionMultiply'"AlienWater:MaterialExpressionMultiply_6"')
+      B=(Expression=MaterialExpressionDivide'"AlienWater:MaterialExpressionDivide_0"')
+      MaterialExpressionEditorX=528
+      MaterialExpressionEditorY=336
+      MaterialExpressionGuid=A068F95D439BF8C4FE4E78A340661B61
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_4"
+      A=(Expression=MaterialExpressionTextureSample'"AlienWater:MaterialExpressionTextureSample_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      MaterialExpressionEditorX=1952
+      MaterialExpressionEditorY=432
+      MaterialExpressionGuid=465F40AD45C1F1AA859299822F36B248
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_5"
+      A=(Expression=MaterialExpressionAdd'"AlienWater:MaterialExpressionAdd_3"')
+      ConstB=0.000000
+      MaterialExpressionEditorX=656
+      MaterialExpressionEditorY=336
+      MaterialExpressionGuid=B72962A2468C0BD0D39DE687836ADA81
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_6"
+      A=(Expression=MaterialExpressionMultiply'"AlienWater:MaterialExpressionMultiply_4"')
+      B=(Expression=MaterialExpressionMaterialFunctionCall'"AlienWater:MaterialExpressionMaterialFunctionCall_5"')
+      MaterialExpressionEditorX=1584
+      MaterialExpressionEditorY=464
+      MaterialExpressionGuid=F2CB722444AB247F9A1313BF9989582B
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_7"
+      A=(Expression=MaterialExpressionMultiply'"AlienWater:MaterialExpressionMultiply_8"')
+      B=(Expression=MaterialExpressionMultiply'"AlienWater:MaterialExpressionMultiply_7"')
+      MaterialExpressionEditorX=818
+      MaterialExpressionEditorY=882
+      MaterialExpressionGuid=980D0F4244446434973668A471FDD1E7
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_8"
+      A=(Expression=MaterialExpressionTextureSample'"AlienWater:MaterialExpressionTextureSample_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionLinearInterpolate'"AlienWater:MaterialExpressionLinearInterpolate_3"')
+      MaterialExpressionEditorX=2112
+      MaterialExpressionEditorY=224
+      MaterialExpressionGuid=E2DFA94B4905084AB8375A8DF3959C68
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionClamp_0"
+      Input=(Expression=MaterialExpressionAdd'"AlienWater:MaterialExpressionAdd_0"')
+      MaterialExpressionEditorX=1600
+      MaterialExpressionEditorY=272
+      MaterialExpressionGuid=021782F44FC6604EED9121AB2518C39B
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionComment_1"
+      SizeX=656
+      SizeY=288
+      Text="World position"
+      MaterialExpressionEditorX=-1440
+      MaterialExpressionEditorY=80
+      MaterialExpressionGuid=5B7B40314B0E93FFD2B58595573615A0
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionComment_2"
+      SizeX=1344
+      SizeY=432
+      Text="Make ripples"
+      MaterialExpressionEditorX=-1384
+      MaterialExpressionEditorY=598
+      MaterialExpressionGuid=66F83D7846F0A9C1B177DCA2ECE49D61
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionComment_3"
+      SizeX=1088
+      SizeY=560
+      Text="Big waves"
+      MaterialExpressionEditorX=320
+      MaterialExpressionEditorY=704
+      MaterialExpressionGuid=C1F6912D41D88FED8C581F8AB552DC57
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_0"
+      Input=(Expression=MaterialExpressionMultiply'"AlienWater:MaterialExpressionMultiply_2"')
+      R=True
+      G=True
+      MaterialExpressionEditorX=-1058
+      MaterialExpressionEditorY=233
+      MaterialExpressionGuid=5A5E8DD94E8F0ECCF5298D8D1C2162A2
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_3"
+      Input=(Expression=MaterialExpressionTextureSample'"AlienWater:MaterialExpressionTextureSample_1"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      R=True
+      G=True
+      MaterialExpressionEditorX=-454
+      MaterialExpressionEditorY=728
+      MaterialExpressionGuid=CEE29098461D2479A289E9A4E99427DA
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_4"
+      Input=(Expression=MaterialExpressionWorldPosition'"AlienWater:MaterialExpressionWorldPosition_1"')
+      R=True
+      MaterialExpressionEditorX=544
+      MaterialExpressionEditorY=1024
+      MaterialExpressionGuid=8D67AA384DB4EB514BA007995FD20C9B
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_3"
+      R=0.150000
+      MaterialExpressionEditorX=1792
+      MaterialExpressionEditorY=48
+      MaterialExpressionGuid=86C40D154AD831E5C3C293A194B8F20B
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_4"
+      R=1.000000
+      MaterialExpressionEditorX=1888
+      MaterialExpressionEditorY=128
+      MaterialExpressionGuid=A4B7772B4390494C9EC0DA88EA251E7A
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_5"
+      R=1.000000
+      MaterialExpressionEditorX=1824
+      MaterialExpressionEditorY=176
+      MaterialExpressionGuid=33F2AD984CB3ABD21391B88D60AE262A
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_0"
+      Constant=(R=0.255208,G=0.000000,B=0.000000,A=0.000000)
+      MaterialExpressionEditorX=-96
+      MaterialExpressionEditorY=-160
+      MaterialExpressionGuid=9DCCAD8849AD274A49F9C58DA687610F
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_1"
+      Constant=(R=0.493769,G=0.000000,B=0.515625,A=0.000000)
+      MaterialExpressionEditorX=-128
+      MaterialExpressionEditorY=32
+      MaterialExpressionGuid=E155C3CB4B5B2D00D7C0E484BDC406E7
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_2"
+      Constant=(R=0.677897,G=0.682145,B=0.765625,A=0.000000)
+      MaterialExpressionEditorX=1424
+      MaterialExpressionEditorY=-384
+      MaterialExpressionGuid=24E7EAAB402EEEFB4E5C97972CD266D7
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_4"
+      Constant=(R=0.000000,G=0.000000,B=1.000000,A=0.000000)
+      MaterialExpressionEditorX=768
+      MaterialExpressionEditorY=544
+      MaterialExpressionGuid=30BA39A04E3DC050A8CB0FBB34DBA100
+      Material=Material'"AlienWater"'
+      bCollapsed=True
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_5"
+      Constant=(R=0.000000,G=0.000000,B=-1.000000,A=0.000000)
+      MaterialExpressionEditorX=768
+      MaterialExpressionEditorY=464
+      MaterialExpressionGuid=3FD41DD347523F7170EAB89A207CBE4D
+      Material=Material'"AlienWater"'
+      bCollapsed=True
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_7"
+      Constant=(R=0.847656,G=0.863541,B=0.875000,A=0.000000)
+      MaterialExpressionEditorX=508
+      MaterialExpressionEditorY=-347
+      MaterialExpressionGuid=C409D5BA4C5F26B659011E9301ACFB27
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionCosine_0"
+      Input=(Expression=MaterialExpressionAdd'"AlienWater:MaterialExpressionAdd_7"')
+      MaterialExpressionEditorX=962
+      MaterialExpressionEditorY=818
+      MaterialExpressionGuid=C3550A5241CE810A74F71EBCA47D810C
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionDepthFade_0"
+      MaterialExpressionEditorX=992
+      MaterialExpressionEditorY=96
+      MaterialExpressionGuid=3D8AE22944A3880DD8112489D9F4A2A5
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionDepthFade_1"
+      FadeDistanceDefault=200.000000
+      MaterialExpressionEditorX=1360
+      MaterialExpressionEditorY=-128
+      MaterialExpressionGuid=3D8AE22944A3880DD8112489D9F4A2A5
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionDivide_0"
+      A=(Expression=MaterialExpressionComponentMask'"AlienWater:MaterialExpressionComponentMask_0"')
+      B=(Expression=MaterialExpressionScalarParameter'"AlienWater:MaterialExpressionScalarParameter_0"')
+      ConstB=200.000000
+      MaterialExpressionEditorX=-914
+      MaterialExpressionEditorY=169
+      MaterialExpressionGuid=7ADF5F6C4A982EE480A4CA8BBBD3B568
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionDivide_3"
+      A=(Expression=MaterialExpressionLinearInterpolate'"AlienWater:MaterialExpressionLinearInterpolate_4"')
+      B=(Expression=MaterialExpressionDepthFade'"AlienWater:MaterialExpressionDepthFade_0"')
+      MaterialExpressionEditorX=1104
+      MaterialExpressionEditorY=-224
+      MaterialExpressionGuid=C1B2210341E4863E0DA52A89E46DAC30
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionDivide_4"
+      A=(Expression=MaterialExpressionDepthFade'"AlienWater:MaterialExpressionDepthFade_0"')
+      MaterialExpressionEditorX=1600
+      MaterialExpressionEditorY=144
+      MaterialExpressionGuid=D014005242BA3BD87D51D490D0FE1817
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionFresnel_2"
+      MaterialExpressionEditorX=464
+      MaterialExpressionEditorY=-160
+      MaterialExpressionGuid=5C401FE04CCEB005C1B40A9826ADFC2A
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionIf_0"
+      A=(Expression=MaterialExpressionDepthFade'"AlienWater:MaterialExpressionDepthFade_0"')
+      B=(Expression=MaterialExpressionConstant'"AlienWater:MaterialExpressionConstant_3"')
+      AGreaterThanB=(Expression=MaterialExpressionDepthFade'"AlienWater:MaterialExpressionDepthFade_1"')
+      AEqualsB=(Expression=MaterialExpressionConstant'"AlienWater:MaterialExpressionConstant_4"')
+      ALessThanB=(Expression=MaterialExpressionConstant'"AlienWater:MaterialExpressionConstant_4"')
+      MaterialExpressionEditorX=2064
+      MaterialExpressionEditorY=-16
+      MaterialExpressionGuid=4C673D5A4243DC2D1E2B70AF4252C31C
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_0"
+      A=(Expression=MaterialExpressionConstant3Vector'"AlienWater:MaterialExpressionConstant3Vector_0"')
+      B=(Expression=MaterialExpressionConstant3Vector'"AlienWater:MaterialExpressionConstant3Vector_1"')
+      Alpha=(Expression=MaterialExpressionTextureSample'"AlienWater:MaterialExpressionTextureSample_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      MaterialExpressionEditorX=304
+      MaterialExpressionEditorY=96
+      MaterialExpressionGuid=09583A1E436EF392A21A2E97755D2F25
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_1"
+      A=(Expression=MaterialExpressionMultiply'"AlienWater:MaterialExpressionMultiply_4"')
+      B=(Expression=MaterialExpressionMaterialFunctionCall'"AlienWater:MaterialExpressionMaterialFunctionCall_5"')
+      MaterialExpressionEditorX=1600
+      MaterialExpressionEditorY=640
+      MaterialExpressionGuid=BB44344D4D09CBC755FA8AAFB233758E
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_3"
+      A=(Expression=MaterialExpressionDivide'"AlienWater:MaterialExpressionDivide_3"')
+      B=(Expression=MaterialExpressionMultiply'"AlienWater:MaterialExpressionMultiply_9"')
+      Alpha=(Expression=MaterialExpressionDepthFade'"AlienWater:MaterialExpressionDepthFade_1"')
+      MaterialExpressionEditorX=2144
+      MaterialExpressionEditorY=-208
+      MaterialExpressionGuid=DDBB569840699BDDD4ECDDBF91EFBDCA
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_4"
+      A=(Expression=MaterialExpressionLinearInterpolate'"AlienWater:MaterialExpressionLinearInterpolate_0"')
+      B=(Expression=MaterialExpressionConstant3Vector'"AlienWater:MaterialExpressionConstant3Vector_7"')
+      Alpha=(Expression=MaterialExpressionFresnel'"AlienWater:MaterialExpressionFresnel_2"')
+      MaterialExpressionEditorX=880
+      MaterialExpressionEditorY=-176
+      MaterialExpressionGuid=04A0744C461983CA127A75B97832B815
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_2"
+      MaterialFunction=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.MakeFloat2"'
+      FunctionInputs(0)=(ExpressionInputId=529C1D96441E07EB03A9E59B8A7F67B6,Input=(Expression=MaterialExpressionMultiply'"AlienWater:MaterialExpressionMultiply_1"',InputName="X"))
+      FunctionInputs(1)=(ExpressionInputId=B5BD7D1B494F6928732CCDA1C63D8E15,Input=(Expression=MaterialExpressionMultiply'"AlienWater:MaterialExpressionMultiply_0"',InputName="Y"))
+      FunctionOutputs(0)=(ExpressionOutputId=0DD6F9954C067C3E5DDBBBA0D6910DD2,Output=(OutputName="Result"))
+      MaterialExpressionEditorX=-960
+      MaterialExpressionEditorY=736
+      MaterialExpressionGuid=3F6D62F04D564262BDAA1C9981049381
+      Material=Material'"AlienWater"'
+      Outputs(0)=(OutputName="Result")
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_3"
+      MaterialFunction=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions02/Utility/Sine_Remapped.Sine_Remapped"'
+      FunctionInputs(0)=(ExpressionInputId=F16BF3B143A00D057EC005B24E487142,Input=(Expression=MaterialExpressionMultiply'"AlienWater:MaterialExpressionMultiply_5"',InputName="Sine Phase"))
+      FunctionInputs(1)=(ExpressionInputId=ABEC8DA1486A55D1C501959872288344,Input=(Expression=MaterialExpressionConstant3Vector'"AlienWater:MaterialExpressionConstant3Vector_5"',InputName="Value 1"))
+      FunctionInputs(2)=(ExpressionInputId=9D399EB84564DE1BA90D3EA0B09238C2,Input=(Expression=MaterialExpressionConstant3Vector'"AlienWater:MaterialExpressionConstant3Vector_4"',InputName="Value 2"))
+      FunctionOutputs(0)=(ExpressionOutputId=2C0C1F2F4EF1D315FF5F4F88F41E808A,Output=(OutputName="Remapped Sine"))
+      MaterialExpressionEditorX=992
+      MaterialExpressionEditorY=480
+      MaterialExpressionGuid=1E11E84C487C28CEC50769823156F17F
+      Material=Material'"AlienWater"'
+      Outputs(0)=(OutputName="Remapped Sine")
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_5"
+      MaterialFunction=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.MakeFloat3"'
+      FunctionInputs(0)=(ExpressionInputId=529C1D96441E07EB03A9E59B8A7F67B6,Input=(Expression=MaterialExpressionMultiply'"AlienWater:MaterialExpressionMultiply_10"',InputName="X"))
+      FunctionInputs(1)=(ExpressionInputId=B5BD7D1B494F6928732CCDA1C63D8E15,Input=(OutputIndex=-1,InputName="Y"))
+      FunctionInputs(2)=(ExpressionInputId=050F17B8471570B47A802CB7CAA5A201,Input=(Expression=MaterialExpressionMultiply'"AlienWater:MaterialExpressionMultiply_11"',InputName="Z"))
+      FunctionOutputs(0)=(ExpressionOutputId=0DD6F9954C067C3E5DDBBBA0D6910DD2,Output=(OutputName="Result"))
+      MaterialExpressionEditorX=1234
+      MaterialExpressionEditorY=818
+      MaterialExpressionGuid=1B2167C14B060022DECBAAB2FB720725
+      Material=Material'"AlienWater"'
+      Outputs(0)=(OutputName="Result")
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_0"
+      A=(Expression=MaterialExpressionTime'"AlienWater:MaterialExpressionTime_0"')
+      ConstB=0.030000
+      MaterialExpressionEditorX=-1142
+      MaterialExpressionEditorY=904
+      MaterialExpressionGuid=2F0EE1A947F000FE41F6979013B4D45B
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_1"
+      A=(Expression=MaterialExpressionTime'"AlienWater:MaterialExpressionTime_0"')
+      ConstB=0.100000
+      MaterialExpressionEditorX=-1142
+      MaterialExpressionEditorY=728
+      MaterialExpressionGuid=0D32EDF148D31ACDC58CACB8F411973E
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_10"
+      A=(Expression=MaterialExpressionCosine'"AlienWater:MaterialExpressionCosine_0"')
+      ConstB=5.000000
+      MaterialExpressionEditorX=1072
+      MaterialExpressionEditorY=752
+      MaterialExpressionGuid=C4E1F8D24DFB025DBA3DD0A411844AF9
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_11"
+      A=(Expression=MaterialExpressionSine'"AlienWater:MaterialExpressionSine_0"')
+      ConstB=10.000000
+      MaterialExpressionEditorX=1074
+      MaterialExpressionEditorY=898
+      MaterialExpressionGuid=C4E1F8D24DFB025DBA3DD0A411844AF9
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_2"
+      B=(Expression=MaterialExpressionWorldPosition'"AlienWater:MaterialExpressionWorldPosition_0"')
+      ConstA=1.000000
+      MaterialExpressionEditorX=-1186
+      MaterialExpressionEditorY=233
+      MaterialExpressionGuid=204242754E5227BFC14CE4A64491BB45
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_3"
+      A=(Expression=MaterialExpressionComponentMask'"AlienWater:MaterialExpressionComponentMask_3"')
+      ConstB=0.100000
+      MaterialExpressionEditorX=-304
+      MaterialExpressionEditorY=672
+      MaterialExpressionGuid=0C52BF514A55F62E0A656C8ECB0E09D0
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_4"
+      A=(Expression=MaterialExpressionMaterialFunctionCall'"AlienWater:MaterialExpressionMaterialFunctionCall_3"')
+      ConstB=5.000000
+      MaterialExpressionEditorX=1296
+      MaterialExpressionEditorY=560
+      MaterialExpressionGuid=FF69D78C42E25CCCDBBA2B8207678E7A
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_5"
+      A=(Expression=MaterialExpressionAdd'"AlienWater:MaterialExpressionAdd_5"')
+      ConstB=0.500000
+      MaterialExpressionEditorX=800
+      MaterialExpressionEditorY=368
+      MaterialExpressionGuid=0751DD524FB240E51A6E1BA79175A0E5
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_6"
+      A=(Expression=MaterialExpressionAdd'"AlienWater:MaterialExpressionAdd_2"')
+      ConstB=3.000000
+      MaterialExpressionEditorX=384
+      MaterialExpressionEditorY=288
+      MaterialExpressionGuid=3FD6729942A4600723836F8B9EB33F3A
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_7"
+      A=(Expression=MaterialExpressionComponentMask'"AlienWater:MaterialExpressionComponentMask_4"')
+      ConstB=0.001000
+      MaterialExpressionEditorX=672
+      MaterialExpressionEditorY=1008
+      MaterialExpressionGuid=57B504704D017B69089EFE9C4E43C2E4
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_8"
+      A=(Expression=MaterialExpressionTime'"AlienWater:MaterialExpressionTime_1"')
+      ConstB=0.100000
+      MaterialExpressionEditorX=626
+      MaterialExpressionEditorY=834
+      MaterialExpressionGuid=A9B65B614038A404CF658FA60D8F5B6A
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_9"
+      A=(Expression=MaterialExpressionLinearInterpolate'"AlienWater:MaterialExpressionLinearInterpolate_0"')
+      B=(Expression=MaterialExpressionConstant3Vector'"AlienWater:MaterialExpressionConstant3Vector_2"')
+      MaterialExpressionEditorX=1680
+      MaterialExpressionEditorY=-480
+      MaterialExpressionGuid=D66547944C18D8BC053CC8BB79E94837
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionPanner_0"
+      Coordinate=(Expression=MaterialExpressionAdd'"AlienWater:MaterialExpressionAdd_2"')
+      SpeedX=0.010000
+      SpeedY=0.035000
+      MaterialExpressionEditorX=-18
+      MaterialExpressionEditorY=694
+      MaterialExpressionGuid=3665BBE34573403B1AD9C2A1DB09CA86
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_0"
+      DefaultValue=1000.000000
+      ParameterName="Scale"
+      ExpressionGUID=4EFBF02746A142596D29608ED6417886
+      MaterialExpressionEditorX=-1202
+      MaterialExpressionEditorY=137
+      MaterialExpressionGuid=963B020A4730AC4F148A618CB1016ECB
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionSine_0"
+      Input=(Expression=MaterialExpressionAdd'"AlienWater:MaterialExpressionAdd_7"')
+      MaterialExpressionEditorX=962
+      MaterialExpressionEditorY=898
+      MaterialExpressionGuid=BF73980C4DB70B9533EEBAB4B14509D5
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_0"
+      MaterialExpressionEditorX=-576
+      MaterialExpressionEditorY=176
+      MaterialExpressionGuid=D082FC6C4C5FE616104C9AA683536E5D
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_0"
+      Coordinates=(Expression=MaterialExpressionPanner'"AlienWater:MaterialExpressionPanner_0"')
+      Texture=Texture2D'"/Game/Art/Textures/Waves.Waves"'
+      MaterialExpressionEditorX=144
+      MaterialExpressionEditorY=608
+      MaterialExpressionGuid=F3430DCB489E93C4245C5D882307E723
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_1"
+      Coordinates=(Expression=MaterialExpressionAdd'"AlienWater:MaterialExpressionAdd_1"')
+      Texture=Texture2D'"/Game/Art/Textures/Clouds.Clouds"'
+      MaterialExpressionEditorX=-646
+      MaterialExpressionEditorY=744
+      MaterialExpressionGuid=4D65122B45BBB4B713E4218BB19D6307
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionTime_0"
+      MaterialExpressionEditorX=-1334
+      MaterialExpressionEditorY=808
+      MaterialExpressionGuid=8AFCAD704715B48E158F92851C76ECE9
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionTime_1"
+      MaterialExpressionEditorX=482
+      MaterialExpressionEditorY=818
+      MaterialExpressionGuid=19958A614C6F185F733B37987CF214C2
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionWorldPosition_0"
+      MaterialExpressionEditorX=-1394
+      MaterialExpressionEditorY=249
+      MaterialExpressionGuid=A5FFD83D474854F353776DA054F6F481
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="MaterialExpressionWorldPosition_1"
+      MaterialExpressionEditorX=352
+      MaterialExpressionEditorY=1040
+      MaterialExpressionGuid=5B08304C4E856347C85DCF944DAA5CAD
+      Material=Material'"AlienWater"'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_3"')
+   Opacity=(Expression=MaterialExpressionIf'"MaterialExpressionIf_0"')
+   BlendMode=BLEND_Translucent
+   WorldPositionOffset=(Expression=MaterialExpressionAdd'"MaterialExpressionAdd_6"')
+   Refraction=(Expression=MaterialExpressionAdd'"MaterialExpressionAdd_4"')
+   bUsedWithInstancedStaticMeshes=True
+   bUsesDistortion=True
+   bEnableCrackFreeDisplacement=True
+   EditorX=2432
+   EditorY=48
+   Expressions(0)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_3"'
+   Expressions(1)=MaterialExpressionIf'"MaterialExpressionIf_0"'
+   Expressions(2)=MaterialExpressionAdd'"MaterialExpressionAdd_6"'
+   Expressions(3)=MaterialExpressionAdd'"MaterialExpressionAdd_4"'
+   Expressions(4)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_0"'
+   Expressions(5)=MaterialExpressionConstant3Vector'"MaterialExpressionConstant3Vector_0"'
+   Expressions(6)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"'
+   Expressions(7)=MaterialExpressionConstant3Vector'"MaterialExpressionConstant3Vector_1"'
+   Expressions(8)=MaterialExpressionTextureCoordinate'"MaterialExpressionTextureCoordinate_0"'
+   Expressions(9)=MaterialExpressionWorldPosition'"MaterialExpressionWorldPosition_0"'
+   Expressions(10)=MaterialExpressionComponentMask'"MaterialExpressionComponentMask_0"'
+   Expressions(11)=MaterialExpressionDivide'"MaterialExpressionDivide_0"'
+   Expressions(12)=MaterialExpressionTime'"MaterialExpressionTime_0"'
+   Expressions(13)=MaterialExpressionMultiply'"MaterialExpressionMultiply_0"'
+   Expressions(14)=MaterialExpressionMultiply'"MaterialExpressionMultiply_1"'
+   Expressions(15)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_0"'
+   Expressions(16)=MaterialExpressionMultiply'"MaterialExpressionMultiply_2"'
+   Expressions(17)=MaterialExpressionAdd'"MaterialExpressionAdd_1"'
+   Expressions(18)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_1"'
+   Expressions(19)=MaterialExpressionMaterialFunctionCall'"MaterialExpressionMaterialFunctionCall_2"'
+   Expressions(20)=MaterialExpressionComponentMask'"MaterialExpressionComponentMask_3"'
+   Expressions(21)=MaterialExpressionAdd'"MaterialExpressionAdd_2"'
+   Expressions(22)=MaterialExpressionMultiply'"MaterialExpressionMultiply_3"'
+   Expressions(23)=MaterialExpressionTime'"MaterialExpressionTime_1"'
+   Expressions(24)=MaterialExpressionSine'"MaterialExpressionSine_0"'
+   Expressions(25)=MaterialExpressionMultiply'"MaterialExpressionMultiply_4"'
+   Expressions(26)=MaterialExpressionMaterialFunctionCall'"MaterialExpressionMaterialFunctionCall_3"'
+   Expressions(27)=MaterialExpressionConstant3Vector'"MaterialExpressionConstant3Vector_4"'
+   Expressions(28)=MaterialExpressionConstant3Vector'"MaterialExpressionConstant3Vector_5"'
+   Expressions(29)=MaterialExpressionMultiply'"MaterialExpressionMultiply_5"'
+   Expressions(30)=MaterialExpressionAdd'"MaterialExpressionAdd_3"'
+   Expressions(31)=MaterialExpressionMultiply'"MaterialExpressionMultiply_6"'
+   Expressions(32)=MaterialExpressionWorldPosition'"MaterialExpressionWorldPosition_1"'
+   Expressions(33)=MaterialExpressionMultiply'"MaterialExpressionMultiply_7"'
+   Expressions(34)=MaterialExpressionMaterialFunctionCall'"MaterialExpressionMaterialFunctionCall_5"'
+   Expressions(35)=MaterialExpressionMultiply'"MaterialExpressionMultiply_8"'
+   Expressions(36)=MaterialExpressionCosine'"MaterialExpressionCosine_0"'
+   Expressions(37)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_1"'
+   Expressions(38)=MaterialExpressionMultiply'"MaterialExpressionMultiply_10"'
+   Expressions(39)=MaterialExpressionAdd'"MaterialExpressionAdd_5"'
+   Expressions(40)=MaterialExpressionMultiply'"MaterialExpressionMultiply_11"'
+   Expressions(41)=MaterialExpressionComponentMask'"MaterialExpressionComponentMask_4"'
+   Expressions(42)=MaterialExpressionAdd'"MaterialExpressionAdd_7"'
+   Expressions(43)=MaterialExpressionPanner'"MaterialExpressionPanner_0"'
+   Expressions(44)=MaterialExpressionAdd'"MaterialExpressionAdd_0"'
+   Expressions(45)=MaterialExpressionClamp'"MaterialExpressionClamp_0"'
+   Expressions(46)=MaterialExpressionConstant3Vector'"MaterialExpressionConstant3Vector_2"'
+   Expressions(47)=MaterialExpressionAdd'"MaterialExpressionAdd_8"'
+   Expressions(48)=MaterialExpressionConstant'"MaterialExpressionConstant_3"'
+   Expressions(49)=MaterialExpressionConstant'"MaterialExpressionConstant_4"'
+   Expressions(50)=MaterialExpressionConstant'"MaterialExpressionConstant_5"'
+   Expressions(51)=MaterialExpressionDepthFade'"MaterialExpressionDepthFade_0"'
+   Expressions(52)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_4"'
+   Expressions(53)=MaterialExpressionFresnel'"MaterialExpressionFresnel_2"'
+   Expressions(54)=MaterialExpressionConstant3Vector'"MaterialExpressionConstant3Vector_7"'
+   Expressions(55)=MaterialExpressionDivide'"MaterialExpressionDivide_3"'
+   Expressions(56)=MaterialExpressionDivide'"MaterialExpressionDivide_4"'
+   Expressions(57)=MaterialExpressionDepthFade'"MaterialExpressionDepthFade_1"'
+   Expressions(58)=MaterialExpressionMultiply'"MaterialExpressionMultiply_9"'
+   EditorComments(0)=MaterialExpressionComment'"MaterialExpressionComment_1"'
+   EditorComments(1)=MaterialExpressionComment'"MaterialExpressionComment_2"'
+   EditorComments(2)=MaterialExpressionComment'"MaterialExpressionComment_3"'
+   ParameterGroupData(0)=(GroupName="None")
+   bCanMaskedBeAssumedOpaque=True
+   StateId=585C76224DACCD1AAFC58BA9DF4B2305
+   CachedExpressionData=(Parameters=(RuntimeEntries[0]=(NameHashes=(8394684900550694966),ParameterInfos=((Name="Scale")),ExpressionGuids=(4EFBF02746A142596D29608ED6417886)),ScalarValues=(1000.000000),ScalarMinMaxValues=((X=0.000000,Y=0.000000)),ScalarCurveValues=(None),ScalarCurveAtlasValues=(None)),ReferencedTextures=(Texture2D'"/Game/Art/Textures/Waves.Waves"',Texture2D'"/Game/Art/Textures/Clouds.Clouds"'),FunctionInfos=((StateId=7560E2DA4356343C18E6818AA015BAC5,Function=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.MakeFloat2"'),(StateId=98187B514BFDED2B93E8EB92EB71F3A1,Function=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions02/Utility/Sine_Remapped.Sine_Remapped"'),(StateId=E6A854604E707DD6EBF457B4A3E80A43,Function=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.MakeFloat3"')),QualityLevelsUsed=(False,False,False,False))
+   ReferencedTextureGuids(0)=0BBA94E6495C1C04EEBF789A5477FBB3
+   ReferencedTextureGuids(1)=F7E84DF54C699D73898E4B9546F03C4A
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   ParameterOverviewExpansion=(("-12None", True),("-12Global", True))
+   LightingGuid=A13A1ACD4AE98DF456CEF2867CE9AA6A
+End Object
