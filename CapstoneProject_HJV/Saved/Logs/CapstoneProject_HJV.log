@@ -5598,3 +5598,1382 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.04.24-20.05.46:605][600]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Skyscraper_LevelEE82CFA8429652537C0FFBA1897464FF.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/Skyscraper_Level.umap'
 [2023.04.24-20.05.46:646][600]AssetCheck: New page: Asset Save: Skyscraper_Level
 [2023.04.24-20.05.46:646][600]LogContentValidation: Display: Validating World /Game/Levels/Skyscraper_Level.Skyscraper_Level
+[2023.04.24-20.09.30:665][411]BlueprintLog: New page: Compile Drone
+[2023.04.24-20.09.30:940][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.24-20.09.30:941][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.24-20.09.30:941][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone10_29.CharacterMesh0'
+[2023.04.24-20.09.30:942][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone10_29.CharacterMesh0'
+[2023.04.24-20.09.30:943][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone11_32.CharacterMesh0'
+[2023.04.24-20.09.30:944][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone11_32.CharacterMesh0'
+[2023.04.24-20.09.30:944][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone12_35.CharacterMesh0'
+[2023.04.24-20.09.30:945][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone12_35.CharacterMesh0'
+[2023.04.24-20.09.30:945][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone13_38.CharacterMesh0'
+[2023.04.24-20.09.30:947][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone13_38.CharacterMesh0'
+[2023.04.24-20.09.30:947][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone2_5.CharacterMesh0'
+[2023.04.24-20.09.30:948][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone2_5.CharacterMesh0'
+[2023.04.24-20.09.30:948][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone3_8.CharacterMesh0'
+[2023.04.24-20.09.30:949][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone3_8.CharacterMesh0'
+[2023.04.24-20.09.30:950][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone4_11.CharacterMesh0'
+[2023.04.24-20.09.30:951][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone4_11.CharacterMesh0'
+[2023.04.24-20.09.30:951][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone5_14.CharacterMesh0'
+[2023.04.24-20.09.30:952][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone5_14.CharacterMesh0'
+[2023.04.24-20.09.30:953][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone6_17.CharacterMesh0'
+[2023.04.24-20.09.30:954][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone6_17.CharacterMesh0'
+[2023.04.24-20.09.30:954][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone7_20.CharacterMesh0'
+[2023.04.24-20.09.30:955][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone7_20.CharacterMesh0'
+[2023.04.24-20.09.30:955][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone8_23.CharacterMesh0'
+[2023.04.24-20.09.30:956][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone8_23.CharacterMesh0'
+[2023.04.24-20.09.30:956][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone9_26.CharacterMesh0'
+[2023.04.24-20.09.30:957][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone9_26.CharacterMesh0'
+[2023.04.24-20.09.30:958][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.24-20.09.30:959][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.24-20.09.31:073][411]LogUObjectHash: Compacting FUObjectHashTables data took  10.11ms
+[2023.04.24-20.09.31:081][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.24-20.09.31:082][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.24-20.09.31:083][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone10_29.CharacterMesh0'
+[2023.04.24-20.09.31:083][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone10_29.CharacterMesh0'
+[2023.04.24-20.09.31:084][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone11_32.CharacterMesh0'
+[2023.04.24-20.09.31:084][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone11_32.CharacterMesh0'
+[2023.04.24-20.09.31:085][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone12_35.CharacterMesh0'
+[2023.04.24-20.09.31:086][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone12_35.CharacterMesh0'
+[2023.04.24-20.09.31:087][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone13_38.CharacterMesh0'
+[2023.04.24-20.09.31:087][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone13_38.CharacterMesh0'
+[2023.04.24-20.09.31:088][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone2_5.CharacterMesh0'
+[2023.04.24-20.09.31:089][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone2_5.CharacterMesh0'
+[2023.04.24-20.09.31:090][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone3_8.CharacterMesh0'
+[2023.04.24-20.09.31:091][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone3_8.CharacterMesh0'
+[2023.04.24-20.09.31:092][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone4_11.CharacterMesh0'
+[2023.04.24-20.09.31:093][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone4_11.CharacterMesh0'
+[2023.04.24-20.09.31:094][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone5_14.CharacterMesh0'
+[2023.04.24-20.09.31:095][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone5_14.CharacterMesh0'
+[2023.04.24-20.09.31:095][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone6_17.CharacterMesh0'
+[2023.04.24-20.09.31:096][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone6_17.CharacterMesh0'
+[2023.04.24-20.09.31:097][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone7_20.CharacterMesh0'
+[2023.04.24-20.09.31:098][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone7_20.CharacterMesh0'
+[2023.04.24-20.09.31:098][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone8_23.CharacterMesh0'
+[2023.04.24-20.09.31:099][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone8_23.CharacterMesh0'
+[2023.04.24-20.09.31:099][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone9_26.CharacterMesh0'
+[2023.04.24-20.09.31:100][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone9_26.CharacterMesh0'
+[2023.04.24-20.09.31:100][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.24-20.09.31:101][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.24-20.09.31:140][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.24-20.09.31:141][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.24-20.09.31:141][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone10_29.CharacterMesh0'
+[2023.04.24-20.09.31:142][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone10_29.CharacterMesh0'
+[2023.04.24-20.09.31:142][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone11_32.CharacterMesh0'
+[2023.04.24-20.09.31:143][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone11_32.CharacterMesh0'
+[2023.04.24-20.09.31:144][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone12_35.CharacterMesh0'
+[2023.04.24-20.09.31:144][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone12_35.CharacterMesh0'
+[2023.04.24-20.09.31:145][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone13_38.CharacterMesh0'
+[2023.04.24-20.09.31:145][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone13_38.CharacterMesh0'
+[2023.04.24-20.09.31:146][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone2_5.CharacterMesh0'
+[2023.04.24-20.09.31:147][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone2_5.CharacterMesh0'
+[2023.04.24-20.09.31:147][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone3_8.CharacterMesh0'
+[2023.04.24-20.09.31:148][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone3_8.CharacterMesh0'
+[2023.04.24-20.09.31:148][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone4_11.CharacterMesh0'
+[2023.04.24-20.09.31:149][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone4_11.CharacterMesh0'
+[2023.04.24-20.09.31:150][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone5_14.CharacterMesh0'
+[2023.04.24-20.09.31:150][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone5_14.CharacterMesh0'
+[2023.04.24-20.09.31:151][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone6_17.CharacterMesh0'
+[2023.04.24-20.09.31:152][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone6_17.CharacterMesh0'
+[2023.04.24-20.09.31:152][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone7_20.CharacterMesh0'
+[2023.04.24-20.09.31:153][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone7_20.CharacterMesh0'
+[2023.04.24-20.09.31:153][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone8_23.CharacterMesh0'
+[2023.04.24-20.09.31:154][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone8_23.CharacterMesh0'
+[2023.04.24-20.09.31:155][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone9_26.CharacterMesh0'
+[2023.04.24-20.09.31:155][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone9_26.CharacterMesh0'
+[2023.04.24-20.09.31:156][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.24-20.09.31:156][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.24-20.09.31:690][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/AI/NewDrone/Drone" FILE="../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/AI/NewDrone/Drone.uasset" SILENT=true
+[2023.04.24-20.09.31:882][436]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Drone4D089D2D47C5276B4CB377873C83133C.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/AI/NewDrone/Drone.uasset'
+[2023.04.24-20.09.31:900][436]AssetCheck: New page: Asset Save: Drone
+[2023.04.24-20.09.31:900][436]LogContentValidation: Display: Validating Blueprint /Game/Assets/AI/NewDrone/Drone.Drone
+[2023.04.24-20.09.46:935][670]BlueprintLog: New page: Compile DroneBossChar
+[2023.04.24-20.09.47:313][670]LogUObjectHash: Compacting FUObjectHashTables data took   7.36ms
+[2023.04.24-20.09.47:321][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.24-20.09.47:322][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.24-20.09.47:323][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone10_29.CharacterMesh0'
+[2023.04.24-20.09.47:323][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone10_29.CharacterMesh0'
+[2023.04.24-20.09.47:324][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone11_32.CharacterMesh0'
+[2023.04.24-20.09.47:324][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone11_32.CharacterMesh0'
+[2023.04.24-20.09.47:325][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone12_35.CharacterMesh0'
+[2023.04.24-20.09.47:325][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone12_35.CharacterMesh0'
+[2023.04.24-20.09.47:326][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone13_38.CharacterMesh0'
+[2023.04.24-20.09.47:326][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone13_38.CharacterMesh0'
+[2023.04.24-20.09.47:327][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone2_5.CharacterMesh0'
+[2023.04.24-20.09.47:328][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone2_5.CharacterMesh0'
+[2023.04.24-20.09.47:328][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone3_8.CharacterMesh0'
+[2023.04.24-20.09.47:329][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone3_8.CharacterMesh0'
+[2023.04.24-20.09.47:329][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone4_11.CharacterMesh0'
+[2023.04.24-20.09.47:330][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone4_11.CharacterMesh0'
+[2023.04.24-20.09.47:330][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone5_14.CharacterMesh0'
+[2023.04.24-20.09.47:331][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone5_14.CharacterMesh0'
+[2023.04.24-20.09.47:332][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone6_17.CharacterMesh0'
+[2023.04.24-20.09.47:332][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone6_17.CharacterMesh0'
+[2023.04.24-20.09.47:333][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone7_20.CharacterMesh0'
+[2023.04.24-20.09.47:334][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone7_20.CharacterMesh0'
+[2023.04.24-20.09.47:334][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone8_23.CharacterMesh0'
+[2023.04.24-20.09.47:335][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone8_23.CharacterMesh0'
+[2023.04.24-20.09.47:335][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone9_26.CharacterMesh0'
+[2023.04.24-20.09.47:336][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone9_26.CharacterMesh0'
+[2023.04.24-20.09.47:336][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.24-20.09.47:337][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.24-20.09.47:375][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.24-20.09.47:376][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.Drone_C_0.CharacterMesh0'
+[2023.04.24-20.09.47:376][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone10_29.CharacterMesh0'
+[2023.04.24-20.09.47:377][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone10_29.CharacterMesh0'
+[2023.04.24-20.09.47:378][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone11_32.CharacterMesh0'
+[2023.04.24-20.09.47:378][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone11_32.CharacterMesh0'
+[2023.04.24-20.09.47:379][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone12_35.CharacterMesh0'
+[2023.04.24-20.09.47:379][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone12_35.CharacterMesh0'
+[2023.04.24-20.09.47:380][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone13_38.CharacterMesh0'
+[2023.04.24-20.09.47:380][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone13_38.CharacterMesh0'
+[2023.04.24-20.09.47:381][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone2_5.CharacterMesh0'
+[2023.04.24-20.09.47:382][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone2_5.CharacterMesh0'
+[2023.04.24-20.09.47:382][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone3_8.CharacterMesh0'
+[2023.04.24-20.09.47:383][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone3_8.CharacterMesh0'
+[2023.04.24-20.09.47:384][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone4_11.CharacterMesh0'
+[2023.04.24-20.09.47:384][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone4_11.CharacterMesh0'
+[2023.04.24-20.09.47:385][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone5_14.CharacterMesh0'
+[2023.04.24-20.09.47:385][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone5_14.CharacterMesh0'
+[2023.04.24-20.09.47:386][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone6_17.CharacterMesh0'
+[2023.04.24-20.09.47:387][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone6_17.CharacterMesh0'
+[2023.04.24-20.09.47:387][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone7_20.CharacterMesh0'
+[2023.04.24-20.09.47:388][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone7_20.CharacterMesh0'
+[2023.04.24-20.09.47:388][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone8_23.CharacterMesh0'
+[2023.04.24-20.09.47:389][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone8_23.CharacterMesh0'
+[2023.04.24-20.09.47:389][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone9_26.CharacterMesh0'
+[2023.04.24-20.09.47:390][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone9_26.CharacterMesh0'
+[2023.04.24-20.09.47:390][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.24-20.09.47:391][670]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.24-20.09.48:156][680]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/DroneBossCharACAE712F4F7E14F4BF5D74A980EB3AFF.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/AI/DroneBoss/DroneBossChar.uasset'
+[2023.04.24-20.09.48:175][680]AssetCheck: New page: Asset Save: DroneBossChar
+[2023.04.24-20.09.48:175][680]LogContentValidation: Display: Validating Blueprint /Game/Assets/AI/DroneBoss/DroneBossChar.DroneBossChar
+[2023.04.24-20.09.52:144][948]LogUObjectHash: Compacting FUObjectHashTables data took   6.71ms
+[2023.04.24-20.09.52:372][948]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Skyscraper_Level3F0F89324A210F7B59FAFAA3D2D99A1A.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/Skyscraper_Level.umap'
+[2023.04.24-20.09.52:411][948]AssetCheck: New page: Asset Save: Skyscraper_Level
+[2023.04.24-20.09.52:411][948]LogContentValidation: Display: Validating World /Game/Levels/Skyscraper_Level.Skyscraper_Level
+[2023.04.24-20.10.33:902][438]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane4)
+[2023.04.24-20.10.34:659][487]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane4)
+[2023.04.24-20.11.34:949][568]LogSlate: Window 'Select Path' being destroyed
+[2023.04.24-20.11.35:049][568]LogStaticMesh: Building static mesh Cylinder_Brush8_StaticMesh...
+[2023.04.24-20.11.35:063][568]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Meshes/Skyscraper_Meshes/Cylinder_Brush8_StaticMesh.Cylinder_Brush8_StaticMesh
+[2023.04.24-20.11.35:070][568]LogActorFactory: Actor Factory created Cylinder_Brush8_StaticMesh
+[2023.04.24-20.11.35:187][568]LogEditor: Error: Actor 'Brush /Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.CylinderBrush8' is marked pending kill and cannot be converted
+[2023.04.24-20.11.35:187][568]LogEditor: Error: Actor 'Brush /Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.CylinderBrush9' is marked pending kill and cannot be converted
+[2023.04.24-20.11.35:188][568]EditorErrors: New page: Actor Reattachment
+[2023.04.24-20.11.35:257][568]LogUObjectHash: Compacting FUObjectHashTables data took   5.96ms
+[2023.04.24-20.11.42:326][111]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder_Brush8_StaticMesh)
+[2023.04.24-20.11.42:410][115]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2023.04.24-20.11.46:476][385]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Meshes/Skyscraper_Meshes/Cylinder_Brush8_StaticMesh.Cylinder_Brush8_StaticMesh
+[2023.04.24-20.11.47:627][386]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:1).
+[2023.04.24-20.12.33:400][455]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Cylinder_Brush8_StaticMesh97F6FC6E46F5375F473C89BDC4E9D072.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Art/Meshes/Skyscraper_Meshes/Cylinder_Brush8_StaticMesh.uasset'
+[2023.04.24-20.12.33:426][455]AssetCheck: New page: Asset Save: Cylinder_Brush8_StaticMesh
+[2023.04.24-20.12.33:426][455]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Skyscraper_Meshes/Cylinder_Brush8_StaticMesh.Cylinder_Brush8_StaticMesh
+[2023.04.24-20.12.41:532][406]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Cylinder_Brush8_StaticMeshB07133D7443761A2DF99F8A3FC53EDB9.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Art/Meshes/Skyscraper_Meshes/Cylinder_Brush8_StaticMesh.uasset'
+[2023.04.24-20.12.41:549][406]AssetCheck: New page: Asset Save: Cylinder_Brush8_StaticMesh
+[2023.04.24-20.12.41:549][406]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Skyscraper_Meshes/Cylinder_Brush8_StaticMesh.Cylinder_Brush8_StaticMesh
+[2023.04.24-20.12.43:201][545]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2023.04.24-20.12.46:285][684]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2023.04.24-20.12.48:101][774]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2023.04.24-20.12.49:314][829]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2023.04.24-20.12.50:479][885]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2023.04.24-20.12.51:113][915]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2023.04.24-20.12.52:202][961]LogUObjectHash: Compacting FUObjectHashTables data took  11.52ms
+[2023.04.24-20.12.52:425][961]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Skyscraper_LevelFA68595E432FCE8170DD429845691AC9.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/Skyscraper_Level.umap'
+[2023.04.24-20.12.52:474][961]AssetCheck: New page: Asset Save: Skyscraper_Level
+[2023.04.24-20.12.52:474][961]LogContentValidation: Display: Validating World /Game/Levels/Skyscraper_Level.Skyscraper_Level
+[2023.04.24-20.12.52:951][985]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2023.04.24-20.12.53:447][  9]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2023.04.24-20.12.55:691][118]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2023.04.24-20.12.56:151][141]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2023.04.24-20.12.57:088][187]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2023.04.24-20.12.58:059][234]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cylinder_Brush8_StaticMesh)
+[2023.04.24-20.12.59:265][273]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.24-20.12.59:265][273]PIE: New page: PIE session: Skyscraper_Level (Apr 24, 2023, 12:12:59 PM)
+[2023.04.24-20.12.59:266][273]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Skyscraper_Level
+[2023.04.24-20.12.59:334][273]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068647s)
+[2023.04.24-20.12.59:335][273]LogAIModule: Creating AISystem for world Skyscraper_Level
+[2023.04.24-20.12.59:336][273]LogPlayLevel: PIE: World Init took: (0.001257s)
+[2023.04.24-20.12.59:336][273]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Skyscraper_Level.Skyscraper_Level to /Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level (0.070093s)
+[2023.04.24-20.12.59:395][273]LogUObjectHash: Compacting FUObjectHashTables data took   7.96ms
+[2023.04.24-20.12.59:398][273]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2023.04.24-20.12.59:398][273]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.24-20.12.59:398][273]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.24-20.12.59:398][273]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.24-20.12.59:398][273]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.24-20.12.59:398][273]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.24-20.12.59:398][273]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.24-20.12.59:398][273]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.24-20.12.59:398][273]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.24-20.12.59:398][273]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.24-20.12.59:398][273]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.24-20.12.59:398][273]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.24-20.12.59:398][273]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.24-20.12.59:402][273]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.24-20.12.59:402][273]LogAudioMixer: Display: 1: FrontRight
+[2023.04.24-20.12.59:413][273]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud II Wireless)
+[2023.04.24-20.12.59:414][273]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.24-20.12.59:414][273]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.24-20.12.59:414][273]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.24-20.12.59:414][273]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.24-20.12.59:414][273]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.24-20.12.59:414][273]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.24-20.12.59:416][273]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.24-20.12.59:416][273]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.24-20.12.59:416][273]LogInit: FAudioDevice initialized.
+[2023.04.24-20.12.59:416][273]LogAudio: Display: Audio Device (ID: 29) registered with world 'Skyscraper_Level'.
+[2023.04.24-20.12.59:429][273]LogLoad: Game class is 'MyGame_C'
+[2023.04.24-20.12.59:441][273]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone10_29.CharacterMesh0'
+[2023.04.24-20.12.59:441][273]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone11_32.CharacterMesh0'
+[2023.04.24-20.12.59:441][273]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone12_35.CharacterMesh0'
+[2023.04.24-20.12.59:441][273]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone13_38.CharacterMesh0'
+[2023.04.24-20.12.59:441][273]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone2_5.CharacterMesh0'
+[2023.04.24-20.12.59:441][273]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone3_8.CharacterMesh0'
+[2023.04.24-20.12.59:441][273]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone4_11.CharacterMesh0'
+[2023.04.24-20.12.59:442][273]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone5_14.CharacterMesh0'
+[2023.04.24-20.12.59:442][273]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone6_17.CharacterMesh0'
+[2023.04.24-20.12.59:442][273]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone7_20.CharacterMesh0'
+[2023.04.24-20.12.59:442][273]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone8_23.CharacterMesh0'
+[2023.04.24-20.12.59:442][273]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone9_26.CharacterMesh0'
+[2023.04.24-20.12.59:442][273]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.24-20.12.59:443][273]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level up for play (max tick rate 0) at 2023.04.24-16.12.59
+[2023.04.24-20.12.59:446][273]LogWorld: Bringing up level for play took: 0.016463
+[2023.04.24-20.12.59:447][273]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2023.04.24-20.12.59:449][273]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.24-20.12.59:449][273]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.24-20.12.59:449][273]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.24-20.12.59:502][273]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.24-20.12.59:504][273]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.24-20.12.59:504][273]PIE: Server logged in
+[2023.04.24-20.12.59:505][273]PIE: Play in editor total start time 0.241 seconds.
+[2023.04.24-20.13.29:758][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-20.13.29:758][482]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Skyscraper_Level
+[2023.04.24-20.13.29:764][482]LogWorld: UWorld::CleanupWorld for Skyscraper_Level, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-20.13.29:766][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-20.13.29:779][482]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.24-20.13.29:808][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-20.13.29:859][482]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.24-20.13.29:860][482]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.24-20.13.29:861][482]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.24-20.13.29:863][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-20.13.29:895][482]LogUObjectHash: Compacting FUObjectHashTables data took   7.13ms
+[2023.04.24-20.13.29:958][483]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2023.04.24-20.13.31:314][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder_Brush8_StaticMesh)
+[2023.04.24-20.13.38:517][256]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Cylinder_Brush8_StaticMesh15C8ECD34903E639B8E68CAD01A88202.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Art/Meshes/Skyscraper_Meshes/Cylinder_Brush8_StaticMesh.uasset'
+[2023.04.24-20.13.38:534][256]AssetCheck: New page: Asset Save: Cylinder_Brush8_StaticMesh
+[2023.04.24-20.13.38:534][256]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Skyscraper_Meshes/Cylinder_Brush8_StaticMesh.Cylinder_Brush8_StaticMesh
+[2023.04.24-20.13.39:629][327]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2023.04.24-20.13.39:846][327]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Skyscraper_LevelFE7C9BAB4D6806ACA9EAC0BCEA68827F.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/Skyscraper_Level.umap'
+[2023.04.24-20.13.39:894][327]AssetCheck: New page: Asset Save: Skyscraper_Level
+[2023.04.24-20.13.39:894][327]LogContentValidation: Display: Validating World /Game/Levels/Skyscraper_Level.Skyscraper_Level
+[2023.04.24-20.13.40:261][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder_Brush8_StaticMesh)
+[2023.04.24-20.13.40:647][362]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cylinder_Brush8_StaticMesh)
+[2023.04.24-20.13.41:709][405]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.24-20.13.41:709][405]PIE: New page: PIE session: Skyscraper_Level (Apr 24, 2023, 12:13:41 PM)
+[2023.04.24-20.13.41:709][405]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Skyscraper_Level
+[2023.04.24-20.13.41:778][405]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068943s)
+[2023.04.24-20.13.41:779][405]LogAIModule: Creating AISystem for world Skyscraper_Level
+[2023.04.24-20.13.41:780][405]LogPlayLevel: PIE: World Init took: (0.001338s)
+[2023.04.24-20.13.41:780][405]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Skyscraper_Level.Skyscraper_Level to /Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level (0.070456s)
+[2023.04.24-20.13.41:827][405]LogUObjectHash: Compacting FUObjectHashTables data took   6.03ms
+[2023.04.24-20.13.41:829][405]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2023.04.24-20.13.41:829][405]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.24-20.13.41:829][405]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.24-20.13.41:829][405]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.24-20.13.41:829][405]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.24-20.13.41:829][405]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.24-20.13.41:829][405]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.24-20.13.41:829][405]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.24-20.13.41:829][405]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.24-20.13.41:830][405]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.24-20.13.41:830][405]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.24-20.13.41:830][405]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.24-20.13.41:830][405]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.24-20.13.41:833][405]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.24-20.13.41:833][405]LogAudioMixer: Display: 1: FrontRight
+[2023.04.24-20.13.41:844][405]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud II Wireless)
+[2023.04.24-20.13.41:844][405]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.24-20.13.41:844][405]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.24-20.13.41:844][405]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.24-20.13.41:844][405]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.24-20.13.41:844][405]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.24-20.13.41:844][405]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.24-20.13.41:846][405]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.24-20.13.41:846][405]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.24-20.13.41:846][405]LogInit: FAudioDevice initialized.
+[2023.04.24-20.13.41:846][405]LogAudio: Display: Audio Device (ID: 30) registered with world 'Skyscraper_Level'.
+[2023.04.24-20.13.41:854][405]LogLoad: Game class is 'MyGame_C'
+[2023.04.24-20.13.41:865][405]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone10_29.CharacterMesh0'
+[2023.04.24-20.13.41:865][405]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone11_32.CharacterMesh0'
+[2023.04.24-20.13.41:865][405]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone12_35.CharacterMesh0'
+[2023.04.24-20.13.41:865][405]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone13_38.CharacterMesh0'
+[2023.04.24-20.13.41:866][405]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone2_5.CharacterMesh0'
+[2023.04.24-20.13.41:866][405]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone3_8.CharacterMesh0'
+[2023.04.24-20.13.41:866][405]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone4_11.CharacterMesh0'
+[2023.04.24-20.13.41:866][405]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone5_14.CharacterMesh0'
+[2023.04.24-20.13.41:866][405]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone6_17.CharacterMesh0'
+[2023.04.24-20.13.41:866][405]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone7_20.CharacterMesh0'
+[2023.04.24-20.13.41:866][405]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone8_23.CharacterMesh0'
+[2023.04.24-20.13.41:867][405]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone9_26.CharacterMesh0'
+[2023.04.24-20.13.41:867][405]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.24-20.13.41:867][405]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level up for play (max tick rate 0) at 2023.04.24-16.13.41
+[2023.04.24-20.13.41:871][405]LogWorld: Bringing up level for play took: 0.016020
+[2023.04.24-20.13.41:871][405]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2023.04.24-20.13.41:873][405]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.24-20.13.41:873][405]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.24-20.13.41:873][405]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.24-20.13.41:925][405]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.24-20.13.41:927][405]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.24-20.13.41:927][405]PIE: Server logged in
+[2023.04.24-20.13.41:928][405]PIE: Play in editor total start time 0.221 seconds.
+[2023.04.24-20.14.01:131][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-20.14.01:131][833]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Skyscraper_Level
+[2023.04.24-20.14.01:138][833]LogWorld: UWorld::CleanupWorld for Skyscraper_Level, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-20.14.01:141][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-20.14.01:148][833]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.24-20.14.01:177][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-20.14.01:227][833]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.24-20.14.01:227][833]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.24-20.14.01:228][833]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.24-20.14.01:231][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-20.14.01:259][833]LogUObjectHash: Compacting FUObjectHashTables data took   6.59ms
+[2023.04.24-20.14.01:324][834]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2023.04.24-20.14.17:171][922]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Projectile.Projectile
+[2023.04.24-20.14.51:802][490]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder_Brush8_StaticMesh)
+[2023.04.24-20.15.00:968][919]LogUObjectHash: Compacting FUObjectHashTables data took   6.18ms
+[2023.04.24-20.15.01:189][919]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Skyscraper_Level73EDB8D04F2E2F6408069EB2BC1C5CEF.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/Skyscraper_Level.umap'
+[2023.04.24-20.15.01:237][919]AssetCheck: New page: Asset Save: Skyscraper_Level
+[2023.04.24-20.15.01:237][919]LogContentValidation: Display: Validating World /Game/Levels/Skyscraper_Level.Skyscraper_Level
+[2023.04.24-20.15.01:809][948]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder_Brush8_StaticMesh)
+[2023.04.24-20.15.02:559][984]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cylinder_Brush8_StaticMesh)
+[2023.04.24-20.15.03:835][ 29]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.24-20.15.03:835][ 29]PIE: New page: PIE session: Skyscraper_Level (Apr 24, 2023, 12:15:03 PM)
+[2023.04.24-20.15.03:835][ 29]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Skyscraper_Level
+[2023.04.24-20.15.03:904][ 29]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068375s)
+[2023.04.24-20.15.03:905][ 29]LogAIModule: Creating AISystem for world Skyscraper_Level
+[2023.04.24-20.15.03:905][ 29]LogPlayLevel: PIE: World Init took: (0.001254s)
+[2023.04.24-20.15.03:905][ 29]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Skyscraper_Level.Skyscraper_Level to /Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level (0.069795s)
+[2023.04.24-20.15.03:959][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   6.13ms
+[2023.04.24-20.15.03:960][ 29]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2023.04.24-20.15.03:960][ 29]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.24-20.15.03:960][ 29]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.24-20.15.03:960][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.24-20.15.03:960][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.24-20.15.03:960][ 29]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.24-20.15.03:960][ 29]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.24-20.15.03:960][ 29]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.24-20.15.03:960][ 29]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.24-20.15.03:961][ 29]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.24-20.15.03:961][ 29]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.24-20.15.03:961][ 29]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.24-20.15.03:961][ 29]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.24-20.15.03:964][ 29]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.24-20.15.03:964][ 29]LogAudioMixer: Display: 1: FrontRight
+[2023.04.24-20.15.03:975][ 29]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud II Wireless)
+[2023.04.24-20.15.03:975][ 29]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.24-20.15.03:975][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.24-20.15.03:975][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.24-20.15.03:976][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.24-20.15.03:976][ 29]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.24-20.15.03:976][ 29]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.24-20.15.03:977][ 29]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.24-20.15.03:977][ 29]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.24-20.15.03:977][ 29]LogInit: FAudioDevice initialized.
+[2023.04.24-20.15.03:977][ 29]LogAudio: Display: Audio Device (ID: 31) registered with world 'Skyscraper_Level'.
+[2023.04.24-20.15.03:985][ 29]LogLoad: Game class is 'MyGame_C'
+[2023.04.24-20.15.03:997][ 29]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone10_29.CharacterMesh0'
+[2023.04.24-20.15.03:997][ 29]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone11_32.CharacterMesh0'
+[2023.04.24-20.15.03:997][ 29]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone12_35.CharacterMesh0'
+[2023.04.24-20.15.03:998][ 29]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone13_38.CharacterMesh0'
+[2023.04.24-20.15.03:998][ 29]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone2_5.CharacterMesh0'
+[2023.04.24-20.15.03:998][ 29]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone3_8.CharacterMesh0'
+[2023.04.24-20.15.03:998][ 29]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone4_11.CharacterMesh0'
+[2023.04.24-20.15.03:998][ 29]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone5_14.CharacterMesh0'
+[2023.04.24-20.15.03:998][ 29]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone6_17.CharacterMesh0'
+[2023.04.24-20.15.03:998][ 29]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone7_20.CharacterMesh0'
+[2023.04.24-20.15.03:999][ 29]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone8_23.CharacterMesh0'
+[2023.04.24-20.15.03:999][ 29]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone9_26.CharacterMesh0'
+[2023.04.24-20.15.03:999][ 29]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.24-20.15.04:000][ 29]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level up for play (max tick rate 0) at 2023.04.24-16.15.04
+[2023.04.24-20.15.04:003][ 29]LogWorld: Bringing up level for play took: 0.016857
+[2023.04.24-20.15.04:003][ 29]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2023.04.24-20.15.04:005][ 29]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.24-20.15.04:005][ 29]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.24-20.15.04:005][ 29]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.24-20.15.04:058][ 29]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.24-20.15.04:061][ 29]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.24-20.15.04:061][ 29]PIE: Server logged in
+[2023.04.24-20.15.04:062][ 29]PIE: Play in editor total start time 0.228 seconds.
+[2023.04.24-20.15.22:351][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-20.15.22:351][476]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Skyscraper_Level
+[2023.04.24-20.15.22:357][476]LogWorld: UWorld::CleanupWorld for Skyscraper_Level, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-20.15.22:360][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-20.15.22:367][476]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.24-20.15.22:396][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-20.15.22:444][476]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.24-20.15.22:444][476]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.24-20.15.22:445][476]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.24-20.15.22:448][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-20.15.22:461][476]LogUObjectHash: Compacting FUObjectHashTables data took   6.55ms
+[2023.04.24-20.15.22:529][477]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2023.04.24-20.15.42:785][351]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2023.04.24-20.15.43:014][351]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Skyscraper_Level61CA0E774EC458E2D5C3F6B67D371309.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/Skyscraper_Level.umap'
+[2023.04.24-20.15.43:060][351]AssetCheck: New page: Asset Save: Skyscraper_Level
+[2023.04.24-20.15.43:060][351]LogContentValidation: Display: Validating World /Game/Levels/Skyscraper_Level.Skyscraper_Level
+[2023.04.24-20.16.04:880][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SlippyMetal2)
+[2023.04.24-20.16.06:444][134]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SlippyMetal)
+[2023.04.24-20.16.07:773][198]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SlippyMetal2)
+[2023.04.24-20.16.18:098][650]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume6)
+[2023.04.24-20.17.14:904][450]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox3)
+[2023.04.24-20.17.29:470][200]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2023.04.24-20.17.29:692][200]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Skyscraper_Level03471AE84EA1C0398D6B1BA9592732CD.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/Skyscraper_Level.umap'
+[2023.04.24-20.17.29:742][200]AssetCheck: New page: Asset Save: Skyscraper_Level
+[2023.04.24-20.17.29:742][200]LogContentValidation: Display: Validating World /Game/Levels/Skyscraper_Level.Skyscraper_Level
+[2023.04.24-20.17.31:401][286]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox2)
+[2023.04.24-20.17.35:934][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.04.24-20.17.36:150][510]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Skyscraper_Level270638434503A2715C972B8E7B412AF0.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/Skyscraper_Level.umap'
+[2023.04.24-20.17.36:194][510]AssetCheck: New page: Asset Save: Skyscraper_Level
+[2023.04.24-20.17.36:194][510]LogContentValidation: Display: Validating World /Game/Levels/Skyscraper_Level.Skyscraper_Level
+[2023.04.24-20.17.37:844][596]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox3)
+[2023.04.24-20.18.26:385][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.04.24-20.18.26:609][745]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Skyscraper_Level3B09BBD843C19FD639FCCAAEEB5B3D90.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/Skyscraper_Level.umap'
+[2023.04.24-20.18.26:657][745]AssetCheck: New page: Asset Save: Skyscraper_Level
+[2023.04.24-20.18.26:657][745]LogContentValidation: Display: Validating World /Game/Levels/Skyscraper_Level.Skyscraper_Level
+[2023.04.24-20.19.07:367][291]LogSlate: Window 'Select Path' being destroyed
+[2023.04.24-20.19.07:479][291]LogStaticMesh: Building static mesh Box_Brush17_StaticMesh...
+[2023.04.24-20.19.07:485][291]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Meshes/Skyscraper_Meshes/Box_Brush17_StaticMesh.Box_Brush17_StaticMesh
+[2023.04.24-20.19.07:490][291]LogActorFactory: Actor Factory created Box_Brush17_StaticMesh
+[2023.04.24-20.19.07:571][291]LogEditor: Error: Actor 'Brush /Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.BoxBrush17' is marked pending kill and cannot be converted
+[2023.04.24-20.19.07:571][291]LogEditor: Error: Actor 'Brush /Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.BoxBrush18' is marked pending kill and cannot be converted
+[2023.04.24-20.19.07:571][291]LogEditor: Error: Actor 'Brush /Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.BoxBrush19' is marked pending kill and cannot be converted
+[2023.04.24-20.19.07:571][291]LogEditor: Error: Actor 'Brush /Game/Levels/Skyscraper_Level.Skyscraper_Level:PersistentLevel.BoxBrush16' is marked pending kill and cannot be converted
+[2023.04.24-20.19.07:571][291]EditorErrors: New page: Actor Reattachment
+[2023.04.24-20.19.07:634][291]LogUObjectHash: Compacting FUObjectHashTables data took   6.26ms
+[2023.04.24-20.19.26:409][ 10]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_Brush17_StaticMesh)
+[2023.04.24-20.19.51:335][  1]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Meshes/Skyscraper_Meshes/Box_Brush17_StaticMesh.Box_Brush17_StaticMesh
+[2023.04.24-20.20.24:725][307]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Box_Brush17_StaticMesh3B51119C4E89F5A5AC5640AA7D2C6AD6.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Art/Meshes/Skyscraper_Meshes/Box_Brush17_StaticMesh.uasset'
+[2023.04.24-20.20.24:750][307]AssetCheck: New page: Asset Save: Box_Brush17_StaticMesh
+[2023.04.24-20.20.24:750][307]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Skyscraper_Meshes/Box_Brush17_StaticMesh.Box_Brush17_StaticMesh
+[2023.04.24-20.20.30:308][690]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Box_Brush17_StaticMesh57FA13CE4439D41B1B5D389D21C2720D.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Art/Meshes/Skyscraper_Meshes/Box_Brush17_StaticMesh.uasset'
+[2023.04.24-20.20.30:328][690]AssetCheck: New page: Asset Save: Box_Brush17_StaticMesh
+[2023.04.24-20.20.30:328][690]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Skyscraper_Meshes/Box_Brush17_StaticMesh.Box_Brush17_StaticMesh
+[2023.04.24-20.20.43:714][228]LogUObjectHash: Compacting FUObjectHashTables data took   6.54ms
+[2023.04.24-20.20.43:936][228]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Skyscraper_Level57BE7A524F09E7512359ACA0AAB8A1DD.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/Skyscraper_Level.umap'
+[2023.04.24-20.20.43:981][228]AssetCheck: New page: Asset Save: Skyscraper_Level
+[2023.04.24-20.20.43:981][228]LogContentValidation: Display: Validating World /Game/Levels/Skyscraper_Level.Skyscraper_Level
+[2023.04.24-20.20.47:018][284]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_Brush17_StaticMesh)
+[2023.04.24-20.20.47:151][290]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Box_Brush17_StaticMesh)
+[2023.04.24-20.20.48:259][320]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.24-20.20.48:259][320]PIE: New page: PIE session: Skyscraper_Level (Apr 24, 2023, 12:20:48 PM)
+[2023.04.24-20.20.48:259][320]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Skyscraper_Level
+[2023.04.24-20.20.48:326][320]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066913s)
+[2023.04.24-20.20.48:327][320]LogAIModule: Creating AISystem for world Skyscraper_Level
+[2023.04.24-20.20.48:327][320]LogPlayLevel: PIE: World Init took: (0.001353s)
+[2023.04.24-20.20.48:328][320]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Skyscraper_Level.Skyscraper_Level to /Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level (0.068446s)
+[2023.04.24-20.20.48:382][320]LogUObjectHash: Compacting FUObjectHashTables data took   6.31ms
+[2023.04.24-20.20.48:384][320]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2023.04.24-20.20.48:384][320]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.24-20.20.48:384][320]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.24-20.20.48:384][320]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.24-20.20.48:384][320]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.24-20.20.48:384][320]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.24-20.20.48:384][320]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.24-20.20.48:384][320]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.24-20.20.48:384][320]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.24-20.20.48:384][320]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.24-20.20.48:384][320]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.24-20.20.48:384][320]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.24-20.20.48:384][320]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.24-20.20.48:388][320]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.24-20.20.48:388][320]LogAudioMixer: Display: 1: FrontRight
+[2023.04.24-20.20.48:399][320]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud II Wireless)
+[2023.04.24-20.20.48:399][320]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.24-20.20.48:399][320]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.24-20.20.48:399][320]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.24-20.20.48:400][320]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.24-20.20.48:400][320]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.24-20.20.48:400][320]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.24-20.20.48:401][320]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.24-20.20.48:401][320]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.24-20.20.48:401][320]LogInit: FAudioDevice initialized.
+[2023.04.24-20.20.48:401][320]LogAudio: Display: Audio Device (ID: 32) registered with world 'Skyscraper_Level'.
+[2023.04.24-20.20.48:416][320]LogLoad: Game class is 'MyGame_C'
+[2023.04.24-20.20.48:426][320]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone10_29.CharacterMesh0'
+[2023.04.24-20.20.48:427][320]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone11_32.CharacterMesh0'
+[2023.04.24-20.20.48:427][320]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone12_35.CharacterMesh0'
+[2023.04.24-20.20.48:427][320]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone13_38.CharacterMesh0'
+[2023.04.24-20.20.48:427][320]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone2_5.CharacterMesh0'
+[2023.04.24-20.20.48:427][320]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone3_8.CharacterMesh0'
+[2023.04.24-20.20.48:427][320]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone4_11.CharacterMesh0'
+[2023.04.24-20.20.48:427][320]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone5_14.CharacterMesh0'
+[2023.04.24-20.20.48:428][320]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone6_17.CharacterMesh0'
+[2023.04.24-20.20.48:428][320]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone7_20.CharacterMesh0'
+[2023.04.24-20.20.48:428][320]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone8_23.CharacterMesh0'
+[2023.04.24-20.20.48:428][320]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone9_26.CharacterMesh0'
+[2023.04.24-20.20.48:428][320]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.24-20.20.48:429][320]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level up for play (max tick rate 0) at 2023.04.24-16.20.48
+[2023.04.24-20.20.48:432][320]LogWorld: Bringing up level for play took: 0.015946
+[2023.04.24-20.20.48:432][320]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2023.04.24-20.20.48:435][320]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.24-20.20.48:435][320]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.24-20.20.48:435][320]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.24-20.20.48:485][320]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.24-20.20.48:487][320]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.24-20.20.48:487][320]PIE: Server logged in
+[2023.04.24-20.20.48:488][320]PIE: Play in editor total start time 0.231 seconds.
+[2023.04.24-20.20.56:922][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-20.20.56:922][869]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Skyscraper_Level
+[2023.04.24-20.20.56:929][869]LogWorld: UWorld::CleanupWorld for Skyscraper_Level, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-20.20.56:931][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-20.20.56:941][869]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.24-20.20.56:970][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-20.20.57:017][869]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.24-20.20.57:020][869]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.24-20.20.57:021][869]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.24-20.20.57:024][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-20.20.57:047][869]LogUObjectHash: Compacting FUObjectHashTables data took   7.02ms
+[2023.04.24-20.20.57:122][870]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2023.04.24-20.21.00:022][973]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Box_Brush17_StaticMesh)
+[2023.04.24-20.21.00:961][996]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.24-20.21.00:961][996]PIE: New page: PIE session: Skyscraper_Level (Apr 24, 2023, 12:21:00 PM)
+[2023.04.24-20.21.00:961][996]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Skyscraper_Level
+[2023.04.24-20.21.01:026][996]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065403s)
+[2023.04.24-20.21.01:028][996]LogAIModule: Creating AISystem for world Skyscraper_Level
+[2023.04.24-20.21.01:028][996]LogPlayLevel: PIE: World Init took: (0.001761s)
+[2023.04.24-20.21.01:028][996]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Skyscraper_Level.Skyscraper_Level to /Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level (0.067343s)
+[2023.04.24-20.21.01:082][996]LogUObjectHash: Compacting FUObjectHashTables data took   6.21ms
+[2023.04.24-20.21.01:084][996]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2023.04.24-20.21.01:084][996]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.24-20.21.01:084][996]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.24-20.21.01:084][996]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.24-20.21.01:084][996]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.24-20.21.01:084][996]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.24-20.21.01:084][996]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.24-20.21.01:084][996]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.24-20.21.01:084][996]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.24-20.21.01:084][996]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.24-20.21.01:084][996]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.24-20.21.01:084][996]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.24-20.21.01:084][996]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.24-20.21.01:088][996]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.24-20.21.01:088][996]LogAudioMixer: Display: 1: FrontRight
+[2023.04.24-20.21.01:098][996]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud II Wireless)
+[2023.04.24-20.21.01:099][996]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.24-20.21.01:099][996]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.24-20.21.01:099][996]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.24-20.21.01:099][996]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.24-20.21.01:099][996]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.24-20.21.01:099][996]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.24-20.21.01:100][996]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.24-20.21.01:101][996]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.24-20.21.01:101][996]LogInit: FAudioDevice initialized.
+[2023.04.24-20.21.01:101][996]LogAudio: Display: Audio Device (ID: 33) registered with world 'Skyscraper_Level'.
+[2023.04.24-20.21.01:109][996]LogLoad: Game class is 'MyGame_C'
+[2023.04.24-20.21.01:120][996]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone10_29.CharacterMesh0'
+[2023.04.24-20.21.01:120][996]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone11_32.CharacterMesh0'
+[2023.04.24-20.21.01:120][996]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone12_35.CharacterMesh0'
+[2023.04.24-20.21.01:120][996]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone13_38.CharacterMesh0'
+[2023.04.24-20.21.01:120][996]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone2_5.CharacterMesh0'
+[2023.04.24-20.21.01:121][996]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone3_8.CharacterMesh0'
+[2023.04.24-20.21.01:121][996]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone4_11.CharacterMesh0'
+[2023.04.24-20.21.01:121][996]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone5_14.CharacterMesh0'
+[2023.04.24-20.21.01:121][996]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone6_17.CharacterMesh0'
+[2023.04.24-20.21.01:121][996]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone7_20.CharacterMesh0'
+[2023.04.24-20.21.01:121][996]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone8_23.CharacterMesh0'
+[2023.04.24-20.21.01:121][996]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone9_26.CharacterMesh0'
+[2023.04.24-20.21.01:122][996]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.24-20.21.01:122][996]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level up for play (max tick rate 0) at 2023.04.24-16.21.01
+[2023.04.24-20.21.01:126][996]LogWorld: Bringing up level for play took: 0.015895
+[2023.04.24-20.21.01:126][996]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2023.04.24-20.21.01:128][996]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.24-20.21.01:128][996]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.24-20.21.01:128][996]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.24-20.21.01:177][996]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.24-20.21.01:179][996]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.24-20.21.01:179][996]PIE: Server logged in
+[2023.04.24-20.21.01:181][996]PIE: Play in editor total start time 0.221 seconds.
+[2023.04.24-20.21.10:134][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-20.21.10:134][581]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Skyscraper_Level
+[2023.04.24-20.21.10:140][581]LogWorld: UWorld::CleanupWorld for Skyscraper_Level, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-20.21.10:142][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-20.21.10:155][581]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.24-20.21.10:185][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-20.21.10:230][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-20.21.10:236][581]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.24-20.21.10:237][581]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.24-20.21.10:255][581]LogUObjectHash: Compacting FUObjectHashTables data took   6.16ms
+[2023.04.24-20.21.10:327][582]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2023.04.24-20.21.13:649][707]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Box_Brush17_StaticMesh)
+[2023.04.24-20.21.15:041][748]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.24-20.21.15:042][748]PIE: New page: PIE session: Skyscraper_Level (Apr 24, 2023, 12:21:15 PM)
+[2023.04.24-20.21.15:042][748]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Skyscraper_Level
+[2023.04.24-20.21.15:108][748]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066152s)
+[2023.04.24-20.21.15:109][748]LogAIModule: Creating AISystem for world Skyscraper_Level
+[2023.04.24-20.21.15:109][748]LogPlayLevel: PIE: World Init took: (0.001274s)
+[2023.04.24-20.21.15:109][748]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Skyscraper_Level.Skyscraper_Level to /Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level (0.067601s)
+[2023.04.24-20.21.15:165][748]LogUObjectHash: Compacting FUObjectHashTables data took   6.36ms
+[2023.04.24-20.21.15:167][748]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2023.04.24-20.21.15:167][748]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.24-20.21.15:167][748]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.24-20.21.15:167][748]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.24-20.21.15:167][748]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.24-20.21.15:167][748]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.24-20.21.15:167][748]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.24-20.21.15:167][748]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.24-20.21.15:167][748]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.24-20.21.15:167][748]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.24-20.21.15:167][748]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.24-20.21.15:167][748]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.24-20.21.15:167][748]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.24-20.21.15:171][748]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.24-20.21.15:171][748]LogAudioMixer: Display: 1: FrontRight
+[2023.04.24-20.21.15:182][748]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud II Wireless)
+[2023.04.24-20.21.15:182][748]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.24-20.21.15:182][748]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.24-20.21.15:182][748]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.24-20.21.15:182][748]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.24-20.21.15:182][748]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.24-20.21.15:183][748]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.24-20.21.15:184][748]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.24-20.21.15:184][748]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.24-20.21.15:184][748]LogInit: FAudioDevice initialized.
+[2023.04.24-20.21.15:184][748]LogAudio: Display: Audio Device (ID: 34) registered with world 'Skyscraper_Level'.
+[2023.04.24-20.21.15:193][748]LogLoad: Game class is 'MyGame_C'
+[2023.04.24-20.21.15:204][748]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone10_29.CharacterMesh0'
+[2023.04.24-20.21.15:205][748]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone11_32.CharacterMesh0'
+[2023.04.24-20.21.15:205][748]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone12_35.CharacterMesh0'
+[2023.04.24-20.21.15:205][748]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone13_38.CharacterMesh0'
+[2023.04.24-20.21.15:205][748]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone2_5.CharacterMesh0'
+[2023.04.24-20.21.15:205][748]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone3_8.CharacterMesh0'
+[2023.04.24-20.21.15:205][748]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone4_11.CharacterMesh0'
+[2023.04.24-20.21.15:205][748]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone5_14.CharacterMesh0'
+[2023.04.24-20.21.15:206][748]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone6_17.CharacterMesh0'
+[2023.04.24-20.21.15:206][748]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone7_20.CharacterMesh0'
+[2023.04.24-20.21.15:206][748]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone8_23.CharacterMesh0'
+[2023.04.24-20.21.15:206][748]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone9_26.CharacterMesh0'
+[2023.04.24-20.21.15:206][748]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.24-20.21.15:207][748]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level up for play (max tick rate 0) at 2023.04.24-16.21.15
+[2023.04.24-20.21.15:210][748]LogWorld: Bringing up level for play took: 0.016088
+[2023.04.24-20.21.15:210][748]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2023.04.24-20.21.15:212][748]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.24-20.21.15:212][748]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.24-20.21.15:212][748]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.24-20.21.15:269][748]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.24-20.21.15:271][748]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.24-20.21.15:272][748]PIE: Server logged in
+[2023.04.24-20.21.15:273][748]PIE: Play in editor total start time 0.233 seconds.
+[2023.04.24-20.21.23:706][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-20.21.23:706][309]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Skyscraper_Level
+[2023.04.24-20.21.23:713][309]LogWorld: UWorld::CleanupWorld for Skyscraper_Level, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-20.21.23:716][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-20.21.23:728][309]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.24-20.21.23:757][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-20.21.23:803][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-20.21.23:808][309]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.24-20.21.23:809][309]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.24-20.21.23:829][309]LogUObjectHash: Compacting FUObjectHashTables data took   6.42ms
+[2023.04.24-20.21.23:901][310]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2023.04.24-20.21.27:508][445]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Box_Brush17_StaticMesh)
+[2023.04.24-20.21.28:655][476]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.24-20.21.28:655][476]PIE: New page: PIE session: Skyscraper_Level (Apr 24, 2023, 12:21:28 PM)
+[2023.04.24-20.21.28:655][476]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Skyscraper_Level
+[2023.04.24-20.21.28:727][476]LogPlayLevel: PIE: StaticDuplicateObject took: (0.071538s)
+[2023.04.24-20.21.28:728][476]LogAIModule: Creating AISystem for world Skyscraper_Level
+[2023.04.24-20.21.28:728][476]LogPlayLevel: PIE: World Init took: (0.001356s)
+[2023.04.24-20.21.28:728][476]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Skyscraper_Level.Skyscraper_Level to /Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level (0.073074s)
+[2023.04.24-20.21.28:781][476]LogUObjectHash: Compacting FUObjectHashTables data took   6.16ms
+[2023.04.24-20.21.28:783][476]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2023.04.24-20.21.28:783][476]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.24-20.21.28:783][476]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.24-20.21.28:783][476]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.24-20.21.28:783][476]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.24-20.21.28:783][476]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.24-20.21.28:783][476]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.24-20.21.28:783][476]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.24-20.21.28:783][476]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.24-20.21.28:784][476]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.24-20.21.28:784][476]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.24-20.21.28:784][476]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.24-20.21.28:784][476]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.24-20.21.28:787][476]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.24-20.21.28:787][476]LogAudioMixer: Display: 1: FrontRight
+[2023.04.24-20.21.28:798][476]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud II Wireless)
+[2023.04.24-20.21.28:798][476]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.24-20.21.28:798][476]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.24-20.21.28:798][476]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.24-20.21.28:799][476]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.24-20.21.28:799][476]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.24-20.21.28:799][476]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.24-20.21.28:800][476]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.24-20.21.28:800][476]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.24-20.21.28:800][476]LogInit: FAudioDevice initialized.
+[2023.04.24-20.21.28:800][476]LogAudio: Display: Audio Device (ID: 35) registered with world 'Skyscraper_Level'.
+[2023.04.24-20.21.28:812][476]LogLoad: Game class is 'MyGame_C'
+[2023.04.24-20.21.28:823][476]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone10_29.CharacterMesh0'
+[2023.04.24-20.21.28:823][476]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone11_32.CharacterMesh0'
+[2023.04.24-20.21.28:823][476]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone12_35.CharacterMesh0'
+[2023.04.24-20.21.28:823][476]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone13_38.CharacterMesh0'
+[2023.04.24-20.21.28:824][476]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone2_5.CharacterMesh0'
+[2023.04.24-20.21.28:824][476]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone3_8.CharacterMesh0'
+[2023.04.24-20.21.28:824][476]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone4_11.CharacterMesh0'
+[2023.04.24-20.21.28:824][476]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone5_14.CharacterMesh0'
+[2023.04.24-20.21.28:824][476]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone6_17.CharacterMesh0'
+[2023.04.24-20.21.28:824][476]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone7_20.CharacterMesh0'
+[2023.04.24-20.21.28:824][476]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone8_23.CharacterMesh0'
+[2023.04.24-20.21.28:824][476]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone9_26.CharacterMesh0'
+[2023.04.24-20.21.28:825][476]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.24-20.21.28:825][476]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level up for play (max tick rate 0) at 2023.04.24-16.21.28
+[2023.04.24-20.21.28:829][476]LogWorld: Bringing up level for play took: 0.016036
+[2023.04.24-20.21.28:829][476]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2023.04.24-20.21.28:831][476]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.24-20.21.28:831][476]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.24-20.21.28:831][476]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.24-20.21.28:881][476]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.24-20.21.28:884][476]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.24-20.21.28:884][476]PIE: Server logged in
+[2023.04.24-20.21.28:885][476]PIE: Play in editor total start time 0.231 seconds.
+[2023.04.24-20.21.39:239][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-20.21.39:239][152]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Skyscraper_Level
+[2023.04.24-20.21.39:244][152]LogWorld: UWorld::CleanupWorld for Skyscraper_Level, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-20.21.39:247][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-20.21.39:260][152]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.24-20.21.39:290][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-20.21.39:343][152]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.24-20.21.39:343][152]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.24-20.21.39:344][152]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.24-20.21.39:347][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-20.21.39:368][152]LogUObjectHash: Compacting FUObjectHashTables data took   6.34ms
+[2023.04.24-20.21.39:445][153]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2023.04.24-20.21.43:797][314]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder_Brush8_StaticMesh)
+[2023.04.24-20.21.45:212][365]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder_Brush8_StaticMesh)
+[2023.04.24-20.22.00:764][965]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder_Brush8_StaticMesh)
+[2023.04.24-20.22.02:941][ 41]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder_Brush8_StaticMesh)
+[2023.04.24-20.22.03:456][ 60]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder_Brush8_StaticMesh)
+[2023.04.24-20.22.04:304][ 93]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder_Brush8_StaticMesh)
+[2023.04.24-20.22.28:109][995]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder_Brush8_StaticMesh)
+[2023.04.24-20.22.47:891][764]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder_Brush8_StaticMesh)
+[2023.04.24-20.23.02:008][266]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cylinder_Brush8_StaticMesh)
+[2023.04.24-20.23.18:179][720]LogUObjectHash: Compacting FUObjectHashTables data took   6.10ms
+[2023.04.24-20.23.18:395][720]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Skyscraper_Level920001D1482C035C8C9A45A039C09947.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/Skyscraper_Level.umap'
+[2023.04.24-20.23.18:442][720]AssetCheck: New page: Asset Save: Skyscraper_Level
+[2023.04.24-20.23.18:442][720]LogContentValidation: Display: Validating World /Game/Levels/Skyscraper_Level.Skyscraper_Level
+[2023.04.24-20.23.22:517][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.04.24-20.23.23:830][872]LogSlate: Window 'Save Content' being destroyed
+[2023.04.24-20.23.23:946][872]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2023.04.24-20.23.24:074][872]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Minimal_Default26E75A734BC59DAC3F757BA363F15227.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/Minimal_Default.umap'
+[2023.04.24-20.23.24:081][872]LogFileHelpers: Saving map 'Minimal_Default' took 0.222
+[2023.04.24-20.23.24:101][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Projectile" FILE="../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/Projectile.uasset" SILENT=true
+[2023.04.24-20.23.24:125][872]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/ProjectileF408122A4AB550A0B436DE8187182A84.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/Projectile.uasset'
+[2023.04.24-20.23.24:144][872]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.24-20.23.24:144][872]LogContentValidation: Display: Validating Blueprint /Game/Assets/Projectile.Projectile
+[2023.04.24-20.23.24:144][872]LogContentValidation: Display: Validating World /Game/Levels/Minimal_Default.Minimal_Default
+[2023.04.24-20.23.27:942][943]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2023.04.24-20.23.28:042][943]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-20.23.28:043][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-20.23.28:173][943]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-20.23.28:174][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-20.23.28:459][943]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.24-20.23.28:459][943]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-20.23.28:463][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-20.23.28:649][943]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.24-20.23.28:649][943]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-20.23.28:649][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-20.23.28:855][943]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-20.23.28:855][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-20.23.28:873][943]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-20.23.28:873][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-20.23.29:027][943]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.24-20.23.29:027][943]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-20.23.29:027][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-20.23.30:096][943]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-20.23.30:096][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-20.23.30:131][943]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.24-20.23.30:131][943]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-20.23.30:132][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-20.23.30:242][943]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-20.23.30:242][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-20.23.30:306][943]LogSlate: Window 'CapstoneProject_HJV - Unreal Editor' being destroyed
+[2023.04.24-20.23.30:805][944]Cmd: QUIT_EDITOR
+[2023.04.24-20.23.30:806][944]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.04.24-20.23.30:808][944]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.04.24-20.23.31:148][944]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.04.24-20.23.31:148][944]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.04.24-20.23.31:148][944]LogAudio: Display: Audio Device unregistered from world 'Skyscraper_Level'.
+[2023.04.24-20.23.31:148][944]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.24-20.23.31:150][944]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.24-20.23.31:163][944]LogAudio: Display: Audio Device Manager Shutdown
+[2023.04.24-20.23.31:163][944]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.04.24-20.23.31:170][944]LogExit: Preparing to exit.
+[2023.04.24-20.23.31:482][944]LogUObjectHash: Compacting FUObjectHashTables data took   6.94ms
+[2023.04.24-20.23.31:792][944]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-20.23.31:794][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:794][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:794][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:794][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:794][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:794][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:794][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:794][944]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-20.23.31:827][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:827][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:827][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:827][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:827][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:827][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:827][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:827][944]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-20.23.31:829][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:829][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:829][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:829][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:829][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:829][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:829][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:829][944]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-20.23.31:831][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:831][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:831][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:831][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:831][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:831][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:832][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:832][944]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-20.23.31:833][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:833][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:833][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:834][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:834][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:834][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:834][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:834][944]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-20.23.31:836][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:836][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:836][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:836][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:836][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:836][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:836][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:836][944]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-20.23.31:839][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:839][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:839][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:839][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:839][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:839][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:839][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:839][944]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-20.23.31:842][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:842][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:842][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:842][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:842][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:842][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:842][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:842][944]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-20.23.31:845][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:845][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:845][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:845][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:845][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:845][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:845][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:845][944]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-20.23.31:848][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:848][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:848][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:848][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:848][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:848][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:848][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:848][944]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-20.23.31:850][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:850][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:850][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:850][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:850][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:850][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:850][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:850][944]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-20.23.31:853][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:853][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:853][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:853][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:853][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:853][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:853][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:853][944]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-20.23.31:854][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:854][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:854][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:854][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:854][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:854][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:854][944]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.24-20.23.31:854][944]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-20.23.31:989][944]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.04.24-20.23.32:004][944]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-20.23.32:005][944]LogExit: Editor shut down
+[2023.04.24-20.23.32:009][944]LogExit: Transaction tracking system shut down
+[2023.04.24-20.23.32:680][944]LogExit: Object subsystem successfully closed.
+[2023.04.24-20.23.32:715][944]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.24-20.23.32:715][944]LogShaderCompilers: Display: Total job queries 1962, among them cache hits 1217 (62.03%)
+[2023.04.24-20.23.32:715][944]LogShaderCompilers: Display: Tracking 718 distinct input hashes that result in 299 distinct outputs (41.64%)
+[2023.04.24-20.23.32:715][944]LogShaderCompilers: Display: RAM used: 1.86 MB (0.00 GB) of 1228.80 MB (1.20 GB) budget. Usage: 0.15%
+[2023.04.24-20.23.32:715][944]LogShaderCompilers: Display: ================================================
+[2023.04.24-20.23.32:733][944]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.04.24-20.23.32:766][944]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (888)
+[2023.04.24-20.23.32:766][944]LogModuleManager: Shutting down and abandoning module SequencerWidgets (886)
+[2023.04.24-20.23.32:766][944]LogModuleManager: Shutting down and abandoning module BlueprintGraph (884)
+[2023.04.24-20.23.32:766][944]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (882)
+[2023.04.24-20.23.32:766][944]LogModuleManager: Shutting down and abandoning module Voice (880)
+[2023.04.24-20.23.32:766][944]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (878)
+[2023.04.24-20.23.32:766][944]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (876)
+[2023.04.24-20.23.32:766][944]LogModuleManager: Shutting down and abandoning module SceneOutliner (874)
+[2023.04.24-20.23.32:766][944]LogModuleManager: Shutting down and abandoning module AddContentDialog (872)
+[2023.04.24-20.23.32:768][944]LogModuleManager: Shutting down and abandoning module WidgetCarousel (871)
+[2023.04.24-20.23.32:768][944]LogModuleManager: Shutting down and abandoning module EditorWidgets (868)
+[2023.04.24-20.23.32:768][944]LogModuleManager: Shutting down and abandoning module StatsViewer (866)
+[2023.04.24-20.23.32:768][944]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (864)
+[2023.04.24-20.23.32:768][944]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (862)
+[2023.04.24-20.23.32:768][944]LogModuleManager: Shutting down and abandoning module AutomationWorker (860)
+[2023.04.24-20.23.32:768][944]LogModuleManager: Shutting down and abandoning module SteamVREditor (858)
+[2023.04.24-20.23.32:768][944]LogModuleManager: Shutting down and abandoning module OculusMR (856)
+[2023.04.24-20.23.32:769][944]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (854)
+[2023.04.24-20.23.32:769][944]LogModuleManager: Shutting down and abandoning module TakeRecorder (853)
+[2023.04.24-20.23.32:769][944]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (850)
+[2023.04.24-20.23.32:769][944]LogModuleManager: Shutting down and abandoning module TakesCore (848)
+[2023.04.24-20.23.32:769][944]LogModuleManager: Shutting down and abandoning module OpenXRInput (846)
+[2023.04.24-20.23.32:769][944]LogModuleManager: Shutting down and abandoning module GooglePADEditor (844)
+[2023.04.24-20.23.32:769][944]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (842)
+[2023.04.24-20.23.32:769][944]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (840)
+[2023.04.24-20.23.32:770][944]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (838)
+[2023.04.24-20.23.32:770][944]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (836)
+[2023.04.24-20.23.32:770][944]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (834)
+[2023.04.24-20.23.32:770][944]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (832)
+[2023.04.24-20.23.32:770][944]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (830)
+[2023.04.24-20.23.32:770][944]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (828)
+[2023.04.24-20.23.32:770][944]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (826)
+[2023.04.24-20.23.32:770][944]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (824)
+[2023.04.24-20.23.32:770][944]LogModuleManager: Shutting down and abandoning module WebMMedia (822)
+[2023.04.24-20.23.32:770][944]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (820)
+[2023.04.24-20.23.32:770][944]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (818)
+[2023.04.24-20.23.32:770][944]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (816)
+[2023.04.24-20.23.32:770][944]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (814)
+[2023.04.24-20.23.32:770][944]LogModuleManager: Shutting down and abandoning module SequenceRecorder (813)
+[2023.04.24-20.23.32:770][944]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (810)
+[2023.04.24-20.23.32:770][944]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (808)
+[2023.04.24-20.23.32:770][944]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (806)
+[2023.04.24-20.23.32:770][944]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (804)
+[2023.04.24-20.23.32:770][944]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (802)
+[2023.04.24-20.23.32:770][944]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (800)
+[2023.04.24-20.23.32:770][944]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (798)
+[2023.04.24-20.23.32:770][944]LogModuleManager: Shutting down and abandoning module PlanarCut (796)
+[2023.04.24-20.23.32:770][944]LogModuleManager: Shutting down and abandoning module CharacterAI (794)
+[2023.04.24-20.23.32:770][944]LogModuleManager: Shutting down and abandoning module TextureAlignMode (792)
+[2023.04.24-20.23.32:770][944]LogModuleManager: Shutting down and abandoning module BspMode (790)
+[2023.04.24-20.23.32:770][944]LogModuleManager: Shutting down and abandoning module GeometryMode (788)
+[2023.04.24-20.23.32:770][944]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (786)
+[2023.04.24-20.23.32:770][944]LogModuleManager: Shutting down and abandoning module SmartSnapping (784)
+[2023.04.24-20.23.32:770][944]LogModuleManager: Shutting down and abandoning module SessionServices (782)
+[2023.04.24-20.23.32:770][944]LogModuleManager: Shutting down and abandoning module MeshPaint (780)
+[2023.04.24-20.23.32:770][944]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (778)
+[2023.04.24-20.23.32:770][944]LogModuleManager: Shutting down and abandoning module FoliageEdit (776)
+[2023.04.24-20.23.32:770][944]LogModuleManager: Shutting down and abandoning module LandscapeEditor (774)
+[2023.04.24-20.23.32:771][944]LogModuleManager: Shutting down and abandoning module MeshPaintMode (772)
+[2023.04.24-20.23.32:771][944]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (770)
+[2023.04.24-20.23.32:771][944]LogModuleManager: Shutting down and abandoning module ActorPickerMode (768)
+[2023.04.24-20.23.32:771][944]LogModuleManager: Shutting down and abandoning module PlacementMode (766)
+[2023.04.24-20.23.32:771][944]LogModuleManager: Shutting down and abandoning module ViewportSnapping (764)
+[2023.04.24-20.23.32:771][944]LogModuleManager: Shutting down and abandoning module ViewportInteraction (762)
+[2023.04.24-20.23.32:771][944]LogModuleManager: Shutting down and abandoning module ClothPainter (760)
+[2023.04.24-20.23.32:771][944]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (759)
+[2023.04.24-20.23.32:771][944]LogModuleManager: Shutting down and abandoning module LogVisualizer (756)
+[2023.04.24-20.23.32:771][944]LogModuleManager: Shutting down and abandoning module IntroTutorials (754)
+[2023.04.24-20.23.32:771][944]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (753)
+[2023.04.24-20.23.32:771][944]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (750)
+[2023.04.24-20.23.32:771][944]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (748)
+[2023.04.24-20.23.32:771][944]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (746)
+[2023.04.24-20.23.32:771][944]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (745)
+[2023.04.24-20.23.33:962][944]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (742)
+[2023.04.24-20.23.33:962][944]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (740)
+[2023.04.24-20.23.33:962][944]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (738)
+[2023.04.24-20.23.33:962][944]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (736)
+[2023.04.24-20.23.33:962][944]LogModuleManager: Shutting down and abandoning module TraceInsights (734)
+[2023.04.24-20.23.33:962][944]MemoryProfiler: Shutdown
+[2023.04.24-20.23.33:962][944]NetworkingProfiler: Shutdown
+[2023.04.24-20.23.33:962][944]LoadingProfiler: Shutdown
+[2023.04.24-20.23.33:962][944]TimingProfiler: Shutdown
+[2023.04.24-20.23.33:962][944]LogModuleManager: Shutting down and abandoning module TraceServices (733)
+[2023.04.24-20.23.33:962][944]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (730)
+[2023.04.24-20.23.33:962][944]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (728)
+[2023.04.24-20.23.33:962][944]LogModuleManager: Shutting down and abandoning module InputBindingEditor (726)
+[2023.04.24-20.23.33:962][944]LogModuleManager: Shutting down and abandoning module MergeActors (724)
+[2023.04.24-20.23.33:963][944]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (722)
+[2023.04.24-20.23.33:963][944]LogModuleManager: Shutting down and abandoning module LocalizationService (721)
+[2023.04.24-20.23.33:963][944]LogModuleManager: Shutting down and abandoning module HardwareTargeting (718)
+[2023.04.24-20.23.33:963][944]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (716)
+[2023.04.24-20.23.33:963][944]LogModuleManager: Shutting down and abandoning module UndoHistory (714)
+[2023.04.24-20.23.33:963][944]LogModuleManager: Shutting down and abandoning module XmlParser (712)
+[2023.04.24-20.23.33:963][944]LogModuleManager: Shutting down and abandoning module Blutility (710)
+[2023.04.24-20.23.33:963][944]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (708)
+[2023.04.24-20.23.33:963][944]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (707)
+[2023.04.24-20.23.33:963][944]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (704)
+[2023.04.24-20.23.33:964][944]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (703)
+[2023.04.24-20.23.33:964][944]LogModuleManager: Shutting down and abandoning module SettingsEditor (700)
+[2023.04.24-20.23.33:964][944]LogModuleManager: Shutting down and abandoning module ProjectLauncher (698)
+[2023.04.24-20.23.33:964][944]LogModuleManager: Shutting down and abandoning module SessionFrontend (696)
+[2023.04.24-20.23.33:964][944]LogModuleManager: Shutting down and abandoning module ProfilerClient (694)
+[2023.04.24-20.23.33:964][944]LogModuleManager: Shutting down and abandoning module DeviceManager (692)
+[2023.04.24-20.23.33:964][944]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (691)
+[2023.04.24-20.23.33:997][944]LogModuleManager: Shutting down and abandoning module AutomationController (688)
+[2023.04.24-20.23.33:997][944]LogModuleManager: Shutting down and abandoning module AutomationWindow (686)
+[2023.04.24-20.23.33:997][944]LogModuleManager: Shutting down and abandoning module Layers (684)
+[2023.04.24-20.23.33:997][944]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (682)
+[2023.04.24-20.23.33:997][944]LogModuleManager: Shutting down and abandoning module DetailCustomizations (680)
+[2023.04.24-20.23.33:997][944]LogModuleManager: Shutting down and abandoning module PackagesDialog (678)
+[2023.04.24-20.23.33:997][944]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (676)
+[2023.04.24-20.23.33:997][944]LogModuleManager: Shutting down and abandoning module Persona (674)
+[2023.04.24-20.23.33:997][944]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (673)
+[2023.04.24-20.23.33:997][944]LogModuleManager: Shutting down and abandoning module AnimGraph (671)
+[2023.04.24-20.23.33:998][944]LogModuleManager: Shutting down and abandoning module Kismet (668)
+[2023.04.24-20.23.34:045][944]LogModuleManager: Shutting down and abandoning module KismetWidgets (667)
+[2023.04.24-20.23.34:045][944]LogModuleManager: Shutting down and abandoning module GraphEditor (664)
+[2023.04.24-20.23.34:045][944]LogModuleManager: Shutting down and abandoning module StructViewer (662)
+[2023.04.24-20.23.34:045][944]LogModuleManager: Shutting down and abandoning module ClassViewer (660)
+[2023.04.24-20.23.34:054][944]LogModuleManager: Shutting down and abandoning module Toolbox (658)
+[2023.04.24-20.23.34:054][944]LogModuleManager: Shutting down and abandoning module ModuleUI (656)
+[2023.04.24-20.23.34:054][944]LogModuleManager: Shutting down and abandoning module OutputLog (654)
+[2023.04.24-20.23.34:060][944]LogModuleManager: Shutting down and abandoning module GammaUI (652)
+[2023.04.24-20.23.34:060][944]LogModuleManager: Shutting down and abandoning module Documentation (650)
+[2023.04.24-20.23.34:064][944]LogModuleManager: Shutting down and abandoning module LiveCoding (648)
+[2023.04.24-20.23.34:064][944]LogModuleManager: Shutting down and abandoning module LevelSequence (646)
+[2023.04.24-20.23.34:064][944]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (644)
+[2023.04.24-20.23.34:064][944]LogModuleManager: Shutting down and abandoning module MovieScene (642)
+[2023.04.24-20.23.34:064][944]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (640)
+[2023.04.24-20.23.34:064][944]LogModuleManager: Shutting down and abandoning module LauncherPlatform (638)
+[2023.04.24-20.23.34:064][944]LogModuleManager: Shutting down and abandoning module AnalyticsET (636)
+[2023.04.24-20.23.34:064][944]LogModuleManager: Shutting down and abandoning module PortalServices (634)
+[2023.04.24-20.23.34:064][944]LogModuleManager: Shutting down and abandoning module PortalRpc (632)
+[2023.04.24-20.23.34:064][944]LogModuleManager: Shutting down and abandoning module MessagingRpc (630)
+[2023.04.24-20.23.34:064][944]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (628)
+[2023.04.24-20.23.34:064][944]LogModuleManager: Shutting down and abandoning module AudioMixerCore (627)
+[2023.04.24-20.23.34:064][944]LogModuleManager: Shutting down and abandoning module AIModule (624)
+[2023.04.24-20.23.34:064][944]LogModuleManager: Shutting down and abandoning module GameplayDebugger (623)
+[2023.04.24-20.23.34:064][944]LogModuleManager: Shutting down and abandoning module AITestSuite (621)
+[2023.04.24-20.23.34:064][944]LogModuleManager: Shutting down and abandoning module NavigationSystem (619)
+[2023.04.24-20.23.34:064][944]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (616)
+[2023.04.24-20.23.34:072][944]LogModuleManager: Shutting down and abandoning module ProfilerService (614)
+[2023.04.24-20.23.34:218][944]LogModuleManager: Shutting down and abandoning module TaskGraph (612)
+[2023.04.24-20.23.34:218][944]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (610)
+[2023.04.24-20.23.34:218][944]LogModuleManager: Shutting down and abandoning module OculusEditor (608)
+[2023.04.24-20.23.34:218][944]LogModuleManager: Shutting down and abandoning module OculusInput (606)
+[2023.04.24-20.23.34:218][944]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (604)
+[2023.04.24-20.23.34:218][944]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (602)
+[2023.04.24-20.23.34:218][944]LogModuleManager: Shutting down and abandoning module CollectionManager (601)
+[2023.04.24-20.23.34:219][944]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (598)
+[2023.04.24-20.23.34:219][944]LogModuleManager: Shutting down and abandoning module TakeSequencer (596)
+[2023.04.24-20.23.34:219][944]LogModuleManager: Shutting down and abandoning module TakeMovieScene (594)
+[2023.04.24-20.23.34:219][944]LogModuleManager: Shutting down and abandoning module ScreenshotTools (592)
+[2023.04.24-20.23.34:219][944]LogModuleManager: Shutting down and abandoning module SynthesisEditor (590)
+[2023.04.24-20.23.34:219][944]LogModuleManager: Shutting down and abandoning module Synthesis (588)
+[2023.04.24-20.23.34:219][944]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (586)
+[2023.04.24-20.23.34:219][944]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (584)
+[2023.04.24-20.23.34:219][944]LogModuleManager: Shutting down and abandoning module OpenXREditor (582)
+[2023.04.24-20.23.34:219][944]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (580)
+[2023.04.24-20.23.34:219][944]LogModuleManager: Shutting down and abandoning module GooglePAD (578)
+[2023.04.24-20.23.34:219][944]LogModuleManager: Shutting down and abandoning module EditableMesh (576)
+[2023.04.24-20.23.34:219][944]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (574)
+[2023.04.24-20.23.34:219][944]LogModuleManager: Shutting down and abandoning module CableComponent (572)
+[2023.04.24-20.23.34:219][944]LogModuleManager: Shutting down and abandoning module AssetTags (570)
+[2023.04.24-20.23.34:219][944]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (568)
+[2023.04.24-20.23.34:219][944]LogModuleManager: Shutting down and abandoning module AudioCapture (566)
+[2023.04.24-20.23.34:219][944]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (565)
+[2023.04.24-20.23.34:219][944]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (562)
+[2023.04.24-20.23.34:219][944]LogModuleManager: Shutting down and abandoning module AppleImageUtils (560)
+[2023.04.24-20.23.34:219][944]LogModuleManager: Shutting down and abandoning module AndroidPermission (558)
+[2023.04.24-20.23.34:219][944]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (556)
+[2023.04.24-20.23.34:219][944]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (554)
+[2023.04.24-20.23.34:219][944]LogModuleManager: Shutting down and abandoning module TemplateSequence (552)
+[2023.04.24-20.23.34:219][944]LogModuleManager: Shutting down and abandoning module ImgMedia (550)
+[2023.04.24-20.23.34:219][944]LogModuleManager: Shutting down and abandoning module MediaCompositing (548)
+[2023.04.24-20.23.34:219][944]LogModuleManager: Shutting down and abandoning module CPathfinding (546)
+[2023.04.24-20.23.34:219][944]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (544)
+[2023.04.24-20.23.34:219][944]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (542)
+[2023.04.24-20.23.34:219][944]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (540)
+[2023.04.24-20.23.34:219][944]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (538)
+[2023.04.24-20.23.34:219][944]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (536)
+[2023.04.24-20.23.34:219][944]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (534)
+[2023.04.24-20.23.34:219][944]LogModuleManager: Shutting down and abandoning module MotoSynth (532)
+[2023.04.24-20.23.34:219][944]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (530)
+[2023.04.24-20.23.34:220][944]LogOpenImageDenoise: OIDN shutting down
+[2023.04.24-20.23.34:220][944]LogModuleManager: Shutting down and abandoning module MeshConversion (528)
+[2023.04.24-20.23.34:220][944]LogModuleManager: Shutting down and abandoning module DynamicMesh (526)
+[2023.04.24-20.23.34:220][944]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (524)
+[2023.04.24-20.23.34:220][944]LogModuleManager: Shutting down and abandoning module GeometricObjects (522)
+[2023.04.24-20.23.34:220][944]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (520)
+[2023.04.24-20.23.34:220][944]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (518)
+[2023.04.24-20.23.34:220][944]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (516)
+[2023.04.24-20.23.34:220][944]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (514)
+[2023.04.24-20.23.34:220][944]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (513)
+[2023.04.24-20.23.34:220][944]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (510)
+[2023.04.24-20.23.34:220][944]LogModuleManager: Shutting down and abandoning module FractureEditor (508)
+[2023.04.24-20.23.34:220][944]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (506)
+[2023.04.24-20.23.34:220][944]LogModuleManager: Shutting down and abandoning module ChaosNiagara (504)
+[2023.04.24-20.23.34:220][944]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (502)
+[2023.04.24-20.23.34:220][944]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (501)
+[2023.04.24-20.23.34:220][944]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (498)
+[2023.04.24-20.23.34:220][944]LogModuleManager: Shutting down and abandoning module BackChannel (496)
+[2023.04.24-20.23.34:220][944]LogModuleManager: Shutting down and abandoning module AlembicImporter (494)
+[2023.04.24-20.23.34:220][944]LogModuleManager: Shutting down and abandoning module AlembicLibrary (493)
+[2023.04.24-20.23.34:220][944]LogModuleManager: Shutting down and abandoning module GeometryCache (492)
+[2023.04.24-20.23.34:220][944]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (491)
+[2023.04.24-20.23.34:220][944]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (486)
+[2023.04.24-20.23.34:220][944]LogModuleManager: Shutting down and abandoning module AutomationUtils (484)
+[2023.04.24-20.23.34:220][944]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (482)
+[2023.04.24-20.23.34:220][944]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (480)
+[2023.04.24-20.23.34:220][944]LogModuleManager: Shutting down and abandoning module UObjectPlugin (478)
+[2023.04.24-20.23.34:220][944]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (476)
+[2023.04.24-20.23.34:220][944]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (474)
+[2023.04.24-20.23.34:220][944]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (472)
+[2023.04.24-20.23.34:220][944]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (470)
+[2023.04.24-20.23.34:220][944]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (468)
+[2023.04.24-20.23.34:220][944]LogModuleManager: Shutting down and abandoning module PluginUtils (466)
+[2023.04.24-20.23.34:220][944]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (464)
+[2023.04.24-20.23.34:220][944]LogModuleManager: Shutting down and abandoning module GitSourceControl (462)
+[2023.04.24-20.23.34:221][944]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (460)
+[2023.04.24-20.23.34:221][944]LogModuleManager: Shutting down and abandoning module SourceControl (459)
+[2023.04.24-20.23.34:221][944]LogModuleManager: Shutting down and abandoning module CurveEditorTools (456)
+[2023.04.24-20.23.34:221][944]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (454)
+[2023.04.24-20.23.34:221][944]LogModuleManager: Shutting down and abandoning module PluginBrowser (452)
+[2023.04.24-20.23.34:221][944]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (450)
+[2023.04.24-20.23.34:221][944]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (448)
+[2023.04.24-20.23.34:221][944]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (446)
+[2023.04.24-20.23.34:221][944]LogModuleManager: Shutting down and abandoning module CryptoKeys (444)
+[2023.04.24-20.23.34:221][944]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (442)
+[2023.04.24-20.23.34:221][944]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (440)
+[2023.04.24-20.23.34:221][944]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (438)
+[2023.04.24-20.23.34:221][944]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (436)
+[2023.04.24-20.23.34:221][944]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (434)
+[2023.04.24-20.23.34:221][944]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (432)
+[2023.04.24-20.23.34:221][944]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (430)
+[2023.04.24-20.23.34:221][944]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (428)
+[2023.04.24-20.23.34:221][944]LogModuleManager: Shutting down and abandoning module LiveLink (426)
+[2023.04.24-20.23.34:510][944]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (424)
+[2023.04.24-20.23.34:510][944]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (422)
+[2023.04.24-20.23.34:510][944]LogModuleManager: Shutting down and abandoning module Paper2DEditor (420)
+[2023.04.24-20.23.34:510][944]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (418)
+[2023.04.24-20.23.34:510][944]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (416)
+[2023.04.24-20.23.34:510][944]LogModuleManager: Shutting down and abandoning module SoundFields (414)
+[2023.04.24-20.23.34:510][944]LogModuleManager: Shutting down and abandoning module SignificanceManager (412)
+[2023.04.24-20.23.34:510][944]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (410)
+[2023.04.24-20.23.34:510][944]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (408)
+[2023.04.24-20.23.34:510][944]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (406)
+[2023.04.24-20.23.34:510][944]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (402)
+[2023.04.24-20.23.34:510][944]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (400)
+[2023.04.24-20.23.34:510][944]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (398)
+[2023.04.24-20.23.34:511][944]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (396)
+[2023.04.24-20.23.34:511][944]LogModuleManager: Shutting down and abandoning module ApexDestruction (394)
+[2023.04.24-20.23.34:511][944]LogModuleManager: Shutting down and abandoning module UdpMessaging (392)
+[2023.04.24-20.23.34:612][944]LogModuleManager: Shutting down and abandoning module ActorSequence (390)
+[2023.04.24-20.23.34:612][944]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (388)
+[2023.04.24-20.23.34:612][944]LogModuleManager: Shutting down and abandoning module TcpMessaging (386)
+[2023.04.24-20.23.34:713][944]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (384)
+[2023.04.24-20.23.34:713][944]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (382)
+[2023.04.24-20.23.34:713][944]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (380)
+[2023.04.24-20.23.34:713][944]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (378)
+[2023.04.24-20.23.34:713][944]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (376)
+[2023.04.24-20.23.34:713][944]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (374)
+[2023.04.24-20.23.34:713][944]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2023.04.24-20.23.34:713][944]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (372)
+[2023.04.24-20.23.34:713][944]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (370)
+[2023.04.24-20.23.34:713][944]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (368)
+[2023.04.24-20.23.34:713][944]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (366)
+[2023.04.24-20.23.34:713][944]LogModuleManager: Shutting down and abandoning module MagicLeapController (364)
+[2023.04.24-20.23.34:713][944]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (362)
+[2023.04.24-20.23.34:713][944]LogModuleManager: Shutting down and abandoning module MagicLeapAR (360)
+[2023.04.24-20.23.34:713][944]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (358)
+[2023.04.24-20.23.34:713][944]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2023.04.24-20.23.34:713][944]LogModuleManager: Shutting down and abandoning module SignalProcessing (355)
+[2023.04.24-20.23.34:713][944]LogModuleManager: Shutting down and abandoning module NiagaraEditor (353)
+[2023.04.24-20.23.34:714][944]LogModuleManager: Shutting down and abandoning module NiagaraCore (350)
+[2023.04.24-20.23.34:714][944]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (348)
+[2023.04.24-20.23.34:714][944]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (346)
+[2023.04.24-20.23.34:714][944]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (344)
+[2023.04.24-20.23.34:714][944]LogModuleManager: Shutting down and abandoning module FacialAnimation (342)
+[2023.04.24-20.23.34:714][944]LogModuleManager: Shutting down and abandoning module DataValidation (340)
+[2023.04.24-20.23.34:714][944]LogModuleManager: Shutting down and abandoning module AnimationSharing (338)
+[2023.04.24-20.23.34:714][944]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (336)
+[2023.04.24-20.23.34:714][944]LogModuleManager: Shutting down and abandoning module LevelEditor (335)
+[2023.04.24-20.23.34:716][944]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (334)
+[2023.04.24-20.23.34:716][944]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (332)
+[2023.04.24-20.23.34:717][944]LogModuleManager: Shutting down and abandoning module MainFrame (330)
+[2023.04.24-20.23.34:717][944]LogModuleManager: Shutting down and abandoning module HotReload (329)
+[2023.04.24-20.23.34:717][944]LogModuleManager: Shutting down and abandoning module ToolMenus (325)
+[2023.04.24-20.23.34:717][944]LogModuleManager: Shutting down and abandoning module ContentBrowser (323)
+[2023.04.24-20.23.34:717][944]LogModuleManager: Shutting down and abandoning module ContentBrowserData (322)
+[2023.04.24-20.23.34:717][944]LogModuleManager: Shutting down and abandoning module TreeMap (319)
+[2023.04.24-20.23.34:717][944]LogModuleManager: Shutting down and abandoning module GameplayCameras (316)
+[2023.04.24-20.23.34:717][944]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (314)
+[2023.04.24-20.23.34:717][944]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (312)
+[2023.04.24-20.23.34:717][944]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2023.04.24-20.23.34:717][944]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2023.04.24-20.23.34:729][944]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2023.04.24-20.23.34:729][944]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2023.04.24-20.23.34:729][944]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2023.04.24-20.23.34:729][944]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2023.04.24-20.23.34:729][944]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2023.04.24-20.23.34:729][944]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2023.04.24-20.23.34:729][944]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2023.04.24-20.23.34:729][944]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2023.04.24-20.23.34:729][944]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2023.04.24-20.23.34:729][944]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2023.04.24-20.23.34:729][944]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2023.04.24-20.23.34:729][944]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2023.04.24-20.23.34:729][944]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2023.04.24-20.23.34:729][944]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2023.04.24-20.23.34:729][944]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2023.04.24-20.23.34:729][944]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2023.04.24-20.23.34:729][944]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2023.04.24-20.23.34:729][944]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2023.04.24-20.23.34:729][944]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2023.04.24-20.23.34:729][944]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2023.04.24-20.23.34:729][944]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2023.04.24-20.23.34:730][944]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2023.04.24-20.23.34:730][944]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2023.04.24-20.23.34:730][944]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2023.04.24-20.23.34:730][944]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2023.04.24-20.23.34:731][944]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2023.04.24-20.23.34:731][944]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2023.04.24-20.23.34:731][944]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2023.04.24-20.23.34:731][944]LogModuleManager: Shutting down and abandoning module Core (248)
+[2023.04.24-20.23.34:731][944]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2023.04.24-20.23.34:731][944]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2023.04.24-20.23.34:731][944]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2023.04.24-20.23.34:731][944]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2023.04.24-20.23.34:731][944]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2023.04.24-20.23.34:733][944]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2023.04.24-20.23.34:733][944]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2023.04.24-20.23.34:733][944]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2023.04.24-20.23.34:733][944]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2023.04.24-20.23.34:733][944]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2023.04.24-20.23.34:734][944]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2023.04.24-20.23.34:734][944]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2023.04.24-20.23.34:734][944]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2023.04.24-20.23.34:734][944]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2023.04.24-20.23.34:734][944]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2023.04.24-20.23.34:734][944]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2023.04.24-20.23.34:734][944]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2023.04.24-20.23.34:734][944]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2023.04.24-20.23.34:734][944]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2023.04.24-20.23.34:734][944]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2023.04.24-20.23.34:735][944]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2023.04.24-20.23.34:735][944]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2023.04.24-20.23.34:735][944]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2023.04.24-20.23.34:735][944]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2023.04.24-20.23.34:735][944]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2023.04.24-20.23.34:735][944]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2023.04.24-20.23.34:735][944]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2023.04.24-20.23.34:735][944]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2023.04.24-20.23.34:735][944]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2023.04.24-20.23.34:735][944]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2023.04.24-20.23.34:735][944]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2023.04.24-20.23.34:735][944]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2023.04.24-20.23.34:735][944]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2023.04.24-20.23.34:735][944]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2023.04.24-20.23.34:735][944]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2023.04.24-20.23.34:735][944]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2023.04.24-20.23.34:735][944]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2023.04.24-20.23.34:735][944]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2023.04.24-20.23.34:735][944]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2023.04.24-20.23.34:742][944]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2023.04.24-20.23.34:742][944]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2023.04.24-20.23.34:742][944]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2023.04.24-20.23.34:742][944]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2023.04.24-20.23.34:742][944]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2023.04.24-20.23.34:752][944]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2023.04.24-20.23.34:752][944]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2023.04.24-20.23.34:752][944]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2023.04.24-20.23.34:752][944]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2023.04.24-20.23.34:752][944]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2023.04.24-20.23.34:752][944]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2023.04.24-20.23.34:752][944]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2023.04.24-20.23.34:752][944]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2023.04.24-20.23.34:752][944]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2023.04.24-20.23.34:758][944]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2023.04.24-20.23.34:780][944]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2023.04.24-20.23.34:780][944]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2023.04.24-20.23.34:780][944]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2023.04.24-20.23.34:780][944]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2023.04.24-20.23.34:780][944]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2023.04.24-20.23.34:781][944]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2023.04.24-20.23.34:781][944]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2023.04.24-20.23.34:781][944]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2023.04.24-20.23.34:781][944]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2023.04.24-20.23.34:781][944]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2023.04.24-20.23.34:781][944]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2023.04.24-20.23.34:781][944]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2023.04.24-20.23.34:781][944]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2023.04.24-20.23.34:781][944]LogHMD: Freeing OpenVRDLLHandle.
+[2023.04.24-20.23.34:781][944]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2023.04.24-20.23.34:781][944]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (108)
+[2023.04.24-20.23.34:782][944]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.04.24-20.23.34:782][944]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (106)
+[2023.04.24-20.23.34:782][944]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2023.04.24-20.23.34:782][944]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2023.04.24-20.23.34:782][944]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2023.04.24-20.23.34:782][944]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2023.04.24-20.23.34:782][944]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2023.04.24-20.23.34:782][944]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (94)
+[2023.04.24-20.23.34:782][944]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2023.04.24-20.23.34:782][944]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2023.04.24-20.23.34:784][944]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2023.04.24-20.23.34:784][944]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2023.04.24-20.23.34:808][944]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2023.04.24-20.23.34:808][944]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2023.04.24-20.23.34:808][944]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE63E6689-4288-6EFC-BEBC-D1878DAF296C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=19b46e6a49238a2eb14c92b96e821bc2%7C044152d583a444fbb8b43b9a22a4efa2%7C5addbe1a-fdf4-4609-8580-2d71963e5e2c&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.04.24-20.23.34:808][944]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2023.04.24-20.23.34:823][944]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2023.04.24-20.23.34:825][944]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (74)
+[2023.04.24-20.23.34:825][944]LogModuleManager: Shutting down and abandoning module WmfMedia (72)
+[2023.04.24-20.23.34:827][944]LogModuleManager: Shutting down and abandoning module Media (71)
+[2023.04.24-20.23.34:828][944]LogModuleManager: Shutting down and abandoning module MediaInfo (70)
+[2023.04.24-20.23.34:828][944]LogModuleManager: Shutting down and abandoning module MLSDK (66)
+[2023.04.24-20.23.34:828][944]LogModuleManager: Shutting down and abandoning module MagicLeap (64)
+[2023.04.24-20.23.34:828][944]LogModuleManager: Shutting down and abandoning module ChaosCloth (62)
+[2023.04.24-20.23.34:828][944]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (60)
+[2023.04.24-20.23.34:828][944]LogModuleManager: Shutting down and abandoning module NiagaraShader (58)
+[2023.04.24-20.23.34:829][944]LogModuleManager: Shutting down and abandoning module VariantManagerContent (56)
+[2023.04.24-20.23.34:829][944]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2023.04.24-20.23.34:829][944]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2023.04.24-20.23.34:829][944]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2023.04.24-20.23.34:829][944]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2023.04.24-20.23.34:829][944]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2023.04.24-20.23.34:829][944]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2023.04.24-20.23.34:829][944]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2023.04.24-20.23.34:829][944]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2023.04.24-20.23.34:829][944]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2023.04.24-20.23.34:829][944]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2023.04.24-20.23.34:829][944]LogXGEController: Cleaning working directory: C:/Users/ehowl/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.04.24-20.23.34:830][944]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2023.04.24-20.23.34:830][944]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2023.04.24-20.23.34:830][944]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2023.04.24-20.23.34:831][944]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2023.04.24-20.23.34:831][944]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2023.04.24-20.23.34:831][944]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2023.04.24-20.23.34:831][944]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2023.04.24-20.23.34:837][944]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2023.04.24-20.23.34:837][944]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2023.04.24-20.23.34:837][944]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2023.04.24-20.23.34:837][944]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2023.04.24-20.23.34:837][944]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2023.04.24-20.23.34:837][944]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2023.04.24-20.23.34:837][944]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2023.04.24-20.23.34:838][944]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2023.04.24-20.23.34:838][944]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2023.04.24-20.23.34:838][944]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2023.04.24-20.23.34:838][944]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2023.04.24-20.23.34:873][944]LogD3D11RHI: Shutdown
+[2023.04.24-20.23.34:873][944]LogD3D11RHI: CleanupD3DDevice
+[2023.04.24-20.23.34:885][944]LogExit: Exiting.
+[2023.04.24-20.23.34:912][944]Log file closed, 04/24/23 16:23:34
