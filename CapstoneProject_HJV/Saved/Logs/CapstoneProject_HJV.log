@@ -1218,3 +1218,97 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.04.25-00.19.48:273][903]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Skyscraper_LevelD280947649EFB465138D59AC823FBB98.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/Skyscraper_Level.umap'
 [2023.04.25-00.19.48:315][903]AssetCheck: New page: Asset Save: Skyscraper_Level
 [2023.04.25-00.19.48:315][903]LogContentValidation: Display: Validating World /Game/Levels/Skyscraper_Level.Skyscraper_Level
+[2023.04.25-00.20.43:038][510]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Meshes/FinalCharacter/MantisBlade_Final.MantisBlade_Final
+[2023.04.25-00.20.43:120][510]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2023.04.25-00.20.43:272][510]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.04.25-00.20.44:230][511]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:1).
+[2023.04.25-00.21.43:278][504]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/ehowl/Downloads/MantisBlade_Final2.fbx)
+[2023.04.25-00.21.43:291][504]LogFbx: Loading FBX Scene from C:/Users/ehowl/Downloads/MantisBlade_Final2.fbx
+[2023.04.25-00.21.43:301][504]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.25-00.22.02:620][504]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.25-00.22.02:775][504]LogFbx: Display: Triangulating static mesh MantisBlade - Final
+[2023.04.25-00.22.02:837][504]LogStaticMesh: Building static mesh MantisBlade_Final2...
+[2023.04.25-00.22.02:846][504]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Meshes/FinalCharacter/MantisBlade_Final2.MantisBlade_Final2
+[2023.04.25-00.22.04:573][572]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Meshes/FinalCharacter/MantisBlade_Final2.MantisBlade_Final2
+[2023.04.25-00.23.41:444][601]LogExportMeshUtils: Fbx LOD loading
+[2023.04.25-00.23.41:475][601]LogFbx: Loading FBX Scene from C:/Users/ehowl/Downloads/MantisBlade_Final2.fbx
+[2023.04.25-00.23.41:484][601]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.25-00.23.41:511][601]LogFbx: Display: Triangulating static mesh MantisBlade - Final
+[2023.04.25-00.23.41:562][601]LogStaticMesh: Building static mesh MantisBlade_Final2...
+[2023.04.25-00.23.41:578][601]LogStaticMesh: Built static mesh [0.02s] /Game/Art/Meshes/FinalCharacter/MantisBlade_Final2.MantisBlade_Final2
+[2023.04.25-00.23.41:598][601]LogStaticMesh: Building static mesh MantisBlade_Final2...
+[2023.04.25-00.23.41:734][601]LogStaticMesh: Built static mesh [0.14s] /Game/Art/Meshes/FinalCharacter/MantisBlade_Final2.MantisBlade_Final2
+[2023.04.25-00.24.53:183][914]LogEditorFactories: Performing atomic reimport of [C:/Users/ehowl/Downloads/MantisBlade_Final2.fbx]
+[2023.04.25-00.24.53:223][914]LogFbx: Loading FBX Scene from C:/Users/ehowl/Downloads/MantisBlade_Final2.fbx
+[2023.04.25-00.24.53:233][914]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.25-00.24.53:278][914]LogFbx: Display: Triangulating static mesh MantisBlade - Final
+[2023.04.25-00.24.53:345][914]LogStaticMesh: Building static mesh MantisBlade_Final2...
+[2023.04.25-00.24.53:353][914]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Meshes/FinalCharacter/MantisBlade_Final2.MantisBlade_Final2
+[2023.04.25-00.24.53:394][914]LogStaticMesh: Building static mesh MantisBlade_Final2...
+[2023.04.25-00.24.53:410][914]LogStaticMesh: Built static mesh [0.02s] /Game/Art/Meshes/FinalCharacter/MantisBlade_Final2.MantisBlade_Final2
+[2023.04.25-00.24.53:418][914]LogEditorFactories: -- imported successfully
+[2023.04.25-00.25.10:379][433]LogEditorFactories: Performing atomic reimport of [C:/Users/ehowl/Downloads/MantisBlade_Final2.fbx]
+[2023.04.25-00.25.10:409][433]LogFbx: Loading FBX Scene from C:/Users/ehowl/Downloads/MantisBlade_Final2.fbx
+[2023.04.25-00.25.10:419][433]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.25-00.25.10:443][433]LogFbx: Display: Triangulating static mesh MantisBlade - Final
+[2023.04.25-00.25.10:494][433]LogStaticMesh: Building static mesh MantisBlade_Final2...
+[2023.04.25-00.25.10:502][433]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Meshes/FinalCharacter/MantisBlade_Final2.MantisBlade_Final2
+[2023.04.25-00.25.10:544][433]LogStaticMesh: Building static mesh MantisBlade_Final2...
+[2023.04.25-00.25.10:565][433]LogStaticMesh: Built static mesh [0.02s] /Game/Art/Meshes/FinalCharacter/MantisBlade_Final2.MantisBlade_Final2
+[2023.04.25-00.25.10:573][433]LogEditorFactories: -- imported successfully
+[2023.04.25-00.25.10:632][433]LogExportMeshUtils: Fbx LOD loading
+[2023.04.25-00.25.10:815][433]LogFbx: Loading FBX Scene from C:/Users/ehowl/Downloads/MantisBlade_Final2.fbx
+[2023.04.25-00.25.10:824][433]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.25-00.25.10:939][433]LogFbx: Display: Triangulating static mesh MantisBlade - Final
+[2023.04.25-00.25.11:108][433]LogStaticMesh: Building static mesh MantisBlade_Final2...
+[2023.04.25-00.25.11:124][433]LogStaticMesh: Built static mesh [0.02s] /Game/Art/Meshes/FinalCharacter/MantisBlade_Final2.MantisBlade_Final2
+[2023.04.25-00.25.29:921][389]LogEditorFactories: Performing atomic reimport of [C:/Users/ehowl/Downloads/MantisBlade_Final2.fbx]
+[2023.04.25-00.25.29:975][389]LogFbx: Loading FBX Scene from C:/Users/ehowl/Downloads/MantisBlade_Final2.fbx
+[2023.04.25-00.25.29:985][389]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.25-00.25.30:011][389]LogFbx: Display: Triangulating static mesh MantisBlade - Final
+[2023.04.25-00.25.30:064][389]LogStaticMesh: Building static mesh MantisBlade_Final2...
+[2023.04.25-00.25.30:072][389]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Meshes/FinalCharacter/MantisBlade_Final2.MantisBlade_Final2
+[2023.04.25-00.25.30:112][389]LogStaticMesh: Building static mesh MantisBlade_Final2...
+[2023.04.25-00.25.30:129][389]LogStaticMesh: Built static mesh [0.02s] /Game/Art/Meshes/FinalCharacter/MantisBlade_Final2.MantisBlade_Final2
+[2023.04.25-00.25.30:138][389]LogEditorFactories: -- imported successfully
+[2023.04.25-00.26.22:089][861]LogEditorFactories: Performing atomic reimport of [C:/Users/ehowl/Downloads/MantisBlade_Final2.fbx]
+[2023.04.25-00.26.22:129][861]LogFbx: Loading FBX Scene from C:/Users/ehowl/Downloads/MantisBlade_Final2.fbx
+[2023.04.25-00.26.22:139][861]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.25-00.26.22:179][861]LogFbx: Display: Triangulating static mesh MantisBlade - Final
+[2023.04.25-00.26.22:231][861]LogStaticMesh: Building static mesh MantisBlade_Final2...
+[2023.04.25-00.26.22:239][861]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Meshes/FinalCharacter/MantisBlade_Final2.MantisBlade_Final2
+[2023.04.25-00.26.22:280][861]LogStaticMesh: Building static mesh MantisBlade_Final2...
+[2023.04.25-00.26.22:297][861]LogStaticMesh: Built static mesh [0.02s] /Game/Art/Meshes/FinalCharacter/MantisBlade_Final2.MantisBlade_Final2
+[2023.04.25-00.26.22:305][861]LogEditorFactories: -- imported successfully
+[2023.04.25-00.27.22:473][829]LogSlate: Window 'Message' being destroyed
+[2023.04.25-00.27.22:478][829]Message dialog closed, result: Yes, title: Message, text: Do you want to overwrite the existing asset?
+
+An asset already exists at the import location: /Game/Art/Meshes/FinalCharacter/MantisBlade_Final2
+[2023.04.25-00.27.22:478][829]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/ehowl/Downloads/MantisBlade_Final2.fbx)
+[2023.04.25-00.27.22:479][829]LogEditorFactories: Performing atomic reimport of [C:/Users/ehowl/Downloads/MantisBlade_Final2.fbx]
+[2023.04.25-00.27.22:491][829]LogFbx: Loading FBX Scene from C:/Users/ehowl/Downloads/MantisBlade_Final2.fbx
+[2023.04.25-00.27.22:502][829]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.25-00.27.22:514][829]LogFbx: Display: Triangulating static mesh MantisBlade - Final
+[2023.04.25-00.27.22:539][829]LogStaticMesh: Building static mesh MantisBlade_Final2...
+[2023.04.25-00.27.22:547][829]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Meshes/FinalCharacter/MantisBlade_Final2.MantisBlade_Final2
+[2023.04.25-00.27.22:564][829]LogStaticMesh: Building static mesh MantisBlade_Final2...
+[2023.04.25-00.27.22:582][829]LogStaticMesh: Built static mesh [0.02s] /Game/Art/Meshes/FinalCharacter/MantisBlade_Final2.MantisBlade_Final2
+[2023.04.25-00.27.22:584][829]LogEditorFactories: -- imported successfully
+[2023.04.25-00.27.25:949][964]LogUObjectHash: Compacting FUObjectHashTables data took   8.20ms
+[2023.04.25-00.27.35:195][964]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.25-00.27.35:305][964]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-00.27.35:305][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-00.27.35:332][964]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Art/Meshes/FinalCharacter/MantisBlade_Final2.MantisBlade_Final2
+[2023.04.25-00.27.39:962][964]LogUObjectHash: Compacting FUObjectHashTables data took   6.70ms
+[2023.04.25-00.27.44:585][ 65]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/ehowl/Downloads/MantisBlade_Final2.fbx)
+[2023.04.25-00.27.44:597][ 65]LogFbx: Loading FBX Scene from C:/Users/ehowl/Downloads/MantisBlade_Final2.fbx
+[2023.04.25-00.27.44:610][ 65]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.25-00.29.07:474][ 65]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.25-00.29.07:537][ 65]LogFbx: Display: Triangulating static mesh MantisBlade - Final
+[2023.04.25-00.29.07:565][ 65]LogStaticMesh: Building static mesh MantisBlade_Final2...
+[2023.04.25-00.29.07:586][ 65]LogStaticMesh: Built static mesh [0.02s] /Game/Art/Meshes/FinalCharacter/MantisBlade_Final2.MantisBlade_Final2
+[2023.04.25-00.29.09:816][173]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Meshes/FinalCharacter/MantisBlade_Final2.MantisBlade_Final2
+[2023.04.25-00.30.02:971][169]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/MantisBlade_Final2536396E0481EDC9B7629CC999135B9AF.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Art/Meshes/FinalCharacter/MantisBlade_Final2.uasset'
+[2023.04.25-00.30.02:993][169]AssetCheck: New page: Asset Save: MantisBlade_Final2
+[2023.04.25-00.30.02:993][169]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/FinalCharacter/MantisBlade_Final2.MantisBlade_Final2
