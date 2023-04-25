@@ -1312,3 +1312,634 @@ An asset already exists at the import location: /Game/Art/Meshes/FinalCharacter/
 [2023.04.25-00.30.02:971][169]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/MantisBlade_Final2536396E0481EDC9B7629CC999135B9AF.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Art/Meshes/FinalCharacter/MantisBlade_Final2.uasset'
 [2023.04.25-00.30.02:993][169]AssetCheck: New page: Asset Save: MantisBlade_Final2
 [2023.04.25-00.30.02:993][169]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/FinalCharacter/MantisBlade_Final2.MantisBlade_Final2
+[2023.04.25-00.36.56:639][771]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane4)
+[2023.04.25-00.37.10:885][464]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Box_Brush17_StaticMesh)
+[2023.04.25-00.37.12:023][505]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.25-00.37.12:024][505]PIE: New page: PIE session: Skyscraper_Level (Apr 24, 2023, 4:37:12 PM)
+[2023.04.25-00.37.12:024][505]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Skyscraper_Level
+[2023.04.25-00.37.12:089][505]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065833s)
+[2023.04.25-00.37.12:091][505]LogAIModule: Creating AISystem for world Skyscraper_Level
+[2023.04.25-00.37.12:091][505]LogPlayLevel: PIE: World Init took: (0.001371s)
+[2023.04.25-00.37.12:091][505]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Skyscraper_Level.Skyscraper_Level to /Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level (0.067396s)
+[2023.04.25-00.37.12:202][505]LogUObjectHash: Compacting FUObjectHashTables data took   8.39ms
+[2023.04.25-00.37.12:213][505]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.04.25-00.37.12:213][505]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.25-00.37.12:213][505]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.25-00.37.12:213][505]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.25-00.37.12:213][505]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.25-00.37.12:213][505]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.25-00.37.12:213][505]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.25-00.37.12:213][505]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.25-00.37.12:213][505]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.25-00.37.12:213][505]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.25-00.37.12:213][505]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.25-00.37.12:213][505]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.25-00.37.12:213][505]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.25-00.37.12:217][505]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.25-00.37.12:217][505]LogAudioMixer: Display: 1: FrontRight
+[2023.04.25-00.37.12:228][505]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud II Wireless)
+[2023.04.25-00.37.12:229][505]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.25-00.37.12:229][505]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.25-00.37.12:229][505]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.25-00.37.12:229][505]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.25-00.37.12:229][505]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.25-00.37.12:229][505]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.25-00.37.12:231][505]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.25-00.37.12:231][505]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.25-00.37.12:231][505]LogInit: FAudioDevice initialized.
+[2023.04.25-00.37.12:231][505]LogAudio: Display: Audio Device (ID: 5) registered with world 'Skyscraper_Level'.
+[2023.04.25-00.37.12:240][505]LogLoad: Game class is 'MyGame_C'
+[2023.04.25-00.37.12:250][505]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone10_29.CharacterMesh0'
+[2023.04.25-00.37.12:251][505]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone11_32.CharacterMesh0'
+[2023.04.25-00.37.12:251][505]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone12_35.CharacterMesh0'
+[2023.04.25-00.37.12:251][505]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone13_38.CharacterMesh0'
+[2023.04.25-00.37.12:251][505]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone2_5.CharacterMesh0'
+[2023.04.25-00.37.12:251][505]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone3_8.CharacterMesh0'
+[2023.04.25-00.37.12:251][505]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone4_11.CharacterMesh0'
+[2023.04.25-00.37.12:251][505]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone5_14.CharacterMesh0'
+[2023.04.25-00.37.12:252][505]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone6_17.CharacterMesh0'
+[2023.04.25-00.37.12:252][505]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone7_20.CharacterMesh0'
+[2023.04.25-00.37.12:252][505]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone8_23.CharacterMesh0'
+[2023.04.25-00.37.12:252][505]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone9_26.CharacterMesh0'
+[2023.04.25-00.37.12:252][505]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.25-00.37.12:253][505]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level up for play (max tick rate 0) at 2023.04.24-20.37.12
+[2023.04.25-00.37.12:256][505]LogWorld: Bringing up level for play took: 0.015576
+[2023.04.25-00.37.12:256][505]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2023.04.25-00.37.12:258][505]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.25-00.37.12:258][505]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.25-00.37.12:258][505]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.25-00.37.12:311][505]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.25-00.37.12:313][505]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.25-00.37.12:313][505]PIE: Server logged in
+[2023.04.25-00.37.12:314][505]PIE: Play in editor total start time 0.294 seconds.
+[2023.04.25-00.37.29:563][704]LogBlueprintUserMessages: [PlayerCharacter_C_0] 2320.0
+[2023.04.25-00.37.34:090][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-00.37.34:090][ 72]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Skyscraper_Level
+[2023.04.25-00.37.34:097][ 72]LogWorld: UWorld::CleanupWorld for Skyscraper_Level, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-00.37.34:100][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-00.37.34:115][ 72]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.25-00.37.34:144][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-00.37.34:178][ 72]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.25-00.37.34:197][ 72]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.25-00.37.34:198][ 72]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.25-00.37.34:200][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-00.37.34:248][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   6.53ms
+[2023.04.25-00.37.34:315][ 73]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.04.25-00.37.39:680][300]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Box_Brush17_StaticMesh)
+[2023.04.25-00.37.40:802][332]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.25-00.37.40:802][332]PIE: New page: PIE session: Skyscraper_Level (Apr 24, 2023, 4:37:40 PM)
+[2023.04.25-00.37.40:803][332]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Skyscraper_Level
+[2023.04.25-00.37.40:868][332]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065258s)
+[2023.04.25-00.37.40:869][332]LogAIModule: Creating AISystem for world Skyscraper_Level
+[2023.04.25-00.37.40:869][332]LogPlayLevel: PIE: World Init took: (0.001310s)
+[2023.04.25-00.37.40:869][332]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Skyscraper_Level.Skyscraper_Level to /Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level (0.066775s)
+[2023.04.25-00.37.40:907][332]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2023.04.25-00.37.40:910][332]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.04.25-00.37.40:910][332]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.25-00.37.40:910][332]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.25-00.37.40:910][332]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.25-00.37.40:910][332]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.25-00.37.40:910][332]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.25-00.37.40:910][332]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.25-00.37.40:910][332]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.25-00.37.40:910][332]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.25-00.37.40:911][332]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.25-00.37.40:911][332]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.25-00.37.40:911][332]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.25-00.37.40:911][332]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.25-00.37.40:914][332]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.25-00.37.40:914][332]LogAudioMixer: Display: 1: FrontRight
+[2023.04.25-00.37.40:938][332]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud II Wireless)
+[2023.04.25-00.37.40:938][332]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.25-00.37.40:938][332]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.25-00.37.40:938][332]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.25-00.37.40:939][332]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.25-00.37.40:939][332]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.25-00.37.40:939][332]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.25-00.37.40:940][332]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.25-00.37.40:940][332]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.25-00.37.40:940][332]LogInit: FAudioDevice initialized.
+[2023.04.25-00.37.40:940][332]LogAudio: Display: Audio Device (ID: 6) registered with world 'Skyscraper_Level'.
+[2023.04.25-00.37.40:954][332]LogLoad: Game class is 'MyGame_C'
+[2023.04.25-00.37.40:965][332]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone10_29.CharacterMesh0'
+[2023.04.25-00.37.40:965][332]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone11_32.CharacterMesh0'
+[2023.04.25-00.37.40:965][332]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone12_35.CharacterMesh0'
+[2023.04.25-00.37.40:965][332]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone13_38.CharacterMesh0'
+[2023.04.25-00.37.40:966][332]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone2_5.CharacterMesh0'
+[2023.04.25-00.37.40:966][332]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone3_8.CharacterMesh0'
+[2023.04.25-00.37.40:966][332]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone4_11.CharacterMesh0'
+[2023.04.25-00.37.40:966][332]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone5_14.CharacterMesh0'
+[2023.04.25-00.37.40:966][332]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone6_17.CharacterMesh0'
+[2023.04.25-00.37.40:966][332]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone7_20.CharacterMesh0'
+[2023.04.25-00.37.40:966][332]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone8_23.CharacterMesh0'
+[2023.04.25-00.37.40:966][332]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone9_26.CharacterMesh0'
+[2023.04.25-00.37.40:967][332]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.25-00.37.40:967][332]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level up for play (max tick rate 0) at 2023.04.24-20.37.40
+[2023.04.25-00.37.40:970][332]LogWorld: Bringing up level for play took: 0.015514
+[2023.04.25-00.37.40:971][332]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2023.04.25-00.37.40:973][332]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.25-00.37.40:973][332]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.25-00.37.40:973][332]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.25-00.37.41:028][332]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.25-00.37.41:030][332]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.25-00.37.41:030][332]PIE: Server logged in
+[2023.04.25-00.37.41:031][332]PIE: Play in editor total start time 0.233 seconds.
+[2023.04.25-00.37.45:400][650]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-00.37.45:400][650]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Skyscraper_Level
+[2023.04.25-00.37.45:407][650]LogWorld: UWorld::CleanupWorld for Skyscraper_Level, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-00.37.45:410][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-00.37.45:422][650]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.25-00.37.45:448][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-00.37.45:483][650]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-00.37.45:488][650]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.25-00.37.45:489][650]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.25-00.37.45:506][650]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2023.04.25-00.37.45:568][651]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.04.25-00.37.49:533][827]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Box_Brush17_StaticMesh)
+[2023.04.25-00.37.50:640][860]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.25-00.37.50:640][860]PIE: New page: PIE session: Skyscraper_Level (Apr 24, 2023, 4:37:50 PM)
+[2023.04.25-00.37.50:640][860]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Skyscraper_Level
+[2023.04.25-00.37.50:710][860]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069988s)
+[2023.04.25-00.37.50:711][860]LogAIModule: Creating AISystem for world Skyscraper_Level
+[2023.04.25-00.37.50:711][860]LogPlayLevel: PIE: World Init took: (0.001499s)
+[2023.04.25-00.37.50:712][860]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Skyscraper_Level.Skyscraper_Level to /Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level (0.071767s)
+[2023.04.25-00.37.50:752][860]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2023.04.25-00.37.50:754][860]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.04.25-00.37.50:755][860]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.25-00.37.50:755][860]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.25-00.37.50:755][860]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.25-00.37.50:755][860]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.25-00.37.50:755][860]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.25-00.37.50:755][860]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.25-00.37.50:755][860]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.25-00.37.50:755][860]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.25-00.37.50:755][860]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.25-00.37.50:755][860]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.25-00.37.50:755][860]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.25-00.37.50:755][860]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.25-00.37.50:759][860]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.25-00.37.50:759][860]LogAudioMixer: Display: 1: FrontRight
+[2023.04.25-00.37.50:769][860]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud II Wireless)
+[2023.04.25-00.37.50:770][860]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.25-00.37.50:770][860]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.25-00.37.50:770][860]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.25-00.37.50:770][860]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.25-00.37.50:770][860]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.25-00.37.50:770][860]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.25-00.37.50:772][860]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.25-00.37.50:772][860]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.25-00.37.50:772][860]LogInit: FAudioDevice initialized.
+[2023.04.25-00.37.50:772][860]LogAudio: Display: Audio Device (ID: 7) registered with world 'Skyscraper_Level'.
+[2023.04.25-00.37.50:784][860]LogLoad: Game class is 'MyGame_C'
+[2023.04.25-00.37.50:794][860]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone10_29.CharacterMesh0'
+[2023.04.25-00.37.50:794][860]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone11_32.CharacterMesh0'
+[2023.04.25-00.37.50:795][860]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone12_35.CharacterMesh0'
+[2023.04.25-00.37.50:795][860]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone13_38.CharacterMesh0'
+[2023.04.25-00.37.50:795][860]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone2_5.CharacterMesh0'
+[2023.04.25-00.37.50:795][860]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone3_8.CharacterMesh0'
+[2023.04.25-00.37.50:795][860]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone4_11.CharacterMesh0'
+[2023.04.25-00.37.50:795][860]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone5_14.CharacterMesh0'
+[2023.04.25-00.37.50:795][860]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone6_17.CharacterMesh0'
+[2023.04.25-00.37.50:796][860]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone7_20.CharacterMesh0'
+[2023.04.25-00.37.50:796][860]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone8_23.CharacterMesh0'
+[2023.04.25-00.37.50:796][860]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone9_26.CharacterMesh0'
+[2023.04.25-00.37.50:796][860]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.25-00.37.50:797][860]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level up for play (max tick rate 0) at 2023.04.24-20.37.50
+[2023.04.25-00.37.50:800][860]LogWorld: Bringing up level for play took: 0.015353
+[2023.04.25-00.37.50:800][860]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2023.04.25-00.37.50:802][860]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.25-00.37.50:802][860]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.25-00.37.50:802][860]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.25-00.37.50:859][860]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.25-00.37.50:861][860]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.25-00.37.50:861][860]PIE: Server logged in
+[2023.04.25-00.37.50:862][860]PIE: Play in editor total start time 0.226 seconds.
+[2023.04.25-00.37.57:307][323]LogBlueprintUserMessages: [PlayerCharacter_C_0] 2320.0
+[2023.04.25-00.38.05:202][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-00.38.05:202][975]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Skyscraper_Level
+[2023.04.25-00.38.05:208][975]LogWorld: UWorld::CleanupWorld for Skyscraper_Level, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-00.38.05:210][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-00.38.05:223][975]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.25-00.38.05:250][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-00.38.05:287][975]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.25-00.38.05:287][975]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.25-00.38.05:288][975]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.25-00.38.05:291][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-00.38.05:303][975]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2023.04.25-00.38.05:363][976]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.04.25-00.38.10:227][184]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Box_Brush17_StaticMesh)
+[2023.04.25-00.38.11:431][220]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.25-00.38.11:431][220]PIE: New page: PIE session: Skyscraper_Level (Apr 24, 2023, 4:38:11 PM)
+[2023.04.25-00.38.11:431][220]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Skyscraper_Level
+[2023.04.25-00.38.11:496][220]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064725s)
+[2023.04.25-00.38.11:497][220]LogAIModule: Creating AISystem for world Skyscraper_Level
+[2023.04.25-00.38.11:497][220]LogPlayLevel: PIE: World Init took: (0.001245s)
+[2023.04.25-00.38.11:497][220]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Skyscraper_Level.Skyscraper_Level to /Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level (0.066155s)
+[2023.04.25-00.38.11:535][220]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2023.04.25-00.38.11:537][220]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.04.25-00.38.11:538][220]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.25-00.38.11:538][220]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.25-00.38.11:538][220]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.25-00.38.11:538][220]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.25-00.38.11:538][220]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.25-00.38.11:538][220]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.25-00.38.11:538][220]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.25-00.38.11:538][220]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.25-00.38.11:538][220]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.25-00.38.11:538][220]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.25-00.38.11:538][220]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.25-00.38.11:538][220]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.25-00.38.11:541][220]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.25-00.38.11:542][220]LogAudioMixer: Display: 1: FrontRight
+[2023.04.25-00.38.11:552][220]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud II Wireless)
+[2023.04.25-00.38.11:552][220]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.25-00.38.11:553][220]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.25-00.38.11:553][220]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.25-00.38.11:553][220]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.25-00.38.11:553][220]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.25-00.38.11:553][220]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.25-00.38.11:555][220]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.25-00.38.11:555][220]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.25-00.38.11:555][220]LogInit: FAudioDevice initialized.
+[2023.04.25-00.38.11:555][220]LogAudio: Display: Audio Device (ID: 8) registered with world 'Skyscraper_Level'.
+[2023.04.25-00.38.11:566][220]LogLoad: Game class is 'MyGame_C'
+[2023.04.25-00.38.11:577][220]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone10_29.CharacterMesh0'
+[2023.04.25-00.38.11:577][220]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone11_32.CharacterMesh0'
+[2023.04.25-00.38.11:577][220]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone12_35.CharacterMesh0'
+[2023.04.25-00.38.11:577][220]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone13_38.CharacterMesh0'
+[2023.04.25-00.38.11:577][220]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone2_5.CharacterMesh0'
+[2023.04.25-00.38.11:577][220]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone3_8.CharacterMesh0'
+[2023.04.25-00.38.11:578][220]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone4_11.CharacterMesh0'
+[2023.04.25-00.38.11:578][220]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone5_14.CharacterMesh0'
+[2023.04.25-00.38.11:578][220]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone6_17.CharacterMesh0'
+[2023.04.25-00.38.11:578][220]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone7_20.CharacterMesh0'
+[2023.04.25-00.38.11:578][220]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone8_23.CharacterMesh0'
+[2023.04.25-00.38.11:578][220]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone9_26.CharacterMesh0'
+[2023.04.25-00.38.11:578][220]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.25-00.38.11:579][220]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level up for play (max tick rate 0) at 2023.04.24-20.38.11
+[2023.04.25-00.38.11:582][220]LogWorld: Bringing up level for play took: 0.015665
+[2023.04.25-00.38.11:582][220]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2023.04.25-00.38.11:585][220]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.25-00.38.11:585][220]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.25-00.38.11:585][220]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.25-00.38.11:639][220]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.25-00.38.11:641][220]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.25-00.38.11:641][220]PIE: Server logged in
+[2023.04.25-00.38.11:643][220]PIE: Play in editor total start time 0.215 seconds.
+[2023.04.25-00.38.14:318][405]LogBlueprintUserMessages: [PlayerCharacter_C_0] 2320.0
+[2023.04.25-00.38.21:284][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-00.38.21:284][973]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Skyscraper_Level
+[2023.04.25-00.38.21:291][973]LogWorld: UWorld::CleanupWorld for Skyscraper_Level, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-00.38.21:294][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-00.38.21:307][973]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.25-00.38.21:334][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-00.38.21:374][973]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.25-00.38.21:375][973]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.25-00.38.21:376][973]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.25-00.38.21:379][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-00.38.21:398][973]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2023.04.25-00.38.21:462][974]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.04.25-00.38.25:335][135]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Box_Brush17_StaticMesh)
+[2023.04.25-00.38.26:313][165]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.25-00.38.26:313][165]PIE: New page: PIE session: Skyscraper_Level (Apr 24, 2023, 4:38:26 PM)
+[2023.04.25-00.38.26:313][165]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Skyscraper_Level
+[2023.04.25-00.38.26:379][165]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065364s)
+[2023.04.25-00.38.26:379][165]LogAIModule: Creating AISystem for world Skyscraper_Level
+[2023.04.25-00.38.26:380][165]LogPlayLevel: PIE: World Init took: (0.001243s)
+[2023.04.25-00.38.26:380][165]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Skyscraper_Level.Skyscraper_Level to /Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level (0.066800s)
+[2023.04.25-00.38.26:419][165]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2023.04.25-00.38.26:422][165]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.04.25-00.38.26:422][165]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.25-00.38.26:422][165]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.25-00.38.26:422][165]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.25-00.38.26:422][165]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.25-00.38.26:422][165]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.25-00.38.26:422][165]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.25-00.38.26:422][165]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.25-00.38.26:422][165]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.25-00.38.26:423][165]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.25-00.38.26:423][165]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.25-00.38.26:423][165]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.25-00.38.26:423][165]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.25-00.38.26:426][165]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.25-00.38.26:426][165]LogAudioMixer: Display: 1: FrontRight
+[2023.04.25-00.38.26:437][165]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud II Wireless)
+[2023.04.25-00.38.26:438][165]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.25-00.38.26:438][165]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.25-00.38.26:438][165]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.25-00.38.26:438][165]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.25-00.38.26:438][165]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.25-00.38.26:438][165]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.25-00.38.26:440][165]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.25-00.38.26:440][165]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.25-00.38.26:440][165]LogInit: FAudioDevice initialized.
+[2023.04.25-00.38.26:440][165]LogAudio: Display: Audio Device (ID: 9) registered with world 'Skyscraper_Level'.
+[2023.04.25-00.38.26:450][165]LogLoad: Game class is 'MyGame_C'
+[2023.04.25-00.38.26:461][165]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone10_29.CharacterMesh0'
+[2023.04.25-00.38.26:461][165]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone11_32.CharacterMesh0'
+[2023.04.25-00.38.26:461][165]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone12_35.CharacterMesh0'
+[2023.04.25-00.38.26:462][165]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone13_38.CharacterMesh0'
+[2023.04.25-00.38.26:462][165]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone2_5.CharacterMesh0'
+[2023.04.25-00.38.26:462][165]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone3_8.CharacterMesh0'
+[2023.04.25-00.38.26:462][165]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone4_11.CharacterMesh0'
+[2023.04.25-00.38.26:462][165]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone5_14.CharacterMesh0'
+[2023.04.25-00.38.26:462][165]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone6_17.CharacterMesh0'
+[2023.04.25-00.38.26:462][165]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone7_20.CharacterMesh0'
+[2023.04.25-00.38.26:462][165]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone8_23.CharacterMesh0'
+[2023.04.25-00.38.26:463][165]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone9_26.CharacterMesh0'
+[2023.04.25-00.38.26:463][165]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.25-00.38.26:463][165]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Skyscraper_Level.Skyscraper_Level up for play (max tick rate 0) at 2023.04.24-20.38.26
+[2023.04.25-00.38.26:466][165]LogWorld: Bringing up level for play took: 0.016184
+[2023.04.25-00.38.26:467][165]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2023.04.25-00.38.26:469][165]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.25-00.38.26:469][165]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.25-00.38.26:469][165]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.25-00.38.26:522][165]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.25-00.38.26:524][165]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.25-00.38.26:524][165]PIE: Server logged in
+[2023.04.25-00.38.26:525][165]PIE: Play in editor total start time 0.216 seconds.
+[2023.04.25-00.38.29:088][338]LogBlueprintUserMessages: [PlayerCharacter_C_0] 2290.0
+[2023.04.25-00.38.31:322][518]LogCharacterMovement: PlayerCharacter_C_0 is stuck and failed to move! Velocity: X=-524.81 Y=-382.50 Z=0.00 Location: X=1806.53 Y=-31025.71 Z=-1312.88 Normal: X=0.51 Y=0.41 Z=-0.75 PenetrationDepth:71.414 Actor:None Component:ModelComponent_138 BoneName:None (0 other events since notify)
+[2023.04.25-00.38.36:315][940]LogCharacterMovement: PlayerCharacter_C_0 is stuck and failed to move! Velocity: X=21.14 Y=-246.37 Z=0.00 Location: X=5422.71 Y=-30948.29 Z=-1656.46 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.123 Actor:Rooftop_Transformer3 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2023.04.25-00.38.48:011][968]LogCharacterMovement: PlayerCharacter_C_0 is stuck and failed to move! Velocity: X=128.81 Y=-690.57 Z=0.00 Location: X=8422.18 Y=-34838.55 Z=-987.96 Normal: X=-0.43 Y=0.83 Z=-0.34 PenetrationDepth:2.731 Actor:DroneBossChar_2 Component:Box1 BoneName:None (4 other events since notify)
+[2023.04.25-00.38.55:667][576]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2023.04.25-00.39.04:935][321]LogCharacterMovement: PlayerCharacter_C_0 is stuck and failed to move! Velocity: X=-736.46 Y=567.94 Z=0.00 Location: X=8333.37 Y=-34865.45 Z=-995.39 Normal: X=0.65 Y=0.76 Z=-0.00 PenetrationDepth:2.642 Actor:DroneBossChar_2 Component:Silo BoneName:None (6 other events since notify)
+[2023.04.25-00.39.19:361][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-00.39.19:361][548]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Skyscraper_Level
+[2023.04.25-00.39.19:368][548]LogWorld: UWorld::CleanupWorld for Skyscraper_Level, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-00.39.19:371][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-00.39.19:380][548]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.25-00.39.19:407][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-00.39.19:445][548]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.25-00.39.19:445][548]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.25-00.39.19:447][548]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.25-00.39.19:449][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-00.39.19:466][548]LogUObjectHash: Compacting FUObjectHashTables data took   7.03ms
+[2023.04.25-00.39.19:530][549]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.04.25-00.42.32:616][259]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Art/Meshes/FinalCharacterUV/Neve_Final_UVd.Neve_Final_UVd
+[2023.04.25-00.42.32:712][259]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2023.04.25-00.42.32:734][259]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.25-00.42.32:778][259]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2023.04.25-00.42.37:873][441]LogUObjectGlobals: Warning: Failed to find object 'Class None.ControlRigBlueprint'
+[2023.04.25-00.42.41:585][655]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-00.42.41:585][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-00.42.42:620][726]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-00.42.42:620][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-00.42.43:703][843]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-00.42.43:704][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-01.49.09:122][413]LogSlate: Window 'Message' being destroyed
+[2023.04.25-01.49.09:127][413]Message dialog closed, result: Yes, title: Message, text: Do you want to overwrite the existing asset?
+
+An asset already exists at the import location: /Game/Art/Meshes/FinalCharacter/MantisBlade_Final2
+[2023.04.25-01.49.09:127][413]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/ehowl/Downloads/MantisBlade_Final2.fbx)
+[2023.04.25-01.49.09:129][413]LogEditorFactories: Performing atomic reimport of [C:/Users/ehowl/Downloads/MantisBlade_Final2.fbx]
+[2023.04.25-01.49.09:142][413]LogFbx: Loading FBX Scene from C:/Users/ehowl/Downloads/MantisBlade_Final2.fbx
+[2023.04.25-01.49.09:152][413]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.25-01.49.09:161][413]LogFbx: Display: Triangulating static mesh MantisBlade - Final
+[2023.04.25-01.49.09:189][413]LogStaticMesh: Building static mesh MantisBlade_Final2...
+[2023.04.25-01.49.09:210][413]LogStaticMesh: Built static mesh [0.02s] /Game/Art/Meshes/FinalCharacter/MantisBlade_Final2.MantisBlade_Final2
+[2023.04.25-01.49.09:224][413]LogEditorFactories: -- imported successfully
+[2023.04.25-01.49.13:308][593]LogUObjectHash: Compacting FUObjectHashTables data took  13.82ms
+[2023.04.25-01.49.14:514][593]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.25-01.49.14:690][593]LogUObjectHash: Compacting FUObjectHashTables data took   6.33ms
+[2023.04.25-01.49.14:737][593]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2023.04.25-01.49.14:773][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.04.25-01.49.18:938][687]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/ehowl/Downloads/MantisBlade_Final2.fbx)
+[2023.04.25-01.49.18:948][687]LogFbx: Loading FBX Scene from C:/Users/ehowl/Downloads/MantisBlade_Final2.fbx
+[2023.04.25-01.49.18:958][687]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.25-01.49.24:443][687]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.25-01.49.24:499][687]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2023.04.25-01.49.24:502][687]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2023.04.25-01.49.25:211][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.04.25-01.49.25:214][687]FBXImport: Import was canceled. 
+[2023.04.25-01.49.25:276][687]LogAssetTools: The import task was canceled.
+[2023.04.25-01.49.25:332][687]LogSlate: Took 0.005993 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.04.25-01.49.26:551][767]LogSlate: Window 'Message Log' being destroyed
+[2023.04.25-01.49.26:578][767]LogSlate: Window 'Message Log' being destroyed
+[2023.04.25-01.49.27:358][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.04.25-01.49.27:577][814]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Skyscraper_LevelC34A56564A75697A63D566A083EE65C5.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/Skyscraper_Level.umap'
+[2023.04.25-01.49.27:617][814]AssetCheck: New page: Asset Save: Skyscraper_Level
+[2023.04.25-01.49.27:617][814]LogContentValidation: Display: Validating World /Game/Levels/Skyscraper_Level.Skyscraper_Level
+[2023.04.25-01.50.26:668][617]LogEditorViewport: Clicking on Actor (LMB): FanBox_C (FanBox)
+[2023.04.25-01.50.30:321][932]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Props/FanBox.FanBox
+[2023.04.25-01.50.56:611][734]BlueprintLog: New page: Compile FanBox
+[2023.04.25-01.50.56:707][734]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
+[2023.04.25-01.50.57:283][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Props/FanBox" FILE="../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/Props/FanBox.uasset" SILENT=true
+[2023.04.25-01.50.57:306][787]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/FanBox1DED5F414DB850F90BADDFAF538FBCE3.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/Props/FanBox.uasset'
+[2023.04.25-01.50.57:334][787]AssetCheck: New page: Asset Save: FanBox
+[2023.04.25-01.50.57:334][787]LogContentValidation: Display: Validating Blueprint /Game/Assets/Props/FanBox.FanBox
+[2023.04.25-01.50.59:586][996]LogUObjectHash: Compacting FUObjectHashTables data took   6.59ms
+[2023.04.25-01.50.59:793][996]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Skyscraper_LevelA72FF337417C8BBC5152A58145EF177D.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/Skyscraper_Level.umap'
+[2023.04.25-01.50.59:833][996]AssetCheck: New page: Asset Save: Skyscraper_Level
+[2023.04.25-01.50.59:833][996]LogContentValidation: Display: Validating World /Game/Levels/Skyscraper_Level.Skyscraper_Level
+[2023.04.25-01.51.00:411][ 51]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skyscraper6)
+[2023.04.25-02.11.11:891][835]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Movies/DestroyFanBox.DestroyFanBox
+[2023.04.25-02.11.17:743][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/DestroyFanBox" FILE="../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Movies/DestroyFanBox.uasset" SILENT=true
+[2023.04.25-02.11.17:746][497]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/DestroyFanBox42A77BCA48B8AE31393F76A97B758941.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Movies/DestroyFanBox.uasset'
+[2023.04.25-02.11.17:764][497]AssetCheck: New page: Asset Save: DestroyFanBox
+[2023.04.25-02.11.17:764][497]LogContentValidation: Display: Validating SoundWave /Game/Movies/DestroyFanBox.DestroyFanBox
+[2023.04.25-02.11.45:159][776]Cmd: TRANSACTION UNDO
+[2023.04.25-02.11.45:159][776]LogEditorTransaction: Undo Select Brush Surface
+[2023.04.25-02.11.45:786][798]Cmd: TRANSACTION UNDO
+[2023.04.25-02.11.45:786][798]LogEditorTransaction: Undo Apply Material to Selected Surfaces
+[2023.04.25-02.11.48:916][ 82]Cmd: TRANSACTION UNDO
+[2023.04.25-02.11.48:916][ 82]LogEditorTransaction: Undo Apply Material to Selected Surfaces
+[2023.04.25-02.11.56:247][724]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CitySkyline)
+[2023.04.25-02.12.02:099][235]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skyscraper01)
+[2023.04.25-02.12.08:064][770]LogEditorViewport: Clicking on Actor (LMB): Cinematic_Trigger_Blueprint_C (Cinematic_Trigger_Blueprint2)
+[2023.04.25-02.14.51:757][226]BlueprintLog: New page: Compile DroneBossChar
+[2023.04.25-02.14.52:111][226]LogUObjectHash: Compacting FUObjectHashTables data took   6.04ms
+[2023.04.25-02.14.53:202][266]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/DroneBossChar697ACA2348779E7A7CD8708EC8505CBA.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/AI/DroneBoss/DroneBossChar.uasset'
+[2023.04.25-02.14.53:224][266]AssetCheck: New page: Asset Save: DroneBossChar
+[2023.04.25-02.14.53:224][266]LogContentValidation: Display: Validating Blueprint /Game/Assets/AI/DroneBoss/DroneBossChar.DroneBossChar
+[2023.04.25-02.16.15:709][843]LogSlate: Window 'Color Picker' being destroyed
+[2023.04.25-02.16.33:103][123]BlueprintLog: New page: Compile DroneBossChar
+[2023.04.25-02.16.33:385][123]LogUObjectHash: Compacting FUObjectHashTables data took   8.43ms
+[2023.04.25-02.16.34:379][156]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/DroneBossChar926EF584477F9DC970D9849BD8B1F6CB.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/AI/DroneBoss/DroneBossChar.uasset'
+[2023.04.25-02.16.34:404][156]AssetCheck: New page: Asset Save: DroneBossChar
+[2023.04.25-02.16.34:404][156]LogContentValidation: Display: Validating Blueprint /Game/Assets/AI/DroneBoss/DroneBossChar.DroneBossChar
+[2023.04.25-02.17.01:241][446]LogUObjectHash: Compacting FUObjectHashTables data took   6.96ms
+[2023.04.25-02.17.01:449][446]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Skyscraper_Level_Auto1B31F5DF440AD0A342913179B9CC5D428.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Autosaves/Game/Levels/Skyscraper_Level_Auto1.umap'
+[2023.04.25-02.17.01:451][446]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Skyscraper_Level' took 0.259
+[2023.04.25-02.17.01:451][446]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.259
+[2023.04.25-02.36.47:374][585]LogSlate: Window 'Pick a starting point for your system' being destroyed
+[2023.04.25-02.36.47:384][585]LogContentBrowser: Deferred new asset file creation: NewNiagaraSystem
+[2023.04.25-02.36.47:410][585]LogContentBrowser: Creating deferred item: NewNiagaraSystem
+[2023.04.25-02.36.52:352][930]LogContentBrowser: Attempting asset rename: NewNiagaraSystem -> FogEffect
+[2023.04.25-02.36.52:435][930]LogContentBrowser: End creating deferred item NewNiagaraSystem
+[2023.04.25-02.36.54:395][ 65]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/Assets/FogEffect.FogEffect
+[2023.04.25-02.36.54:679][ 69]201284_FogEffect_MessageLog: System successfully compiled.
+[2023.04.25-02.37.21:153][100]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.04.25-02.37.21:164][100]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2023.04.25-02.37.21:164][100]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.04.25-02.37.21:164][100]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.04.25-02.37.21:168][100]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.04.25-02.37.21:178][100]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.04.25-02.37.21:516][100]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2023.04.25-02.37.21:516][100]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2023.04.25-02.37.21:516][100]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2023.04.25-02.37.21:516][100]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.04.25-02.37.22:224][113]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.25-02.37.22:224][113]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2023.04.25-02.37.22:224][113]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2023.04.25-02.37.22:224][113]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1228.80 MB (1.20 GB) budget. Usage: 0.00%
+[2023.04.25-02.37.22:224][113]LogShaderCompilers: Display: ================================================
+[2023.04.25-02.37.22:435][127]LogNiagara: Compiling System NiagaraSystem /Game/Assets/FogEffect.FogEffect took 1.525524 sec (time since issued), 4.590982 sec (combined shader worker time).
+[2023.04.25-02.37.23:034][135]201284_FogEffect_MessageLog: System successfully compiled.
+[2023.04.25-02.40.39:595][890]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.04.25-02.40.39:606][890]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2023.04.25-02.40.39:606][890]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.04.25-02.40.39:606][890]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.04.25-02.40.39:606][890]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.04.25-02.40.39:606][890]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.04.25-02.40.39:624][891]201284_FogEffect_MessageLog: System compile status unknown.
+[2023.04.25-02.40.39:994][917]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.25-02.40.39:994][917]LogShaderCompilers: Display: Total job queries 6, among them cache hits 0 (0.00%)
+[2023.04.25-02.40.39:994][917]LogShaderCompilers: Display: Tracking 6 distinct input hashes that result in 5 distinct outputs (83.33%)
+[2023.04.25-02.40.39:994][917]LogShaderCompilers: Display: RAM used: 0.09 MB (0.00 GB) of 1228.80 MB (1.20 GB) budget. Usage: 0.01%
+[2023.04.25-02.40.39:994][917]LogShaderCompilers: Display: ================================================
+[2023.04.25-02.40.40:014][918]LogNiagara: Compiling System NiagaraSystem /Game/Assets/FogEffect.FogEffect took 0.623908 sec (time since issued), 0.817722 sec (combined shader worker time).
+[2023.04.25-02.40.41:626][ 95]201284_FogEffect_MessageLog: System successfully compiled.
+[2023.04.25-02.40.55:041][388]LogNiagaraEditor: Removed Var 'Constants.HangingParticulates.BoxLocation.Box Size' from Script NiagaraScript /Game/Assets/FogEffect.FogEffect:HangingParticulates.SpawnScript
+[2023.04.25-02.40.55:300][389]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.04.25-02.40.55:310][389]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2023.04.25-02.40.55:310][389]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.04.25-02.40.55:310][389]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.04.25-02.40.55:342][390]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.04.25-02.40.55:342][390]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.04.25-02.40.55:345][390]201284_FogEffect_MessageLog: System compile status unknown.
+[2023.04.25-02.40.55:804][431]LogNiagara: Compiling System NiagaraSystem /Game/Assets/FogEffect.FogEffect took 0.710939 sec (time since issued), 0.772729 sec (combined shader worker time).
+[2023.04.25-02.40.57:351][594]201284_FogEffect_MessageLog: System successfully compiled.
+[2023.04.25-02.41.10:317][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/FogEffect" FILE="../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/FogEffect.uasset" SILENT=true
+[2023.04.25-02.41.10:413][987]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/FogEffectD9F3104E464550EC1A41F0BF720B7399.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/FogEffect.uasset'
+[2023.04.25-02.41.10:448][987]AssetCheck: New page: Asset Save: FogEffect
+[2023.04.25-02.41.10:449][987]LogContentValidation: Display: Validating NiagaraSystem /Game/Assets/FogEffect.FogEffect
+[2023.04.25-02.41.27:231][321]LogMaterial: Display: Material /Engine/EngineVolumetrics/Fogsheet/Materials/M_EV_FogSheet_1sided_Master_01_N.M_EV_FogSheet_1sided_Master_01_N needed to have new flag set bUsedWithNiagaraSprites !
+[2023.04.25-02.41.27:240][321]LogMaterial: Display: Missing cached shadermap for M_EV_FogSheet_1sided_Master_01_N in PCD3D_SM5, Default, SM5 (DDC key hash: 355EE4CDA568963F864EFB8F5D8D34DAF131B723), compiling. 
+[2023.04.25-02.41.27:291][321]LogShaderCompilers: Display: Submitted 36 shader compile jobs with 'Low' priority
+[2023.04.25-02.41.27:316][322]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 36
+[2023.04.25-02.41.27:316][322]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 32
+[2023.04.25-02.41.27:316][322]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 28
+[2023.04.25-02.41.27:317][322]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 24
+[2023.04.25-02.41.27:317][322]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 20
+[2023.04.25-02.41.27:317][322]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2023.04.25-02.41.27:317][322]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 12
+[2023.04.25-02.41.27:317][322]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 8
+[2023.04.25-02.41.27:317][322]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2023.04.25-02.41.27:317][322]LogShaderCompilers: Display: Started 36 'Local' shader compile jobs with 'Low' priority
+[2023.04.25-02.41.40:248][179]LogMaterial: Display: Material /Engine/EngineMaterials/FogVolumeMaterial.FogVolumeMaterial needed to have new flag set bUsedWithNiagaraSprites !
+[2023.04.25-02.41.40:252][179]LogMaterial: Display: Missing cached shadermap for FogVolumeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 0368F83063117BAFC7256061D844FFD249E1A00C), compiling. 
+[2023.04.25-02.41.40:275][179]LogShaderCompilers: Display: Submitted 36 shader compile jobs with 'Low' priority
+[2023.04.25-02.41.40:304][180]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 36
+[2023.04.25-02.41.40:304][180]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 32
+[2023.04.25-02.41.40:304][180]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 28
+[2023.04.25-02.41.40:304][180]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 24
+[2023.04.25-02.41.40:304][180]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 20
+[2023.04.25-02.41.40:304][180]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2023.04.25-02.41.40:304][180]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 12
+[2023.04.25-02.41.40:304][180]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 8
+[2023.04.25-02.41.40:304][180]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2023.04.25-02.41.40:304][180]LogShaderCompilers: Display: Started 36 'Local' shader compile jobs with 'Low' priority
+[2023.04.25-02.41.53:985][ 35]LogMaterial: Display: Material /Engine/EngineVolumetrics/Fogsheet/Materials/M_EV_FogSheet_2sided_Master_Addi.M_EV_FogSheet_2sided_Master_Addi needed to have new flag set bUsedWithNiagaraSprites !
+[2023.04.25-02.41.53:988][ 35]LogMaterial: Display: Missing cached shadermap for M_EV_FogSheet_2sided_Master_Addi in PCD3D_SM5, Default, SM5 (DDC key hash: 54762DDEFE63B74569F567CCB2FCC9E7318CF07E), compiling. 
+[2023.04.25-02.41.54:017][ 35]LogShaderCompilers: Display: Submitted 42 shader compile jobs with 'Low' priority
+[2023.04.25-02.41.54:054][ 36]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 42
+[2023.04.25-02.41.54:054][ 36]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 38
+[2023.04.25-02.41.54:054][ 36]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 34
+[2023.04.25-02.41.54:054][ 36]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 30
+[2023.04.25-02.41.54:054][ 36]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 26
+[2023.04.25-02.41.54:054][ 36]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 22
+[2023.04.25-02.41.54:054][ 36]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 18
+[2023.04.25-02.41.54:054][ 36]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2023.04.25-02.41.54:054][ 36]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 10
+[2023.04.25-02.41.54:054][ 36]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 6
+[2023.04.25-02.41.54:054][ 36]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2023.04.25-02.41.54:054][ 36]LogShaderCompilers: Display: Started 42 'Local' shader compile jobs with 'Low' priority
+[2023.04.25-02.42.00:891][429]LogMaterial: Display: Material /Engine/EngineVolumetrics/FogEnvironment/Materials/M_EV_FogEnvironment_Master_01.M_EV_FogEnvironment_Master_01 needed to have new flag set bUsedWithNiagaraSprites !
+[2023.04.25-02.42.00:895][429]LogMaterial: Display: Missing cached shadermap for M_EV_FogEnvironment_Master_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 9D7AB31A3553D6FF19F0B25DFEF8DF5B4C453F01), compiling. 
+[2023.04.25-02.42.00:921][429]LogShaderCompilers: Display: Submitted 42 shader compile jobs with 'Low' priority
+[2023.04.25-02.42.00:953][430]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 42
+[2023.04.25-02.42.00:954][430]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 38
+[2023.04.25-02.42.00:954][430]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 34
+[2023.04.25-02.42.00:954][430]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 30
+[2023.04.25-02.42.00:954][430]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 26
+[2023.04.25-02.42.00:954][430]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 22
+[2023.04.25-02.42.00:954][430]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 18
+[2023.04.25-02.42.00:954][430]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2023.04.25-02.42.00:954][430]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 10
+[2023.04.25-02.42.00:954][430]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 6
+[2023.04.25-02.42.00:954][430]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2023.04.25-02.42.00:954][430]LogShaderCompilers: Display: Started 42 'Local' shader compile jobs with 'Low' priority
+[2023.04.25-02.42.16:763][651]LogMaterial: Display: Material /Engine/Engine_MI_Shaders/M_ES_Phong_Opaque_Master_01.M_ES_Phong_Opaque_Master_01 needed to have new flag set bUsedWithNiagaraSprites !
+[2023.04.25-02.42.16:767][651]LogMaterial: Display: Missing cached shadermap for M_ES_Phong_Opaque_Master_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 38A9F76441A64EAC9D3C636D937322FEC2818B1D), compiling. 
+[2023.04.25-02.42.16:862][651]LogShaderCompilers: Display: Submitted 73 shader compile jobs with 'Low' priority
+[2023.04.25-02.42.16:885][652]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 73
+[2023.04.25-02.42.16:885][652]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 66
+[2023.04.25-02.42.16:886][652]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 59
+[2023.04.25-02.42.16:886][652]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 52
+[2023.04.25-02.42.16:886][652]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 45
+[2023.04.25-02.42.16:886][652]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 38
+[2023.04.25-02.42.16:886][652]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 31
+[2023.04.25-02.42.16:886][652]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 24
+[2023.04.25-02.42.16:886][652]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 17
+[2023.04.25-02.42.16:886][652]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 10
+[2023.04.25-02.42.16:886][652]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2023.04.25-02.42.16:886][652]LogShaderCompilers: Display: Started 73 'Local' shader compile jobs with 'Low' priority
+[2023.04.25-02.42.25:273][ 54]LogMaterial: Display: Material /Engine/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Constant.M_Emissive_Constant needed to have new flag set bUsedWithNiagaraSprites !
+[2023.04.25-02.42.25:277][ 54]LogMaterial: Display: Missing cached shadermap for M_Emissive_Constant in PCD3D_SM5, Default, SM5 (DDC key hash: DEA10E6E016E1144A866799C565B82ED0FCCCD2D), compiling. 
+[2023.04.25-02.42.25:289][ 54]LogShaderCompilers: Display: Submitted 18 shader compile jobs with 'Low' priority
+[2023.04.25-02.42.25:321][ 55]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 18
+[2023.04.25-02.42.25:321][ 55]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 16
+[2023.04.25-02.42.25:321][ 55]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 14
+[2023.04.25-02.42.25:321][ 55]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 12
+[2023.04.25-02.42.25:321][ 55]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2023.04.25-02.42.25:321][ 55]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2023.04.25-02.42.25:321][ 55]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2023.04.25-02.42.25:321][ 55]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2023.04.25-02.42.25:321][ 55]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2023.04.25-02.42.25:321][ 55]LogShaderCompilers: Display: Started 18 'Local' shader compile jobs with 'Low' priority
+[2023.04.25-02.44.13:727][405]BlueprintLog: New page: Compile DroneBossChar
+[2023.04.25-02.44.14:030][405]LogUObjectHash: Compacting FUObjectHashTables data took   6.84ms
+[2023.04.25-02.44.14:462][417]BlueprintLog: New page: Compile DroneBossChar
+[2023.04.25-02.44.14:722][417]LogUObjectHash: Compacting FUObjectHashTables data took   8.00ms
+[2023.04.25-02.44.15:397][418]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/DroneBossCharC1046F97473FA1645A477E8BB0564AC3.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/AI/DroneBoss/DroneBossChar.uasset'
+[2023.04.25-02.44.15:416][418]AssetCheck: New page: Asset Save: DroneBossChar
+[2023.04.25-02.44.15:416][418]LogContentValidation: Display: Validating Blueprint /Game/Assets/AI/DroneBoss/DroneBossChar.DroneBossChar
+[2023.04.25-02.44.34:470][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/FogEffect" FILE="../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/FogEffect.uasset" SILENT=true
+[2023.04.25-02.44.34:559][895]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/FogEffect0DD08D8447383B17BF8EA88C1656215C.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/FogEffect.uasset'
+[2023.04.25-02.44.34:579][895]AssetCheck: New page: Asset Save: FogEffect
+[2023.04.25-02.44.34:579][895]LogContentValidation: Display: Validating NiagaraSystem /Game/Assets/FogEffect.FogEffect
+[2023.04.25-02.45.45:607][405]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-02.45.45:608][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-02.45.45:641][405]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-02.45.45:641][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-02.45.45:769][405]LogUObjectHash: Compacting FUObjectHashTables data took   8.27ms
+[2023.04.25-02.45.47:598][461]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2023.04.25-02.45.48:702][461]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.25-02.45.48:821][461]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Assets/FogEffect.FogEffect
+[2023.04.25-02.45.49:703][461]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2023.04.25-02.45.49:752][461]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2023.04.25-02.45.49:793][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.04.25-02.45.56:376][982]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CitySkyline)
+[2023.04.25-02.47.29:771][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.04.25-02.47.30:968][877]LogSlate: Window 'Save Content' being destroyed
+[2023.04.25-02.47.31:000][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/FogVolumeMaterial" FILE="../../../Engine/Content/EngineMaterials/FogVolumeMaterial.uasset" SILENT=true
+[2023.04.25-02.47.31:006][877]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/FogVolumeMaterial5E9DCBC14657D03AB6832FA85E1163D9.tmp' to '../../../Engine/Content/EngineMaterials/FogVolumeMaterial.uasset'
+[2023.04.25-02.47.31:036][877]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/M_Emissive_Constant49E903AA4F99AF2CDE410084F93D4BFE.tmp' to '../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Constant.uasset'
+[2023.04.25-02.47.31:067][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/Engine_MI_Shaders/M_ES_Phong_Opaque_Master_01" FILE="../../../Engine/Content/Engine_MI_Shaders/M_ES_Phong_Opaque_Master_01.uasset" SILENT=true
+[2023.04.25-02.47.31:111][877]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/M_ES_Phong_Opaque_Master_0129E465454BAD9E63680C49B3627B2453.tmp' to '../../../Engine/Content/Engine_MI_Shaders/M_ES_Phong_Opaque_Master_01.uasset'
+[2023.04.25-02.47.31:135][877]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/M_EV_FogEnvironment_Master_0171DBDFC3445DCF0A548E3B9568F3435D.tmp' to '../../../Engine/Content/EngineVolumetrics/FogEnvironment/Materials/M_EV_FogEnvironment_Master_01.uasset'
+[2023.04.25-02.47.31:165][877]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/M_EV_FogSheet_1sided_Master_01_N92F76D794E604BBEA4D225B2FAF85B0C.tmp' to '../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/M_EV_FogSheet_1sided_Master_01_N.uasset'
+[2023.04.25-02.47.31:199][877]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/M_EV_FogSheet_2sided_Master_AddiFB0748DC491508C8328DAAA5A89E7B62.tmp' to '../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/M_EV_FogSheet_2sided_Master_Addi.uasset'
+[2023.04.25-02.47.31:244][877]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2023.04.25-02.47.31:453][877]LogSavePackage: Moving '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Skyscraper_Level5E998F6F446F692ABBA04FBFEEE0B0C0.tmp' to '../../../../../School/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/Skyscraper_Level.umap'
+[2023.04.25-02.47.31:474][877]LogFileHelpers: Saving map 'Skyscraper_Level' took 0.274
+[2023.04.25-02.47.31:492][877]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.25-02.47.31:492][877]LogContentValidation: Display: Validating World /Game/Levels/Skyscraper_Level.Skyscraper_Level
+[2023.04.25-02.47.31:492][877]LogContentValidation: Display: Validating Material /Engine/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Constant.M_Emissive_Constant
+[2023.04.25-02.47.31:492][877]LogContentValidation: Display: Validating Material /Engine/Engine_MI_Shaders/M_ES_Phong_Opaque_Master_01.M_ES_Phong_Opaque_Master_01
+[2023.04.25-02.47.31:492][877]LogContentValidation: Display: Validating Material /Engine/EngineVolumetrics/FogEnvironment/Materials/M_EV_FogEnvironment_Master_01.M_EV_FogEnvironment_Master_01
+[2023.04.25-02.47.31:492][877]LogContentValidation: Display: Validating Material /Engine/EngineVolumetrics/Fogsheet/Materials/M_EV_FogSheet_2sided_Master_Addi.M_EV_FogSheet_2sided_Master_Addi
+[2023.04.25-02.47.31:492][877]LogContentValidation: Display: Validating Material /Engine/EngineMaterials/FogVolumeMaterial.FogVolumeMaterial
+[2023.04.25-02.47.31:492][877]LogContentValidation: Display: Validating Material /Engine/EngineVolumetrics/Fogsheet/Materials/M_EV_FogSheet_1sided_Master_01_N.M_EV_FogSheet_1sided_Master_01_N
