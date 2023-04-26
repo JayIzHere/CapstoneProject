@@ -1,0 +1,1142 @@
+﻿Log file open, 04/26/23 10:16:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CapstoneProject_HJV
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.488833
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin CPathfinding
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 12th Gen Intel(R) Core(TM) i5-12500H, GPU: Intel(R) Iris(R) Xe Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.04.26-14.16.23:032][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.04.26-14.16.23:032][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.04.26-14.16.23:033][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Config/Windows/Engine.ini]
+[2023.04.26-14.16.23:033][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.04.26-14.16.23:033][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Config/Windows/Engine.ini]
+[2023.04.26-14.16.23:033][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Config/Windows/Engine.ini]
+[2023.04.26-14.16.23:033][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.04.26-14.16.23:033][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.04.26-14.16.23:033][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.04.26-14.16.23:033][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.04.26-14.16.23:033][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.04.26-14.16.23:033][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.04.26-14.16.23:033][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.04.26-14.16.23:033][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.04.26-14.16.23:033][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.04.26-14.16.23:033][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.04.26-14.16.23:033][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.04.26-14.16.23:033][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.04.26-14.16.23:033][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.04.26-14.16.23:033][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.04.26-14.16.23:033][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Config/Windows/Engine.ini]
+[2023.04.26-14.16.23:033][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.04.26-14.16.23:033][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.04.26-14.16.23:033][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.04.26-14.16.23:033][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.04.26-14.16.23:034][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.04.26-14.16.23:034][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.04.26-14.16.23:034][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.04.26-14.16.23:034][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.04.26-14.16.23:034][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.04.26-14.16.23:034][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.04.26-14.16.23:034][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.04.26-14.16.23:034][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.04.26-14.16.23:034][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.04.26-14.16.23:034][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.04.26-14.16.23:034][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Config/Windows/Engine.ini]
+[2023.04.26-14.16.23:034][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Config/Windows/Engine.ini]
+[2023.04.26-14.16.23:048][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Config/Windows/Scalability.ini]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Config/Windows/Scalability.ini]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Config/Windows/Scalability.ini]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Config/Windows/Scalability.ini]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.04.26-14.16.23:048][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Config/Windows/Scalability.ini]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Config/Windows/Scalability.ini]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Config/Windows/Scalability.ini]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Config/Windows/Scalability.ini]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.04.26-14.16.23:049][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.04.26-14.16.23:050][  0]LogInit: Selected Device Profile: [Windows]
+[2023.04.26-14.16.23:050][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.04.26-14.16.23:051][  0]LogHAL: Display: Platform has ~ 16 GB [16870006784 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.04.26-14.16.23:051][  0]LogInit: Going up to parent DeviceProfile []
+[2023.04.26-14.16.23:052][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Config/Windows/Scalability.ini]
+[2023.04.26-14.16.23:052][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.04.26-14.16.23:052][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.04.26-14.16.23:052][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Config/Windows/Scalability.ini]
+[2023.04.26-14.16.23:052][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.04.26-14.16.23:052][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Config/Windows/Scalability.ini]
+[2023.04.26-14.16.23:052][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.04.26-14.16.23:052][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.04.26-14.16.23:052][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.04.26-14.16.23:052][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.04.26-14.16.23:052][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.04.26-14.16.23:052][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.04.26-14.16.23:052][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.04.26-14.16.23:052][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.04.26-14.16.23:052][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.04.26-14.16.23:052][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.04.26-14.16.23:052][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.04.26-14.16.23:052][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.04.26-14.16.23:052][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.04.26-14.16.23:052][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.04.26-14.16.23:052][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.04.26-14.16.23:052][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.04.26-14.16.23:052][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.04.26-14.16.23:052][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.04.26-14.16.23:052][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Config/Windows/Scalability.ini]
+[2023.04.26-14.16.23:052][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.04.26-14.16.23:052][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.04.26-14.16.23:052][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.04.26-14.16.23:052][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.04.26-14.16.23:052][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.04.26-14.16.23:052][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.04.26-14.16.23:052][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.04.26-14.16.23:052][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.04.26-14.16.23:052][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.04.26-14.16.23:052][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.04.26-14.16.23:052][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.04.26-14.16.23:052][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.04.26-14.16.23:052][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.04.26-14.16.23:052][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.04.26-14.16.23:052][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.04.26-14.16.23:052][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.04.26-14.16.23:052][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.04.26-14.16.23:052][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.04.26-14.16.23:052][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.04.26-14.16.23:053][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.04.26-14.16.23:053][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.04.26-14.16.23:053][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.04.26-14.16.23:053][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.04.26-14.16.23:053][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.04.26-14.16.23:053][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.04.26-14.16.23:053][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.04.26-14.16.23:053][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.04.26-14.16.23:053][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.04.26-14.16.23:053][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.04.26-14.16.23:053][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.04.26-14.16.23:053][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Config/Windows/Scalability.ini]
+[2023.04.26-14.16.23:053][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.04.26-14.16.23:053][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.04.26-14.16.23:053][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.04.26-14.16.23:053][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.04.26-14.16.23:053][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.04.26-14.16.23:053][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.04.26-14.16.23:053][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.04.26-14.16.23:053][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.04.26-14.16.23:053][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.04.26-14.16.23:053][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Config/Windows/Scalability.ini]
+[2023.04.26-14.16.23:053][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.04.26-14.16.23:053][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.04.26-14.16.23:053][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.04.26-14.16.23:053][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.04.26-14.16.23:053][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.04.26-14.16.23:054][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.04.26-14.16.23:054][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.04.26-14.16.23:054][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.04.26-14.16.23:054][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.04.26-14.16.23:054][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.04.26-14.16.23:054][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.04.26-14.16.23:054][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.04.26-14.16.23:054][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.04.26-14.16.23:054][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.04.26-14.16.23:054][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.04.26-14.16.23:054][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.04.26-14.16.23:054][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.04.26-14.16.23:054][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.04.26-14.16.23:054][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.04.26-14.16.23:054][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.04.26-14.16.23:054][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.04.26-14.16.23:054][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.04.26-14.16.23:054][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.04.26-14.16.23:054][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.04.26-14.16.23:054][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.04.26-14.16.23:054][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.04.26-14.16.23:054][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.04.26-14.16.23:054][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.04.26-14.16.23:054][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Config/Windows/Scalability.ini]
+[2023.04.26-14.16.23:054][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.04.26-14.16.23:054][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.04.26-14.16.23:054][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Config/Windows/Scalability.ini]
+[2023.04.26-14.16.23:054][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.04.26-14.16.23:054][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.04.26-14.16.23:054][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.04.26-14.16.23:054][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.04.26-14.16.23:061][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.04.26-14.16.23:061][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.04.26-14.16.23:061][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.04.26-14.16.23:061][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Config/Windows/Engine.ini]
+[2023.04.26-14.16.23:061][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Config/Windows/Editor.ini]
+[2023.04.26-14.16.23:063][  0]LogInit: Computer: BILLSLAPTOP
+[2023.04.26-14.16.23:063][  0]LogInit: User: bvelt
+[2023.04.26-14.16.23:063][  0]LogInit: CPU Page size=4096, Cores=12
+[2023.04.26-14.16.23:063][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.04.26-14.16.23:063][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2023.04.26-14.16.23:063][  0]LogMemory: Platform Memory Stats for Windows
+[2023.04.26-14.16.23:063][  0]LogMemory: Process Physical Memory: 154.49 MB used, 154.49 MB peak
+[2023.04.26-14.16.23:063][  0]LogMemory: Process Virtual Memory: 133.15 MB used, 133.15 MB peak
+[2023.04.26-14.16.23:063][  0]LogMemory: Physical Memory: 10496.80 MB used,  5591.70 MB free, 16088.49 MB total
+[2023.04.26-14.16.23:063][  0]LogMemory: Virtual Memory: 134188128.00 MB used,  29600.06 MB free, 134217728.00 MB total
+[2023.04.26-14.16.23:070][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.04.26-14.16.23:378][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.04.26-14.16.23:382][  0]LogInit: Using OS detected language (en-US).
+[2023.04.26-14.16.23:382][  0]LogInit: Using OS detected locale (en-US).
+[2023.04.26-14.16.23:395][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2023.04.26-14.16.23:763][  0]LogInit: Setting process to per monitor DPI aware
+[2023.04.26-14.16.23:809][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.04.26-14.16.23:892][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.04.26-14.16.23:892][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.04.26-14.16.27:087][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.04.26-14.16.27:146][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.04.26-14.16.27:146][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.04.26-14.16.27:146][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.04.26-14.16.27:146][  0]LogD3D11RHI: D3D11 adapters:
+[2023.04.26-14.16.27:279][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3050 Ti Laptop GPU' (Feature Level 11_0)
+[2023.04.26-14.16.27:279][  0]LogD3D11RHI:       3976/0/8044 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2023.04.26-14.16.27:328][  0]LogD3D11RHI:    1. 'Intel(R) Iris(R) Xe Graphics' (Feature Level 11_0)
+[2023.04.26-14.16.27:328][  0]LogD3D11RHI:       128/0/8044 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2023.04.26-14.16.27:335][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.04.26-14.16.27:335][  0]LogD3D11RHI:       0/0/8044 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.04.26-14.16.27:335][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.04.26-14.16.27:335][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3050 Ti Laptop GPU
+[2023.04.26-14.16.27:335][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.04.26-14.16.27:335][  0]LogD3D11RHI:     DeviceId    : 25a0
+[2023.04.26-14.16.27:335][  0]LogD3D11RHI:     SubSysId    : 159c1025
+[2023.04.26-14.16.27:335][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.04.26-14.16.27:335][  0]LogD3D11RHI:     DedicatedVideoMemory : 4169138176 bytes
+[2023.04.26-14.16.27:335][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.04.26-14.16.27:335][  0]LogD3D11RHI:     SharedSystemMemory : 8435003392 bytes
+[2023.04.26-14.16.27:335][  0]LogD3D11RHI:     AdapterLuid : 0 68673
+[2023.04.26-14.16.27:346][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.04.26-14.16.27:346][  0]LogD3D11RHI:     GPU DeviceId: 0x25a0 (for the marketing name, search the web for "GPU Device Id")
+[2023.04.26-14.16.27:346][  0]LogWindows: EnumDisplayDevices:
+[2023.04.26-14.16.27:346][  0]LogWindows:    0. 'Intel(R) Iris(R) Xe Graphics' (P:1 D:1)
+[2023.04.26-14.16.27:346][  0]LogWindows:    1. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2023.04.26-14.16.27:346][  0]LogWindows:    2. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2023.04.26-14.16.27:346][  0]LogWindows:    3. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2023.04.26-14.16.27:347][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3050 Ti Laptop GPU' (P:0 D:0)
+[2023.04.26-14.16.27:347][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2023.04.26-14.16.27:347][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3050 Ti Laptop GPU
+[2023.04.26-14.16.27:347][  0]LogD3D11RHI:   Driver Version: 528.02 (internal:31.0.15.2802, unified:528.02)
+[2023.04.26-14.16.27:347][  0]LogD3D11RHI:      Driver Date: 12-22-2022
+[2023.04.26-14.16.27:347][  0]LogRHI: Texture pool is 2783 MB (70% of 3976 MB)
+[2023.04.26-14.16.27:347][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.04.26-14.16.27:347][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3050 Ti Laptop GPU
+[2023.04.26-14.16.27:347][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.04.26-14.16.27:347][  0]LogD3D11RHI:     DeviceId    : 25a0
+[2023.04.26-14.16.27:347][  0]LogD3D11RHI:     SubSysId    : 159c1025
+[2023.04.26-14.16.27:347][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.04.26-14.16.27:347][  0]LogD3D11RHI:     DedicatedVideoMemory : 4169138176 bytes
+[2023.04.26-14.16.27:347][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.04.26-14.16.27:347][  0]LogD3D11RHI:     SharedSystemMemory : 8435003392 bytes
+[2023.04.26-14.16.27:347][  0]LogD3D11RHI:     AdapterLuid : 0 68673
+[2023.04.26-14.16.27:418][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.04.26-14.16.27:419][  0]LogD3D11RHI: Async texture creation enabled
+[2023.04.26-14.16.27:419][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.04.26-14.16.27:494][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.04.26-14.16.27:544][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.04.26-14.16.28:095][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.04.26-14.16.28:120][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.04.26-14.16.28:120][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.04.26-14.16.28:120][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.04.26-14.16.28:120][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.04.26-14.16.28:120][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.04.26-14.16.28:120][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.04.26-14.16.28:120][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.04.26-14.16.28:121][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.04.26-14.16.28:121][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.04.26-14.16.28:121][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.04.26-14.16.28:148][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.04.26-14.16.28:148][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.04.26-14.16.28:171][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.04.26-14.16.28:179][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.04.26-14.16.28:187][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.04.26-14.16.28:198][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.04.26-14.16.28:224][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.04.26-14.16.28:233][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.04.26-14.16.28:242][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.04.26-14.16.28:278][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.04.26-14.16.28:278][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.04.26-14.16.28:301][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.04.26-14.16.28:310][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.04.26-14.16.28:317][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.04.26-14.16.28:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.04.26-14.16.28:337][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.04.26-14.16.28:337][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.04.26-14.16.28:349][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.04.26-14.16.28:356][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.04.26-14.16.28:364][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.04.26-14.16.28:371][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.04.26-14.16.28:371][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.04.26-14.16.28:448][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.04.26-14.16.28:560][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.04.26-14.16.28:718][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.04.26-14.16.28:720][  0]LogShaderCompilers: Guid format shader working directory is -37 characters bigger than the processId version (../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Intermediate/Shaders/WorkingDirectory/20748/).
+[2023.04.26-14.16.28:720][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/bvelt/AppData/Local/Temp/UnrealShaderWorkingDir/AF8295514CF1B8223FFF3E97B5FD4957/'.
+[2023.04.26-14.16.28:722][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.04.26-14.16.28:722][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.04.26-14.16.28:722][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.04.26-14.16.33:569][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.04.26-14.16.33:735][  0]LogDerivedDataCache: Loaded boot cache 0.16s 94MB C:/Users/bvelt/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.04.26-14.16.33:735][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/bvelt/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.04.26-14.16.33:735][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.04.26-14.16.33:735][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.04.26-14.16.33:735][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.04.26-14.16.33:735][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.04.26-14.16.33:789][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.04.26-14.16.33:789][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.04.26-14.16.33:789][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.04.26-14.16.33:852][  0]LogDerivedDataCache: Speed tests for C:/Users/bvelt/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.06 seconds
+[2023.04.26-14.16.33:852][  0]LogDerivedDataCache: Display: Performance to C:/Users/bvelt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.14ms. RandomReadSpeed=17.25MBs, RandomWriteSpeed=138.57MBs. Assigned SpeedClass 'Local'
+[2023.04.26-14.16.33:853][  0]LogDerivedDataCache: Using Local data cache path C:/Users/bvelt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.04.26-14.16.33:853][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.04.26-14.16.33:853][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.04.26-14.16.33:922][  0]LogSlate: Using FreeType 2.10.0
+[2023.04.26-14.16.33:944][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.04.26-14.16.33:998][  0]LogAssetRegistry: FAssetRegistry took 0.0072 seconds to start up
+[2023.04.26-14.16.34:582][  0]LogInit: Selected Device Profile: [Windows]
+[2023.04.26-14.16.34:582][  0]LogInit: Active device profile: [00000258D6A7F500][00000258D3F8A600 49] Windows
+[2023.04.26-14.16.34:582][  0]LogInit: Profiles: [00000258D6A7F500][00000258D3F8A600 49] Windows, [00000258D6A3CD00][00000258D6726780 49] WindowsNoEditor, [00000258D6A7CD00][00000258D672A900 49] WindowsServer, [00000258D6A3ED00][00000258D672EA80 49] WindowsClient, [00000258D6A7EC00][00000258D6722BC0 49] IOS, [00000258D6A3D600][00000258D6732D00 49] iPadAir, [00000258D6A7D500][00000258D6736E40 49] iPadAir2, [00000258D69E3C00][00000258D67430C0 49] IPadPro, [00000258D69E3D00][00000258D673B100 49] iPadAir3, [00000258D6A7E600][00000258D6747280 49] iPadAir4, [00000258D69E1200][00000258D674B400 49] iPadMini2, [00000258D6A7DA00][00000258D674F580 49] iPadMini3, [00000258D69E2700][00000258D6753700 49] iPadMini4, [00000258D6A7C800][00000258D6757880 49] iPadMini5, [00000258D6A27500][00000258D675FB40 49] iPhone6, [00000258D6A27600][00000258D675BB80 49] iPodTouch6, [00000258D69E0200][00000258D67662C0 49] iPhone7, [00000258D69E0100][00000258D6762300 49] iPodTouch7, [00000258D6A25100][00000258D676A480 49] iPhone5S, [00000258D69E0B00][00000258D676E600 49] iPhone6Plus, [00000258D6A26800][00000258D6772780 49] iPhone6S, [00000258D69E0F00][00000258D6776900 49] iPhone6SPlus, [00000258D6A25900][00000258D677AA80 49] iPhone7Plus, [00000258D69E2400][00000258D677EC00 49] iPhoneSE, [00000258D6A27700][00000258D673ED40 49] iPhone8, [00000258D69E3700][00000258D6782E80 49] iPhone8Plus, [00000258D6A26D00][00000258D6786FC0 49] iPhoneX, [00000258D69E3A00][00000258D678B100 49] iPhoneXS, [00000258D6A25200][00000258D6793280 49] iPhoneXSMax, [00000258D69E0D00][00000258D6797400 49] iPhoneXR, [00000258D6A24B00][00000258D679B580 49] iPhone11, [00000258D69E2B00][00000258D679F700 49] iPhone11Pro, [00000258D6A26F00][00000258D67A3880 49] iPhone11ProMax, [00000258D69E2800][00000258D67A7A00 49] iPhoneSE2, [00000258D6A25800][00000258D67ABB80 49] iPhone12Mini, [00000258D69E2500][00000258D67AE180 49] iPhone12, [00000258D6A25C00][00000258D67B2300 49] iPhone12Pro, [00000258D69E3400][00000258D67B6480 49] iPhone12ProMax, [00000258D6A27400][00000258D67BA600 49] iPadPro105, [00000258D69E3B00][00000258D67BE780 49] iPadPro129, [00000258D6A26000][00000258D67C2900 49] iPadPro97, [00000258D69E0300][00000258D67C6A80 49] iPadPro2_129, [00000258D6A27E00][00000258D67CAC00 49] iPad5, [00000258D69E0E00][00000258D67CED80 49] iPad6, [00000258D6A24A00][00000258D67D2F00 49] iPad7, [00000258D69E2F00][00000258D678F040 49] iPad8, [00000258D6A25F00][00000258D67D7180 49] iPadPro11, [00000258D69E3200][00000258D67DB2C0 49] iPadPro2_11, [00000258D6A24500][00000258D67E3440 49] iPadPro3_129, [00000258D69E1900][00000258D67E75C0 49] iPadPro4_129, [00000258D6A26600][00000258D67EB740 49] AppleTV, [00000258D69E3E00][00000258D68098C0 49] AppleTV4K, [00000258D6A24600][00000258D680DA40 49] TVOS, [00000258D69E1B00][00000258D6811BC0 49] Mac, [00000258D6A24100][00000258D68141C0 49] MacClient, [00000258D69E2E00][00000258D6818340 49] MacNoEditor, [00000258D6A24E00][00000258D681C4C0 49] MacServer, [00000258D69E1500][00000258D6820640 49] Linux, [00000258D6A25700][00000258D68247C0 49] LinuxAArch64, [00000258D69E3800][00000258D6828940 49] LinuxNoEditor, [00000258D6ADD400][00000258D682CAC0 49] LinuxAArch64NoEditor, [00000258D6A3FD00][00000258D6830C40 49] LinuxClient, [00000258D6ADE000][00000258D6834DC0 49] LinuxAArch64Client, [00000258D6A3CB00][00000258D6838F40 49] LinuxServer, [00000258D6ADCF00][00000258D683D0C0 49] LinuxAArch64Server, [00000258D6A3F400][00000258D67DF200 49] Android, [00000258D6ADCD00][00000258D6841340 49] Android_Low, [00000258D6A3D100][00000258D6845480 49] Android_Mid, [00000258D6ADDD00][00000258D68495C0 49] Android_High, [00000258D6A3D900][00000258D6851740 49] Android_Default, [00000258D6ADDE00][00000258D68558C0 49] Android_Adreno4xx, [00000258D6A3E900][00000258D6859A40 49] Android_Adreno5xx_Low, [00000258D6ADC600][00000258D685DBC0 49] Android_Adreno5xx, [00000258D6A3E000][00000258D68601C0 49] Android_Adreno6xx, [00000258D6ADC200][00000258D6864340 49] Android_Adreno6xx_Vulkan, [00000258D6A3FB00][00000258D68684C0 49] Android_Mali_T6xx, [00000258D69E2200][00000258D686C640 49] Android_Mali_T7xx, [00000258D6A27900][00000258D68707C0 49] Android_Mali_T8xx, [00000258D69E2900][00000258D6874940 49] Android_Mali_G71, [00000258D6A27C00][00000258D6878AC0 49] Android_Mali_G72, [00000258D69E1E00][00000258D687CC40 49] Android_Mali_G72_Vulkan, [00000258D6A26A00][00000258D6880DC0 49] Android_Mali_G76, [00000258D69E3100][00000258D6884F40 49] Android_Mali_G76_Vulkan, [00000258D6A27200][00000258D68890C0 49] Android_Mali_G77, [00000258D69E3600][00000258D688D240 49] Android_Mali_G77_Vulkan, [00000258D6A26500][00000258D684D380 49] Android_Mali_G78, [00000258D6A3F800][00000258D68914C0 49] Android_Mali_G78_Vulkan, [00000258D6ADDF00][00000258D6895600 49] Android_Mali_G710, [00000258D69E1800][00000258D6899740 49] Android_Mali_G710_Vulkan, [00000258D6ADC300][00000258D68A18C0 49] Android_Vulkan_SM5, [00000258D69E1D00][00000258D68A5A40 49] Android_PowerVR_G6xxx, [00000258D6ADE400][00000258D68A9BC0 49] Android_PowerVR_GT7xxx, [00000258D69E0600][00000258D68AC1C0 49] Android_PowerVR_GE8xxx, [00000258D6ADCC00][00000258D78C0340 49] Android_PowerVR_GM9xxx, [00000258D69E3900][00000258D78C44C0 49] Android_PowerVR_GM9xxx_Vulkan, [00000258D6ADE800][00000258D78C8640 49] Android_TegraK1, [00000258D69E1400][00000258D78CC7C0 49] Android_Unknown_Vulkan, [00000258D6ADC400][00000258D78D0940 49] Lumin, [00000258D69E3F00][00000258D78D4AC0 49] Lumin_Desktop, [00000258D6ADD000][00000258D78D8C40 49] HoloLens, 
+[2023.04.26-14.16.35:219][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.04.26-14.16.35:219][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.04.26-14.16.35:219][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.04.26-14.16.35:219][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.04.26-14.16.35:220][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.04.26-14.16.35:274][  0]LogNetVersion: CapstoneProject_HJV 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2464823574)
+[2023.04.26-14.16.36:627][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.04.26-14.16.36:755][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.04.26-14.16.36:764][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2023.04.26-14.16.36:764][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2023.04.26-14.16.36:764][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.04.26-14.16.37:711][  0]LogPython: Using Python 3.7.7
+[2023.04.26-14.16.39:199][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 323D861A4C32E2C17AA0D4A84D9533F8 | Instance: BB19D12A469442B2EB0B90A2794796FB (BILLSLAPTOP-20748).
+[2023.04.26-14.16.39:374][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.04.26-14.16.39:386][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.04.26-14.16.39:904][  0]SourceControl: Source control is disabled
+[2023.04.26-14.16.39:905][  0]SourceControl: Source control is disabled
+[2023.04.26-14.16.39:918][  0]SourceControl: Source control is disabled
+[2023.04.26-14.16.39:941][  0]LogUProjectInfo: Found projects:
+[2023.04.26-14.16.39:950][  0]SourceControl: Source control is disabled
+[2023.04.26-14.16.39:964][  0]SourceControl: Source control is disabled
+[2023.04.26-14.16.40:429][  0]LogOpenImageDenoise: OIDN starting up
+[2023.04.26-14.16.40:747][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.04.26-14.16.40:760][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.04.26-14.16.40:760][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.04.26-14.16.41:029][  0]LogCollectionManager: Loaded 0 collections in 0.003390 seconds
+[2023.04.26-14.16.41:082][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Collections/' took 0.00s
+[2023.04.26-14.16.41:082][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Developers/bvelt/Collections/' took 0.00s
+[2023.04.26-14.16.41:082][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Collections/' took 0.00s
+[2023.04.26-14.16.41:082][  0]LogOcInput: OculusInput pre-init called
+[2023.04.26-14.16.41:564][  0]LogClass: Warning: StructProperty FCPathNode::WorldLocation is not initialized properly even though its struct probably has a custom default constructor. Module:CPathfinding File:Public/CPathNode.h
+[2023.04.26-14.16.41:565][  0]LogClass: Display: 1 Uninitialized script struct members found including 0 object properties
+[2023.04.26-14.16.41:568][  0]LogAutomationTest: Warning: StructProperty FCPathNode::WorldLocation is not initialized properly even though its struct probably has a custom default constructor. Module:CPathfinding File:Public/CPathNode.h
+[2023.04.26-14.16.41:573][  0]LogEngine: Initializing Engine...
+[2023.04.26-14.16.41:669][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2023.04.26-14.16.41:669][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.04.26-14.16.41:670][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.04.26-14.16.41:675][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2023.04.26-14.16.41:848][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.04.26-14.16.41:890][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.04.26-14.16.41:895][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.04.26-14.16.41:903][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.04.26-14.16.41:904][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.04.26-14.16.41:905][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.04.26-14.16.41:905][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.04.26-14.16.41:906][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.26-14.16.41:906][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.26-14.16.41:906][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.26-14.16.41:906][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.26-14.16.41:906][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.26-14.16.41:906][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.26-14.16.41:906][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.26-14.16.41:906][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.26-14.16.41:908][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.26-14.16.41:908][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.26-14.16.41:908][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.26-14.16.41:908][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.26-14.16.41:929][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.26-14.16.41:929][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.04.26-14.16.42:524][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.04.26-14.16.42:529][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.26-14.16.42:531][  0]LogAudioMixer: Display: Submix unset or invalid in 'AudioSettings': Using engine asset 'MasterSubmixDefault'
+[2023.04.26-14.16.42:532][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.26-14.16.42:532][  0]LogAudioMixer: Display: Submix unset or invalid in 'AudioSettings': Using engine asset 'MasterReverbSubmixDefault'
+[2023.04.26-14.16.42:532][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.26-14.16.42:534][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.26-14.16.42:534][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.26-14.16.42:534][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.26-14.16.42:535][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.26-14.16.42:535][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.26-14.16.42:535][  0]LogInit: FAudioDevice initialized.
+[2023.04.26-14.16.42:536][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.04.26-14.16.42:536][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.04.26-14.16.42:599][  0]LogDerivedDataCache: Saved boot cache 0.06s 94MB C:/Users/bvelt/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.04.26-14.16.42:600][  0]LogInit: Texture streaming: Enabled
+[2023.04.26-14.16.42:629][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2023.04.26-14.16.42:638][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.04.26-14.16.42:638][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.04.26-14.16.42:641][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.04.26-14.16.42:727][  0]LogInit: Transaction tracking system initialized
+[2023.04.26-14.16.42:793][  0]BlueprintLog: New page: Editor Load
+[2023.04.26-14.16.43:013][  0]LocalizationService: Localization service is disabled
+[2023.04.26-14.16.43:091][  0]TimingProfiler: Initialize
+[2023.04.26-14.16.43:093][  0]TimingProfiler: OnSessionChanged
+[2023.04.26-14.16.43:093][  0]LoadingProfiler: Initialize
+[2023.04.26-14.16.43:093][  0]LoadingProfiler: OnSessionChanged
+[2023.04.26-14.16.43:095][  0]NetworkingProfiler: Initialize
+[2023.04.26-14.16.43:095][  0]NetworkingProfiler: OnSessionChanged
+[2023.04.26-14.16.43:095][  0]MemoryProfiler: Initialize
+[2023.04.26-14.16.43:095][  0]MemoryProfiler: OnSessionChanged
+[2023.04.26-14.16.43:361][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.04.26-14.16.43:362][  0]LogCook: Display: Mobile HDR setting 1
+[2023.04.26-14.16.43:595][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/' took 0.02s
+[2023.04.26-14.16.44:010][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.04.26-14.16.44:018][  0]SourceControl: Source control is disabled
+[2023.04.26-14.16.44:018][  0]LogUnrealEdMisc: Loading editor; pre map load, took 26.159
+[2023.04.26-14.16.44:019][  0]Cmd: MAP LOAD FILE="../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/Lab_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.26-14.16.44:020][  0]LightingResults: New page: Lighting Build
+[2023.04.26-14.16.44:026][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.04.26-14.16.44:027][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.26-14.16.44:028][  0]MapCheck: New page: Map Check
+[2023.04.26-14.16.44:028][  0]LightingResults: New page: Lighting Build
+[2023.04.26-14.16.44:040][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.26-14.16.44:048][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.04.26-14.16.45:905][  0]LogTemp: Warning: CPath - Dynamic obstacle 'Lab_Door6_159' is not Movable.
+[2023.04.26-14.16.45:905][  0]LogTemp: Warning: CPath - Dynamic obstacle 'Lab_Door7' is not Movable.
+[2023.04.26-14.16.50:942][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lab_Level'.
+[2023.04.26-14.16.50:943][  0]LogAIModule: Creating AISystem for world Lab_Level
+[2023.04.26-14.16.50:991][  0]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone2.CharacterMesh0'
+[2023.04.26-14.16.50:995][  0]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone3.CharacterMesh0'
+[2023.04.26-14.16.50:995][  0]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Levels/Lab_Level.Lab_Level:PersistentLevel.Drone_2.CharacterMesh0'
+[2023.04.26-14.16.51:065][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.26-14.16.51:098][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.04.26-14.16.51:099][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.26-14.16.51:099][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.396ms to complete.
+[2023.04.26-14.16.51:099][  0]LogFileHelpers: Loading map 'Lab_Level' took 7.080
+[2023.04.26-14.16.51:122][  0]LogUnrealEdMisc: Total Editor Startup Time, took 33.263
+[2023.04.26-14.16.51:919][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.04.26-14.16.52:096][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.26-14.16.52:106][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.26-14.16.52:116][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.26-14.16.52:124][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.26-14.16.52:164][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0113 seconds. Added 3836 classes and 936 folders.
+[2023.04.26-14.16.52:170][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.04.26-14.16.52:188][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.04.26-14.16.52:188][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-14.16.52:188][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.04.26-14.16.52:189][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-14.16.52:189][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2023.04.26-14.16.52:189][  0]LogPakFile: OnPakFileMounted2Time == 0.000272
+[2023.04.26-14.16.52:205][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.04.26-14.16.52:205][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-14.16.52:205][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.04.26-14.16.52:205][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-14.16.52:205][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.04.26-14.16.52:205][  0]LogPakFile: OnPakFileMounted2Time == 0.000076
+[2023.04.26-14.16.52:216][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.04.26-14.16.52:216][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-14.16.52:216][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.04.26-14.16.52:216][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-14.16.52:216][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2023.04.26-14.16.52:216][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2023.04.26-14.16.52:226][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.26-14.16.52:226][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-14.16.52:226][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.04.26-14.16.52:227][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-14.16.52:227][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.04.26-14.16.52:227][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2023.04.26-14.16.52:237][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.04.26-14.16.52:237][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-14.16.52:237][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.04.26-14.16.52:237][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-14.16.52:237][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2023.04.26-14.16.52:237][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2023.04.26-14.16.52:246][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.04.26-14.16.52:246][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-14.16.52:246][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.04.26-14.16.52:246][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-14.16.52:246][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.04.26-14.16.52:246][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2023.04.26-14.16.52:256][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.04.26-14.16.52:256][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-14.16.52:256][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.04.26-14.16.52:256][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-14.16.52:256][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2023.04.26-14.16.52:256][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2023.04.26-14.16.52:266][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.04.26-14.16.52:266][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-14.16.52:266][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.04.26-14.16.52:266][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-14.16.52:266][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2023.04.26-14.16.52:266][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2023.04.26-14.16.52:278][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.04.26-14.16.52:278][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-14.16.52:278][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.04.26-14.16.52:278][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-14.16.52:278][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2023.04.26-14.16.52:278][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2023.04.26-14.16.52:291][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.04.26-14.16.52:291][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-14.16.52:291][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.04.26-14.16.52:291][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-14.16.52:291][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2023.04.26-14.16.52:291][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2023.04.26-14.16.52:301][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.04.26-14.16.52:301][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-14.16.52:301][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.04.26-14.16.52:301][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-14.16.52:301][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2023.04.26-14.16.52:301][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2023.04.26-14.16.52:312][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.04.26-14.16.52:312][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-14.16.52:312][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.04.26-14.16.52:312][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-14.16.52:312][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2023.04.26-14.16.52:312][  0]LogPakFile: OnPakFileMounted2Time == 0.000075
+[2023.04.26-14.16.52:322][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.26-14.16.52:322][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-14.16.52:322][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.04.26-14.16.52:322][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-14.16.52:322][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2023.04.26-14.16.52:322][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2023.04.26-14.16.52:331][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.04.26-14.16.52:331][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-14.16.52:331][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.04.26-14.16.52:331][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-14.16.52:331][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2023.04.26-14.16.52:331][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2023.04.26-14.16.52:341][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.04.26-14.16.52:341][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-14.16.52:341][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.04.26-14.16.52:341][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-14.16.52:341][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.04.26-14.16.52:341][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2023.04.26-14.16.52:351][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.04.26-14.16.52:351][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-14.16.52:351][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.04.26-14.16.52:351][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-14.16.52:351][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2023.04.26-14.16.52:351][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2023.04.26-14.16.52:360][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.04.26-14.16.52:360][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-14.16.52:360][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.04.26-14.16.52:360][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-14.16.52:360][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.04.26-14.16.52:360][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2023.04.26-14.16.52:369][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.04.26-14.16.52:369][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-14.16.52:369][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.04.26-14.16.52:369][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-14.16.52:369][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2023.04.26-14.16.52:369][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2023.04.26-14.16.52:378][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.26-14.16.52:378][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-14.16.52:378][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.04.26-14.16.52:379][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-14.16.52:379][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2023.04.26-14.16.52:379][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2023.04.26-14.16.52:393][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.26-14.16.52:393][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-14.16.52:393][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.04.26-14.16.52:393][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-14.16.52:393][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2023.04.26-14.16.52:393][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2023.04.26-14.16.52:403][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.04.26-14.16.52:403][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-14.16.52:403][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.04.26-14.16.52:403][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-14.16.52:403][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2023.04.26-14.16.52:403][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2023.04.26-14.16.52:411][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.04.26-14.16.52:411][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-14.16.52:411][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.04.26-14.16.52:411][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-14.16.52:411][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2023.04.26-14.16.52:411][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2023.04.26-14.16.52:420][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.04.26-14.16.52:420][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-14.16.52:420][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.04.26-14.16.52:420][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-14.16.52:420][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2023.04.26-14.16.52:420][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2023.04.26-14.16.52:430][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.04.26-14.16.52:430][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-14.16.52:430][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.04.26-14.16.52:430][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-14.16.52:430][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.04.26-14.16.52:430][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2023.04.26-14.16.52:440][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.26-14.16.52:440][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-14.16.52:440][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.04.26-14.16.52:440][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-14.16.52:440][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2023.04.26-14.16.52:440][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2023.04.26-14.16.52:451][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.04.26-14.16.52:451][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-14.16.52:451][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.04.26-14.16.52:451][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-14.16.52:451][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.04.26-14.16.52:451][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2023.04.26-14.16.52:827][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2023.04.26-14.16.52:836][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 0 folders.
+[2023.04.26-14.16.53:220][  0]LogSlate: Took 0.013060 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.04.26-14.16.53:231][  0]LogSlate: Took 0.008554 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.04.26-14.16.53:241][  0]LogSlate: Took 0.008500 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.04.26-14.16.53:404][  0]LogRenderer: Reallocating scene render targets to support 876x396 Format 10 NumSamples 1 (Frame:1).
+[2023.04.26-14.16.53:646][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2023.04.26-14.16.53:646][  0]LogLoad: (Engine Initialization) Total time: 35.79 seconds
+[2023.04.26-14.16.53:647][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.04.26-14.16.53:786][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.04.26-14.16.53:824][  1]LogRenderer: Reallocating scene render targets to support 876x412 Format 10 NumSamples 1 (Frame:3).
+[2023.04.26-14.16.53:828][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/' took 0.15s
+[2023.04.26-14.16.53:835][  1]LogAssetRegistry: Asset discovery search completed in 19.8383 seconds
+[2023.04.26-14.16.53:842][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2023.04.26-14.16.53:938][  2]LogSlate: Took 0.006480 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.26-14.16.54:681][ 46]LogSlate: Took 0.000285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.26-14.17.21:636][629]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/MainMenuGUI/MenuInstance.MenuInstance
+[2023.04.26-14.17.21:819][629]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2023.04.26-14.17.22:919][629]LogSlate: Took 0.006831 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.04.26-14.17.26:317][820]LogSlate: Took 0.008282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.04.26-14.18.41:033][ 78]BlueprintLog: New page: Compile MenuInstance
+[2023.04.26-14.18.41:070][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2023.04.26-14.18.41:092][ 78]LogSlate: Took 0.001170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.04.26-14.18.41:547][101]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/MenuInstanceE8D64F6440BE6002282D148631E9433C.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/MainMenuGUI/MenuInstance.uasset'
+[2023.04.26-14.18.41:614][101]AssetCheck: New page: Asset Save: MenuInstance
+[2023.04.26-14.18.41:614][101]LogContentValidation: Display: Validating Blueprint /Game/Assets/MainMenuGUI/MenuInstance.MenuInstance
+[2023.04.26-14.18.48:429][506]BlueprintLog: New page: Compile MenuInstance
+[2023.04.26-14.18.48:453][506]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2023.04.26-14.18.48:932][533]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/MenuInstance5E1664E1456CD4ED1AC05D8CBD3DDDBF.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/MainMenuGUI/MenuInstance.uasset'
+[2023.04.26-14.18.48:959][533]AssetCheck: New page: Asset Save: MenuInstance
+[2023.04.26-14.18.48:959][533]LogContentValidation: Display: Validating Blueprint /Game/Assets/MainMenuGUI/MenuInstance.MenuInstance
+[2023.04.26-14.19.37:835][437]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Assets/MainMenuGUI/OptionsMenu_2.OptionsMenu_2
+[2023.04.26-14.19.41:546][590]LogSlate: Window 'OptionsMenu_2' being destroyed
+[2023.04.26-14.19.43:334][684]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Assets/MainMenuGUI/OptionsMenu.OptionsMenu
+[2023.04.26-14.19.47:324][879]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Assets/MainMenuGUI/PauseMenu.PauseMenu
+[2023.04.26-14.19.58:466][508]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Assets/MainMenuGUI/MainMenu.MainMenu
+[2023.04.26-14.20.00:962][626]LogSlate: Took 0.009895 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.04.26-14.24.37:536][955]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.26-14.24.37:536][955]LogEditorClassViewer: Warning: Class /Game/Assets/MainMenuGUI/MainMenu.PLACEHOLDER-CLASS__Credits_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.26-14.24.37:536][955]LogEditorClassViewer: Warning: Class /Game/Assets/MainMenuGUI/MainMenu.PLACEHOLDER-CLASS__OptionsMenu_C_1 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.26-14.24.37:536][955]LogEditorClassViewer: Warning: Class /Game/Assets/MainMenuGUI/Credits.PLACEHOLDER-CLASS__ScrollBoxText_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.26-14.24.37:536][955]LogEditorClassViewer: Warning: Class /Game/Assets/MainMenuGUI/Credits.PLACEHOLDER-CLASS__MainMenu_C_1 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.26-14.24.37:536][955]LogEditorClassViewer: Warning: Class /Game/Assets/MainMenuGUI/OptionsMenu.PLACEHOLDER-CLASS__MainMenu_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.26-14.24.37:536][955]LogEditorClassViewer: Warning: Class /Game/Assets/MainMenuGUI/OptionsMenu.PLACEHOLDER-CLASS__MenuInstance_C_1 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.26-14.25.06:556][955]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.04.26-14.25.06:575][955]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.04.26-14.25.06:627][955]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.04.26-14.25.11:514][242]LogContentBrowser: Attempting asset rename: NewBlueprint -> SaveGame
+[2023.04.26-14.25.11:525][242]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.04.26-14.25.13:274][337]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/MainMenuGUI/SaveGame.SaveGame
+[2023.04.26-14.25.14:870][402]BlueprintLog: New page: Compile SaveGame
+[2023.04.26-14.25.14:973][402]LogUObjectHash: Compacting FUObjectHashTables data took   7.19ms
+[2023.04.26-14.25.17:329][534]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/SaveGame86F606A440A520C0C6AA8A941E0077E7.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/MainMenuGUI/SaveGame.uasset'
+[2023.04.26-14.25.17:384][534]AssetCheck: New page: Asset Save: SaveGame
+[2023.04.26-14.25.17:384][534]LogContentValidation: Display: Validating Blueprint /Game/Assets/MainMenuGUI/SaveGame.SaveGame
+[2023.04.26-14.25.19:629][661]BlueprintLog: New page: Compile MainMenu
+[2023.04.26-14.25.19:691][661]LogUObjectHash: Compacting FUObjectHashTables data took   6.42ms
+[2023.04.26-14.25.21:004][730]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/MainMenuBE4055314A77995A4CAD7DA4317A2FF4.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/MainMenuGUI/MainMenu.uasset'
+[2023.04.26-14.25.21:051][730]AssetCheck: New page: Asset Save: MainMenu
+[2023.04.26-14.25.21:051][730]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/MainMenuGUI/MainMenu.MainMenu
+[2023.04.26-14.26.18:159][124]BlueprintLog: New page: Compile SaveGame
+[2023.04.26-14.26.18:215][124]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2023.04.26-14.26.18:763][153]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/SaveGame957ECAD844659ECF415188B9769A5697.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/MainMenuGUI/SaveGame.uasset'
+[2023.04.26-14.26.18:830][153]AssetCheck: New page: Asset Save: SaveGame
+[2023.04.26-14.26.18:830][153]LogContentValidation: Display: Validating Blueprint /Game/Assets/MainMenuGUI/SaveGame.SaveGame
+[2023.04.26-14.26.38:570][329]BlueprintLog: New page: Compile MenuInstance
+[2023.04.26-14.26.38:631][329]LogUObjectHash: Compacting FUObjectHashTables data took   5.78ms
+[2023.04.26-14.26.39:280][362]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/MenuInstance975AD2E544A2362982FC1E991E688D0C.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/MainMenuGUI/MenuInstance.uasset'
+[2023.04.26-14.26.39:339][362]AssetCheck: New page: Asset Save: MenuInstance
+[2023.04.26-14.26.39:340][362]LogContentValidation: Display: Validating Blueprint /Game/Assets/MainMenuGUI/MenuInstance.MenuInstance
+[2023.04.26-14.27.47:183][393]BlueprintLog: New page: Compile MenuInstance
+[2023.04.26-14.27.47:233][393]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2023.04.26-14.27.47:922][430]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/MenuInstance364108F9497756E55D892884EA2C3B2B.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/MainMenuGUI/MenuInstance.uasset'
+[2023.04.26-14.27.47:964][430]AssetCheck: New page: Asset Save: MenuInstance
+[2023.04.26-14.27.47:964][430]LogContentValidation: Display: Validating Blueprint /Game/Assets/MainMenuGUI/MenuInstance.MenuInstance
+[2023.04.26-14.28.35:249][228]BlueprintLog: New page: Compile SaveGame
+[2023.04.26-14.28.35:294][228]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2023.04.26-14.28.35:720][250]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/SaveGame45F766D04912F5854493C3A28D6927CE.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/MainMenuGUI/SaveGame.uasset'
+[2023.04.26-14.28.35:741][250]AssetCheck: New page: Asset Save: SaveGame
+[2023.04.26-14.28.35:741][250]LogContentValidation: Display: Validating Blueprint /Game/Assets/MainMenuGUI/SaveGame.SaveGame
+[2023.04.26-14.30.56:272][406]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2023.04.26-14.30.56:275][406]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Lab_Level' took 0.057
+[2023.04.26-14.30.56:276][406]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/MainMenuGUI/OptionsMenu] ([2] browsable assets)...
+[2023.04.26-14.30.56:276][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/MainMenuGUI/OptionsMenu]
+[2023.04.26-14.30.56:310][406]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/OptionsMenu_Auto1DFBCD4C849E6E32178D82A985D23A8B6.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Autosaves/Game/Assets/MainMenuGUI/OptionsMenu_Auto1.uasset'
+[2023.04.26-14.30.56:312][406]LogFileHelpers: Auto-saving content packages took 0.037
+[2023.04.26-14.32.07:240][ 81]LogContentBrowser: Attempting asset rename: SaveGame -> ProjectXSaveGame
+[2023.04.26-14.32.07:300][ 81]LogMetaData: Removing '/Game/Assets/MainMenuGUI/ProjectXSaveGame.SKEL_ProjectXSaveGame_C' ref from Metadata '/Game/Assets/MainMenuGUI/SaveGame.PackageMetaData'
+[2023.04.26-14.32.07:301][ 81]LogMetaData: Removing '/Game/Assets/MainMenuGUI/ProjectXSaveGame.ProjectXSaveGame_C' ref from Metadata '/Game/Assets/MainMenuGUI/SaveGame.PackageMetaData'
+[2023.04.26-14.32.07:380][ 81]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/ProjectXSaveGame33F3559C4B60196391697298F2C0412D.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/MainMenuGUI/ProjectXSaveGame.uasset'
+[2023.04.26-14.32.07:538][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2023.04.26-14.32.07:590][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2023.04.26-14.32.07:630][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.04.26-14.32.07:789][ 81]AssetCheck: New page: Asset Save: ProjectXSaveGame
+[2023.04.26-14.32.07:789][ 81]LogContentValidation: Display: Validating Blueprint /Game/Assets/MainMenuGUI/ProjectXSaveGame.ProjectXSaveGame
+[2023.04.26-14.33.20:634][486]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2023.04.26-14.33.27:629][486]LogSlate: Window 'Save Content' being destroyed
+[2023.04.26-14.33.27:697][486]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/MenuInstance0762B61C4369634B0B850D8E1394523E.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/MainMenuGUI/MenuInstance.uasset'
+[2023.04.26-14.33.27:729][486]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/OptionsMenuB4247EE74522A78A37F8F3B4E086475C.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/MainMenuGUI/OptionsMenu.uasset'
+[2023.04.26-14.33.27:860][486]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Opening_Screen.Opening_Screen
+[2023.04.26-14.33.27:860][486]Cmd: MAP LOAD FILE="../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Levels/Opening_Screen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.26-14.33.27:861][486]LightingResults: New page: Lighting Build
+[2023.04.26-14.33.27:861][486]LoadErrors: New page: Loading map: Opening_Screen.umap
+[2023.04.26-14.33.27:872][486]LogWorld: UWorld::CleanupWorld for Lab_Level, bSessionEnded=true, bCleanupResources=true
+[2023.04.26-14.33.27:874][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.26-14.33.27:875][486]MapCheck: New page: Map Check
+[2023.04.26-14.33.27:875][486]LightingResults: New page: Lighting Build
+[2023.04.26-14.33.27:917][486]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.26-14.33.27:940][486]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2023.04.26-14.33.27:940][486]LogAudio: Display: Audio Device (ID: 1) registered with world 'Opening_Screen'.
+[2023.04.26-14.33.27:982][486]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.26-14.33.27:982][486]LogAIModule: Creating AISystem for world Opening_Screen
+[2023.04.26-14.33.28:023][486]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2023.04.26-14.33.28:044][486]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.26-14.33.28:044][486]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.198ms to complete.
+[2023.04.26-14.33.28:044][486]LogFileHelpers: Loading map 'Opening_Screen' took 0.184
+[2023.04.26-14.33.28:085][486]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.26-14.33.28:085][486]LogContentValidation: Display: Validating Blueprint /Game/Assets/MainMenuGUI/MenuInstance.MenuInstance
+[2023.04.26-14.33.28:085][486]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/MainMenuGUI/OptionsMenu.OptionsMenu
+[2023.04.26-14.33.35:752][278]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.04.26-14.33.36:014][278]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Cutscene/CutsceneLevel.CutsceneLevel
+[2023.04.26-14.33.36:014][278]Cmd: MAP LOAD FILE="../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Cutscene/CutsceneLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.26-14.33.36:014][278]LightingResults: New page: Lighting Build
+[2023.04.26-14.33.36:014][278]LoadErrors: New page: Loading map: CutsceneLevel.umap
+[2023.04.26-14.33.36:016][278]LogWorld: UWorld::CleanupWorld for Opening_Screen, bSessionEnded=true, bCleanupResources=true
+[2023.04.26-14.33.36:016][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.26-14.33.36:016][278]MapCheck: New page: Map Check
+[2023.04.26-14.33.36:016][278]LightingResults: New page: Lighting Build
+[2023.04.26-14.33.36:053][278]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.26-14.33.36:059][278]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2023.04.26-14.33.36:060][278]LogAudio: Display: Audio Device (ID: 1) registered with world 'CutsceneLevel'.
+[2023.04.26-14.33.36:349][278]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.26-14.33.36:350][278]LogAIModule: Creating AISystem for world CutsceneLevel
+[2023.04.26-14.33.36:401][278]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2023.04.26-14.33.36:428][278]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.26-14.33.36:428][278]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.221ms to complete.
+[2023.04.26-14.33.36:428][278]LogFileHelpers: Loading map 'CutsceneLevel' took 0.415
+[2023.04.26-14.33.41:691][721]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Cutscene/CutsceneLevel.CutsceneLevel:PersistentLevel.CutsceneLevel
+[2023.04.26-14.34.10:893][836]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.04.26-14.34.10:919][836]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.26-14.35.30:436][451]BlueprintLog: New page: Compile CutsceneLevel
+[2023.04.26-14.35.30:448][451]LogBlueprint: Error: [AssetLog] C:\Users\bvelt\Desktop\DAGD 499\CapstoneProject\CapstoneProject_HJV\Content\Cutscene\CutsceneLevel.umap: [Compiler] The property associated with  Player Save  could not be found in '/Game/Cutscene/CutsceneLevel.CutsceneLevel_C'
+[2023.04.26-14.35.30:545][451]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2023.04.26-14.36.04:214][154]BlueprintLog: New page: Compile CutsceneLevel
+[2023.04.26-14.36.04:219][154]LogBlueprint: Error: [AssetLog] C:\Users\bvelt\Desktop\DAGD 499\CapstoneProject\CapstoneProject_HJV\Content\Cutscene\CutsceneLevel.umap: [Compiler] The property associated with  Player Save  could not be found in '/Game/Cutscene/CutsceneLevel.CutsceneLevel_C'
+[2023.04.26-14.36.04:299][154]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2023.04.26-14.36.04:914][207]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2023.04.26-14.36.04:998][207]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/CutsceneLevelFB9B25FE442458909A88FC972A17423E.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Cutscene/CutsceneLevel.umap'
+[2023.04.26-14.36.05:023][207]LogFileHelpers: Saving map 'CutsceneLevel' took 0.165
+[2023.04.26-14.36.05:042][207]AssetCheck: New page: Asset Save: CutsceneLevel
+[2023.04.26-14.36.05:042][207]LogContentValidation: Display: Validating World /Game/Cutscene/CutsceneLevel.CutsceneLevel
+[2023.04.26-14.36.40:861][500]LogEditorTransaction: Undo Delete current selection
+[2023.04.26-14.37.40:542][737]BlueprintLog: New page: Compile CutsceneLevel
+[2023.04.26-14.37.40:547][737]LogBlueprint: Error: [AssetLog] C:\Users\bvelt\Desktop\DAGD 499\CapstoneProject\CapstoneProject_HJV\Content\Cutscene\CutsceneLevel.umap: [Compiler] The property associated with  Player Save  could not be found in '/Game/Cutscene/CutsceneLevel.CutsceneLevel_C'
+[2023.04.26-14.37.40:636][737]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2023.04.26-14.37.42:013][877]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2023.04.26-14.37.42:105][877]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/CutsceneLevel5844225E47A9A55B71E8E1962CC86EAB.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Cutscene/CutsceneLevel.umap'
+[2023.04.26-14.37.42:125][877]LogFileHelpers: Saving map 'CutsceneLevel' took 0.161
+[2023.04.26-14.37.42:143][877]AssetCheck: New page: Asset Save: CutsceneLevel
+[2023.04.26-14.37.42:143][877]LogContentValidation: Display: Validating World /Game/Cutscene/CutsceneLevel.CutsceneLevel
+[2023.04.26-14.48.30:921][456]BlueprintLog: New page: Compile CutsceneLevel
+[2023.04.26-14.48.30:925][456]LogBlueprint: Error: [AssetLog] C:\Users\bvelt\Desktop\DAGD 499\CapstoneProject\CapstoneProject_HJV\Content\Cutscene\CutsceneLevel.umap: [Compiler] The property associated with  Player Save  could not be found in '/Game/Cutscene/CutsceneLevel.CutsceneLevel_C'
+[2023.04.26-14.48.31:025][456]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2023.04.26-14.48.31:535][496]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2023.04.26-14.48.31:619][496]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/CutsceneLevel57632B1346BCF228CB596B9306663C4F.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Cutscene/CutsceneLevel.umap'
+[2023.04.26-14.48.31:645][496]LogFileHelpers: Saving map 'CutsceneLevel' took 0.158
+[2023.04.26-14.48.31:667][496]AssetCheck: New page: Asset Save: CutsceneLevel
+[2023.04.26-14.48.31:667][496]LogContentValidation: Display: Validating World /Game/Cutscene/CutsceneLevel.CutsceneLevel
+[2023.04.26-14.52.42:237][107]BlueprintLog: New page: Compile MenuInstance
+[2023.04.26-14.52.42:328][107]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2023.04.26-14.52.42:805][147]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/MenuInstance24A44241430EF15E986589BC76777AB9.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/MainMenuGUI/MenuInstance.uasset'
+[2023.04.26-14.52.42:826][147]AssetCheck: New page: Asset Save: MenuInstance
+[2023.04.26-14.52.42:826][147]LogContentValidation: Display: Validating Blueprint /Game/Assets/MainMenuGUI/MenuInstance.MenuInstance
+[2023.04.26-14.52.50:093][877]BlueprintLog: New page: Compile CutsceneLevel
+[2023.04.26-14.52.50:196][877]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2023.04.26-14.52.50:953][929]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2023.04.26-14.52.51:035][929]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/CutsceneLevelB3B313464D791BAEDF4B1E8905AA206B.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Cutscene/CutsceneLevel.umap'
+[2023.04.26-14.52.51:056][929]LogFileHelpers: Saving map 'CutsceneLevel' took 0.156
+[2023.04.26-14.52.51:075][929]AssetCheck: New page: Asset Save: CutsceneLevel
+[2023.04.26-14.52.51:075][929]LogContentValidation: Display: Validating World /Game/Cutscene/CutsceneLevel.CutsceneLevel
+[2023.04.26-14.54.18:512][864]BlueprintLog: New page: Compile CutsceneLevel
+[2023.04.26-14.54.18:600][864]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2023.04.26-14.54.19:030][897]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2023.04.26-14.54.19:107][897]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/CutsceneLevelB87C7B854F0491D2BED57980D84F7212.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Cutscene/CutsceneLevel.umap'
+[2023.04.26-14.54.19:126][897]LogFileHelpers: Saving map 'CutsceneLevel' took 0.146
+[2023.04.26-14.54.19:147][897]AssetCheck: New page: Asset Save: CutsceneLevel
+[2023.04.26-14.54.19:147][897]LogContentValidation: Display: Validating World /Game/Cutscene/CutsceneLevel.CutsceneLevel
+[2023.04.26-14.59.58:221][771]BlueprintLog: New page: Compile MenuInstance
+[2023.04.26-14.59.58:298][771]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2023.04.26-14.59.58:744][803]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/MenuInstanceB5E856FB4C9FBB0904888387A21D2F9E.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/MainMenuGUI/MenuInstance.uasset'
+[2023.04.26-14.59.58:799][803]AssetCheck: New page: Asset Save: MenuInstance
+[2023.04.26-14.59.58:799][803]LogContentValidation: Display: Validating Blueprint /Game/Assets/MainMenuGUI/MenuInstance.MenuInstance
+[2023.04.26-15.00.26:425][487]BlueprintLog: New page: Compile MenuInstance
+[2023.04.26-15.00.26:496][487]LogUObjectHash: Compacting FUObjectHashTables data took   6.57ms
+[2023.04.26-15.00.27:022][520]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/MenuInstance397342744DA4453FEB01CA80C284C538.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/MainMenuGUI/MenuInstance.uasset'
+[2023.04.26-15.00.27:046][520]AssetCheck: New page: Asset Save: MenuInstance
+[2023.04.26-15.00.27:046][520]LogContentValidation: Display: Validating Blueprint /Game/Assets/MainMenuGUI/MenuInstance.MenuInstance
+[2023.04.26-15.00.43:464][ 60]BlueprintLog: New page: Compile CutsceneLevel
+[2023.04.26-15.00.43:559][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2023.04.26-15.00.44:049][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2023.04.26-15.00.44:130][ 99]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/CutsceneLevel0DFCC8264CAB43A5898135AFF47A4952.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Cutscene/CutsceneLevel.umap'
+[2023.04.26-15.00.44:161][ 99]LogFileHelpers: Saving map 'CutsceneLevel' took 0.161
+[2023.04.26-15.00.44:192][ 99]AssetCheck: New page: Asset Save: CutsceneLevel
+[2023.04.26-15.00.44:192][ 99]LogContentValidation: Display: Validating World /Game/Cutscene/CutsceneLevel.CutsceneLevel
+[2023.04.26-15.01.10:621][701]BlueprintLog: New page: Compile CutsceneLevel
+[2023.04.26-15.01.10:717][701]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2023.04.26-15.01.11:191][737]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2023.04.26-15.01.11:272][737]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/CutsceneLevel32A5C8044C1603A7A75A9891A11543D4.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Cutscene/CutsceneLevel.umap'
+[2023.04.26-15.01.11:293][737]LogFileHelpers: Saving map 'CutsceneLevel' took 0.150
+[2023.04.26-15.01.11:316][737]AssetCheck: New page: Asset Save: CutsceneLevel
+[2023.04.26-15.01.11:316][737]LogContentValidation: Display: Validating World /Game/Cutscene/CutsceneLevel.CutsceneLevel
+[2023.04.26-15.02.03:050][ 85]BlueprintLog: New page: Compile MainMenu
+[2023.04.26-15.02.03:104][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2023.04.26-15.02.03:720][139]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/MainMenuD8A79CD54F0AF0AFD1120FB0EE709829.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/MainMenuGUI/MainMenu.uasset'
+[2023.04.26-15.02.03:740][139]AssetCheck: New page: Asset Save: MainMenu
+[2023.04.26-15.02.03:740][139]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/MainMenuGUI/MainMenu.MainMenu
+[2023.04.26-15.03.55:675][308]BlueprintLog: New page: Compile MenuInstance
+[2023.04.26-15.03.55:750][308]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2023.04.26-15.03.56:223][345]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/MenuInstanceDE9B799B493715E9C09C1BB3763AB707.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/MainMenuGUI/MenuInstance.uasset'
+[2023.04.26-15.03.56:266][345]AssetCheck: New page: Asset Save: MenuInstance
+[2023.04.26-15.03.56:266][345]LogContentValidation: Display: Validating Blueprint /Game/Assets/MainMenuGUI/MenuInstance.MenuInstance
+[2023.04.26-15.04.43:861][726]BlueprintLog: New page: Compile MenuInstance
+[2023.04.26-15.04.43:921][726]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2023.04.26-15.04.44:404][764]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/MenuInstanceA6C060654F9A1037B2BE2DB2D40E1CDE.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/MainMenuGUI/MenuInstance.uasset'
+[2023.04.26-15.04.44:438][764]AssetCheck: New page: Asset Save: MenuInstance
+[2023.04.26-15.04.44:438][764]LogContentValidation: Display: Validating Blueprint /Game/Assets/MainMenuGUI/MenuInstance.MenuInstance
+[2023.04.26-15.05.13:109][563]BlueprintLog: New page: Compile MenuInstance
+[2023.04.26-15.05.13:178][563]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2023.04.26-15.05.13:634][592]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/MenuInstance65A7195841C5697B7942A1AA02107F2F.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/MainMenuGUI/MenuInstance.uasset'
+[2023.04.26-15.05.13:689][592]AssetCheck: New page: Asset Save: MenuInstance
+[2023.04.26-15.05.13:689][592]LogContentValidation: Display: Validating Blueprint /Game/Assets/MainMenuGUI/MenuInstance.MenuInstance
+[2023.04.26-15.05.55:193][988]BlueprintLog: New page: Compile MainMenu
+[2023.04.26-15.05.55:269][988]LogUObjectHash: Compacting FUObjectHashTables data took   6.08ms
+[2023.04.26-15.05.55:686][  8]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/MainMenu2056776846D1A739C5104095C7DC8891.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/MainMenuGUI/MainMenu.uasset'
+[2023.04.26-15.05.55:741][  8]AssetCheck: New page: Asset Save: MainMenu
+[2023.04.26-15.05.55:741][  8]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/MainMenuGUI/MainMenu.MainMenu
+[2023.04.26-15.06.34:149][219]BlueprintLog: New page: Compile MainMenu
+[2023.04.26-15.06.34:242][219]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2023.04.26-15.06.34:755][244]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/MainMenuF5320C354999CDB92F7C86AF27002AF6.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/MainMenuGUI/MainMenu.uasset'
+[2023.04.26-15.06.34:802][244]AssetCheck: New page: Asset Save: MainMenu
+[2023.04.26-15.06.34:802][244]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/MainMenuGUI/MainMenu.MainMenu
+[2023.04.26-15.07.31:878][650]BlueprintLog: New page: Compile MainMenu
+[2023.04.26-15.07.31:956][650]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2023.04.26-15.07.32:408][669]LogSavePackage: Moving '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/MainMenuEDDBE84D436A672D78412B8475658AC3.tmp' to '../../../../../../Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Content/Assets/MainMenuGUI/MainMenu.uasset'
+[2023.04.26-15.07.32:453][669]AssetCheck: New page: Asset Save: MainMenu
+[2023.04.26-15.07.32:453][669]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/MainMenuGUI/MainMenu.MainMenu
+[2023.04.26-15.07.42:038][211]LogTemp: Repeating last play command: Standalone Game
+[2023.04.26-15.07.42:107][211]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2023.04.26-15.08.36:113][584]LogTemp: Repeating last play command: Standalone Game
+[2023.04.26-15.08.36:174][584]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2023.04.26-15.09.40:399][259]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
