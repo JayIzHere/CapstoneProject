@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 04/26/23 19:13:11
 =======
 ﻿Log file open, 04/26/23 16:32:27
@@ -7,6 +8,9 @@
 =======
 ﻿Log file open, 04/26/23 19:13:11
 >>>>>>> Jaylen
+=======
+﻿Log file open, 04/26/23 19:13:11
+>>>>>>> Jay
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -19,6 +23,7 @@ LogInit: Display: Running engine for game: CapstoneProject_HJV
 LogPlatformFile: Not using cached read wrapper
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogTaskGraph: Started task graph with 5 named threads and 71 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.228360
 =======
@@ -29,6 +34,10 @@ LogStats: Stats thread started at 0.195680
 LogTaskGraph: Started task graph with 5 named threads and 71 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.228360
 >>>>>>> Jaylen
+=======
+LogTaskGraph: Started task graph with 5 named threads and 71 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.228360
+>>>>>>> Jay
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
 LogInit: Display: Loading text-based GConfig....
 LogPluginManager: Mounting plugin MeshPainting
@@ -49,6 +58,7 @@ LogPluginManager: Mounting plugin FacialAnimation
 LogPluginManager: Mounting plugin GeometryMode
 LogPluginManager: Mounting plugin OodleData
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 LogPluginManager: Mounting plugin AISupport
 LogPluginManager: Mounting plugin LightPropagationVolume
@@ -62,6 +72,8 @@ LogPluginManager: Mounting plugin GameplayTagsEditor
 >>>>>>> main
 =======
 >>>>>>> Jaylen
+=======
+>>>>>>> Jay
 LogPluginManager: Mounting plugin MacGraphicsSwitching
 LogPluginManager: Mounting plugin MaterialAnalyzer
 LogPluginManager: Mounting plugin PluginBrowser
@@ -71,8 +83,11 @@ LogPluginManager: Mounting plugin DatasmithContent
 LogPluginManager: Mounting plugin VariantManagerContent
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> Jaylen
+=======
+>>>>>>> Jay
 LogPluginManager: Mounting plugin AutomationUtils
 LogPluginManager: Mounting plugin BackChannel
 LogPluginManager: Mounting plugin AlembicImporter
@@ -94,6 +109,7 @@ LogPluginManager: Mounting plugin GeometryCache
 LogPluginManager: Mounting plugin PythonScriptPlugin
 LogPluginManager: Mounting plugin MagicLeap
 LogPluginManager: Mounting plugin MagicLeapLightEstimation
+<<<<<<< HEAD
 <<<<<<< HEAD
 LogPluginManager: Mounting plugin MagicLeapPassableWorld
 LogPluginManager: Mounting plugin MagicLeapMedia
@@ -144,13 +160,22 @@ LogPluginManager: Mounting plugin MagicLeapMedia
 LogPluginManager: Mounting plugin MLSDK
 LogPluginManager: Mounting plugin AvfMedia
 >>>>>>> Jaylen
+=======
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AvfMedia
+>>>>>>> Jay
 LogPluginManager: Mounting plugin ImgMedia
 LogPluginManager: Mounting plugin MediaCompositing
 LogPluginManager: Mounting plugin WmfMedia
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> Jaylen
+=======
+>>>>>>> Jay
 LogPluginManager: Mounting plugin UdpMessaging
 LogPluginManager: Mounting plugin CPathfinding
 LogPluginManager: Mounting plugin TcpMessaging
@@ -226,6 +251,7 @@ LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
 LogPluginManager: Mounting plugin ContentBrowserFileDataSource
 LogPluginManager: Mounting plugin ContentBrowserClassDataSource
 LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+<<<<<<< HEAD
 <<<<<<< HEAD
 LogPluginManager: Mounting plugin OnlineSubsystemIOS
 =======
@@ -303,6 +329,9 @@ LogPluginManager: Mounting plugin OculusVR
 =======
 LogPluginManager: Mounting plugin OnlineSubsystemIOS
 >>>>>>> Jaylen
+=======
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+>>>>>>> Jay
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin OculusVR
 LogInit: Using libcurl 7.55.1-DEV
@@ -335,6 +364,7 @@ LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
 LogInit: Net CL: 17155196
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogInit: OS: Windows 10 (Release 2009) (), CPU: 13th Gen Intel(R) Core(TM) i7-13700K, GPU: NVIDIA GeForce RTX 4090
 =======
 LogInit: OS: Windows 10 (Release 2009) (), CPU: 12th Gen Intel(R) Core(TM) i5-12500H, GPU: Intel(R) Iris(R) Xe Graphics
@@ -342,10 +372,14 @@ LogInit: OS: Windows 10 (Release 2009) (), CPU: 12th Gen Intel(R) Core(TM) i5-12
 =======
 LogInit: OS: Windows 10 (Release 2009) (), CPU: 13th Gen Intel(R) Core(TM) i7-13700K, GPU: NVIDIA GeForce RTX 4090
 >>>>>>> Jaylen
+=======
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 13th Gen Intel(R) Core(TM) i7-13700K, GPU: NVIDIA GeForce RTX 4090
+>>>>>>> Jay
 LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
 LogInit: Compiled with Visual C++: 19.24.28315.00
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.27
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 LogInit: Command Line:  /Game/Levels/Minimal_Default -game -PIEVIACONSOLE -Multiprocess "GameUserSettingsINI=D:/Project X - Official/UE4/CapstoneProject/CapstoneProject_HJV/Saved/Config/Windows/PIEGameUserSettings0.ini" -MultiprocessSaveConfig -forcepassthrough -messaging -SessionName="Play in Standalone Game" -windowed -WinX=0 -WinY=36 SAVEWINPOS=1 -ResX=1912 -ResY=1014
@@ -355,6 +389,9 @@ LogInit: Command Line:  /Game/Cutscene/CutsceneLevel -game -PIEVIACONSOLE -Multi
 =======
 LogInit: Command Line:  /Game/Levels/Minimal_Default -game -PIEVIACONSOLE -Multiprocess "GameUserSettingsINI=D:/Project X - Official/UE4/CapstoneProject/CapstoneProject_HJV/Saved/Config/Windows/PIEGameUserSettings0.ini" -MultiprocessSaveConfig -forcepassthrough -messaging -SessionName="Play in Standalone Game" -windowed -WinX=0 -WinY=36 SAVEWINPOS=1 -ResX=1912 -ResY=1014
 >>>>>>> Jaylen
+=======
+LogInit: Command Line:  /Game/Levels/Minimal_Default -game -PIEVIACONSOLE -Multiprocess "GameUserSettingsINI=D:/Project X - Official/UE4/CapstoneProject/CapstoneProject_HJV/Saved/Config/Windows/PIEGameUserSettings0.ini" -MultiprocessSaveConfig -forcepassthrough -messaging -SessionName="Play in Standalone Game" -windowed -WinX=0 -WinY=36 SAVEWINPOS=1 -ResX=1912 -ResY=1014
+>>>>>>> Jay
 LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
 LogInit: Allocator: TBB
 LogInit: Installed Engine Build: 1
@@ -391,6 +428,7 @@ LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4)
 LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Project X - Official/UE4/CapstoneProject/CapstoneProject_HJV/Saved/Config/Windows/Engine.ini]
 =======
 LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/bvelt/Desktop/DAGD 499/CapstoneProject/CapstoneProject_HJV/Saved/Config/Windows/Engine.ini]
@@ -398,6 +436,9 @@ LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings
 =======
 LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Project X - Official/UE4/CapstoneProject/CapstoneProject_HJV/Saved/Config/Windows/Engine.ini]
 >>>>>>> Jaylen
+=======
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Project X - Official/UE4/CapstoneProject/CapstoneProject_HJV/Saved/Config/Windows/Engine.ini]
+>>>>>>> Jay
 LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
 LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
 LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
@@ -417,8 +458,11 @@ LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> Jaylen
+=======
+>>>>>>> Jay
 [2023.04.26-23.13.11:701][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 [2023.04.26-23.13.11:701][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.04.26-23.13.11:701][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Project X - Official/UE4/CapstoneProject/CapstoneProject_HJV/Saved/Config/Windows/Engine.ini]
@@ -1218,6 +1262,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.04.26-23.13.41:838][692]LogD3D11RHI: CleanupD3DDevice
 [2023.04.26-23.13.41:840][692]LogExit: Exiting.
 [2023.04.26-23.13.41:851][692]Log file closed, 04/26/23 19:13:41
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 [2023.04.26-20.32.27:960][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
@@ -2028,3 +2073,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 >>>>>>> main
 =======
 >>>>>>> Jaylen
+=======
+>>>>>>> Jay
